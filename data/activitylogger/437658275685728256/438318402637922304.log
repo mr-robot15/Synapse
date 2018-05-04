@@ -1,0 +1,111 @@
+2018-04-24 13:00:08 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !help
+2018-04-24 13:00:08 #bot @MEE6#4876: 
+2018-04-24 13:00:09 #bot @MEE6#4876 edited message from 2018-04-24 13:00:08 () to read: 
+2018-04-24 13:00:08 #bot @MEE6#4876: 
+2018-04-24 13:00:09 #bot @MEE6#4876 edited message from 2018-04-24 13:00:08 () to read: 
+2018-04-24 13:00:09 #bot @Synapse#0692: Check your DM, @ᴰᴿˢ | ΔCΣ♕! I have sent something for you :wink:
+2018-04-24 13:00:49 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !autorole
+2018-04-24 13:00:49 #bot @Synapse#0692: ```\n!autorole\n\nChange settings for autorole\n\nRequires the manage roles permission\n\nCommands:\n  role      Set role for autorole to assign.\n  toggle    Enables/Disables autorole\n  agreement Set the channel and message that will be used for accepting the r...\n\nType !autorole command for more info on a command.\nYou can also type !autorole category for more info on a category.\n```
+2018-04-24 13:00:49 #bot @Synapse#0692: ```Current autorole state: False```
+2018-04-24 13:01:13 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !toggle
+2018-04-25 04:36:52 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !autorole toggle enable
+2018-04-25 04:36:52 #bot @Synapse#0692: You haven't set a role to give to new users! Use `!autorole role "role"` to set it!
+2018-04-25 04:37:10 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !autorole role MEMBER
+2018-04-25 04:37:10 #bot @Synapse#0692: ```\n!autorole role <role>\n\nSet role for autorole to assign.\n\nUse quotation marks around the role if it contains spaces.\n\n```
+2018-04-25 04:37:27 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !autorole role <MEMBER>
+2018-04-25 04:37:27 #bot @Synapse#0692: ```\n!autorole role <role>\n\nSet role for autorole to assign.\n\nUse quotation marks around the role if it contains spaces.\n\n```
+2018-04-25 04:43:55 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !autorole MEMBER
+2018-04-25 04:43:55 #bot @Synapse#0692: ```\n!autorole\n\nChange settings for autorole\n\nRequires the manage roles permission\n\nCommands:\n  role      Set role for autorole to assign.\n  agreement Set the channel and message that will be used for accepting the r...\n  toggle    Enables/Disables autorole\n\nType !autorole command for more info on a command.\nYou can also type !autorole category for more info on a category.\n```
+2018-04-25 04:43:55 #bot @Synapse#0692: ```Current autorole state: False```
+2018-04-25 04:44:19 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !autorole role ?MEMBER?
+2018-04-25 04:44:19 #bot @Synapse#0692: ```\n!autorole role <role>\n\nSet role for autorole to assign.\n\nUse quotation marks around the role if it contains spaces.\n\n```
+2018-04-25 04:44:55 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !autorole role "MEMBER"
+2018-04-25 04:44:55 #bot @Synapse#0692: ```\n!autorole role <role>\n\nSet role for autorole to assign.\n\nUse quotation marks around the role if it contains spaces.\n\n```
+2018-04-25 04:45:08 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !autorole role MEMBER
+2018-04-25 04:45:08 #bot @Synapse#0692: ```\n!autorole role <role>\n\nSet role for autorole to assign.\n\nUse quotation marks around the role if it contains spaces.\n\n```
+2018-04-25 04:45:16 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !autorole role MEMBER
+2018-04-25 04:45:16 #bot @Synapse#0692: ```\n!autorole role <role>\n\nSet role for autorole to assign.\n\nUse quotation marks around the role if it contains spaces.\n\n```
+2018-04-25 04:45:25 #bot @ᴰᴿˢ | ΔCΣ♕#9623: MEMBER\n\
+2018-04-25 04:45:28 #bot @ᴰᴿˢ | ΔCΣ♕#9623: MEMBER
+2018-04-25 04:46:27 #bot @ᴰᴿˢ | ΔCΣ♕#9623: *multicolor 3 KING
+2018-04-25 04:46:46 #bot @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`
+2018-04-25 04:51:38 #bot @ᴰᴿˢ | ΔCΣ♕#9623: *multicolor 3 KING
+2018-04-25 04:52:06 #bot @ᴰᴿˢ | ΔCΣ♕#9623: *multicolor 1 KING
+2018-04-25 04:53:06 #bot @ᴰᴿˢ | ΔCΣ♕#9623: yeyaa
+2018-04-25 04:53:29 #bot @ᴰᴿˢ | ΔCΣ♕#9623: -antispam 6 ban
+2018-04-25 04:53:45 #bot @ᴰᴿˢ | ΔCΣ♕#9623: .antispam 6 ban
+2018-04-25 04:53:45 #bot @MedalBot#1237: Please try the following config usage(s):\n\n``.antispam true``\n``.antispam false``
+2018-04-25 04:53:48 #bot @Synapse#0692: 
+2018-04-25 04:53:48 #bot @Synapse#0692 edited message from 2018-04-25 04:53:48 () to read: 
+2018-04-25 04:53:49 #bot @Nadeko#6685: 
+2018-04-25 04:53:49 #bot @Nadeko#6685 edited message from 2018-04-25 04:53:49 () to read: 
+2018-04-25 05:54:01 #bot @ᴰᴿˢ | ΔCΣ♕#9623: *multicolor 2 『ΣƓ』şqùάđ
+2018-04-25 05:56:11 #bot @ᴰᴿˢ | ΔCΣ♕#9623: *multicolor 2 ADMIN
+2018-04-25 05:56:22 #bot @ᴰᴿˢ | ΔCΣ♕#9623: *multicolor 3 『ΣƓ』şqùάđ
+2018-04-25 05:56:38 #bot @ᴰᴿˢ | ΔCΣ♕#9623: *multicolor 4 BOT
+2018-04-25 06:16:00 #bot @dashg#2294: ;;play martis
+2018-04-25 06:16:00 #bot @FredBoat♪♪#7284: Searching YouTube for `martis`...
+2018-04-25 06:16:01 #bot @FredBoat♪♪#7284 edited message from 2018-04-25 06:16:00 (Searching YouTube for `martis`...) to read: **Please select a track with the `;;play 1-5` command:**\n**1:** This Hero is Monster!! - Top 1 Global Martis by 69Savage - Mobile Legends (10:05)\n**2:** LEARN HOW TO PLAY MARTIS - UNDERSTAND HOW MARTIS SKILLS WORK - MARTIS GUIDE (06:38)\n**3:** MARTIS IS THE BEST FIGHTER TO PICK RIGHT NOW (13:01)\n**4:** MARTIS 100% Best Fighter? - Top Global Martis by IDNS ƒrameʑy\` - Mobile Legends: Bang Bang (18:26)\n**5:** Epic Savage with 2 Maniac Martis by |XÞ| ●υитα● Top Global Martis \~ Mobile Legends (14:56)
+2018-04-25 06:16:20 #bot @dashg#2294: ;;play let me go
+2018-04-25 06:16:20 #bot @FredBoat♪♪#7284: Searching YouTube for `let me go`...
+2018-04-25 06:16:20 #bot @FredBoat♪♪#7284 edited message from 2018-04-25 06:16:20 (Searching YouTube for `let me go`...) to read: **Please select a track with the `;;play 1-5` command:**\n**1:** Hailee Steinfeld, Alesso - Let Me Go ft. Florida Georgia Line, WATT (03:03)\n**2:** Hailee Steinfeld, Alesso - Let Me Go (Personal Collection) ft. Florida Georgia Line, WATT (02:57)\n**3:** Hailee Steinfeld & Alesso - Let Me Go (Lyrics / Lyric Video) ft Florida Georgia Line & watt (02:55)\n**4:** Hailee Steinfeld, Alesso - Let Me Go (Lyric Video) ft. Florida Georgia Line, WATT (02:55)\n**5:** Avril Lavigne - Let Me Go ft. Chad Kroeger (05:06)
+2018-04-25 06:16:20 #bot @FredBoat♪♪#7284 deleted message from 2018-04-25 06:16:00 (**Please select a track with the `;;play 1-5` command:**\n**1:** This Hero is Monster!! - Top 1 Global Martis by 69Savage - Mobile Legends (10:05)\n**2:** LEARN HOW TO PLAY MARTIS - UNDERSTAND HOW MARTIS SKILLS WORK - MARTIS GUIDE (06:38)\n**3:** MARTIS IS THE BEST FIGHTER TO PICK RIGHT NOW (13:01)\n**4:** MARTIS 100% Best Fighter? - Top Global Martis by IDNS ƒrameʑy\` - Mobile Legends: Bang Bang (18:26)\n**5:** Epic Savage with 2 Maniac Martis by |XÞ| ●υитα● Top Global Martis \~ Mobile Legends (14:56))
+2018-04-25 06:16:46 #bot @FredBoat♪♪#7284 deleted message from 2018-04-25 06:16:20 (**Please select a track with the `;;play 1-5` command:**\n**1:** Hailee Steinfeld, Alesso - Let Me Go ft. Florida Georgia Line, WATT (03:03)\n**2:** Hailee Steinfeld, Alesso - Let Me Go (Personal Collection) ft. Florida Georgia Line, WATT (02:57)\n**3:** Hailee Steinfeld & Alesso - Let Me Go (Lyrics / Lyric Video) ft Florida Georgia Line & watt (02:55)\n**4:** Hailee Steinfeld, Alesso - Let Me Go (Lyric Video) ft. Florida Georgia Line, WATT (02:55)\n**5:** Avril Lavigne - Let Me Go ft. Chad Kroeger (05:06))
+2018-04-25 06:25:44 #bot @SayaManusiaOm#3181: ;;play music
+2018-04-25 06:25:44 #bot @FredBoat♪♪#7284: Searching YouTube for `music`...
+2018-04-25 06:25:44 #bot @FredBoat♪♪#7284 edited message from 2018-04-25 06:25:44 (Searching YouTube for `music`...) to read: **Please select a track with the `;;play 1-5` command:**\n**1:** El Chombo - Dame Tu Cosita (Official Video) [Ultra Music] (02:33)\n**2:** Lil Pump - "ESSKEETIT" (Official Music Video) (03:03)\n**3:** Bebe Rexha - Meant to Be (feat. Florida Georgia Line) [Official Music Video] (02:58)\n**4:** Drake - God's Plan (05:57)\n**5:** Ed Sheeran - Perfect (Official Music Video) (04:40)
+2018-04-25 06:26:10 #bot @SayaManusiaOm#3181: drake
+2018-04-25 06:26:22 #bot @ᴰᴿˢ | ΔCΣ♕#9623: ;;play 4
+2018-04-25 06:26:22 #bot @FredBoat♪♪#7284: You must first be given a selection to choose from.
+2018-04-25 06:26:28 #bot @ᴰᴿˢ | ΔCΣ♕#9623: ketik itu
+2018-04-25 06:26:40 #bot @SayaManusiaOm#3181: ;;play 4
+2018-04-25 06:26:41 #bot @FredBoat♪♪#7284 edited message from 2018-04-25 06:25:44 (**Please select a track with the `;;play 1-5` command:**\n**1:** El Chombo - Dame Tu Cosita (Official Video) [Ultra Music] (02:33)\n**2:** Lil Pump - "ESSKEETIT" (Official Music Video) (03:03)\n**3:** Bebe Rexha - Meant to Be (feat. Florida Georgia Line) [Official Music Video] (02:58)\n**4:** Drake - God's Plan (05:57)\n**5:** Ed Sheeran - Perfect (Official Music Video) (04:40)) to read: Song **#4** has been selected: **Drake - God's Plan** (05:57)
+2018-04-25 06:26:42 #bot @Tatsumaki#8792: 🆙  |  **SayaManusiaOm leveled up!** (attachment url(s): https://cdn.discordapp.com/attachments/438318402637922304/438586633831448576/levelup.png)
+2018-04-25 06:26:51 #bot @SayaManusiaOm#3181: yay
+2018-04-25 06:27:24 #bot @SayaManusiaOm#3181: drake
+2018-04-25 06:27:37 #bot @SayaManusiaOm#3181: ketik apa ni
+2018-04-25 06:27:44 #bot @ᴰᴿˢ | ΔCΣ♕#9623: gada suara?
+2018-04-25 06:27:51 #bot @SayaManusiaOm#3181: ya
+2018-04-25 06:28:13 #bot @ᴰᴿˢ | ΔCΣ♕#9623: coba ketik ;;play gods plan
+2018-04-25 06:28:22 #bot @ᴰᴿˢ | ΔCΣ♕#9623: trus ketik ;;play 1
+2018-04-25 06:28:29 #bot @SayaManusiaOm#3181: ;; play 1
+2018-04-25 06:28:29 #bot @FredBoat♪♪#7284: You must first be given a selection to choose from.
+2018-04-25 06:28:45 #bot @SayaManusiaOm#3181: udah
+2018-04-25 06:28:45 #bot @ᴰᴿˢ | ΔCΣ♕#9623: ketik ;;play gods plan dulu
+2018-04-25 06:29:11 #bot @SayaManusiaOm#3181: ;;play gods plan
+2018-04-25 06:29:11 #bot @FredBoat♪♪#7284: Searching YouTube for `gods plan`...
+2018-04-25 06:29:11 #bot @FredBoat♪♪#7284 edited message from 2018-04-25 06:29:11 (Searching YouTube for `gods plan`...) to read: **Please select a track with the `;;play 1-5` command:**\n**1:** Drake - God's Plan (05:57)\n**2:** God's Plan (03:20)\n**3:** Dad's Plan (God's Plan Parody) #PREEXUMSEASON (03:07)\n**4:** God's Plan (03:20)\n**5:** Drake - God's Plan (Lyrics) (03:20)
+2018-04-25 06:29:19 #bot @ᴰᴿˢ | ΔCΣ♕#9623: trus ketik ;;play 1
+2018-04-25 06:29:31 #bot @SayaManusiaOm#3181: ;;play 1
+2018-04-25 06:29:31 #bot @FredBoat♪♪#7284 edited message from 2018-04-25 06:29:11 (**Please select a track with the `;;play 1-5` command:**\n**1:** Drake - God's Plan (05:57)\n**2:** God's Plan (03:20)\n**3:** Dad's Plan (God's Plan Parody) #PREEXUMSEASON (03:07)\n**4:** God's Plan (03:20)\n**5:** Drake - God's Plan (Lyrics) (03:20)) to read: Song **#1** has been selected: **Drake - God's Plan** (05:57)
+2018-04-25 06:30:03 #bot @ᴰᴿˢ | ΔCΣ♕#9623: coba ulang
+2018-04-25 06:30:35 #bot @SayaManusiaOm#3181: ;;play gods plan
+2018-04-25 06:30:35 #bot @MEE6#4876: GG @SayaManusiaOm, you just advanced to level 1!
+2018-04-25 06:30:35 #bot @FredBoat♪♪#7284: Searching YouTube for `gods plan`...
+2018-04-25 06:30:36 #bot @FredBoat♪♪#7284 edited message from 2018-04-25 06:30:35 (Searching YouTube for `gods plan`...) to read: **Please select a track with the `;;play 1-5` command:**\n**1:** Drake - God's Plan (05:57)\n**2:** God's Plan (03:20)\n**3:** Dad's Plan (God's Plan Parody) #PREEXUMSEASON (03:07)\n**4:** God's Plan (03:20)\n**5:** Drake - God's Plan (Lyrics) (03:20)
+2018-04-25 06:30:52 #bot @SayaManusiaOm#3181: ;; plays stop
+2018-04-25 06:31:03 #bot @SayaManusiaOm#3181: ;;play stop
+2018-04-25 06:31:03 #bot @FredBoat♪♪#7284: Searching YouTube for `stop`...
+2018-04-25 06:31:04 #bot @FredBoat♪♪#7284 edited message from 2018-04-25 06:31:03 (Searching YouTube for `stop`...) to read: **Please select a track with the `;;play 1-5` command:**\n**1:** CAN'T STOP THE FEELING! (From DreamWorks Animation's "Trolls") (Official Video) (04:46)\n**2:** Spice Girls - Stop (03:40)\n**3:** "SEAGULLS! (Stop It Now)" -- A Bad Lip Reading of The Empire Strikes Back (03:57)\n**4:** Stop - Kamera e fshehtë: Hoxha mashtrues, që ngacmon seksualisht gratë! (27 mars 2018) (14:40)\n**5:** Sam Brown - Stop (Official Music Video) (04:57)
+2018-04-25 06:31:04 #bot @FredBoat♪♪#7284 deleted message from 2018-04-25 06:30:35 (**Please select a track with the `;;play 1-5` command:**\n**1:** Drake - God's Plan (05:57)\n**2:** God's Plan (03:20)\n**3:** Dad's Plan (God's Plan Parody) #PREEXUMSEASON (03:07)\n**4:** God's Plan (03:20)\n**5:** Drake - God's Plan (Lyrics) (03:20))
+2018-04-25 06:31:10 #bot @SayaManusiaOm#3181: ;;stop
+2018-04-25 06:31:10 #bot @FredBoat♪♪#7284: The queue has been emptied, `2` tracks have been removed.
+2018-04-25 06:33:00 #bot @FredBoat♪♪#7284 deleted message from 2018-04-25 06:31:03 (**Please select a track with the `;;play 1-5` command:**\n**1:** CAN'T STOP THE FEELING! (From DreamWorks Animation's "Trolls") (Official Video) (04:46)\n**2:** Spice Girls - Stop (03:40)\n**3:** "SEAGULLS! (Stop It Now)" -- A Bad Lip Reading of The Empire Strikes Back (03:57)\n**4:** Stop - Kamera e fshehtë: Hoxha mashtrues, që ngacmon seksualisht gratë! (27 mars 2018) (14:40)\n**5:** Sam Brown - Stop (Official Music Video) (04:57))
+2018-04-25 06:45:31 #bot @ᴰᴿˢ | ΔCΣ♕#9623: *multicolor 1 ADMIN
+2018-04-25 06:46:00 #bot @SayaManusiaOm#3181: ;;stop
+2018-04-25 06:46:00 #bot @FredBoat♪♪#7284: The queue has been emptied, `1` track has been removed.
+2018-04-25 06:46:57 #bot @ᴰᴿˢ | ΔCΣ♕#9623: *multicolor 1 SPECIAL MEMBERS
+2018-04-25 06:47:03 #bot @Ghostplay R2#1298: 
+2018-04-25 06:47:03 #bot @Ghostplay R2#1298 edited message from 2018-04-25 06:47:03 () to read: 
+2018-04-25 06:47:35 #bot @ᴰᴿˢ | ΔCΣ♕#9623: *multicolor 1 SPECIAL?MEMBERS
+2018-04-25 06:47:48 #bot @Ghostplay R2#1298: 
+2018-04-25 06:47:48 #bot @Ghostplay R2#1298 edited message from 2018-04-25 06:47:48 () to read: 
+2018-04-25 06:51:06 #bot @ᴰᴿˢ | ΔCΣ♕#9623: *multicolor 1 ADMIN
+2018-04-25 06:52:06 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !stop
+2018-04-25 06:52:06 #bot @Synapse#0692: Stopping...
+2018-04-25 06:52:14 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !extit
+2018-04-25 06:52:17 #bot @ᴰᴿˢ | ΔCΣ♕#9623: !exit
+2018-04-25 14:53:02 #bot @KurokuSENPAI#2753: *multicolor 1 MEMBER
+2018-04-25 14:53:11 #bot @KurokuSENPAI#2753 deleted message from 2018-04-25 14:53:02 (*multicolor 1 MEMBER)
+2018-04-25 14:53:17 #bot @Ghostplay R2#1298: 
+2018-04-25 14:53:17 #bot @Ghostplay R2#1298 edited message from 2018-04-25 14:53:17 () to read: 

@@ -1,0 +1,51 @@
+{
+    "245581810724110338" : {
+        "ADMIN_ROLE" : "mods",
+        "MOD_ROLE" : "moderator",
+        "PREFIXES" : []
+    },
+    "419090155098341388" : {
+        "ADMIN_ROLE" : "F\u00fchrer",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : []
+    },
+    "426746764956008448" : {
+        "ADMIN_ROLE" : "fuck",
+        "MOD_ROLE" : "moderator",
+        "PREFIXES" : []
+    },
+    "427830207265767424" : {
+        "ADMIN_ROLE" : "Owner",
+        "MOD_ROLE" : "Developer",
+        "PREFIXES" : []
+    },
+    "436119908443750400" : {
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "moderator",
+        "PREFIXES" : []
+    },
+    "436843412982071296" : {
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "moderator",
+        "PREFIXES" : [
+            "/"
+        ]
+    },
+    "438379038994857985" : {
+        "ADMIN_ROLE" : "Administrator",
+        "MOD_ROLE" : "Moderator",
+        "PREFIXES" : []
+    },
+    "EMAIL" : null,
+    "OWNER" : "426234414255570959",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "!"
+    ],
+    "TOKEN" : "NDM1NTM4NjIyMjkzMzQ0MjY2.DbaafA.O88WP3mifOliKzrTjvmXpTCojE8",
+    "default" : {
+        "ADMIN_ROLE" : "mods",
+        "MOD_ROLE" : "moderator",
+        "PREFIXES" : []
+    }
+}

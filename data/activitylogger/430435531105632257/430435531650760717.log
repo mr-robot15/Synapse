@@ -1,0 +1,23 @@
+2018-04-20 03:08:26 #general @Synapse#0692: 
+2018-04-20 03:34:37 #general @JustCallMeTAK3#8828: .help
+2018-04-20 03:34:53 #general @JustCallMeTAK3#8828: !help
+2018-04-20 03:34:53 #general @Rythm#3722: ✅ **Check <https://rythmbot.co/features#list> for a list of commands**
+2018-04-20 03:34:55 #general @Synapse#0692: Check your DM, @JustCallMeTAK3! I have sent something for you :wink:
+2018-04-20 03:37:45 #general @JustCallMeTAK3#8828: !welcomeset #general
+2018-04-20 03:37:46 #general @Synapse#0692: `Error in command 'welcomeset'. Check your console or logs for details.`
+2018-04-20 03:38:12 #general @JustCallMeTAK3#8828: !welcome
+2018-04-20 03:38:19 #general @JustCallMeTAK3#8828: !welcome #general
+2018-04-20 03:39:07 #general @JustCallMeTAK3#8828: !role set @​everyone
+2018-04-20 03:39:07 #general @Synapse#0692: ```\n![customrole|role|cr]\n\nMods can add roles, users can apply or relieve roles. Roles created with this cog have no permissions, it only functions for fun.\n\nCommands:\n  list    List all available roles\n  relieve Relieve a role\n  add     Add a role\n  remove  Remove role\n  apply   Apply a role\n\nType !role command for more info on a command.\nYou can also type !role category for more info on a category.\n```
+2018-04-20 03:48:28 #general @JustCallMeTAK3#8828: !role set @BOTS
+2018-04-20 03:48:28 #general @Synapse#0692: ```\n![customrole|role|cr]\n\nMods can add roles, users can apply or relieve roles. Roles created with this cog have no permissions, it only functions for fun.\n\nCommands:\n  list    List all available roles\n  relieve Relieve a role\n  add     Add a role\n  remove  Remove role\n  apply   Apply a role\n\nType !role command for more info on a command.\nYou can also type !role category for more info on a category.\n```
+2018-04-20 03:48:37 #general @JustCallMeTAK3#8828: !role list
+2018-04-20 03:48:37 #general @Synapse#0692: ```All available roles on Tak3 Stuff\n\n```
+2018-04-20 03:48:48 #general @JustCallMeTAK3#8828: !role add @BOTS
+2018-04-20 03:48:49 #general @Synapse#0692: ```\n!customrole [add|new] <color> <name>\n\nAdd a role\nExample: role add ff0000 Red Role\n\n```
+2018-04-20 03:49:21 #general @JustCallMeTAK3#8828: !customrole new ff0000 red roles
+2018-04-20 03:49:22 #general @Synapse#0692: Role created
+2018-04-20 03:49:31 #general @JustCallMeTAK3#8828: !role list
+2018-04-20 03:49:31 #general @Synapse#0692: ```All available roles on Tak3 Stuff\n\nred roles\n```
+2018-04-20 03:49:40 #general @JustCallMeTAK3#8828: !role set red roles
+2018-04-20 03:49:40 #general @Synapse#0692: ```\n![customrole|role|cr]\n\nMods can add roles, users can apply or relieve roles. Roles created with this cog have no permissions, it only functions for fun.\n\nCommands:\n  list    List all available roles\n  relieve Relieve a role\n  add     Add a role\n  remove  Remove role\n  apply   Apply a role\n\nType !role command for more info on a command.\nYou can also type !role category for more info on a category.\n```

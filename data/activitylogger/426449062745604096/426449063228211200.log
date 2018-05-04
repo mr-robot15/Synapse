@@ -1,0 +1,26 @@
+2018-04-22 00:16:37 #geral-pt-br @σvєrchσck#9884: Oi
+2018-04-22 00:18:28 #geral-pt-br @iINightKillerIi#0203: Oi
+2018-04-22 01:05:56 #geral-pt-br @iINightKillerIi#0203: u!setup
+2018-04-22 01:05:56 #geral-pt-br @UltimateGDBot#2232: **__Bot settings for this server:__**\n```\nchannel_awarded_levels: #star-rated-levels\nchannel_bot_announcements: #welcome-room (default)\nchannel_gd_moderators: N/A\nchannel_timely_levels: N/A\nrole_awarded_levels: N/A\nrole_gd_moderators: N/A\nrole_timely_levels: N/A\ntag_everyone_on_bot_announcement: OFF\n```\n\nRun `u!help setup` for details
+2018-04-22 01:13:11 #geral-pt-br @iINightKillerIi#0203: u!setup set  channel_timely_levels #weekly-demons
+2018-04-22 01:13:11 #geral-pt-br @UltimateGDBot#2232: :negative_squared_cross_mark: "" is not a setting name! Please run u!setup without arguments to see the list of settings
+2018-04-22 01:13:23 #geral-pt-br @iINightKillerIi#0203: u!setup
+2018-04-22 01:13:23 #geral-pt-br @UltimateGDBot#2232: **__Bot settings for this server:__**\n```\nchannel_awarded_levels: #star-rated-levels\nchannel_bot_announcements: #welcome-room (default)\nchannel_gd_moderators: N/A\nchannel_timely_levels: N/A\nrole_awarded_levels: N/A\nrole_gd_moderators: N/A\nrole_timely_levels: N/A\ntag_everyone_on_bot_announcement: OFF\n```\n\nRun `u!help setup` for details
+2018-04-22 01:13:40 #geral-pt-br @iINightKillerIi#0203: u!help setup
+2018-04-22 01:13:40 #geral-pt-br @UltimateGDBot#2232: **__Syntax:__**\n*Note: text between `[]` means **optional** argument(s). Text between `<>` is supposed to be replaced by what the text says. Words separated by `|` means that you may type only one of them.*\n`u!setup`\n`u!setup set <setting_name> <new_value>`\n`u!setup info|reset <setting_name>`\n\n**__Description__**\nWithout arguments, displays the current bot settings for this server.\nThe `set` keyword allows you to assign a new value to a field\nThe `info` keyword displays detailed info on a specific field\nThe `reset` keyword resets a field to its default value\n\n**__Usage examples:__**\n```u!setup\nu!setup set channel_awarded_levels #bot-announcements\nu!setup info role_awarded_levels\nu!setup reset channel_bot_announcements\n```
+2018-04-22 01:14:50 #geral-pt-br @iINightKillerIi#0203: u!setup channel_timely_levels #weekly-demons
+2018-04-22 01:14:50 #geral-pt-br @UltimateGDBot#2232: :negative_squared_cross_mark: Wrong syntax! Please try again.\n`u!setup`\n`u!setup set <setting_name> <new_value>`\n`u!setup info|reset <setting_name>`\n\nRun `u!help setup` if you have any trouble with this command.
+2018-04-22 01:14:55 #geral-pt-br @iINightKillerIi#0203: lol
+2018-04-22 01:15:50 #geral-pt-br @iINightKillerIi#0203: u!setup set cannel_timely_levels #weekly-demons
+2018-04-22 01:15:51 #geral-pt-br @UltimateGDBot#2232: :negative_squared_cross_mark: "cannel_timely_levels" is not a setting name! Please run u!setup without arguments to see the list of settings
+2018-04-22 01:15:57 #geral-pt-br @iINightKillerIi#0203: mds
+2018-04-22 01:16:21 #geral-pt-br @iINightKillerIi#0203: u!setup set channel_timely_levels #weekly-demons
+2018-04-22 01:16:21 #geral-pt-br @UltimateGDBot#2232: :white_check_mark: Settings updated!
+2018-04-22 01:16:24 #geral-pt-br @iINightKillerIi#0203: finalmente
+2018-04-22 01:20:11 #geral-pt-br @iINightKillerIi#0203: u!setup
+2018-04-22 01:20:11 #geral-pt-br @UltimateGDBot#2232: **__Bot settings for this server:__**\n```\nchannel_awarded_levels: #star-rated-levels\nchannel_bot_announcements: #welcome-room (default)\nchannel_gd_moderators: N/A\nchannel_timely_levels: #daily-and-weekly\nrole_awarded_levels: N/A\nrole_gd_moderators: N/A\nrole_timely_levels: N/A\ntag_everyone_on_bot_announcement: OFF\n```\n\nRun `u!help setup` for details
+2018-04-22 23:19:59 #geral-pt-br @Tevo45#6563: Tive uma ideia de como decorar minha parte
+2018-04-22 23:19:59 #geral-pt-br @Tatsumaki#8792: 🆙  |  **Tevo45 leveled up!** (attachment url(s): https://cdn.discordapp.com/attachments/426449063228211200/437754473851387908/levelup.png)
+2018-04-22 23:22:05 #geral-pt-br @Tevo45#6563: Vou tentar usar aqueles 2 blocos de pedra da 2.1, com e sem blending (blending = cristal), e nos blocos que tem 2 partes vão pulsar inversamente entre si, alem do BG ser um custom bg em parallax como se fosse dentro de uma caverna
+2018-04-22 23:22:12 #geral-pt-br @Tevo45#6563: Ta confuso mas meh
+2018-04-23 21:26:09 #geral-pt-br @iINightKillerIi#0203: ok

@@ -1,0 +1,972 @@
+2018-04-23 14:40:51 this bot joined the server
+2018-04-23 14:40:51 Role created: 'Synapse' (id 437986217607430144)
+2018-04-23 14:40:51 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-23 14:40:53 Channel created: informacje
+2018-04-23 14:40:57 Channel position: informacje moved from 2 to 0
+2018-04-23 14:40:57 Channel position: witamy moved from 0 to 1
+2018-04-23 14:40:57 Channel position: general moved from 1 to 2
+2018-04-23 14:40:59 Channel position: witamy moved from 1 to 0
+2018-04-23 14:40:59 Channel position: informacje moved from 0 to 1
+2018-04-23 14:41:00 Member role add: 'Bot' role was added to @Synapse#0692
+2018-04-23 14:41:07 Role created: 'new role' (id 437986282363289620)
+2018-04-23 14:41:07 Role renamed: 'new role' to 'nadeko-mute'
+2018-04-23 14:41:07 Role permissions: 'new role' changed from 104324161 to 0
+2018-04-23 14:41:07 Channel overwrites: witamy (437986148510466050): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-23 14:41:07 Channel overwrites: general (437981651918651403): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-23 14:41:08 Channel overwrites: informacje (437986222531411978): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-23 14:41:08 Member role add: 'nadeko-mute' role was added to @!~>Kachiyo<~!#6544
+2018-04-23 14:41:08 Channel created: regulamin
+2018-04-23 14:41:10 Channel position: regulamin moved from 3 to 2
+2018-04-23 14:41:10 Channel position: general moved from 2 to 3
+2018-04-23 14:41:15 Channel overwrites: regulamin (437986288436772865): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-23 14:41:15 Member role remove: The 'nadeko-mute' role was removed from @!~>Kachiyo<~!#6544
+2018-04-23 14:42:15 Member role add: 'Oficer' role was added to @Arihyung#0898
+2018-04-23 14:43:25 Role created: 'new role' (id 437986849236189197)
+2018-04-23 14:43:28 Member join: @Jisatsu#9938 (id 387212346948321281)
+2018-04-23 14:43:59 Role position: 'Pollux' changed from 2 to 3
+2018-04-23 14:43:59 Role position: 'Dyno' changed from 2 to 4
+2018-04-23 14:43:59 Role position: 'dabBot' changed from 2 to 5
+2018-04-23 14:43:59 Role position: 'Mantaro' changed from 3 to 6
+2018-04-23 14:43:59 Role position: 'Tatsumaki' changed from 4 to 7
+2018-04-23 14:43:59 Role position: 'Gość' changed from 5 to 8
+2018-04-23 14:43:59 Role position: 'Rekrutant' changed from 6 to 9
+2018-04-23 14:43:59 Role position: 'Bot' changed from 7 to 10
+2018-04-23 14:43:59 Role position: 'JeszczeNieCzłonek' changed from 8 to 11
+2018-04-23 14:43:59 Role position: '~Jestem ważna~' changed from 9 to 12
+2018-04-23 14:43:59 Role position: 'new role' changed from 1 to 13
+2018-04-23 14:43:59 Role position: 'Oficer' changed from 10 to 14
+2018-04-23 14:43:59 Role position: 'Lider' changed from 11 to 15
+2018-04-23 14:43:59 Role renamed: 'new role' to 'Helper'
+2018-04-23 14:43:59 Role color: 'new role' changed from #000000 to #3498db
+2018-04-23 14:43:59 Role mentionable: 'Helper' is now mentionable
+2018-04-23 14:43:59 Role hoist: 'Helper' is now shown seperately
+2018-04-23 14:43:59 Role permissions: 'new role' changed from 104324161 to 1463286983
+2018-04-23 14:44:05 Member role add: 'JeszczeNieCzłonek' role was added to @Jisatsu#9938
+2018-04-23 14:44:09 Member role add: 'Helper' role was added to @Jisatsu#9938
+2018-04-23 14:44:20 Member join: @MEE6#4876 (id 159985870458322944)
+2018-04-23 14:44:20 Role created: 'MEE6' (id 437987093315190796)
+2018-04-23 14:44:20 Member role add: 'MEE6' role was added to @MEE6#4876
+2018-04-23 14:44:22 Member role remove: The 'Helper' role was removed from @Jisatsu#9938
+2018-04-23 14:44:24 Member role add: 'Oficer' role was added to @Jisatsu#9938
+2018-04-23 14:44:33 Member role add: 'Bot' role was added to @MEE6#4876
+2018-04-23 14:44:53 Member nickname: '@Aya | Suga#8523' (id 302796095082332161) changed nickname from 'None' to 'Ayanette'
+2018-04-23 14:45:10 Role created: 'new role' (id 437987304334819338)
+2018-04-23 14:45:26 Role position: 'nadeko-mute' changed from 4 to 2
+2018-04-23 14:45:26 Role position: 'Synapse' changed from 4 to 3
+2018-04-23 14:45:27 Role position: 'Pollux' changed from 5 to 4
+2018-04-23 14:45:27 Role position: 'Dyno' changed from 6 to 5
+2018-04-23 14:45:27 Role position: 'dabBot' changed from 7 to 6
+2018-04-23 14:45:27 Role position: 'Mantaro' changed from 8 to 7
+2018-04-23 14:45:27 Role position: 'Tatsumaki' changed from 9 to 8
+2018-04-23 14:45:27 Role position: 'Gość' changed from 10 to 9
+2018-04-23 14:45:27 Role position: 'Rekrutant' changed from 11 to 10
+2018-04-23 14:45:27 Role position: 'Bot' changed from 12 to 11
+2018-04-23 14:45:27 Role position: 'JeszczeNieCzłonek' changed from 13 to 12
+2018-04-23 14:45:27 Role position: '~Jestem ważna~' changed from 14 to 13
+2018-04-23 14:45:27 Role position: 'Helper' changed from 15 to 14
+2018-04-23 14:45:27 Role position: 'Oficer' changed from 16 to 15
+2018-04-23 14:45:27 Role position: 'new role' changed from 1 to 16
+2018-04-23 14:45:27 Role renamed: 'new role' to 'Super Oficer'
+2018-04-23 14:45:27 Role color: 'new role' changed from #000000 to #55006b
+2018-04-23 14:46:03 Role mentionable: 'Super Oficer' is now mentionable
+2018-04-23 14:46:03 Role hoist: 'Super Oficer' is now shown seperately
+2018-04-23 14:46:03 Role permissions: 'Super Oficer' changed from 104324161 to 2146958583
+2018-04-23 14:46:09 Member role add: 'Super Oficer' role was added to @Yeou#9841
+2018-04-23 14:46:56 Channel rename: Text Channels renamed to ~~Pisanie~~
+2018-04-23 14:47:05 Role created: 'new role' (id 437987786776379393)
+2018-04-23 14:47:32 Channel overwrites: witamy (437986148510466050): role @everyone (437981651075727383) added with values 66561, 805763152
+2018-04-23 14:47:36 Channel overwrites: witamy (437986148510466050): role Lider (437982437876695040) added with values 0, 0
+2018-04-23 14:47:39 Channel overwrites: witamy (437986148510466050): role Super Oficer (437987304334819338) added with values 0, 0
+2018-04-23 14:47:41 Channel overwrites: witamy (437986148510466050): role Oficer (437982506617143296) added with values 0, 0
+2018-04-23 14:47:54 Channel overwrites: witamy (437986148510466050): role Lider (437982437876695040) updated to values 805829713, 0 (was 0, 0)
+2018-04-23 14:48:00 Channel overwrites: witamy (437986148510466050): role Lider (437982437876695040) updated to values 805829649, 64 (was 805829713, 0)
+2018-04-23 14:48:25 Channel overwrites: witamy (437986148510466050): role Oficer (437982506617143296) updated to values 805829713, 0 (was 0, 0)
+2018-04-23 14:48:25 Channel overwrites: witamy (437986148510466050): role Super Oficer (437987304334819338) updated to values 805829649, 64 (was 0, 0)
+2018-04-23 14:49:12 Channel overwrites: informacje (437986222531411978): role Lider (437982437876695040) added with values 0, 0
+2018-04-23 14:49:15 Channel overwrites: informacje (437986222531411978): role Super Oficer (437987304334819338) added with values 0, 0
+2018-04-23 14:49:16 Channel overwrites: informacje (437986222531411978): role Oficer (437982506617143296) added with values 0, 0
+2018-04-23 14:49:26 Channel overwrites: informacje (437986222531411978): role Helper (437986849236189197) added with values 0, 0
+2018-04-23 14:49:34 Channel created: Privek Adminków *lenny*
+2018-04-23 14:49:38 Channel overwrites: informacje (437986222531411978): role Helper (437986849236189197) updated to values 199680, 0 (was 0, 0)
+2018-04-23 14:49:46 Channel overwrites: informacje (437986222531411978): role Oficer (437982506617143296) updated to values 207872, 0 (was 0, 0)
+2018-04-23 14:49:48 Channel created: nwm
+2018-04-23 14:49:58 Channel overwrites: informacje (437986222531411978): role Oficer (437982506617143296) updated to values 257024, 0 (was 207872, 0)
+2018-04-23 14:49:58 Channel overwrites: informacje (437986222531411978): role Super Oficer (437987304334819338) updated to values 257024, 0 (was 0, 0)
+2018-04-23 14:50:03 Channel overwrites: informacje (437986222531411978): role Helper (437986849236189197) updated to values 257024, 0 (was 199680, 0)
+2018-04-23 14:50:33 Member join: @Nalla#5631 (id 389106521365020672)
+2018-04-23 14:50:50 Member role add: 'JeszczeNieCzłonek' role was added to @Nalla#5631
+2018-04-23 14:50:54 Member role add: 'Helper' role was added to @Nalla#5631
+2018-04-23 14:51:27 Channel position: Privek Adminków *lenny* moved from 3 to 2
+2018-04-23 14:51:27 Channel position: Voice Channels moved from 2 to 3
+2018-04-23 14:51:31 Channel overwrites: regulamin (437986288436772865): role Super Oficer (437987304334819338) added with values 0, 0
+2018-04-23 14:51:32 Channel overwrites: regulamin (437986288436772865): role Oficer (437982506617143296) added with values 0, 0
+2018-04-23 14:51:34 Channel overwrites: regulamin (437986288436772865): role Helper (437986849236189197) added with values 0, 0
+2018-04-23 14:51:43 Channel overwrites: regulamin (437986288436772865): role Super Oficer (437987304334819338) updated to values 261120, 0 (was 0, 0)
+2018-04-23 14:51:48 Channel overwrites: regulamin (437986288436772865): role Oficer (437982506617143296) updated to values 261120, 0 (was 0, 0)
+2018-04-23 14:51:54 Channel overwrites: regulamin (437986288436772865): role Helper (437986849236189197) updated to values 261120, 0 (was 0, 0)
+2018-04-23 14:53:00 Channel created: breeding
+2018-04-23 14:53:02 Channel position: breeding moved from 5 to 4
+2018-04-23 14:53:02 Channel position: nwm moved from 4 to 5
+2018-04-23 14:53:14 Channel created: propozycje
+2018-04-23 14:53:16 Channel position: propozycje moved from 6 to 4
+2018-04-23 14:53:16 Channel position: breeding moved from 4 to 5
+2018-04-23 14:53:16 Channel position: nwm moved from 5 to 6
+2018-04-23 14:53:32 Channel created: boty
+2018-04-23 14:53:34 Channel position: boty moved from 7 to 6
+2018-04-23 14:53:34 Channel position: nwm moved from 6 to 7
+2018-04-23 14:53:35 Member join: @Jeż#5290 (id 287304233768845314)
+2018-04-23 14:53:39 Member role add: 'Gość' role was added to @Jeż#5290
+2018-04-23 14:53:49 Role permissions: 'MEE6' changed from 66321471 to 66583679
+2018-04-23 14:53:49 Role position: 'MEE6' changed from 3 to 2
+2018-04-23 14:53:49 Role position: 'Gość' changed from 10 to 12
+2018-04-23 14:53:53 Role position: 'Bot' changed from 12 to 10
+2018-04-23 14:53:53 Role position: 'Gość' changed from 12 to 11
+2018-04-23 14:53:53 Role position: 'Rekrutant' changed from 11 to 12
+2018-04-23 14:54:43 Member nickname: '@Jeż#5290' (id 287304233768845314) changed nickname from 'None' to 'Ellrajra'
+2018-04-23 14:55:04 Member nickname: '@Jeż#5290' (id 287304233768845314) changed nickname from 'Ellrajra' to 'iesz'
+2018-04-23 14:57:21 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'None' to 'Ariś'
+2018-04-23 15:07:45 Member nickname: '@Jeż#5290' (id 287304233768845314) changed nickname from 'iesz' to 'Hołp'
+2018-04-23 15:10:10 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Ariś' to 'Azor'
+2018-04-23 15:13:36 Role created: 'new role' (id 437994460329279498)
+2018-04-23 15:14:08 Role position: 'new role' changed from 1 to 13
+2018-04-23 15:14:09 Role renamed: 'new role' to 'Speed 🔥'
+2018-04-23 15:14:09 Role color: 'new role' changed from #000000 to #f1c40f
+2018-04-23 15:14:10 Role created: 'new role' (id 437994600406450197)
+2018-04-23 15:14:53 Role position: 'new role' changed from 1 to 13
+2018-04-23 15:14:53 Role renamed: 'new role' to 'Magia 💦'
+2018-04-23 15:14:53 Role color: 'new role' changed from #000000 to #64c9c1
+2018-04-23 15:15:14 Member role add: 'Magia 💦' role was added to @Nalla#5631
+2018-04-23 15:15:20 Member role add: 'Speed 🔥' role was added to @Yeou#9841
+2018-04-23 15:15:22 Member role add: 'Magia 💦' role was added to @Yeou#9841
+2018-04-23 15:15:25 Member role add: 'Speed 🔥' role was added to @Aya | Suga#8523
+2018-04-23 15:15:27 Member role add: 'Magia 💦' role was added to @Aya | Suga#8523
+2018-04-23 15:16:10 Member role add: 'Magia 💦' role was added to @Littleshrew#0996
+2018-04-23 15:16:22 Server name changed from SuperSerwerSuperZajebistejGildi to DeadCorporation
+2018-04-23 15:16:27 Member role add: 'Magia 💦' role was added to @!~>Kachiyo<~!#6544
+2018-04-23 15:16:30 Member role add: 'Speed 🔥' role was added to @Hossaki#4437
+2018-04-23 15:16:32 Member role add: 'Magia 💦' role was added to @Hossaki#4437
+2018-04-23 15:18:01 Member role add: 'Magia 💦' role was added to @Zero Two#1866
+2018-04-23 15:18:05 Member role add: 'Magia 💦' role was added to @Kirschtein#2441
+2018-04-23 15:18:11 Member role add: 'Magia 💦' role was added to @Jisatsu#9938
+2018-04-23 15:18:13 Member role add: 'Magia 💦' role was added to @Arihyung#0898
+2018-04-23 15:20:42 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Azor' to 'Ariuś'
+2018-04-23 15:22:27 Role renamed: 'JeszczeNieCzłonek' to 'Członek'
+2018-04-23 15:22:27 Role color: 'JeszczeNieCzłonek' changed from #e91e63 to #f167a9
+2018-04-23 15:22:51 Role color: 'Bot' changed from #e74c3c to #6a537c
+2018-04-23 15:22:51 Role color: 'Gość' changed from #206694 to #7bdf9c
+2018-04-23 15:22:51 Role color: 'Rekrutant' changed from #1f8b4c to #2ecc71
+2018-04-23 15:27:26 Member role add: 'Speed 🔥' role was added to @Zero Two#1866
+2018-04-23 15:32:07 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from 'None' to 'Kookie'
+2018-04-23 15:35:44 Member role add: 'Helper' role was added to @Hossaki#4437
+2018-04-23 16:38:57 Role color: 'Super Oficer' changed from #55006b to #aca2c2
+2018-04-23 16:39:06 Role color: 'Helper' changed from #3498db to #9e2db9
+2018-04-23 16:39:21 Role color: 'Członek' changed from #f167a9 to #8b5067
+2018-04-23 16:47:27 Role created: 'new role' (id 438018077406396416)
+2018-04-23 16:47:45 Role position: 'new role' changed from 1 to 11
+2018-04-23 16:47:46 Role renamed: 'new role' to '.'
+2018-04-23 16:47:46 Role color: 'new role' changed from #000000 to #ff0026
+2018-04-23 16:47:54 Member role add: '.' role was added to @Nalla#5631
+2018-04-23 16:47:57 Member role add: '.' role was added to @Ayatus(͡° ͜ʖ ͡°)#8286
+2018-04-23 16:48:01 Member role add: '.' role was added to @Littleshrew#0996
+2018-04-23 16:48:03 Member role add: '.' role was added to @Jisatsu#9938
+2018-04-23 16:48:06 Member role add: '.' role was added to @Jeż#5290
+2018-04-23 16:48:08 Member role add: '.' role was added to @Hossaki#4437
+2018-04-23 16:48:21 Member role add: '.' role was added to @Zero Two#1866
+2018-04-23 16:48:23 Member role add: '.' role was added to @Shiroy#7969
+2018-04-23 16:48:29 Member role add: 'Magia 💦' role was added to @Shiroy#7969
+2018-04-23 16:48:32 Member role add: '.' role was added to @Kirschtein#2441
+2018-04-23 16:48:36 Member role add: '.' role was added to @!~>Kachiyo<~!#6544
+2018-04-23 16:48:42 Member role add: '.' role was added to @Arihyung#0898
+2018-04-23 16:48:45 Member role add: '.' role was added to @Yeou#9841
+2018-04-23 16:48:47 Member role add: '.' role was added to @Aya | Suga#8523
+2018-04-23 16:49:11 Channel overwrites: general (437981651918651403): member Zero Two (386917047398957076) added with values 0, 0
+2018-04-23 16:49:14 Channel overwrites: general (437981651918651403): member Yeou (349089836348604416) added with values 0, 0
+2018-04-23 16:49:18 Channel overwrites: general (437981651918651403): member !~>Kachiyo<~! (326215433525002241) added with values 0, 0
+2018-04-23 16:49:22 Channel overwrites: general (437981651918651403): member Arihyung (249904997045633024) added with values 0, 0
+2018-04-23 16:49:26 Channel overwrites: general (437981651918651403): member Aya | Suga (302796095082332161) added with values 0, 0
+2018-04-23 16:49:29 Channel overwrites: general (437981651918651403): member Ayatus(͡° ͜ʖ ͡°) (377701541592694794) added with values 0, 0
+2018-04-23 16:49:32 Channel overwrites: general (437981651918651403): member Hossaki (272452150645358592) added with values 0, 0
+2018-04-23 16:49:34 Channel overwrites: general (437981651918651403): member Jeż (287304233768845314) added with values 0, 0
+2018-04-23 16:49:39 Channel overwrites: general (437981651918651403): member Jisatsu (387212346948321281) added with values 0, 0
+2018-04-23 16:49:42 Channel overwrites: general (437981651918651403): member Kirschtein (276782848265027584) added with values 0, 0
+2018-04-23 16:49:45 Channel overwrites: general (437981651918651403): member Littleshrew (356896880128425987) added with values 0, 0
+2018-04-23 16:49:49 Channel overwrites: general (437981651918651403): member Nalla (389106521365020672) added with values 0, 0
+2018-04-23 16:49:52 Channel overwrites: general (437981651918651403): member Shiroy (384711391644483584) added with values 0, 0
+2018-04-23 16:49:54 Channel overwrites: general (437981651918651403): role @everyone (437981651075727383) added with values 0, 805829713
+2018-04-23 16:50:18 Channel overwrites: general (437981651918651403): role @everyone (437981651075727383) updated to values 0, 0 (was 0, 805829713)
+2018-04-23 16:50:26 Channel overwrites: general (437981651918651403): role . (438018077406396416) added with values 0, 0
+2018-04-23 16:50:38 Channel overwrites: general (437981651918651403): role . (438018077406396416) updated to values 248832, 0 (was 0, 0)
+2018-04-23 16:51:19 Channel overwrites: general (437981651918651403): role @everyone (437981651075727383) updated to values 0, 805829713 (was 0, 0)
+2018-04-23 16:51:23 Channel overwrites: general (437981651918651403): member Zero Two (386917047398957076) removed (was 0, 0)
+2018-04-23 16:51:26 Channel overwrites: general (437981651918651403): member Yeou (349089836348604416) removed (was 0, 0)
+2018-04-23 16:51:28 Channel overwrites: general (437981651918651403): member Shiroy (384711391644483584) removed (was 0, 0)
+2018-04-23 16:51:29 Channel overwrites: general (437981651918651403): member Nalla (389106521365020672) removed (was 0, 0)
+2018-04-23 16:51:31 Channel overwrites: general (437981651918651403): member Littleshrew (356896880128425987) removed (was 0, 0)
+2018-04-23 16:51:33 Channel overwrites: general (437981651918651403): member Kirschtein (276782848265027584) removed (was 0, 0)
+2018-04-23 16:51:34 Channel overwrites: general (437981651918651403): member Jisatsu (387212346948321281) removed (was 0, 0)
+2018-04-23 16:51:36 Channel overwrites: general (437981651918651403): member Jeż (287304233768845314) removed (was 0, 0)
+2018-04-23 16:51:38 Channel overwrites: general (437981651918651403): member Hossaki (272452150645358592) removed (was 0, 0)
+2018-04-23 16:51:39 Channel overwrites: general (437981651918651403): member Ayatus(͡° ͜ʖ ͡°) (377701541592694794) removed (was 0, 0)
+2018-04-23 16:51:41 Channel overwrites: general (437981651918651403): member Aya | Suga (302796095082332161) removed (was 0, 0)
+2018-04-23 16:51:43 Channel overwrites: general (437981651918651403): member Arihyung (249904997045633024) removed (was 0, 0)
+2018-04-23 16:51:45 Channel overwrites: general (437981651918651403): member !~>Kachiyo<~! (326215433525002241) removed (was 0, 0)
+2018-04-23 16:53:02 Role color: 'Lider' changed from #1abc9c to #71ddb2
+2018-04-23 16:53:55 Channel created: general
+2018-04-23 16:53:57 Channel position: general moved from 8 to 3
+2018-04-23 16:53:57 Channel position: general moved from 3 to 4
+2018-04-23 16:53:57 Channel position: propozycje moved from 4 to 5
+2018-04-23 16:53:57 Channel position: breeding moved from 5 to 6
+2018-04-23 16:53:57 Channel position: boty moved from 6 to 7
+2018-04-23 16:53:57 Channel position: nwm moved from 7 to 8
+2018-04-23 16:55:03 Role color: 'Członek' changed from #8b5067 to #a779ac
+2018-04-23 16:56:25 Member role remove: The '.' role was removed from @!~>Kachiyo<~!#6544
+2018-04-23 16:56:38 Member role add: '.' role was added to @!~>Kachiyo<~!#6544
+2018-04-23 17:00:20 Member join: @Mazzai#8320 (id 267046362959446016)
+2018-04-23 17:01:01 Member role add: 'Rekrutant' role was added to @Mazzai#8320
+2018-04-23 17:02:03 Role permissions: 'Gość' changed from 104324161 to 104324160
+2018-04-23 17:03:48 Member username: '@Mazzai#8320' (id 267046362959446016) changed username from 'Mazzai' to 'Hinata'
+2018-04-23 17:06:42 Channel rename: General renamed to Pogaduszki
+2018-04-23 17:06:48 Channel created: race
+2018-04-23 17:06:54 Channel deleted: race
+2018-04-23 17:07:02 Channel created: Race
+2018-04-23 17:07:14 Channel created: Red
+2018-04-23 17:07:21 Channel created: Blue
+2018-04-23 17:07:32 Channel created: Rekru
+2018-04-23 17:07:34 Channel position: Rekru moved from 4 to 1
+2018-04-23 17:07:34 Channel position: Race moved from 1 to 2
+2018-04-23 17:07:34 Channel position: Red moved from 2 to 3
+2018-04-23 17:07:34 Channel position: Blue moved from 3 to 4
+2018-04-23 17:15:33 Member username: '@Jeż#5290' (id 287304233768845314) changed username from 'Jeż' to 'Your Old Hope'
+2018-04-23 17:15:52 Role renamed: 'new role' to '.'
+2018-04-23 17:15:52 Role color: 'new role' changed from #000000 to #eb8c6e
+2018-04-23 17:15:52 Role position: 'new role' changed from 2 to 1
+2018-04-23 17:15:56 Role position: 'MEE6' changed from 3 to 1
+2018-04-23 17:15:56 Role position: 'nadeko-mute' changed from 4 to 2
+2018-04-23 17:15:56 Role position: 'Synapse' changed from 5 to 3
+2018-04-23 17:15:56 Role position: 'Pollux' changed from 6 to 4
+2018-04-23 17:15:56 Role position: 'Dyno' changed from 7 to 5
+2018-04-23 17:15:56 Role position: 'dabBot' changed from 8 to 6
+2018-04-23 17:15:56 Role position: 'Mantaro' changed from 9 to 7
+2018-04-23 17:15:56 Role position: 'Tatsumaki' changed from 10 to 8
+2018-04-23 17:15:56 Role position: 'Bot' changed from 11 to 9
+2018-04-23 17:15:56 Role position: '.' changed from 11 to 10
+2018-04-23 17:15:56 Role position: 'Gość' changed from 12 to 11
+2018-04-23 17:15:56 Role position: 'Rekrutant' changed from 13 to 12
+2018-04-23 17:15:56 Role position: 'Magia 💦' changed from 14 to 13
+2018-04-23 17:15:56 Role position: 'Speed 🔥' changed from 15 to 14
+2018-04-23 17:15:56 Role position: 'Członek' changed from 16 to 15
+2018-04-23 17:15:56 Role position: '~Jestem ważna~' changed from 17 to 16
+2018-04-23 17:15:56 Role position: 'Helper' changed from 18 to 17
+2018-04-23 17:15:56 Role position: 'Oficer' changed from 19 to 18
+2018-04-23 17:15:56 Role position: '.' changed from 1 to 19
+2018-04-23 17:16:01 Member role add: '.' role was added to @Arihyung#0898
+2018-04-23 17:18:22 Member join: @Sithus#6131 (id 421811509711339520)
+2018-04-23 17:20:26 Member role add: 'Gość' role was added to @Sithus#6131
+2018-04-23 17:20:27 Member role add: '.' role was added to @Sithus#6131
+2018-04-23 17:37:05 Channel created: twórczość
+2018-04-23 17:37:07 Channel position: twórczość moved from 9 to 8
+2018-04-23 17:37:07 Channel position: nwm moved from 8 to 9
+2018-04-23 17:40:51 Member join: @Akanette#8300 (id 273908642116534274)
+2018-04-23 17:47:12 Member nickname: '@Akanette#8300' (id 273908642116534274) changed nickname from 'None' to 'Kitty'
+2018-04-23 17:47:41 Member role add: 'Gość' role was added to @Akanette#8300
+2018-04-23 17:54:24 Member nickname: '@Akanette#8300' (id 273908642116534274) changed nickname from 'Kitty' to 'S E K S O W N A KITTY'
+2018-04-23 17:54:34 Member nickname: '@Akanette#8300' (id 273908642116534274) changed nickname from 'S E K S O W N A KITTY' to 'SEKSOWNA Kitty'
+2018-04-23 17:55:08 Member nickname: '@Akanette#8300' (id 273908642116534274) changed nickname from 'SEKSOWNA Kitty' to 'SEKSowna Kitty'
+2018-04-23 17:57:01 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'None' to 'Szajtan Ayi'
+2018-04-23 17:59:21 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'None' to '! Yoshiko'
+2018-04-23 18:04:32 Member role add: '.' role was added to @Akanette#8300
+2018-04-23 18:04:44 Role created: 'new role' (id 438037526259826688)
+2018-04-23 18:04:56 Role position: 'new role' changed from 1 to 20
+2018-04-23 18:04:56 Role renamed: 'new role' to '.'
+2018-04-23 18:04:56 Role color: 'new role' changed from #000000 to #0a0a0a
+2018-04-23 18:05:04 Member role add: '.' role was added to @Nalla#5631
+2018-04-23 18:06:02 Role color: '.' changed from #eb8c6e to #9eaae4
+2018-04-23 18:06:02 Role position: '.' changed from 20 to 19
+2018-04-23 18:07:15 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from 'Kookie' to '.Kookie'
+2018-04-23 18:10:14 Role color: '.' changed from #ff0026 to #25c059
+2018-04-23 18:10:14 Role position: '.' changed from 11 to 10
+2018-04-23 18:10:15 Role color: '.' changed from #25c059 to #17ac86
+2018-04-23 18:10:18 Role created: 'new role' (id 438038925651476480)
+2018-04-23 18:10:25 Role color: 'new role' changed from #000000 to #17ac86
+2018-04-23 18:10:27 Role renamed: 'new role' to '.'
+2018-04-23 18:17:58 Role position: '.' changed from 1 to 5
+2018-04-23 18:17:58 Role position: 'Dyno' changed from 7 to 6
+2018-04-23 18:17:58 Role position: 'dabBot' changed from 8 to 7
+2018-04-23 18:17:58 Role position: 'Mantaro' changed from 9 to 8
+2018-04-23 18:17:58 Role position: 'Tatsumaki' changed from 10 to 9
+2018-04-23 18:17:58 Role position: 'Bot' changed from 11 to 10
+2018-04-23 18:17:58 Role position: 'Gość' changed from 13 to 12
+2018-04-23 18:17:58 Role position: 'Rekrutant' changed from 14 to 13
+2018-04-23 18:17:58 Role position: 'Magia 💦' changed from 15 to 14
+2018-04-23 18:17:58 Role position: 'Speed 🔥' changed from 16 to 15
+2018-04-23 18:17:58 Role position: 'Członek' changed from 17 to 16
+2018-04-23 18:17:58 Role position: '~Jestem ważna~' changed from 18 to 17
+2018-04-23 18:17:58 Role position: 'Helper' changed from 19 to 18
+2018-04-23 18:17:58 Role position: 'Oficer' changed from 20 to 19
+2018-04-23 18:18:03 Role position: 'Dyno' changed from 6 to 5
+2018-04-23 18:18:03 Role position: 'dabBot' changed from 7 to 6
+2018-04-23 18:18:03 Role position: 'Mantaro' changed from 8 to 7
+2018-04-23 18:18:03 Role position: 'Tatsumaki' changed from 9 to 8
+2018-04-23 18:18:03 Role position: '.' changed from 5 to 9
+2018-04-23 18:18:06 Role position: 'Gość' changed from 12 to 11
+2018-04-23 18:18:06 Role position: 'Rekrutant' changed from 13 to 12
+2018-04-23 18:18:06 Role position: '.' changed from 11 to 13
+2018-04-23 18:18:47 Member role add: '.' role was added to @Hinata#8320
+2018-04-23 18:23:55 Member join: @Seulgi#5102 (id 295515474064572417)
+2018-04-23 18:33:59 Member role add: 'Oficer' role was added to @Nalla#5631
+2018-04-23 18:35:21 Role permissions: 'Oficer' changed from 2146958583 to 2146958591
+2018-04-23 18:36:19 Member role add: 'Lider' role was added to @Nalla#5631
+2018-04-23 18:38:58 Member role remove: The 'Oficer' role was removed from @Nalla#5631
+2018-04-23 18:39:24 Member join: @Gravebot#8176 (id 81026656365453312)
+2018-04-23 18:39:24 Member role add: 'Gravebot' role was added to @Gravebot#8176
+2018-04-23 18:39:24 Role created: 'Gravebot' (id 438046247409156106)
+2018-04-23 18:39:24 Member role add: 'Gravebot' role was added to @Gravebot#8176
+2018-04-23 18:39:51 Member role remove: The 'Lider' role was removed from @Nalla#5631
+2018-04-23 18:44:38 Member role add: 'Gość' role was added to @Gravebot#8176
+2018-04-23 18:44:49 Member role remove: The 'Gość' role was removed from @Gravebot#8176
+2018-04-23 18:44:50 Member role add: 'Bot' role was added to @Gravebot#8176
+2018-04-23 18:45:35 Channel created: muzyka
+2018-04-23 18:46:03 Channel deleted: muzyka
+2018-04-23 18:46:11 Channel created: Muzyka
+2018-04-23 18:47:12 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from '.Kookie' to '.Nalisa'
+2018-04-23 18:56:13 Member join: @Haba#3785 (id 280339208013611019)
+2018-04-23 18:57:23 Member nickname: '@Haba#3785' (id 280339208013611019) changed nickname from 'None' to 'Periah'
+2018-04-23 18:57:48 Member role add: 'Członek' role was added to @Haba#3785
+2018-04-23 18:57:49 Member role add: 'Magia 💦' role was added to @Haba#3785
+2018-04-23 18:57:52 Member role add: '.' role was added to @Haba#3785
+2018-04-23 19:08:43 Member role add: 'Helper' role was added to @!~>Kachiyo<~!#6544
+2018-04-23 19:10:12 Member join: @Yuuha　異ッつ#5730 (id 259008014466547722)
+2018-04-23 19:11:19 Member role add: 'Rekrutant' role was added to @Yuuha　異ッつ#5730
+2018-04-23 19:11:22 Member role add: '.' role was added to @Yuuha　異ッつ#5730
+2018-04-23 19:11:59 Channel created: nsfw
+2018-04-23 19:12:18 Channel deleted: nsfw
+2018-04-23 19:47:01 Server owner changed from Yeou#9841 (id 349089836348604416) to Aya | Suga#8523 (id 302796095082332161)
+2018-04-23 20:17:32 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Ariuś' to 'Ari liże aka gruszki'
+2018-04-23 20:19:39 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Ari liże aka gruszki' to 'ari liże aka gruszki'
+2018-04-23 20:24:27 Role position: 'MEE6' changed from 1 to 2
+2018-04-23 20:24:27 Role position: 'nadeko-mute' changed from 2 to 3
+2018-04-23 20:24:27 Role position: 'Synapse' changed from 3 to 4
+2018-04-23 20:24:27 Role position: 'Pollux' changed from 4 to 5
+2018-04-23 20:24:27 Role position: 'Dyno' changed from 5 to 6
+2018-04-23 20:24:27 Role position: 'dabBot' changed from 6 to 7
+2018-04-23 20:24:27 Role position: 'Mantaro' changed from 7 to 8
+2018-04-23 20:24:27 Role position: 'Tatsumaki' changed from 8 to 9
+2018-04-23 20:24:27 Role position: '.' changed from 9 to 10
+2018-04-23 20:24:27 Role position: '.' changed from 13 to 11
+2018-04-23 20:24:27 Role position: 'Bot' changed from 10 to 12
+2018-04-23 20:24:27 Role position: 'Gość' changed from 11 to 13
+2018-04-23 20:24:27 Role position: 'Rekrutant' changed from 12 to 14
+2018-04-23 20:24:27 Role position: 'Magia 💦' changed from 14 to 15
+2018-04-23 20:24:27 Role position: 'Speed 🔥' changed from 15 to 16
+2018-04-23 20:24:27 Role position: 'Członek' changed from 16 to 17
+2018-04-23 20:24:27 Role position: '~Jestem ważna~' changed from 17 to 18
+2018-04-23 20:24:27 Role position: 'Helper' changed from 18 to 19
+2018-04-23 20:24:27 Role position: 'Oficer' changed from 19 to 20
+2018-04-23 20:24:27 Role position: '.' changed from 20 to 21
+2018-04-23 20:24:27 Role position: '.' changed from 21 to 22
+2018-04-23 20:24:27 Role position: 'Super Oficer' changed from 22 to 23
+2018-04-23 20:24:27 Role position: 'Lider' changed from 23 to 24
+2018-04-23 20:25:04 Role created: 'new role' (id 438072840491630602)
+2018-04-23 20:25:18 Role renamed: 'new role' to 'Ta co rysi'
+2018-04-23 20:25:33 Role color: 'Ta co rysi' changed from #000000 to #818689
+2018-04-23 20:25:47 Role mentionable: 'Ta co rysi' is now mentionable
+2018-04-23 20:25:59 Role renamed: 'Ta co rysi' to 'Ta od rysunków'
+2018-04-23 20:26:30 Member role add: 'Ta od rysunków' role was added to @!~>Kachiyo<~!#6544
+2018-04-23 20:33:22 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'ari liże aka gruszki' to 'Azorek Naluśki'
+2018-04-23 20:43:15 Member nickname: '@Hinata#8320' (id 267046362959446016) changed nickname from 'None' to 'szmatojad'
+2018-04-23 20:49:58 Role color: '.' changed from #17ac86 to #818689
+2018-04-23 21:48:08 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Azorek Naluśki' to 'Azor'
+2018-04-23 21:48:21 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Azor' to 'Ariuś'
+2018-04-24 04:41:47 Role color: 'Ta od rysunków' changed from #818689 to #000000
+2018-04-24 04:41:54 Role color: 'Ta od rysunków' changed from #000000 to #5b2076
+2018-04-24 04:42:18 Role renamed: 'Ta od rysunków' to 'Gafik'
+2018-04-24 04:42:29 Role renamed: 'Gafik' to 'Grafik'
+2018-04-24 04:43:41 Role color: 'Grafik' changed from #5b2076 to #843da4
+2018-04-24 04:44:11 Role color: 'Grafik' changed from #843da4 to #5b2076
+2018-04-24 05:09:44 Member role add: 'Speed 🔥' role was added to @Kirschtein#2441
+2018-04-24 05:15:18 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Szajtan Ayi' to 'furvz'
+2018-04-24 07:43:42 Member role add: 'Speed 🔥' role was added to @Jisatsu#9938
+2018-04-24 11:52:38 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'furvz' to 'None'
+2018-04-24 12:16:40 Role renamed: 'Grafik' to 'Artysta'
+2018-04-24 13:22:03 Channel created: screeny
+2018-04-24 13:47:37 Role permissions: 'Super Oficer' changed from 2146958583 to 2146958455
+2018-04-24 13:47:38 Role permissions: 'Super Oficer' changed from 2146958455 to 2146958583
+2018-04-24 13:47:39 Role permissions: 'Super Oficer' changed from 2146958583 to 2146958591
+2018-04-24 14:36:30 Channel overwrites: regulamin (437986288436772865): role @everyone (437981651075727383) added with values 0, 1024
+2018-04-24 14:40:22 Channel created: obrazki
+2018-04-24 14:43:33 Channel overwrites: regulamin (437986288436772865): role @everyone (437981651075727383) updated to values 1025, 805828688 (was 0, 1024)
+2018-04-24 14:44:54 Channel overwrites: regulamin (437986288436772865): role @everyone (437981651075727383) updated to values 66561, 805763152 (was 1025, 805828688)
+2018-04-24 14:45:21 Channel overwrites: regulamin (437986288436772865): role Gość (437983623342456842) added with values 0, 0
+2018-04-24 14:45:45 Channel overwrites: regulamin (437986288436772865): role Gość (437983623342456842) updated to values 66560, 805369873 (was 0, 0)
+2018-04-24 14:52:22 Role mentionable: 'Rekrutant' is no longer mentionable
+2018-04-24 14:52:22 Role hoist: 'Rekrutant' is no longer shown seperately
+2018-04-24 14:52:53 Role mentionable: 'Rekrutant' is now mentionable
+2018-04-24 14:52:53 Role hoist: 'Rekrutant' is now shown seperately
+2018-04-24 15:23:22 Server icon changed from https://cdn.discordapp.com/icons/437981651075727383/5b1d470f8668378bc2be840513106a61.jpg to https://cdn.discordapp.com/icons/437981651075727383/2605e6712827d23b0612c01434bd2f6a.jpg
+2018-04-24 15:24:38 Channel position: screeny moved from 10 to 9
+2018-04-24 15:24:38 Channel position: obrazki moved from 11 to 10
+2018-04-24 15:24:38 Channel position: nwm moved from 9 to 11
+2018-04-24 15:39:12 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from '.Nalisa' to '!Nalisa'
+2018-04-24 15:52:50 Channel topic: screeny topic was set to "Screeny Alicia Online\n"
+2018-04-24 15:53:00 Channel topic: obrazki topic was set to "Screeny, obrazki, memy"
+2018-04-24 15:53:12 Channel topic: twórczość topic was set to "Wasze rysunki i inne\n"
+2018-04-24 15:53:40 Channel topic: breeding topic was set to "Tu wstawiaj konie do breedingu 8)"
+2018-04-24 15:53:56 Channel topic: general topic was set to "Prywatny general dla wtajemniczonych"
+2018-04-24 15:54:04 Channel topic: general topic was set to "Gadu gadu gadu"
+2018-04-24 15:54:11 Channel topic: regulamin topic was set to "Przeczytaj!"
+2018-04-24 15:54:21 Channel topic: witamy topic was set to "Hej nowa osobo~"
+2018-04-24 16:26:04 Member nickname: '@Aya | Suga#8523' (id 302796095082332161) changed nickname from 'Ayanette' to 'SugaChan'
+2018-04-24 16:32:47 Member join: @Amii#8528 (id 391229983445614593)
+2018-04-24 16:33:20 Member role add: 'Rekrutant' role was added to @Amii#8528
+2018-04-24 16:34:23 Channel created: ~~Rekrutacja~~
+2018-04-24 16:34:26 Member join: @MarudnaKoza#8899 (id 378925634585624576)
+2018-04-24 16:34:26 Channel position: ~~Rekrutacja~~ moved from 4 to 2
+2018-04-24 16:34:26 Channel position: Privek Adminków *lenny* moved from 2 to 3
+2018-04-24 16:34:26 Channel position: Voice Channels moved from 3 to 4
+2018-04-24 16:34:29 Channel position: Rekru moved from 1 to 0
+2018-04-24 16:34:29 Channel position: Pogaduszki moved from 0 to 1
+2018-04-24 16:35:08 Member role add: 'Rekrutant' role was added to @MarudnaKoza#8899
+2018-04-24 16:35:28 Member role remove: The '.' role was removed from @Yeou#9841
+2018-04-24 16:35:36 Channel created: info
+2018-04-24 16:35:40 Member role add: '.' role was added to @Yeou#9841
+2018-04-24 16:35:42 Member role remove: The '.' role was removed from @Yeou#9841
+2018-04-24 16:36:19 Channel overwrites: info (438377482794696735): role Lider (437982437876695040) added with values 0, 0
+2018-04-24 16:36:44 Channel overwrites: info (438377482794696735): role @everyone (437981651075727383) added with values 117760, 0
+2018-04-24 16:53:07 Member join: @Vasabi#2214 (id 411223742769922058)
+2018-04-24 16:53:54 Member role add: 'Rekrutant' role was added to @Vasabi#2214
+2018-04-24 16:56:29 Role created: 'new role' (id 438382737477468174)
+2018-04-24 16:56:42 Role renamed: 'new role' to 'Admin'
+2018-04-24 16:56:42 Role color: 'new role' changed from #000000 to #e74c3c
+2018-04-24 16:56:42 Role permissions: 'new role' changed from 104324161 to 104324169
+2018-04-24 16:56:57 Role position: 'Artysta' changed from 2 to 1
+2018-04-24 16:56:57 Role position: 'Gravebot' changed from 3 to 2
+2018-04-24 16:56:57 Role position: 'MEE6' changed from 4 to 3
+2018-04-24 16:56:57 Role position: 'nadeko-mute' changed from 5 to 4
+2018-04-24 16:56:57 Role position: 'Synapse' changed from 6 to 5
+2018-04-24 16:56:57 Role position: 'Pollux' changed from 7 to 6
+2018-04-24 16:56:57 Role position: 'Dyno' changed from 8 to 7
+2018-04-24 16:56:57 Role position: 'dabBot' changed from 9 to 8
+2018-04-24 16:56:57 Role position: 'Mantaro' changed from 10 to 9
+2018-04-24 16:56:57 Role position: 'Tatsumaki' changed from 11 to 10
+2018-04-24 16:56:57 Role position: '.' changed from 12 to 11
+2018-04-24 16:56:57 Role position: '.' changed from 13 to 12
+2018-04-24 16:56:57 Role position: 'Bot' changed from 14 to 13
+2018-04-24 16:56:57 Role position: 'Gość' changed from 15 to 14
+2018-04-24 16:56:57 Role position: 'Rekrutant' changed from 16 to 15
+2018-04-24 16:56:57 Role position: 'Magia 💦' changed from 17 to 16
+2018-04-24 16:56:57 Role position: 'Speed 🔥' changed from 18 to 17
+2018-04-24 16:56:57 Role position: 'Członek' changed from 19 to 18
+2018-04-24 16:56:57 Role position: '~Jestem ważna~' changed from 20 to 19
+2018-04-24 16:56:57 Role position: 'Helper' changed from 21 to 20
+2018-04-24 16:56:57 Role position: 'Oficer' changed from 22 to 21
+2018-04-24 16:56:57 Role position: '.' changed from 23 to 22
+2018-04-24 16:56:57 Role position: '.' changed from 24 to 23
+2018-04-24 16:56:57 Role position: 'Super Oficer' changed from 25 to 24
+2018-04-24 16:56:57 Role position: 'Admin' changed from 1 to 25
+2018-04-24 16:56:58 Role position: 'Admin' changed from 25 to 24
+2018-04-24 16:56:58 Role position: 'Super Oficer' changed from 24 to 25
+2018-04-24 16:57:29 Member join: @matriks500#2049 (id 306479016414674965)
+2018-04-24 16:57:39 Member role add: 'Admin' role was added to @matriks500#2049
+2018-04-24 16:57:49 Role hoist: 'Admin' is now shown seperately
+2018-04-24 16:59:20 Role created: 'new role' (id 438383453105422348)
+2018-04-24 16:59:36 Role position: 'new role' changed from 1 to 14
+2018-04-24 16:59:36 Role renamed: 'new role' to 'Nowy'
+2018-04-24 16:59:36 Role color: 'new role' changed from #000000 to #3498db
+2018-04-24 16:59:36 Role hoist: 'Nowy' is now shown seperately
+2018-04-24 17:09:42 Role permissions: 'Nowy' changed from 104324161 to 0
+2018-04-24 17:18:09 Member join: @Mirai#9593 (id 438385252289740822)
+2018-04-24 17:18:19 Member role add: 'Nowy' role was added to @Mirai#9593
+2018-04-24 17:20:26 Member role add: 'Gość' role was added to @Hinata#8320
+2018-04-24 17:20:27 Member role remove: The 'Rekrutant' role was removed from @Hinata#8320
+2018-04-24 17:30:49 Member role add: 'Rekrutant' role was added to @Mirai#9593
+2018-04-24 17:30:51 Member role remove: The 'Nowy' role was removed from @Mirai#9593
+2018-04-24 17:41:10 Member role remove: The 'Gość' role was removed from @Hinata#8320
+2018-04-24 17:41:16 Member role add: 'Rekrutant' role was added to @Hinata#8320
+2018-04-24 17:42:14 Member role add: 'Gość' role was added to @Hinata#8320
+2018-04-24 17:42:16 Member role remove: The 'Rekrutant' role was removed from @Hinata#8320
+2018-04-24 17:43:16 Member nickname: '@Aya | Suga#8523' (id 302796095082332161) changed nickname from 'SugaChan' to 'Suga'
+2018-04-24 17:44:21 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'None' to 'Jenga'
+2018-04-24 17:48:22 Member nickname: '@Hinata#8320' (id 267046362959446016) changed nickname from 'szmatojad' to 'kurwata'
+2018-04-24 17:53:08 Member leave: @Mirai#9593 (id 438385252289740822)
+2018-04-24 17:59:52 Member join: @Ja3#5401 (id 408928831164907520)
+2018-04-24 18:00:14 Member ban: @Ja3#5401 (id 408928831164907520)
+2018-04-24 18:00:14 Member leave: @Ja3#5401 (id 408928831164907520)
+2018-04-24 18:11:50 Role permissions: 'Gość' changed from 104324160 to 104320064
+2018-04-24 18:14:29 Role permissions: '.' changed from 104324161 to 104324160
+2018-04-24 18:16:55 Role permissions: '.' changed from 104324161 to 104324160
+2018-04-24 19:02:10 Member leave: @Hinata#8320 (id 267046362959446016)
+2018-04-24 19:02:29 Member join: @maqes#9000 (id 81119258200772608)
+2018-04-24 19:02:58 Member role add: 'Gość' role was added to @maqes#9000
+2018-04-24 19:55:00 Member join: @Hinata#8320 (id 267046362959446016)
+2018-04-24 19:55:16 Member role add: 'Rekrutant' role was added to @Hinata#8320
+2018-04-24 20:16:03 Member join: @Vinniejestsłodka#8467 (id 401487464809627649)
+2018-04-24 20:16:47 Member role add: 'Rekrutant' role was added to @Vinniejestsłodka#8467
+2018-04-24 20:34:19 Member nickname: '@Hinata#8320' (id 267046362959446016) changed nickname from 'None' to 'Kurwarnata'
+2018-04-24 20:34:57 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Ariuś' to 'Arianata'
+2018-04-24 20:40:52 Member join: @Ere#8511 (id 134733533183737857)
+2018-04-24 20:41:18 Member role add: 'Gość' role was added to @Ere#8511
+2018-04-24 20:42:38 Role created: 'new role' (id 438439650936356866)
+2018-04-24 20:43:04 Role renamed: 'new role' to 'Gildia HORSETERROR'
+2018-04-24 20:43:04 Role color: 'new role' changed from #000000 to #c9abe6
+2018-04-24 20:43:04 Role mentionable: 'Gildia HORSETERROR' is now mentionable
+2018-04-24 20:43:04 Role hoist: 'Gildia HORSETERROR' is now shown seperately
+2018-04-24 20:43:15 Role position: 'Artysta' changed from 2 to 1
+2018-04-24 20:43:15 Role position: 'Gravebot' changed from 3 to 2
+2018-04-24 20:43:15 Role position: 'MEE6' changed from 4 to 3
+2018-04-24 20:43:15 Role position: 'nadeko-mute' changed from 5 to 4
+2018-04-24 20:43:15 Role position: 'Synapse' changed from 6 to 5
+2018-04-24 20:43:15 Role position: 'Pollux' changed from 7 to 6
+2018-04-24 20:43:15 Role position: 'Dyno' changed from 8 to 7
+2018-04-24 20:43:15 Role position: 'dabBot' changed from 9 to 8
+2018-04-24 20:43:15 Role position: 'Mantaro' changed from 10 to 9
+2018-04-24 20:43:15 Role position: 'Tatsumaki' changed from 11 to 10
+2018-04-24 20:43:15 Role position: '.' changed from 12 to 11
+2018-04-24 20:43:15 Role position: '.' changed from 13 to 12
+2018-04-24 20:43:15 Role position: 'Bot' changed from 14 to 13
+2018-04-24 20:43:15 Role position: 'Nowy' changed from 15 to 14
+2018-04-24 20:43:15 Role position: 'Gość' changed from 16 to 15
+2018-04-24 20:43:15 Role position: 'Rekrutant' changed from 17 to 16
+2018-04-24 20:43:15 Role position: 'Magia 💦' changed from 18 to 17
+2018-04-24 20:43:15 Role position: 'Speed 🔥' changed from 19 to 18
+2018-04-24 20:43:15 Role position: 'Gildia HORSETERROR' changed from 1 to 19
+2018-04-24 20:43:22 Member role add: 'Gildia HORSETERROR' role was added to @Ere#8511
+2018-04-24 20:43:26 Member role add: 'Gildia HORSETERROR' role was added to @maqes#9000
+2018-04-24 20:47:24 Role created: 'new role' (id 438440849248878593)
+2018-04-24 20:47:53 Role renamed: 'new role' to 'Ratownik Gildi'
+2018-04-24 20:47:53 Role color: 'new role' changed from #000000 to #333333
+2018-04-24 20:47:58 Member role add: 'Ratownik Gildi' role was added to @Hinata#8320
+2018-04-24 20:48:24 Role color: 'Gildia HORSETERROR' changed from #c9abe6 to #5b1d7e
+2018-04-24 20:48:34 Role created: 'new role' (id 438441141155659777)
+2018-04-24 20:48:47 Role renamed: 'new role' to 'Aktor Zawodowy'
+2018-04-24 20:48:47 Role color: 'new role' changed from #000000 to #1f1f1f
+2018-04-24 20:48:52 Member role add: 'Aktor Zawodowy' role was added to @Nalla#5631
+2018-04-25 05:08:02 Server icon changed from https://cdn.discordapp.com/icons/437981651075727383/2605e6712827d23b0612c01434bd2f6a.jpg to https://cdn.discordapp.com/icons/437981651075727383/a627e19326e2f491469ebd6132ba4c30.jpg
+2018-04-25 05:13:38 Member role add: '.' role was added to @Seulgi#5102
+2018-04-25 05:13:40 Member role add: 'Gość' role was added to @Seulgi#5102
+2018-04-25 13:09:31 Member join: @Sincerely#5069 (id 381562495854182411)
+2018-04-25 13:09:51 Member role add: 'Rekrutant' role was added to @Sincerely#5069
+2018-04-25 14:41:00 Member role add: 'Członek' role was added to @Sincerely#5069
+2018-04-25 14:41:04 Member role remove: The 'Rekrutant' role was removed from @Sincerely#5069
+2018-04-25 14:41:08 Member role add: 'Magia 💦' role was added to @Sincerely#5069
+2018-04-25 14:41:43 Member role add: 'Magia 💦' role was added to @Ayatus(͡° ͜ʖ ͡°)#8286
+2018-04-25 14:44:28 Member username: '@Vinniejestsłodka#8467' (id 401487464809627649) changed username from 'Vinniejestsłodka' to 'Oreo'
+2018-04-25 15:55:27 Member join: @Nokimo#8752 (id 370301116681814019)
+2018-04-25 15:55:46 Member role add: 'Członek' role was added to @Amii#8528
+2018-04-25 15:56:24 Member role add: 'Rekrutant' role was added to @Nokimo#8752
+2018-04-25 15:56:28 Member role remove: The 'Rekrutant' role was removed from @Amii#8528
+2018-04-25 15:56:31 Member role add: 'Magia 💦' role was added to @Amii#8528
+2018-04-25 15:56:36 Member role remove: The 'Rekrutant' role was removed from @Oreo#8467
+2018-04-25 15:56:40 Member role add: 'Członek' role was added to @Oreo#8467
+2018-04-25 15:56:54 Member role add: 'Magia 💦' role was added to @Oreo#8467
+2018-04-25 16:22:41 Member role add: 'Członek' role was added to @Vasabi#2214
+2018-04-25 16:22:43 Member role remove: The 'Rekrutant' role was removed from @Vasabi#2214
+2018-04-25 17:12:46 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Jenga' to '💓'
+2018-04-25 17:19:47 Member username: '@Oreo#8467' (id 401487464809627649) changed username from 'Oreo' to 'Tęczowe Oreo'
+2018-04-25 17:53:47 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from '💓' to '🐍'
+2018-04-25 19:27:59 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from '!Nalisa' to '!Nalisa 🌸'
+2018-04-25 19:28:22 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from '!Nalisa 🌸' to '!Nalisa'
+2018-04-25 20:16:54 Role color: 'Aktor Zawodowy' changed from #1f1f1f to #4e8d8d
+2018-04-25 20:17:10 Role color: 'Aktor Zawodowy' changed from #4e8d8d to #6dd1d1
+2018-04-25 20:40:22 Member role add: 'Speed 🔥' role was added to @matriks500#2049
+2018-04-25 20:40:23 Member role add: 'Magia 💦' role was added to @matriks500#2049
+2018-04-25 20:40:24 Member role add: 'Gość' role was added to @matriks500#2049
+2018-04-25 20:40:25 Member role add: 'Nowy' role was added to @matriks500#2049
+2018-04-25 22:14:28 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Arianata' to 'Ari'
+2018-04-25 22:14:39 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Ari' to 'Ariuś'
+2018-04-25 22:44:24 Member username: '@Kirschtein#2441' (id 276782848265027584) changed username from 'Kirschtein' to 'Poszukiwacz szczęścia'
+2018-04-26 05:19:55 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from '🐍' to '💎'
+2018-04-26 05:21:40 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from '💎' to '🐍'
+2018-04-26 07:10:38 Member role add: 'Magia 💦' role was added to @Vasabi#2214
+2018-04-26 07:42:19 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from '🐍' to 'Yuppi'
+2018-04-26 07:42:29 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Yuppi' to '🐍'
+2018-04-26 13:23:49 Channel created: filmiki
+2018-04-26 13:29:22 Member role remove: The 'Nowy' role was removed from @matriks500#2049
+2018-04-26 14:25:24 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from '🐍' to 'Yeohyung'
+2018-04-26 15:06:23 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from '!Nalisa' to '!Nalla'
+2018-04-26 15:07:33 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from '!Nalla' to '!Nalisa'
+2018-04-26 15:27:50 Member role add: 'Członek' role was added to @Aya | Suga#8523
+2018-04-26 15:37:44 Member nickname: '@Hinata#8320' (id 267046362959446016) changed nickname from 'Kurwarnata' to 'Kurweta'
+2018-04-26 16:10:07 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Yeohyung' to 'Deu'
+2018-04-26 16:36:27 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Deu' to 'ou'
+2018-04-26 16:51:51 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'ou' to 'Believer'
+2018-04-26 17:52:52 Member nickname: '@Aya | Suga#8523' (id 302796095082332161) changed nickname from 'Suga' to 'Dave'
+2018-04-26 17:55:47 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from '! Yoshiko' to 'Mia'
+2018-04-26 17:57:06 Member join: @Muffinkowa#7275 (id 436390284658606103)
+2018-04-26 17:57:40 Member role add: 'Rekrutant' role was added to @Muffinkowa#7275
+2018-04-26 18:52:20 Role created: 'new role' (id 439136666133725185)
+2018-04-26 18:52:32 Role renamed: 'new role' to '♥'
+2018-04-26 18:52:32 Role color: 'new role' changed from #000000 to #992d22
+2018-04-26 18:53:06 Member role add: '♥' role was added to @maqes#9000
+2018-04-26 18:53:10 Member role add: '♥' role was added to @Ere#8511
+2018-04-27 05:03:48 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Believer' to 'Die.'
+2018-04-27 06:51:15 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Die.' to 'Deu'
+2018-04-27 10:14:29 Channel created: Ważne osoby
+2018-04-27 10:20:41 Channel created: Lider Oficerzy
+2018-04-27 10:42:44 Channel overwrites: Ważne osoby (439368730640777218): role ~Jestem ważna~ (437984887304355840) added with values 0, 0
+2018-04-27 10:42:48 Channel overwrites: Ważne osoby (439368730640777218): role ~Jestem ważna~ (437984887304355840) updated to values 1048576, 0 (was 0, 0)
+2018-04-27 11:04:53 Channel overwrites: Ważne osoby (439368730640777218): role @everyone (437981651075727383) updated to values 0, 1049600 (was 0, 1048576)
+2018-04-27 11:05:01 Channel overwrites: Lider Oficerzy (439370295044734976): role @everyone (437981651075727383) updated to values 0, 1049600 (was 0, 1048576)
+2018-04-27 11:08:27 Member join: @fifi💕#1800 (id 286179466915479573)
+2018-04-27 11:08:47 Member join: @Tinuś xx#7851 (id 222077348357472256)
+2018-04-27 11:09:10 Member role add: 'Gildia HORSETERROR' role was added to @fifi💕#1800
+2018-04-27 11:09:12 Member role add: 'Gildia HORSETERROR' role was added to @Tinuś xx#7851
+2018-04-27 11:14:42 Member nickname: '@Aya | Suga#8523' (id 302796095082332161) changed nickname from 'Dave' to 'Onchao'
+2018-04-27 11:17:36 Member join: @S-Sin#3742 (id 336874877925589002)
+2018-04-27 11:17:55 Member role add: 'Gildia HORSETERROR' role was added to @S-Sin#3742
+2018-04-27 11:24:41 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Mia' to 'None'
+2018-04-27 11:30:05 Member role add: 'Gość' role was added to @fifi💕#1800
+2018-04-27 11:30:08 Member role add: 'Gość' role was added to @S-Sin#3742
+2018-04-27 11:30:15 Member role add: 'Gość' role was added to @Tinuś xx#7851
+2018-04-27 12:01:02 Member join: @SZPANERKA#5556 (id 436949381933957120)
+2018-04-27 12:03:07 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'None' to 'chuj ci w dupe'
+2018-04-27 12:07:30 Member role add: 'Rekrutant' role was added to @SZPANERKA#5556
+2018-04-27 12:07:57 Member join: @Yatochi#8766 (id 402772922693058560)
+2018-04-27 12:11:21 Member role add: 'Gość' role was added to @Yatochi#8766
+2018-04-27 12:11:46 Member role add: 'Gildia HORSETERROR' role was added to @Yatochi#8766
+2018-04-27 12:12:41 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Deu' to 'None'
+2018-04-27 12:17:24 Member nickname: '@!~>Kachiyo<~!#6544' (id 326215433525002241) changed nickname from 'None' to 'epud w ic juch'
+2018-04-27 12:26:44 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'chuj ci w dupe' to 'Kochiko'
+2018-04-27 12:46:37 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Kochiko' to 'sexmasterka XD'
+2018-04-27 12:46:56 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'sexmasterka XD' to 'CHUJ CI W DUPE'
+2018-04-27 15:48:05 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'CHUJ CI W DUPE' to 'CHUJ MI W DUPE'
+2018-04-27 16:06:42 Member username: '@Yeou#9841' (id 349089836348604416) changed username from 'Yeou' to 'Aderian'
+2018-04-27 16:07:01 Member nickname: '@Aderian#9841' (id 349089836348604416) changed nickname from 'None' to 'Yeou'
+2018-04-27 16:13:27 Member username: '@Aderian#9841' (id 349089836348604416) changed username from 'Aderian' to 'Yeou'
+2018-04-27 16:24:36 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Yeou' to 'Yeouhyun'
+2018-04-27 16:29:32 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'CHUJ MI W DUPE' to 'CHUJ CI  W DUPE'
+2018-04-27 16:35:03 Member role remove: The 'Rekrutant' role was removed from @Yuuha　異ッつ#5730
+2018-04-27 16:35:11 Member role add: 'Rekrutant' role was added to @Yuuha　異ッつ#5730
+2018-04-27 16:36:05 Member role remove: The 'Rekrutant' role was removed from @Yuuha　異ッつ#5730
+2018-04-27 16:36:27 Member role remove: The 'Rekrutant' role was removed from @Yuuha　異ッつ#5730
+2018-04-27 16:36:36 Member role add: 'Rekrutant' role was added to @Yuuha　異ッつ#5730
+2018-04-27 16:36:39 Member role remove: The 'Rekrutant' role was removed from @Yuuha　異ッつ#5730
+2018-04-27 16:36:39 Member role add: 'Rekrutant' role was added to @Yuuha　異ッつ#5730
+2018-04-27 16:36:39 Member role remove: The 'Rekrutant' role was removed from @Yuuha　異ッつ#5730
+2018-04-27 16:36:39 Member role remove: The 'Rekrutant' role was removed from @Yuuha　異ッつ#5730
+2018-04-27 16:36:40 Member role add: 'Rekrutant' role was added to @Yuuha　異ッつ#5730
+2018-04-27 16:36:40 Member role remove: The 'Rekrutant' role was removed from @Yuuha　異ッつ#5730
+2018-04-27 16:36:40 Member role add: 'Rekrutant' role was added to @Yuuha　異ッつ#5730
+2018-04-27 16:36:48 Member role remove: The 'Rekrutant' role was removed from @Yuuha　異ッつ#5730
+2018-04-27 16:36:58 Member role add: 'Rekrutant' role was added to @Yuuha　異ッつ#5730
+2018-04-27 16:37:44 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Yeouhyun' to 'Yeohyun'
+2018-04-27 16:38:01 Member role add: 'Speed 🔥' role was added to @Yuuha　異ッつ#5730
+2018-04-27 16:38:01 Member role remove: The 'Speed 🔥' role was removed from @Yuuha　異ッつ#5730
+2018-04-27 16:40:16 Member role remove: The 'Rekrutant' role was removed from @Yuuha　異ッつ#5730
+2018-04-27 16:40:46 Member role add: 'Rekrutant' role was added to @Yuuha　異ッつ#5730
+2018-04-27 16:48:22 Role permissions: 'Admin' changed from 104324169 to 1983380721
+2018-04-27 16:48:23 Member role add: '.' role was added to @Yeou#9841
+2018-04-27 16:49:30 Channel overwrites: boty (437989407207718942): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-27 16:49:30 Channel overwrites: breeding (437989274957250570): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-27 16:49:31 Channel overwrites: info (438377482794696735): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-27 16:49:33 Channel overwrites: filmiki (439053994606985217): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-27 16:49:33 Channel overwrites: general (438019702350938122): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-27 16:49:33 Channel overwrites: propozycje (437989333878964234): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-27 16:49:33 Channel overwrites: twórczość (438030566231900170): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-27 16:49:33 Channel overwrites: obrazki (438348483821568000): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-27 16:49:33 Channel overwrites: nwm (437988470200205313): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-27 16:49:33 Channel overwrites: screeny (438328775709818880): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-27 16:49:34 Member role add: 'nadeko-mute' role was added to @KawaiiBot#0769
+2018-04-27 16:49:47 Member role remove: The 'nadeko-mute' role was removed from @KawaiiBot#0769
+2018-04-27 16:58:22 Channel created: nsfw
+2018-04-27 16:59:08 Role created: 'new role' (id 439470562377596948)
+2018-04-27 16:59:29 Role renamed: 'new role' to 'NSFW'
+2018-04-27 16:59:29 Role color: 'new role' changed from #000000 to #e1b8f7
+2018-04-27 17:02:19 Channel topic: nsfw topic was set to ""
+2018-04-27 17:02:26 Channel overwrites: nsfw (439470376368734218): role NSFW (439470562377596948) added with values 0, 0
+2018-04-27 17:02:36 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'CHUJ CI  W DUPE' to 'Kochiko aka Yoshiko'
+2018-04-27 17:03:10 Channel overwrites: nsfw (439470376368734218): role @everyone (437981651075727383) added with values 0, 805829713
+2018-04-27 17:03:33 Channel overwrites: nsfw (439470376368734218): role NSFW (439470562377596948) updated to values 388160, 805441553 (was 0, 0)
+2018-04-27 17:05:23 Member role add: 'NSFW' role was added to @Yeou#9841
+2018-04-27 17:12:37 Member role add: 'NSFW' role was added to @Zero Two#1866
+2018-04-27 17:12:43 Member role add: 'NSFW' role was added to @Nalla#5631
+2018-04-27 17:20:29 Member role add: 'NSFW' role was added to @Tęczowe Oreo#8467
+2018-04-27 17:28:07 Channel deleted: info
+2018-04-27 17:28:08 Channel deleted: Rekru
+2018-04-27 17:28:24 Channel created: info
+2018-04-27 17:28:37 Channel overwrites: info (439477933829128193): role @everyone (437981651075727383) added with values 1024, 2048
+2018-04-27 17:28:37 Channel overwrites: info (439477933829128193): role Lider (437982437876695040) added with values 0, 0
+2018-04-27 17:28:40 Channel overwrites: info (439477933829128193): role Oficer (437982506617143296) added with values 0, 0
+2018-04-27 17:28:45 Channel overwrites: info (439477933829128193): role Oficer (437982506617143296) updated to values 3072, 0 (was 0, 0)
+2018-04-27 17:28:49 Channel overwrites: info (439477933829128193): role Lider (437982437876695040) updated to values 3072, 0 (was 0, 0)
+2018-04-27 17:28:50 Channel overwrites: info (439477933829128193): role Super Oficer (437987304334819338) added with values 0, 0
+2018-04-27 17:28:54 Channel overwrites: info (439477933829128193): role Super Oficer (437987304334819338) updated to values 3072, 0 (was 0, 0)
+2018-04-27 18:04:51 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from '!Nalisa' to 'Nalla Lisa Nalisa'
+2018-04-27 18:04:56 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from 'Nalla Lisa Nalisa' to '!Nalisa'
+2018-04-27 19:16:31 Member nickname: '@Aya | Suga#8523' (id 302796095082332161) changed nickname from 'Onchao' to 'Suga'
+2018-04-27 20:13:39 Member nickname: '@!~>Kachiyo<~!#6544' (id 326215433525002241) changed nickname from 'epud w ic juch' to 'KTO CHCE ODE MNIE ARTA XD'
+2018-04-27 20:18:07 Member username: '@Aya | Suga#8523' (id 302796095082332161) changed username from 'Aya | Suga' to 'Suga'
+2018-04-27 21:14:19 Member nickname: '@Yuuha　異ッつ#5730' (id 259008014466547722) changed nickname from 'None' to 'Minako'
+2018-04-27 21:14:20 Channel deleted: Ważne osoby
+2018-04-28 06:50:31 Member nickname: '@!~>Kachiyo<~!#6544' (id 326215433525002241) changed nickname from 'KTO CHCE ODE MNIE ARTA XD' to 'None'
+2018-04-28 07:22:30 Member role remove: The 'NSFW' role was removed from @Yeou#9841
+2018-04-28 07:38:03 Member nickname: '@Yatochi#8766' (id 402772922693058560) changed nickname from 'None' to 'Yatochistu'
+2018-04-28 07:50:36 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Kochiko aka Yoshiko' to 'Aliszja onlajne'
+2018-04-28 08:04:35 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Yeohyun' to 'DAJCIE MI PIENIAZKI'
+2018-04-28 08:11:12 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Aliszja onlajne' to 'Aliszja onlajn'
+2018-04-28 08:11:30 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Aliszja onlajn' to 'walić konia XD'
+2018-04-28 08:12:26 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'walić konia XD' to 'A Deu ma ból dupy w sumie ja też'
+2018-04-28 08:12:53 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'DAJCIE MI PIENIAZKI' to 'Zostaw tego konia'
+2018-04-28 08:13:06 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'A Deu ma ból dupy w sumie ja też' to 'Nie'
+2018-04-28 08:13:14 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Zostaw tego konia' to 'pusc jom'
+2018-04-28 08:13:27 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Nie' to 'Zwal siebie'
+2018-04-28 08:13:28 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'pusc jom' to 'GDZIE PIENIADZE SA ZA STAJNIE'
+2018-04-28 08:13:46 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Zwal siebie' to 'Aha'
+2018-04-28 08:13:55 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'GDZIE PIENIADZE SA ZA STAJNIE' to 'Ehe'
+2018-04-28 08:22:27 Member nickname: '@Suga#8523' (id 302796095082332161) changed nickname from 'Suga' to 'Uhu'
+2018-04-28 09:03:38 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Aha' to 'ŚWINKA POPKA'
+2018-04-28 09:04:18 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'ŚWINKA POPKA' to 'Aha'
+2018-04-28 09:09:12 Role created: 'new role' (id 439714691103850496)
+2018-04-28 09:09:25 Role renamed: 'new role' to '.'
+2018-04-28 09:09:25 Role color: 'new role' changed from #000000 to #ec7ed4
+2018-04-28 09:09:29 Role position: 'NSFW' changed from 2 to 1
+2018-04-28 09:09:29 Role position: '♥' changed from 3 to 2
+2018-04-28 09:09:29 Role position: 'Aktor Zawodowy' changed from 4 to 3
+2018-04-28 09:09:29 Role position: 'Ratownik Gildi' changed from 5 to 4
+2018-04-28 09:09:29 Role position: 'Artysta' changed from 6 to 5
+2018-04-28 09:09:29 Role position: 'Gravebot' changed from 7 to 6
+2018-04-28 09:09:29 Role position: 'MEE6' changed from 8 to 7
+2018-04-28 09:09:29 Role position: 'nadeko-mute' changed from 9 to 8
+2018-04-28 09:09:29 Role position: 'Synapse' changed from 10 to 9
+2018-04-28 09:09:29 Role position: 'Pollux' changed from 11 to 10
+2018-04-28 09:09:29 Role position: 'Dyno' changed from 12 to 11
+2018-04-28 09:09:29 Role position: 'dabBot' changed from 13 to 12
+2018-04-28 09:09:29 Role position: 'Mantaro' changed from 14 to 13
+2018-04-28 09:09:29 Role position: 'Tatsumaki' changed from 15 to 14
+2018-04-28 09:09:29 Role position: '.' changed from 16 to 15
+2018-04-28 09:09:29 Role position: '.' changed from 17 to 16
+2018-04-28 09:09:29 Role position: 'Bot' changed from 18 to 17
+2018-04-28 09:09:29 Role position: 'Nowy' changed from 19 to 18
+2018-04-28 09:09:29 Role position: 'Gość' changed from 20 to 19
+2018-04-28 09:09:29 Role position: 'Rekrutant' changed from 21 to 20
+2018-04-28 09:09:29 Role position: 'Magia 💦' changed from 22 to 21
+2018-04-28 09:09:29 Role position: 'Speed 🔥' changed from 23 to 22
+2018-04-28 09:09:29 Role position: 'Gildia HORSETERROR' changed from 24 to 23
+2018-04-28 09:09:29 Role position: 'Członek' changed from 25 to 24
+2018-04-28 09:09:29 Role position: '.' changed from 1 to 25
+2018-04-28 09:09:52 Member role add: '.' role was added to @Zero Two#1866
+2018-04-28 09:40:03 Member username: '@Yuuha　異ッつ#5730' (id 259008014466547722) changed username from 'Yuuha　異ッつ' to '=)'
+2018-04-28 09:41:57 Member username: '@=)#5730' (id 259008014466547722) changed username from '=)' to 'Yuuha　異ッつ'
+2018-04-28 10:09:49 Member role add: 'NSFW' role was added to @Littleshrew#0996
+2018-04-28 10:17:03 Member role add: 'NSFW' role was added to @fifi💕#1800
+2018-04-28 10:20:48 Member role add: 'NSFW' role was added to @Poszukiwacz szczęścia#2441
+2018-04-28 10:21:22 Member role add: 'NSFW' role was added to @matriks500#2049
+2018-04-28 12:35:33 Member nickname: '@!~>Kachiyo<~!#6544' (id 326215433525002241) changed nickname from 'None' to 'Gwałt'
+2018-04-28 12:45:29 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Aha' to 'Placek : D'
+2018-04-28 13:12:25 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Placek : D' to 'Forever Alone..'
+2018-04-28 13:13:11 Member role add: 'NSFW' role was added to @Sincerely#5069
+2018-04-28 15:16:08 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Kretynka' to 'łii'
+2018-04-28 15:16:16 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'łii' to 'Pycy Pycy'
+2018-04-28 16:50:22 Member nickname: '@Suga#8523' (id 302796095082332161) changed nickname from 'Uhu' to 'None'
+2018-04-28 17:07:38 Member role add: 'NSFW' role was added to @Arihyung#0898
+2018-04-28 18:45:34 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Pycy Pycy' to 'Ta...Yoshiko..'
+2018-04-28 19:45:50 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Ariuś' to 'Jungkook'
+2018-04-28 19:47:52 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Ta...Yoshiko..' to 'Ktoś'
+2018-04-28 20:06:39 Member nickname: '@Yatochi#8766' (id 402772922693058560) changed nickname from 'Yatochistu' to 'Itonori'
+2018-04-28 20:09:57 Member role remove: The '.' role was removed from @Hossaki#4437
+2018-04-28 20:10:18 Member role add: '.' role was added to @Hossaki#4437
+2018-04-28 20:16:50 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Jungkook' to 'Kookie'
+2018-04-28 20:17:15 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Ktoś' to 'Przegryw'
+2018-04-28 20:39:27 Member username: '@Arihyung#0898' (id 249904997045633024) changed username from 'Arihyung' to 'Jungkook'
+2018-04-30 08:32:40 Member nickname: '@Hinata#8320' (id 267046362959446016) changed nickname from 'Andrzej Hin Duda' to 'Hin'
+2018-04-30 09:19:43 Member nickname: '@!~>Kachiyo<~!#6544' (id 326215433525002241) changed nickname from 'Kaneki x Touka' to 'Kajak'
+2018-04-30 09:58:06 Member role add: 'rp/rpg' role was added to @Hinata#8320
+2018-04-30 10:44:35 Member role remove: The 'Gość' role was removed from @Hertzsprung#0885
+2018-04-30 10:44:42 Member role add: 'Członek' role was added to @Hertzsprung#0885
+2018-04-30 10:45:17 Member role add: 'Magia 💦' role was added to @Hertzsprung#0885
+2018-04-30 11:34:48 Member username: '@Jisatsu#9938' (id 387212346948321281) changed username from 'Jisatsu' to 'Saiko'
+2018-04-30 11:52:20 Member username: '@Suga#8523' (id 302796095082332161) changed username from 'Suga' to 'Eto'
+2018-04-30 11:56:32 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from '.' to 'Touka'
+2018-04-30 11:57:05 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Touka' to '.Touka'
+2018-04-30 12:09:38 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from '.Touka' to '.Tuka'
+2018-04-30 12:10:04 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from '.Tuka' to '.Touka'
+2018-04-30 12:17:45 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from '.Touka' to '.Tuka'
+2018-04-30 12:21:06 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from '.Tuka' to '. Touka'
+2018-04-30 13:00:55 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Deunna Deria Deusołowska' to 'Yeogyung'
+2018-04-30 13:01:02 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Yeogyung' to 'Yeohyung'
+2018-04-30 13:02:51 Member username: '@SZPANERKA#5556' (id 436949381933957120) changed username from 'SZPANERKA' to 'Łosoś'
+2018-04-30 13:14:21 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Alien' to 'Ariuś'
+2018-04-30 14:00:43 Member nickname: '@Yatochi (Yukinori (Yuki) Itsuki)#8766' (id 402772922693058560) changed nickname from 'Itonori' to 'Shu'
+2018-04-30 15:01:37 Member nickname: '@Yatochi (Yukinori (Yuki) Itsuki)#8766' (id 402772922693058560) changed nickname from 'Shu' to 'Uta'
+2018-04-30 15:25:28 Member nickname: '@Yatochi (Yukinori (Yuki) Itsuki)#8766' (id 402772922693058560) changed nickname from 'Uta' to 'Itori'
+2018-04-30 15:28:54 Channel overwrites: info (439477933829128193): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-30 15:28:54 Channel overwrites: rp (440238976021037076): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-30 15:28:55 Channel overwrites: nsfw (439470376368734218): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-30 15:28:55 Channel overwrites: rpg (440239002239369236): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-04-30 15:28:56 Member role add: 'nadeko-mute' role was added to @Nokimo#8752
+2018-04-30 15:29:08 Member role add: 'nadeko-mute' role was added to @Zero Two#1866
+2018-04-30 15:29:25 Member role remove: The 'nadeko-mute' role was removed from @Nokimo#8752
+2018-04-30 15:29:26 Member role remove: The 'nadeko-mute' role was removed from @Zero Two#1866
+2018-04-30 15:29:36 Member nickname: '@Nokimo#8752' (id 370301116681814019) changed nickname from 'Baka' to 'ALE MUTY TO JA LUBIE NAJBARDZIEJ'
+2018-04-30 15:30:58 Member nickname: '@Nokimo#8752' (id 370301116681814019) changed nickname from 'ALE MUTY TO JA LUBIE NAJBARDZIEJ' to 'Ale muty to ja lubię NAJBARDZIEJ'
+2018-04-30 15:31:40 Member nickname: '@Nokimo#8752' (id 370301116681814019) changed nickname from 'Ale muty to ja lubię NAJBARDZIEJ' to 'Ale MUTY to ja lubię NAJBARDZIEJ'
+2018-04-30 15:32:08 Member nickname: '@!~>Kachiyo<~!#6544' (id 326215433525002241) changed nickname from 'Kajak' to 'mowia na mnie rak'
+2018-04-30 15:32:13 Member nickname: '@!~>Kachiyo<~!#6544' (id 326215433525002241) changed nickname from 'mowia na mnie rak' to 'Kajak'
+2018-04-30 15:33:59 Member username: '@....#1315' (id 287304233768845314) changed username from '....' to 'loll'
+2018-04-30 15:34:22 Member username: '@loll#1315' (id 287304233768845314) changed username from 'loll' to 'kebab'
+2018-04-30 15:47:56 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from '. Touka' to '.Touka'
+2018-04-30 15:49:59 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Ariuś' to 'Jimin i jego klata'
+2018-04-30 15:52:08 Member username: '@Kasia#3785' (id 280339208013611019) changed username from 'Kasia' to 'Haba'
+2018-04-30 16:20:50 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from '!Nalla' to 'Senpai'
+2018-04-30 16:21:48 Member nickname: '@Nalla#5631' (id 389106521365020672) changed nickname from 'Senpai' to '.Senpai'
+2018-04-30 17:14:14 Member username: '@Yatochi (Yukinori (Yuki) Itsuki)#8766' (id 402772922693058560) changed username from 'Yatochi (Yukinori (Yuki) Itsuki)' to 'Yukinori (Yuki) Itsuki'
+2018-04-30 17:18:15 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Yeohyung' to 'YeoHuj'
+2018-04-30 17:18:58 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'YeoHuj' to 'jeohuj'
+2018-04-30 17:19:27 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'jeohuj' to 'Yeohuj'
+2018-04-30 18:15:50 Member role add: 'rp/rpg' role was added to @Littleshrew#0996
+2018-04-30 19:31:21 Member role remove: The '.' role was removed from @Hossaki#4437
+2018-04-30 19:36:25 Member role remove: The 'Helper' role was removed from @Hossaki#4437
+2018-04-30 20:17:52 Member role add: 'Helper' role was added to @Zero Two#1866
+2018-04-30 20:23:27 Member role remove: The '.' role was removed from @Littleshrew#0996
+2018-04-30 20:23:38 Member role remove: The '.' role was removed from @Haba#3785
+2018-04-30 20:23:44 Member role remove: The '.' role was removed from @Akanette#8300
+2018-04-30 20:25:00 Member leave: @Hossaki#4437 (id 272452150645358592)
+2018-04-30 20:32:00 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Yeohuj' to 'Córka Sugi Deunilla'
+2018-04-30 20:32:08 Member role add: 'Lider' role was added to @Ayatus(͡° ͜ʖ ͡°)#8286
+2018-04-30 20:32:11 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from '.Touka' to 'Ciocia Touka'
+2018-04-30 20:32:19 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Córka Sugi Deunilla' to 'Córka Sugi i Ayatusa Deunilla'
+2018-04-30 20:35:44 Member join: @julcia xx#0989 (id 337674995301875713)
+2018-04-30 20:36:16 Member role add: 'Gildia HORSETERROR' role was added to @julcia xx#0989
+2018-04-30 20:36:25 Member role add: 'Gość' role was added to @julcia xx#0989
+2018-04-30 20:37:59 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Ciocia Touka' to 'Touka-Chan'
+2018-04-30 20:55:06 Channel position: nsfw moved from 12 to 11
+2018-04-30 20:55:06 Channel position: filmiki moved from 11 to 12
+2018-04-30 20:55:07 Channel position: filmiki moved from 12 to 11
+2018-04-30 20:55:07 Channel position: nsfw moved from 11 to 12
+2018-04-30 21:22:37 Role created: 'new role' (id 440624038596050944)
+2018-04-30 21:23:12 Role renamed: 'new role' to '♥ Puci Sugi ♥'
+2018-04-30 21:23:12 Role color: 'new role' changed from #000000 to #7e48c7
+2018-04-30 21:23:19 Member role add: '♥ Puci Sugi ♥' role was added to @Arihyung#0898
+2018-04-30 21:23:23 Member role add: '♥ Puci Sugi ♥' role was added to @Nalla#5631
+2018-04-30 21:23:37 Member role add: '♥ Puci Sugi ♥' role was added to @Ere#8511
+2018-04-30 21:23:38 Member role add: '♥ Puci Sugi ♥' role was added to @Ayatus(͡° ͜ʖ ͡°)#8286
+2018-04-30 21:23:42 Member role add: '♥ Puci Sugi ♥' role was added to @Yeou#9841
+2018-04-30 21:23:47 Member role add: '♥ Puci Sugi ♥' role was added to @maqes#9000
+2018-04-30 21:23:55 Member role add: '♥ Puci Sugi ♥' role was added to @Saiko#9938
+2018-04-30 21:23:59 Member role add: '♥ Puci Sugi ♥' role was added to @Zero Two#1866
+2018-04-30 21:24:16 Member role add: '♥ Puci Sugi ♥' role was added to @!~>Kachiyo<~!#6544
+2018-04-30 21:24:21 Member role add: '♥ Puci Sugi ♥' role was added to @Hinata#8320
+2018-05-01 06:08:39 Member role remove: The '.' role was removed from @Poszukiwacz szczęścia#2441
+2018-05-01 06:37:14 Member role add: 'Członek' role was added to @Jijae#4586
+2018-05-01 06:37:16 Member role remove: The 'Rekrutant' role was removed from @Jijae#4586
+2018-05-01 06:37:17 Member role add: 'Magia 💦' role was added to @Jijae#4586
+2018-05-01 06:46:03 Member role add: 'NSFW' role was added to @!~>Kachiyo<~!#6544
+2018-05-01 06:46:24 Member role add: '.' role was added to @!~>Kachiyo<~!#6544
+2018-05-01 07:16:36 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'ChimChim' to 'Ariuś'
+2018-05-01 07:28:26 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Córka Sugi i Ayatusa Deunilla' to 'MATYLDA BLUE'
+2018-05-01 08:33:11 Member nickname: '@Ayatus(͡° ͜ʖ ͡°)#8286' (id 377701541592694794) changed nickname from '! Ayatuss' to 'Ayatuss'
+2018-05-01 10:17:12 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'MATYLDA BLUE' to 'oggo'
+2018-05-01 11:06:57 Member join: @Hossaki#4437 (id 272452150645358592)
+2018-05-01 11:07:23 Member role add: 'Helper' role was added to @Hossaki#4437
+2018-05-01 11:07:23 Member role add: 'Członek' role was added to @Hossaki#4437
+2018-05-01 11:07:27 Member role add: 'Magia 💦' role was added to @Hossaki#4437
+2018-05-01 11:07:27 Member role add: 'Magia 💦' role was added to @Hossaki#4437
+2018-05-01 11:07:27 Member role remove: The 'Speed 🔥' role was removed from @Hossaki#4437
+2018-05-01 11:07:34 Member role add: '♥ Puci Sugi ♥' role was added to @Hossaki#4437
+2018-05-01 14:05:20 Member role add: 'nadeko-mute' role was added to @Zero Two#1866
+2018-05-01 14:06:56 Member role remove: The 'nadeko-mute' role was removed from @Zero Two#1866
+2018-05-01 14:29:04 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'oggo' to 'Bąk mi wleciał'
+2018-05-01 14:44:18 Member nickname: '@Eto#8523' (id 302796095082332161) changed nickname from 'None' to 'Eto konfident l Wielka'
+2018-05-01 14:51:58 Member nickname: '@Ayatus(͡° ͜ʖ ͡°)#8286' (id 377701541592694794) changed nickname from 'Ayatuss' to 'Ayatus l'
+2018-05-01 14:52:40 Member nickname: '@Ayatus(͡° ͜ʖ ͡°)#8286' (id 377701541592694794) changed nickname from 'Ayatus l' to 'Ayatus l Śmieszkowy'
+2018-05-01 14:55:07 Channel created: wyscigi
+2018-05-01 14:55:12 Channel position: wyscigi moved from 17 to 7
+2018-05-01 14:55:12 Channel position: boty moved from 7 to 8
+2018-05-01 14:55:12 Channel position: twórczość moved from 8 to 9
+2018-05-01 14:55:12 Channel position: screeny moved from 9 to 10
+2018-05-01 14:55:12 Channel position: obrazki moved from 10 to 11
+2018-05-01 14:55:12 Channel position: filmiki moved from 11 to 12
+2018-05-01 14:55:12 Channel position: nsfw moved from 12 to 13
+2018-05-01 14:55:12 Channel position: rp moved from 13 to 14
+2018-05-01 14:55:12 Channel position: rpg moved from 14 to 15
+2018-05-01 14:55:12 Channel position: info moved from 15 to 16
+2018-05-01 14:55:12 Channel position: nwm moved from 16 to 17
+2018-05-01 15:01:57 Member nickname: '@Ayatus(͡° ͜ʖ ͡°)#8286' (id 377701541592694794) changed nickname from 'Ayatus l Śmieszkowy' to 'Ayatus Pedofil l Śmieszkowy'
+2018-05-01 18:40:02 Member role add: 'Artysta' role was added to @Hossaki#4437
+2018-05-01 19:29:18 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Bąk mi wleciał' to 'Wedlug kajaka nie udacznik'
+2018-05-01 19:31:10 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Wedlug kajaka nie udacznik' to 'Najlapsza gta'
+2018-05-01 19:31:39 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Najlapsza gta' to 'Michalina Bąk'
+2018-05-01 19:32:37 Member nickname: '@Hossaki#4437' (id 272452150645358592) changed nickname from 'None' to 'Kermit Szuka Żony'
+2018-05-01 19:37:04 Member nickname: '@Hossaki#4437' (id 272452150645358592) changed nickname from 'Kermit Szuka Żony' to 'Kermit Ma Deu'
+2018-05-01 19:39:01 Member nickname: '@Hossaki#4437' (id 272452150645358592) changed nickname from 'Kermit Ma Deu' to 'Kermit Pali Papierosy'
+2018-05-01 19:50:11 Role created: 'new role' (id 440963166529126420)
+2018-05-01 19:50:35 Role created: 'new role' (id 440963268174151690)
+2018-05-01 19:51:04 Role color: 'new role' changed from #000000 to #970045
+2018-05-01 19:51:11 Role mentionable: 'new role' is now mentionable
+2018-05-01 19:51:27 Role renamed: 'new role' to 'Demony Kajaka -w-'
+2018-05-01 19:51:27 Role permissions: 'Demony Kajaka -w-' changed from 104324161 to 104323137
+2018-05-01 19:51:29 Role permissions: 'Demony Kajaka -w-' changed from 104323137 to 104324161
+2018-05-01 19:51:50 Member username: '@Saiko#9938' (id 387212346948321281) changed username from 'Saiko' to 'Shizuka'
+2018-05-01 20:05:39 Member role add: 'Demony Kajaka -w-' role was added to @Hinata#8320
+2018-05-01 20:06:02 Member role add: 'Demony Kajaka -w-' role was added to @maqes#9000
+2018-05-01 20:06:35 Member role add: 'Demony Kajaka -w-' role was added to @Ere#8511
+2018-05-01 20:12:55 Member role add: 'Demony Kajaka -w-' role was added to @Ayatus(͡° ͜ʖ ͡°)#8286
+2018-05-01 20:12:59 Member role add: 'Demony Kajaka -w-' role was added to @Eto#8523
+2018-05-01 20:13:05 Member role add: 'Demony Kajaka -w-' role was added to @Yeou#9841
+2018-05-01 20:13:22 Member role add: 'Demony Kajaka -w-' role was added to @Shizuka#9938
+2018-05-01 20:14:53 Member role add: 'Demony Kajaka -w-' role was added to @Nalla#5631
+2018-05-01 20:14:57 Member role add: 'Demony Kajaka -w-' role was added to @Zero Two#1866
+2018-05-01 20:15:05 Member role add: 'Demony Kajaka -w-' role was added to @Arihyung#0898
+2018-05-01 21:04:31 Role created: 'new role' (id 440981872638558224)
+2018-05-01 21:05:08 Role position: 'new role' changed from 3 to 2
+2018-05-01 21:05:08 Role position: '♥ Puci Sugi ♥' changed from 4 to 3
+2018-05-01 21:05:08 Role position: 'rp/rpg' changed from 5 to 4
+2018-05-01 21:05:08 Role position: 'NSFW' changed from 6 to 5
+2018-05-01 21:05:08 Role position: '♥' changed from 7 to 6
+2018-05-01 21:05:08 Role position: 'new role' changed from 1 to 7
+2018-05-01 21:05:09 Role renamed: 'new role' to 'Lisy Nalisy'
+2018-05-01 21:05:09 Role color: 'new role' changed from #000000 to #e67e22
+2018-05-01 21:05:17 Member role add: 'Lisy Nalisy' role was added to @Eto#8523
+2018-05-01 21:05:33 Member role add: 'Lisy Nalisy' role was added to @Hossaki#4437
+2018-05-01 21:05:40 Member role add: 'Lisy Nalisy' role was added to @Yeou#9841
+2018-05-01 21:06:01 Member role add: 'Lisy Nalisy' role was added to @Shiroy#7969
+2018-05-01 21:06:06 Member role add: 'Lisy Nalisy' role was added to @Sithus#6131
+2018-05-01 21:06:36 Member role add: 'Lisy Nalisy' role was added to @!~>Kachiyo<~!#6544
+2018-05-01 21:06:44 Member role add: 'Lisy Nalisy' role was added to @kebab#1315
+2018-05-01 21:06:59 Member role add: 'Lisy Nalisy' role was added to @Arihyung#0898
+2018-05-01 21:08:12 Member role add: 'Lisy Nalisy' role was added to @Zero Two#1866
+2018-05-01 21:10:17 Role renamed: 'Lisy Nalisy' to 'Lisy Nalisy 🐾'
+2018-05-01 21:10:41 Member role add: 'Lisy Nalisy 🐾' role was added to @Hinata#8320
+2018-05-02 05:33:57 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Michalina Bąk' to 'Yeohyung'
+2018-05-02 06:17:18 Member role add: 'rp/rpg' role was added to @!~>Kachiyo<~!#6544
+2018-05-02 06:51:15 Member nickname: '@Amii#8528' (id 391229983445614593) changed nickname from 'None' to 'Amii Gami'
+2018-05-02 08:22:24 Member username: '@Łosoś#5556' (id 436949381933957120) changed username from 'Łosoś' to 'Yuukiś <3'
+2018-05-02 09:39:32 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Yeohyung' to 'Deu Koperek Kobl'
+2018-05-02 09:39:35 Member nickname: '@Yeou#9841' (id 349089836348604416) changed nickname from 'Deu Koperek Kobl' to 'Deu Koperek Kobla'
+2018-05-02 10:06:15 Member leave: @Yuukiś <3#5556 (id 436949381933957120)
+2018-05-02 13:29:17 Member role add: 'Demony Kajaka -w-' role was added to @Hossaki#4437
+2018-05-02 15:49:39 Member nickname: '@Amii#8528' (id 391229983445614593) changed nickname from 'Amii Gami' to 'Amii Jajamj'
+2018-05-02 15:49:42 Member nickname: '@Amii#8528' (id 391229983445614593) changed nickname from 'Amii Jajamj' to 'Amii Jajami'
+2018-05-02 18:16:28 Channel overwrites: wyscigi (440888902803390477): role nadeko-mute (437986282363289620) added with values 0, 34880
+2018-05-02 18:16:28 Member role add: 'nadeko-mute' role was added to @Nokimo#8752
+2018-05-02 18:17:07 Member role remove: The 'nadeko-mute' role was removed from @Nokimo#8752
+2018-05-02 18:42:12 Member role add: 'Lisy Nalisy 🐾' role was added to @Akanette#8300
+2018-05-02 18:53:23 Member nickname: '@Hossaki#4437' (id 272452150645358592) changed nickname from 'Kermit Pali Papierosy' to 'Tytan ucieka przed Lewiatanem'
+2018-05-02 19:18:38 Member nickname: '@Yukinori (Yuki) Itsuki#8766' (id 402772922693058560) changed nickname from 'Itori' to 'Levi'
+2018-05-02 19:40:18 Member nickname: '@Hossaki#4437' (id 272452150645358592) changed nickname from 'Tytan ucieka przed Lewiatanem' to 'Tytan ucieka przed Niską Ceną'
+2018-05-02 19:46:44 Member nickname: '@Hossaki#4437' (id 272452150645358592) changed nickname from 'Tytan ucieka przed Niską Ceną' to 'Tytan ucieka przed Taksówką'
+2018-05-02 20:54:45 Role created: 'new role' (id 441341803849842689)
+2018-05-02 20:55:36 Role color: 'new role' changed from #000000 to #25c059
+2018-05-02 20:55:54 Role renamed: 'new role' to 'Gang Ariów'
+2018-05-02 20:56:13 Role renamed: 'Gang Ariów' to 'Aliens Ari'
+2018-05-02 20:56:42 Member role add: 'Aliens Ari' role was added to @Hossaki#4437
+2018-05-02 20:58:56 Member role add: 'Aliens Ari' role was added to @Zero Two#1866
+2018-05-02 20:58:59 Member role add: 'Aliens Ari' role was added to @Tinuś xx#7851
+2018-05-02 20:59:07 Member role add: 'Aliens Ari' role was added to @Sithus#6131
+2018-05-02 20:59:25 Member role add: 'Aliens Ari' role was added to @S-Sin#3742
+2018-05-02 20:59:49 Member role add: 'Aliens Ari' role was added to @!~>Kachiyo<~!#6544
+2018-05-02 21:00:03 Member role add: 'Aliens Ari' role was added to @julcia xx#0989
+2018-05-02 21:00:08 Member role add: 'Aliens Ari' role was added to @kebab#1315
+2018-05-02 21:00:18 Member role add: 'Aliens Ari' role was added to @Hinata#8320
+2018-05-02 21:03:57 Member role add: 'Aliens Ari' role was added to @Eto#8523
+2018-05-02 21:04:02 Member role add: 'Aliens Ari' role was added to @Nalla#5631
+2018-05-02 21:04:17 Member role add: 'Aliens Ari' role was added to @Yeou#9841
+2018-05-02 21:10:10 Role position: 'Demony Kajaka -w-' changed from 3 to 2
+2018-05-02 21:10:10 Role color: '.' changed from #9eaae4 to #76dda6
+2018-05-02 21:10:21 Member nickname: '@Arihyung#0898' (id 249904997045633024) changed nickname from 'Ariuś' to 'Ariś'
+2018-05-02 21:10:43 Role color: '.' changed from #76dda6 to #69f894
+2018-05-02 21:12:57 Role color: 'Aliens Ari' changed from #25c059 to #8afab2
+2018-05-02 21:13:20 Role color: '.' changed from #69f894 to #d8a6a6
+2018-05-02 23:28:57 Role renamed: 'Aliens Ari' to 'Faworki Ari'
+2018-05-03 05:55:06 Member nickname: '@Zero Two#1866' (id 386917047398957076) changed nickname from 'Touka-Chan' to 'Mikasa'
+2018-05-03 05:58:41 Member nickname: '@Amii#8528' (id 391229983445614593) changed nickname from 'Amii Jajami' to 'Julie'
+2018-05-03 07:46:50 Member nickname: '@kebab#1315' (id 287304233768845314) changed nickname from 'Hołp' to 'DżangKuk'

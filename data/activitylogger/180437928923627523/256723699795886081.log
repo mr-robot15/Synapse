@@ -1,0 +1,751 @@
+2018-04-27 14:08:45 #bots @Domus#0611: !heist
+2018-04-27 14:08:46 #bots @Synapse#0692: ```\n!heist\n\nGeneral heist related commands\n\nCommands:\n  info         Shows the Heist settings for this server.\n  clear        Clears a member of jail and death statuses.\n  targets      Shows a list of targets\n  theme        Sets the theme for heist\n  edittarget   Edits a heist target\n  remove       Remove a target from the heist list\n  revive       Revive from the dead!\n  version      Shows the version of heist you are running\n  play         This begins a Heist\n  bailout      Specify who you want to pay for release. Defaults to you.\n  stats        Shows your Heist stats\n  release      Removes you from jail or clears bail status if sentence served.\n  reset        Resets heist in case it hangs\n  themes       Lists available themes for heist.\n  createtarget Add a target to heist\n\nType !heist command for more info on a command.\nYou can also type !heist category for more info on a category.\n```
+2018-04-27 14:09:13 #bots @Domus#0611: !play
+2018-04-27 14:09:13 #bots @Synapse#0692: ```\n!play <url_or_search_terms>\n\nPlays a link / searches and play\n\n```
+2018-04-27 14:09:23 #bots @Domus#0611: !heist play
+2018-04-27 14:09:24 #bots @Synapse#0692: Oh no! There are no targets! To start creating a target, use !heist createtarget.
+2018-04-27 14:09:33 #bots @Domus#0611: !heist createtarget
+2018-04-27 14:09:35 #bots @Synapse#0692: This will walk-through the target creation process. You may cancel this process at anytime by typing !cancel. Let's begin with the first question.\nWhat is the name of this target?
+2018-04-27 14:09:44 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !warn @ĐØ₥Ʉ₴ stop using the bot
+2018-04-27 14:09:44 #bots @Synapse#0692: 
+2018-04-27 14:09:44 #bots @Synapse#0692 edited message from 2018-04-27 14:09:44 () to read: 
+2018-04-27 14:10:10 #bots @Domus#0611: Josh
+2018-04-27 14:10:10 #bots @Synapse#0692: You took too long. canceling target creation.
+2018-04-27 14:10:23 #bots @Domus#0611: !heist createtarget
+2018-04-27 14:10:23 #bots @Synapse#0692: This will walk-through the target creation process. You may cancel this process at anytime by typing !cancel. Let's begin with the first question.\nWhat is the name of this target?
+2018-04-27 14:10:26 #bots @Domus#0611: Josh
+2018-04-27 14:10:27 #bots @Synapse#0692: What is the max crew size for this target? Cannot be the same as other targets.\n*Crews over this size will go to the next largest bank.*
+2018-04-27 14:10:31 #bots @Domus#0611: 2
+2018-04-27 14:10:31 #bots @Synapse#0692: How many starting credits does this target have?
+2018-04-27 14:10:36 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !roit
+2018-04-27 14:10:37 #bots @Domus#0611: 300000
+2018-04-27 14:10:39 #bots @Synapse#0692: What is the maximum number of credits this target can hold?
+2018-04-27 14:10:45 #bots @Domus#0611: 300000
+2018-04-27 14:10:46 #bots @Synapse#0692: What is the individual chance of success for this target? 1-100
+2018-04-27 14:10:51 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !riot
+2018-04-27 14:10:51 #bots @Synapse#0692: ```\n!riot <text>\n\nRIOT!\n\n```
+2018-04-27 14:10:52 #bots @Domus#0611: 1
+2018-04-27 14:10:52 #bots @Synapse#0692: Target Created.\n```Name:       Josh\nGroup:      2\nVault:      300000\nVault Max:  300000\nSuccess:    1%```
+2018-04-27 14:11:01 #bots @Domus#0611: !play
+2018-04-27 14:11:01 #bots @Synapse#0692: ```\n!play <url_or_search_terms>\n\nPlays a link / searches and play\n\n```
+2018-04-27 14:11:06 #bots @Domus#0611: !heist play
+2018-04-27 14:11:07 #bots @Synapse#0692: A heist is being planned by Domus\nThe heist will begin in 20 seconds. Type !heist play to join their crew.
+2018-04-27 14:11:17 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !heist
+2018-04-27 14:11:18 #bots @Synapse#0692: ```\n!heist\n\nGeneral heist related commands\n\nCommands:\n  info         Shows the Heist settings for this server.\n  clear        Clears a member of jail and death statuses.\n  targets      Shows a list of targets\n  theme        Sets the theme for heist\n  edittarget   Edits a heist target\n  remove       Remove a target from the heist list\n  revive       Revive from the dead!\n  version      Shows the version of heist you are running\n  play         This begins a Heist\n  bailout      Specify who you want to pay for release. Defaults to you.\n  stats        Shows your Heist stats\n  release      Removes you from jail or clears bail status if sentence served.\n  reset        Resets heist in case it hangs\n  themes       Lists available themes for heist.\n  createtarget Add a target to heist\n\nType !heist command for more info on a command.\nYou can also type !heist category for more info on a category.\n```
+2018-04-27 14:11:27 #bots @Synapse#0692: You tried to rally a crew, but no one wanted to follow you. The heist has been cancelled.
+2018-04-27 14:11:38 #bots @Domus#0611: !heist play
+2018-04-27 14:11:38 #bots @Synapse#0692: You do not have enough credits to cover the costs of entry. You need 100 credits to participate.
+2018-04-27 14:11:51 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !pressf
+2018-04-27 14:11:51 #bots @Synapse#0692: What do you want to pay respects to?
+2018-04-27 14:12:03 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !penis
+2018-04-27 14:12:03 #bots @Synapse#0692: ```\n!penis [users...]\n\nDetects user's penis length\n\nThis is 101% accurate.\nEnter multiple users for an accurate comparison!\n\n```
+2018-04-27 14:12:03 #bots @Synapse#0692: Everyone, let's pay respects to **!penis**! Press f reaction on this message to pay respects.
+2018-04-27 14:12:12 #bots @Synapse#0692: **I Lιкє Ɓιя∂ιєѕ** has paid respects.
+2018-04-27 14:12:48 #bots @Domus#0611: !duel @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:12:48 #bots @Synapse#0692: ĐØ₥Ʉ₴ challenges I Lιкє Ɓιя∂ιєѕ to a duel!\n\nBy a coin toss, I Lιкє Ɓιя∂ιєѕ will go first.
+2018-04-27 14:12:48 #bots @Synapse#0692: I Lιкє Ɓιя∂ιєѕ fires their ballista at ĐØ₥Ʉ₴! It hits for 7 damage (13)
+2018-04-27 14:12:52 #bots @Synapse#0692: ĐØ₥Ʉ₴ drives their toe into I Lιкє Ɓιя∂ιєѕ! It hits for 2 damage (18)
+2018-04-27 14:12:54 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult
+2018-04-27 14:12:55 #bots @Synapse#0692: I Lιкє Ɓιя∂ιєѕ hurls pocket sand at ĐØ₥Ʉ₴!
+2018-04-27 14:12:55 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ You're so fat you show up on radar.
+2018-04-27 14:12:56 #bots @Synapse#0692: ĐØ₥Ʉ₴ fires their raygun at I Lιкє Ɓιя∂ιєѕ! It deals 5 damage (13)
+2018-04-27 14:12:59 #bots @Synapse#0692: I Lιкє Ɓιя∂ιєѕ fires their ballista at ĐØ₥Ʉ₴! It hits for 5 damage (8)
+2018-04-27 14:13:00 #bots @Synapse#0692: ĐØ₥Ʉ₴ decides to smoke medicinal incense instead of attacking. It heals 3 HP (11)
+2018-04-27 14:13:04 #bots @Synapse#0692: I Lιкє Ɓιя∂ιєѕ fires their raygun at ĐØ₥Ʉ₴, but has sweaty hands and loses their grip, hitting themself instead. It deals 6 damage (7)
+2018-04-27 14:13:06 #bots @Synapse#0692: ĐØ₥Ʉ₴ swings their falchion at I Lιкє Ɓιя∂ιєѕ! It deals 6 damage (1)
+2018-04-27 14:13:08 #bots @Synapse#0692: After 4 rounds, @ĐØ₥Ʉ₴ wins with 11 HP!\nStats: ĐØ₥Ʉ₴ has 1 wins, 0 losses, 0 draws; I Lιкє Ɓιя∂ιєѕ has 0 wins, 1 losses, 0 draws.
+2018-04-27 14:13:26 #bots @Domus#0611: !duel @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:13:28 #bots @Synapse#0692: ĐØ₥Ʉ₴ challenges I Lιкє Ɓιя∂ιєѕ to a duel!\n\nBy a coin toss, I Lιкє Ɓιя∂ιєѕ will go first.
+2018-04-27 14:13:29 #bots @Synapse#0692: I Lιкє Ɓιя∂ιєѕ fires their crossbow at ĐØ₥Ʉ₴! It deals 2 damage (18)
+2018-04-27 14:13:30 #bots @Synapse#0692: ĐØ₥Ʉ₴ decides to drink a generic hp potion instead of attacking. It heals 3 HP (21)
+2018-04-27 14:13:32 #bots @Synapse#0692: I Lιкє Ɓιя∂ιєѕ points at something in the distance, distracting ĐØ₥Ʉ₴ long enough to roundhouse kick them! It deals 5 damage (16)
+2018-04-27 14:13:33 #bots @Synapse#0692: ĐØ₥Ʉ₴ stabs their dagger into I Lιкє Ɓιя∂ιєѕ's head! It hits for 3 damage (17)
+2018-04-27 14:13:36 #bots @Synapse#0692: ĐØ₥Ʉ₴ is bowled over by I Lιкє Ɓιя∂ιєѕ's sudden bull rush! It deals 5 damage (11)
+2018-04-27 14:13:37 #bots @Synapse#0692: ĐØ₥Ʉ₴ fires their railgun at I Lιкє Ɓιя∂ιєѕ! It deals 6 damage (11)
+2018-04-27 14:13:40 #bots @[FFL] 117Chris1#6107: !penis @[FFL] 117Chris1
+2018-04-27 14:13:40 #bots @Synapse#0692: I Lιкє Ɓιя∂ιєѕ decides to drink a refreshingly delicious can of 7-Up instead of attacking. It recovers 3 HP (14)
+2018-04-27 14:13:40 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:13:40 #bots @Synapse#0692: **[FFL] 117Chris1's size:**\n8===========================D
+2018-04-27 14:13:41 #bots @Synapse#0692: @ĐØ₥Ʉ₴ You're so ugly, you scared the crap out of the toilet.
+2018-04-27 14:13:41 #bots @Synapse#0692: ĐØ₥Ʉ₴ drives their toe into I Lιкє Ɓιя∂ιєѕ's solar plexus! It deals 1 damage (13)
+2018-04-27 14:13:44 #bots @Synapse#0692: After 4 rounds, @I Lιкє Ɓιя∂ιєѕ wins with 13 HP!\nStats: I Lιкє Ɓιя∂ιєѕ has 1 wins, 1 losses, 0 draws; ĐØ₥Ʉ₴ has 1 wins, 1 losses, 0 draws.
+2018-04-27 14:14:03 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:14:04 #bots @Synapse#0692 deleted message from 2018-04-27 14:12:03 (Everyone, let's pay respects to **!penis**! Press f reaction on this message to pay respects.)
+2018-04-27 14:14:05 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ What are you going to do for a face when the baboon wants his butt back?
+2018-04-27 14:14:05 #bots @Synapse#0692: **1** person has paid respects to **!penis**.
+2018-04-27 14:14:25 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:14:25 #bots @Synapse#0692: @ĐØ₥Ʉ₴ If I gave you a penny for your thoughts, I'd get change.
+2018-04-27 14:14:35 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:14:36 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ You're so fat that when you were diagnosed with a flesh eating bacteria - the doctors gave you 87 years to live.
+2018-04-27 14:14:52 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:14:52 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ If I wanted a bitch, I'd have bought a dog.
+2018-04-27 14:14:57 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !fuckyou @ĐØ₥Ʉ₴
+2018-04-27 14:14:57 #bots @Synapse#0692: 
+2018-04-27 14:14:58 #bots @Synapse#0692 edited message from 2018-04-27 14:14:57 () to read: 
+2018-04-27 14:15:08 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:15:09 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ You are proof that evolution CAN go in reverse.
+2018-04-27 14:15:18 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !colorme
+2018-04-27 14:15:18 #bots @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  unprotect   Remove a role from the list of protected roles.\n  purge       Purge the server of roles that may have been created\n  listprotect Lists roles that are protected from color changes.\n  protect     Add a role to the list of protected roles.\n  clean       Clean colorme roles by removing all permissions.\n  change      Change the color of your name.\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```
+2018-04-27 14:15:19 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:15:19 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ You're so ugly, when your mom dropped you off at school she got a fine for littering.
+2018-04-27 14:15:37 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !colorme res
+2018-04-27 14:15:37 #bots @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  unprotect   Remove a role from the list of protected roles.\n  purge       Purge the server of roles that may have been created\n  listprotect Lists roles that are protected from color changes.\n  protect     Add a role to the list of protected roles.\n  clean       Clean colorme roles by removing all permissions.\n  change      Change the color of your name.\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```
+2018-04-27 14:15:49 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !colorme rainbow
+2018-04-27 14:15:50 #bots @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  unprotect   Remove a role from the list of protected roles.\n  purge       Purge the server of roles that may have been created\n  listprotect Lists roles that are protected from color changes.\n  protect     Add a role to the list of protected roles.\n  clean       Clean colorme roles by removing all permissions.\n  change      Change the color of your name.\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```
+2018-04-27 14:15:52 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:15:53 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ You're so ugly, when you threw a boomerang it didn't come back.
+2018-04-27 14:16:16 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:16:18 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ It's better to let someone think you are an Idiot than to open your mouth and prove it.
+2018-04-27 14:16:39 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !warn @ĐØ₥Ʉ₴
+2018-04-27 14:16:39 #bots @Synapse#0692: 
+2018-04-27 14:16:39 #bots @Synapse#0692 edited message from 2018-04-27 14:16:39 () to read: 
+2018-04-27 14:16:56 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:16:56 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ You're so ugly that even Scooby Doo couldn't solve that mystery.
+2018-04-27 14:17:08 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:17:08 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ You're so fat you go to KFC and lick other peoples' fingers.
+2018-04-27 14:17:23 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 14:17:23 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ You're so fat when you stepped on the scale, Buzz Lightyear popped out and said "To infinity and beyond!"
+2018-04-27 14:17:55 #bots @The Tracker#1048: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:17:55 #bots @Synapse#0692: @ĐØ₥Ʉ₴ You're so fat every time you turn around, it's your birthday.
+2018-04-27 14:17:56 #bots @[FFL] 117Chris1#6107: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:17:56 #bots @Synapse#0692: @ĐØ₥Ʉ₴ You're so fat when you went to the circus the little girl asked if she could ride the elephant.
+2018-04-27 14:18:16 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !autoeconomy
+2018-04-27 14:18:16 #bots @Synapse#0692: ```\n!autoeconomy\n\nConfiguration options for auto-registering Economy accounts.\n\nCommands:\n  channel      Set a channel for the debug messages.\n  debug        Toggle autoeconomy debug messages.\n  toggle       Toggle autoeconomy on the server.\n  massregister Mass register existing users.\n\nType !autoeconomy command for more info on a command.\nYou can also type !autoeconomy category for more info on a category.\n```
+2018-04-27 14:18:17 #bots @[FFL] 117Chris1#6107: !insult @Synapse
+2018-04-27 14:18:19 #bots @Synapse#0692: @[FFL] 117Chris1 How original. No one else had thought of trying to get the bot to insult itself. I applaud your creativity. Yawn. Perhaps this is why you don't have friends. You don't add anything new to any conversation. You are more of a bot than me, predictable answers, and absolutely dull to have an actual conversation with.
+2018-04-27 14:18:43 #bots @Domus#0611: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:18:43 #bots @Synapse#0692: @ĐØ₥Ʉ₴ Bitch.
+2018-04-27 14:19:00 #bots @Domus#0611: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:19:00 #bots @Synapse#0692: @ĐØ₥Ʉ₴ At least when I do a handstand my stomach doesn't hit me in the face.
+2018-04-27 14:19:13 #bots @The Tracker#1048: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:19:14 #bots @Synapse#0692: @ĐØ₥Ʉ₴ It's kinda sad watching you attempt to fit your entire vocabulary into a sentence.
+2018-04-27 14:19:35 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Maybe
+2018-04-27 14:19:36 #bots @Domus#0611: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:19:36 #bots @Synapse#0692: @ĐØ₥Ʉ₴ I may be fat, but you're ugly, and I can lose weight.
+2018-04-27 14:19:47 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:19:48 #bots @Synapse#0692: @ĐØ₥Ʉ₴ The only way you'll ever get laid is if you crawl up a chicken's ass and wait.
+2018-04-27 14:19:54 #bots @Domus#0611: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:19:56 #bots @Synapse#0692: @ĐØ₥Ʉ₴ Your hockey team made you goalie so you'd have to wear a mask.
+2018-04-27 14:20:11 #bots @Domus#0611: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:20:11 #bots @The Tracker#1048: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:20:12 #bots @Synapse#0692: @ĐØ₥Ʉ₴ If I ate a bowl of alphabet soup, I could shit out a smarter sentence than any of yours.
+2018-04-27 14:20:12 #bots @Synapse#0692: @ĐØ₥Ʉ₴ You're so fat when you stepped on the scale, Buzz Lightyear popped out and said "To infinity and beyond!"
+2018-04-27 14:20:38 #bots @The Tracker#1048: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:20:38 #bots @Synapse#0692: @ĐØ₥Ʉ₴ I'd give you a nasty look but you've already got one.
+2018-04-27 14:21:17 #bots @Domus#0611: !rift
+2018-04-27 14:21:29 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult @The Tracker
+2018-04-27 14:21:30 #bots @Synapse#0692: @The Tracker You are thick-headed bastards with a bloated bureaucracy, designed to compensate for your small and poor self-esteem, cocksuckers. You have the brains to ban the person who has come to support channel your bot, accusing him of violating the ephemeral ephemeral rules, stupid morons. By the way i have one of the biggest server(5.5k  people, ~30 anytime voiceonline members), and i know something about managing, and of these rules - dont be an asshole. You are fucking asshole, maybe it is product of your life alone, or your life with your mom, anyway - you are retard and your soul is a fucking bunch of stupid self-esteems.
+2018-04-27 14:21:55 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:21:56 #bots @Synapse#0692: @ĐØ₥Ʉ₴ You are proof that evolution CAN go in reverse.
+2018-04-27 14:22:25 #bots @Domus#0611: !riftopen
+2018-04-27 14:22:26 #bots @Synapse#0692: ```\n!riftopen <channel>\n\nMakes you able to communicate with other channels through Red\n\nThis is cross-server. Type only the channel name or the ID.\n\n```
+2018-04-27 14:23:11 #bots @Domus#0611: !riftopen duo 1
+2018-04-27 14:23:12 #bots @Synapse#0692: No channels found. Remember to type just the channel name, no `#`.
+2018-04-27 14:23:34 #bots @Domus#0611: !riftopen #Duo 1
+2018-04-27 14:23:35 #bots @Synapse#0692: No channels found. Remember to type just the channel name, no `#`.
+2018-04-27 14:23:45 #bots @Domus#0611: !riftopen #general
+2018-04-27 14:23:45 #bots @Synapse#0692: No channels found. Remember to type just the channel name, no `#`.
+2018-04-27 14:23:58 #bots @Domus#0611: !riftopen Duo 1
+2018-04-27 14:23:59 #bots @Synapse#0692: No channels found. Remember to type just the channel name, no `#`.
+2018-04-27 14:24:17 #bots @Domus#0611: !riftopen general
+2018-04-27 14:24:19 #bots @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Little House (411210462370463754)\n1 - TMP [TIEMPO]😎 (406867153288036379)\n2 - TMP [TIEMPO]😎 (406870371132768270)\n3 - TMP [TIEMPO]😎 (397092503372693505)\n4 - Superverse: New World (438434432479789058)\n5 - Games For Life (411565808674668551)\n6 - Sith (436603020403539989)\n7 - music (257124692501069825)\n8 - [HS] (438087432139964439)\n9 - Star & ShippetGaming (242169591202054144)\n10 - The Flames (394589299011616771)\n11 - Potatisens Grupp (436991292271099904)\n12 - FloppityPenguin Fans! (356004835046457345)\n13 - A Kittah Server (429940809010380812)\n14 - wadawwww (437568071620755458)\n15 - Discord Bots (110373943822540800)\n16 - Art Shoppe (437689375816417283)\n17 - vip (429836880285138946)\n18 - ⎣ ❄ Lucky 7 ❄ ⎦ (434116904202928128)\n19 - Mods And Hugs (435705136879370251)\n20 - why (437298772008239116)\n21 - Boii (313966213850202113)\n22 - weebs only <3 (439206255832072192)\n23 - JoshCord (439417861384044554)\n24 - Yunas Discord (426103216808263684)\n25 - King's Trap (437968108666224654)\n26 - ne (412293593676382209)\n27 - ne (410769773903872000)\n28 - CHAT IT OUT (373949477146591234)\n29 - Pure Squad (407159312016867339)\n30 - Game of chance camp (437538353311645698)\n31 - DU tapai (409711223878189068)\n32 - Niggers are white (Christian server) (305450747569504258)\n33 - RandomCheese (437797089141850118)\n34 - El bar de designers v2 (436540220616212480)\n35 - SpeedzArmy (437332236874809354)\n36 - SpeedzArmy (437204541339860993)\n37 - PridePVP 2.0 (433618085971230725)\n38 - Kemal's Custom Pizzeria (429795948118540295)\n39 - Daedric's server (436728311608115215)\n40 - Servidores dos locões (231146163057721344)\n41 - fee's testserver (223263134339694603)\n42 - YTOyuncuKokuyorYT (405531407650390029)\n43 - Normie Cult (366563967247843329)\n44 - For the bot (406861225775857667)\n45 - tesadfsertaw (433369133099515926)\n46 - Raspyberry (408959687782825985)\n47 - My Bois (438726115574546432)\n48 - memes (385768785665327106)\n49 - The Weeb Cafe (239163942822346752)
+2018-04-27 14:24:19 #bots @Synapse#0692: 50 - ayywa.re (429432529968300032)\n51 - Supreme (430589179014021134)\n52 - RERERERE (436861320420261901)\n53 - CS:GO (429308735316295688)\n54 - Black Squad (406190695431274499)\n55 - Synapse Support (436119908443750402)\n56 - THE DRAGON FORCE (343696927130517505)\n57 - KÄÄÄÅÅTEEN (409463385520996357)\n58 - MirekHboi (436828459201724416)\n59 - Dark Productions (343889515414552577)\n60 - STEVEN UNIVERSE (429418533454217216)\n61 - Siwedits (371591859132432387)\n62 - easyᑕhill (439067136653000729)\n63 - HYPECORD (438064195607461908)\n64 - Nightrexa's Discord Channel (312238895494332416)\n65 - JUANCORO (436951640365596674)\n66 - Elite Modders [PC] (438379038994857993)\n67 - TnyCraft (437079238668058629)\n68 - NCD (405702023905017860)\n69 - asd (435017892648583173)\n70 - ROBLOXIAN SERVER (435117940975861762)\n71 - 🔥GgtwizExploits🔥 (421825613402472449)\n72 - United Warlords (438317519724478464)\n73 - Testing (423643113995763723)\n74 - DeadCorporation (438019702350938122)\n75 - DeadCorporation (437981651918651403)\n76 - TheGoldenChampions (224906119821262848)\n77 - No Name (420175720757723139)\n78 - Yet Another Gameserver (417361860296310799)\n79 - Corentin server ! (420924124303589377)\n80 - films ß gratos (377179535919153154)\n81 - FEXPloit (301400632357552138)\n82 - Emote Servers (411233189038784514)\n83 - Fortnite (430796416785448972)\n84 - Lol Server (292755633369776139)\n85 - Vio's children (404099816617148418)\n86 - Game4everGoldy Literally"Fans" (422778877715283971)\n87 - Private Jet (363944480958840832)\n88 - Ayee Its iiSure Fan Group (427554075924496396)\n89 - Con-Mers (411499466382639106)\n90 - Anonymous (425303702233153549)\n91 - Plexy (437616883961823236)\n92 - :: Lyon :: (311459780579557376)\n93 - private channel (436980457989603339)\n94 - +18 PRO HERO'S HANG OUT (438764211795918849)\n95 - Pokemon Trading (438361128335179787)\n96 - PasterSquad.pw (427062710895771653)\n97 - salemgaming (407258968596152323)\n98 - Boobs LEL (438921585081188364)\n99 - kmj (415983763885916166)
+2018-04-27 14:24:19 #bots @Synapse#0692: 100 - SD6 (405088644873977865)\n101 - Higher Humanity (431481535502221312)\n102 - Rescue Squad (439201963272568842)\n103 - Evie Family! (393863229933092873)\n104 - Посиделки (390207947252301827)\n105 - >SF< (438379665250320405)\n106 - RainbowColours (438031112351121410)\n107 - FREE FIRE Indonesia (433165502404231170)\n108 - Trollers (435505750702424085)\n109 - Cola (323252047707111426)\n110 - XXXTENTACION (427622678933929988)\n111 - dragon Ball-z fan club (431532273150722052)\n112 - PUBG (432058869229813761)\n113 - FpsGang (437676407624040464)\n114 - PanDa (438025306176094208)\n115 - meikraft GUCCI CLAN CHAT (394470902114287638)\n116 - test (425758653694345226)\n117 - ARISTOTLE II (424659028887732225)\n118 - Cos (424411393794768909)\n119 - Test Spam (351377335397646337)\n120 - Komunitas Roblox Indonesia (432121905156456450)\n121 - RaidCity (382576139979325463)\n122 - Kanalik (437655473055989763)\n123 - EASY OFFICIAL CLAN (421756717131366412)\n124 - Team Hore (431536623956656128)\n125 - Xiomara (320788851058540544)\n126 - BotTest (437918726797525004)\n127 - Randomness (431503585713586183)\n128 - 出口のコミュニティ (399177631603621889)\n129 - Projekt X (427443445083406346)\n130 - Fortnite (436749917390766087)\n131 - Meme Machine (309226667816255488)\n132 - Hentai Land (437678801267326986)\n133 - Wolf (438663319553835008)\n134 - EFoX (439393140219183107)\n135 - Bot Testing Server (430847589018107907)\n136 - The blue Army (369588359863205899)\n137 - BaPeX (437721716093878275)\n138 - wowo (437760434150309910)\n139 - Collin's Christian Server (348596166738575361)\n140 - Derp Gamerek (404594813674061827)\n141 - Team Dropite (326843021737984004)\n142 - My Hero Academia (RP) (407105448005861376)
+2018-04-27 14:24:24 #bots @Domus#0611: Holy shit
+2018-04-27 14:24:37 #bots @Domus#0611: 142
+2018-04-27 14:24:39 #bots @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-27 14:24:52 #bots @Domus#0611: Ass and titties
+2018-04-27 14:25:37 #bots @Synapse#0692: Une  rousse#6832: ???
+2018-04-27 14:25:58 #bots @Domus#0611: Hello friend
+2018-04-27 14:26:13 #bots @Synapse#0692: Une  rousse#6832: Wtg
+2018-04-27 14:26:20 #bots @Domus#0611: ?
+2018-04-27 14:26:23 #bots @I Lιкє Ɓιя∂ιєѕ#2427: What’s up
+2018-04-27 14:26:37 #bots @Synapse#0692: Une  rousse#6832: Depuis quand?
+2018-04-27 14:26:47 #bots @Domus#0611: Shit
+2018-04-27 14:26:50 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Oof mums screaming at me
+2018-04-27 14:26:52 #bots @Domus#0611: Different language
+2018-04-27 14:26:56 #bots @Domus#0611: Exit
+2018-04-27 14:26:58 #bots @Synapse#0692: Rift closed.
+2018-04-27 14:27:33 #bots @Domus#0611: !riftopen 🍩general🍩
+2018-04-27 14:27:33 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !rift 19
+2018-04-27 14:27:34 #bots @Synapse#0692: No channels found. Remember to type just the channel name, no `#`.
+2018-04-27 14:27:48 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !rift #19
+2018-04-27 14:28:02 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !rift 19
+2018-04-27 14:28:19 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !rift
+2018-04-27 14:28:31 #bots @Domus#0611: !riftopen test
+2018-04-27 14:28:31 #bots @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Discord Bots (366345541837258752)\n1 - Yet Another Gameserver (417078065739333643)\n2 - Plexy (437620561494016011)
+2018-04-27 14:28:36 #bots @Domus#0611: Fuck
+2018-04-27 14:28:44 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !riftopen
+2018-04-27 14:28:44 #bots @Synapse#0692: ```\n!riftopen <channel>\n\nMakes you able to communicate with other channels through Red\n\nThis is cross-server. Type only the channel name or the ID.\n\n```
+2018-04-27 14:28:53 #bots @Domus#0611: !riftopen test
+2018-04-27 14:28:54 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !riftopen 19
+2018-04-27 14:28:55 #bots @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Discord Bots (366345541837258752)\n1 - Yet Another Gameserver (417078065739333643)\n2 - Plexy (437620561494016011)
+2018-04-27 14:28:55 #bots @Synapse#0692: No channels found. Remember to type just the channel name, no `#`.
+2018-04-27 14:29:01 #bots @Domus#0611: !riftopen general
+2018-04-27 14:29:02 #bots @Synapse#0692: You haven't chosen anything.
+2018-04-27 14:29:03 #bots @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Little House (411210462370463754)\n1 - TMP [TIEMPO]😎 (406867153288036379)\n2 - TMP [TIEMPO]😎 (406870371132768270)\n3 - TMP [TIEMPO]😎 (397092503372693505)\n4 - Superverse: New World (438434432479789058)\n5 - Games For Life (411565808674668551)\n6 - Sith (436603020403539989)\n7 - music (257124692501069825)\n8 - [HS] (438087432139964439)\n9 - Star & ShippetGaming (242169591202054144)\n10 - The Flames (394589299011616771)\n11 - Potatisens Grupp (436991292271099904)\n12 - FloppityPenguin Fans! (356004835046457345)\n13 - A Kittah Server (429940809010380812)\n14 - wadawwww (437568071620755458)\n15 - Discord Bots (110373943822540800)\n16 - Art Shoppe (437689375816417283)\n17 - vip (429836880285138946)\n18 - ⎣ ❄ Lucky 7 ❄ ⎦ (434116904202928128)\n19 - Mods And Hugs (435705136879370251)\n20 - why (437298772008239116)\n21 - Boii (313966213850202113)\n22 - weebs only <3 (439206255832072192)\n23 - JoshCord (439417861384044554)\n24 - Yunas Discord (426103216808263684)\n25 - King's Trap (437968108666224654)\n26 - ne (412293593676382209)\n27 - ne (410769773903872000)\n28 - CHAT IT OUT (373949477146591234)\n29 - Pure Squad (407159312016867339)\n30 - Game of chance camp (437538353311645698)\n31 - DU tapai (409711223878189068)\n32 - Niggers are white (Christian server) (305450747569504258)\n33 - RandomCheese (437797089141850118)\n34 - El bar de designers v2 (436540220616212480)\n35 - SpeedzArmy (437332236874809354)\n36 - SpeedzArmy (437204541339860993)\n37 - PridePVP 2.0 (433618085971230725)\n38 - Kemal's Custom Pizzeria (429795948118540295)\n39 - Daedric's server (436728311608115215)\n40 - Servidores dos locões (231146163057721344)\n41 - fee's testserver (223263134339694603)\n42 - YTOyuncuKokuyorYT (405531407650390029)\n43 - Normie Cult (366563967247843329)\n44 - For the bot (406861225775857667)\n45 - tesadfsertaw (433369133099515926)\n46 - Raspyberry (408959687782825985)\n47 - My Bois (438726115574546432)\n48 - memes (385768785665327106)\n49 - The Weeb Cafe (239163942822346752)
+2018-04-27 14:29:03 #bots @Synapse#0692: 50 - ayywa.re (429432529968300032)\n51 - Supreme (430589179014021134)\n52 - RERERERE (436861320420261901)\n53 - CS:GO (429308735316295688)\n54 - Black Squad (406190695431274499)\n55 - Synapse Support (436119908443750402)\n56 - THE DRAGON FORCE (343696927130517505)\n57 - KÄÄÄÅÅTEEN (409463385520996357)\n58 - MirekHboi (436828459201724416)\n59 - Dark Productions (343889515414552577)\n60 - STEVEN UNIVERSE (429418533454217216)\n61 - Siwedits (371591859132432387)\n62 - easyᑕhill (439067136653000729)\n63 - HYPECORD (438064195607461908)\n64 - Nightrexa's Discord Channel (312238895494332416)\n65 - JUANCORO (436951640365596674)\n66 - Elite Modders [PC] (438379038994857993)\n67 - TnyCraft (437079238668058629)\n68 - NCD (405702023905017860)\n69 - asd (435017892648583173)\n70 - ROBLOXIAN SERVER (435117940975861762)\n71 - 🔥GgtwizExploits🔥 (421825613402472449)\n72 - United Warlords (438317519724478464)\n73 - Testing (423643113995763723)\n74 - DeadCorporation (438019702350938122)\n75 - DeadCorporation (437981651918651403)\n76 - TheGoldenChampions (224906119821262848)\n77 - No Name (420175720757723139)\n78 - Yet Another Gameserver (417361860296310799)\n79 - Corentin server ! (420924124303589377)\n80 - films ß gratos (377179535919153154)\n81 - FEXPloit (301400632357552138)\n82 - Emote Servers (411233189038784514)\n83 - Fortnite (430796416785448972)\n84 - Lol Server (292755633369776139)\n85 - Vio's children (404099816617148418)\n86 - Game4everGoldy Literally"Fans" (422778877715283971)\n87 - Private Jet (363944480958840832)\n88 - Ayee Its iiSure Fan Group (427554075924496396)\n89 - Con-Mers (411499466382639106)\n90 - Anonymous (425303702233153549)\n91 - Plexy (437616883961823236)\n92 - :: Lyon :: (311459780579557376)\n93 - private channel (436980457989603339)\n94 - +18 PRO HERO'S HANG OUT (438764211795918849)\n95 - Pokemon Trading (438361128335179787)\n96 - PasterSquad.pw (427062710895771653)\n97 - salemgaming (407258968596152323)\n98 - Boobs LEL (438921585081188364)\n99 - kmj (415983763885916166)
+2018-04-27 14:29:03 #bots @Synapse#0692: 100 - SD6 (405088644873977865)\n101 - Higher Humanity (431481535502221312)\n102 - Rescue Squad (439201963272568842)\n103 - Evie Family! (393863229933092873)\n104 - Посиделки (390207947252301827)\n105 - >SF< (438379665250320405)\n106 - RainbowColours (438031112351121410)\n107 - FREE FIRE Indonesia (433165502404231170)\n108 - Trollers (435505750702424085)\n109 - Cola (323252047707111426)\n110 - XXXTENTACION (427622678933929988)\n111 - dragon Ball-z fan club (431532273150722052)\n112 - PUBG (432058869229813761)\n113 - FpsGang (437676407624040464)\n114 - PanDa (438025306176094208)\n115 - meikraft GUCCI CLAN CHAT (394470902114287638)\n116 - test (425758653694345226)\n117 - ARISTOTLE II (424659028887732225)\n118 - Cos (424411393794768909)\n119 - Test Spam (351377335397646337)\n120 - Komunitas Roblox Indonesia (432121905156456450)\n121 - RaidCity (382576139979325463)\n122 - Kanalik (437655473055989763)\n123 - EASY OFFICIAL CLAN (421756717131366412)\n124 - Team Hore (431536623956656128)\n125 - Xiomara (320788851058540544)\n126 - BotTest (437918726797525004)\n127 - Randomness (431503585713586183)\n128 - 出口のコミュニティ (399177631603621889)\n129 - Projekt X (427443445083406346)\n130 - Fortnite (436749917390766087)\n131 - Meme Machine (309226667816255488)\n132 - Hentai Land (437678801267326986)\n133 - Wolf (438663319553835008)\n134 - EFoX (439393140219183107)\n135 - Bot Testing Server (430847589018107907)\n136 - The blue Army (369588359863205899)\n137 - BaPeX (437721716093878275)\n138 - wowo (437760434150309910)\n139 - Collin's Christian Server (348596166738575361)\n140 - Derp Gamerek (404594813674061827)\n141 - Team Dropite (326843021737984004)\n142 - My Hero Academia (RP) (407105448005861376)
+2018-04-27 14:29:06 #bots @I Lιкє Ɓιя∂ιєѕ#2427: STOP
+2018-04-27 14:29:09 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 19
+2018-04-27 14:29:19 #bots @Domus#0611: Oh ik why
+2018-04-27 14:29:20 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !riftopen general
+2018-04-27 14:29:20 #bots @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Little House (411210462370463754)\n1 - TMP [TIEMPO]😎 (406867153288036379)\n2 - TMP [TIEMPO]😎 (406870371132768270)\n3 - TMP [TIEMPO]😎 (397092503372693505)\n4 - Superverse: New World (438434432479789058)\n5 - Games For Life (411565808674668551)\n6 - Sith (436603020403539989)\n7 - music (257124692501069825)\n8 - [HS] (438087432139964439)\n9 - Star & ShippetGaming (242169591202054144)\n10 - The Flames (394589299011616771)\n11 - Potatisens Grupp (436991292271099904)\n12 - FloppityPenguin Fans! (356004835046457345)\n13 - A Kittah Server (429940809010380812)\n14 - wadawwww (437568071620755458)\n15 - Discord Bots (110373943822540800)\n16 - Art Shoppe (437689375816417283)\n17 - vip (429836880285138946)\n18 - ⎣ ❄ Lucky 7 ❄ ⎦ (434116904202928128)\n19 - Mods And Hugs (435705136879370251)\n20 - why (437298772008239116)\n21 - Boii (313966213850202113)\n22 - weebs only <3 (439206255832072192)\n23 - JoshCord (439417861384044554)\n24 - Yunas Discord (426103216808263684)\n25 - King's Trap (437968108666224654)\n26 - ne (412293593676382209)\n27 - ne (410769773903872000)\n28 - CHAT IT OUT (373949477146591234)\n29 - Pure Squad (407159312016867339)\n30 - Game of chance camp (437538353311645698)\n31 - DU tapai (409711223878189068)\n32 - Niggers are white (Christian server) (305450747569504258)\n33 - RandomCheese (437797089141850118)\n34 - El bar de designers v2 (436540220616212480)\n35 - SpeedzArmy (437332236874809354)\n36 - SpeedzArmy (437204541339860993)\n37 - PridePVP 2.0 (433618085971230725)\n38 - Kemal's Custom Pizzeria (429795948118540295)\n39 - Daedric's server (436728311608115215)\n40 - Servidores dos locões (231146163057721344)\n41 - fee's testserver (223263134339694603)\n42 - YTOyuncuKokuyorYT (405531407650390029)\n43 - Normie Cult (366563967247843329)\n44 - For the bot (406861225775857667)\n45 - tesadfsertaw (433369133099515926)\n46 - Raspyberry (408959687782825985)\n47 - My Bois (438726115574546432)\n48 - memes (385768785665327106)\n49 - The Weeb Cafe (239163942822346752)
+2018-04-27 14:29:20 #bots @Synapse#0692: 50 - ayywa.re (429432529968300032)\n51 - Supreme (430589179014021134)\n52 - RERERERE (436861320420261901)\n53 - CS:GO (429308735316295688)\n54 - Black Squad (406190695431274499)\n55 - Synapse Support (436119908443750402)\n56 - THE DRAGON FORCE (343696927130517505)\n57 - KÄÄÄÅÅTEEN (409463385520996357)\n58 - MirekHboi (436828459201724416)\n59 - Dark Productions (343889515414552577)\n60 - STEVEN UNIVERSE (429418533454217216)\n61 - Siwedits (371591859132432387)\n62 - easyᑕhill (439067136653000729)\n63 - HYPECORD (438064195607461908)\n64 - Nightrexa's Discord Channel (312238895494332416)\n65 - JUANCORO (436951640365596674)\n66 - Elite Modders [PC] (438379038994857993)\n67 - TnyCraft (437079238668058629)\n68 - NCD (405702023905017860)\n69 - asd (435017892648583173)\n70 - ROBLOXIAN SERVER (435117940975861762)\n71 - 🔥GgtwizExploits🔥 (421825613402472449)\n72 - United Warlords (438317519724478464)\n73 - Testing (423643113995763723)\n74 - DeadCorporation (438019702350938122)\n75 - DeadCorporation (437981651918651403)\n76 - TheGoldenChampions (224906119821262848)\n77 - No Name (420175720757723139)\n78 - Yet Another Gameserver (417361860296310799)\n79 - Corentin server ! (420924124303589377)\n80 - films ß gratos (377179535919153154)\n81 - FEXPloit (301400632357552138)\n82 - Emote Servers (411233189038784514)\n83 - Fortnite (430796416785448972)\n84 - Lol Server (292755633369776139)\n85 - Vio's children (404099816617148418)\n86 - Game4everGoldy Literally"Fans" (422778877715283971)\n87 - Private Jet (363944480958840832)\n88 - Ayee Its iiSure Fan Group (427554075924496396)\n89 - Con-Mers (411499466382639106)\n90 - Anonymous (425303702233153549)\n91 - Plexy (437616883961823236)\n92 - :: Lyon :: (311459780579557376)\n93 - private channel (436980457989603339)\n94 - +18 PRO HERO'S HANG OUT (438764211795918849)\n95 - Pokemon Trading (438361128335179787)\n96 - PasterSquad.pw (427062710895771653)\n97 - salemgaming (407258968596152323)\n98 - Boobs LEL (438921585081188364)\n99 - kmj (415983763885916166)
+2018-04-27 14:29:20 #bots @Synapse#0692: 100 - SD6 (405088644873977865)\n101 - Higher Humanity (431481535502221312)\n102 - Rescue Squad (439201963272568842)\n103 - Evie Family! (393863229933092873)\n104 - Посиделки (390207947252301827)\n105 - >SF< (438379665250320405)\n106 - RainbowColours (438031112351121410)\n107 - FREE FIRE Indonesia (433165502404231170)\n108 - Trollers (435505750702424085)\n109 - Cola (323252047707111426)\n110 - XXXTENTACION (427622678933929988)\n111 - dragon Ball-z fan club (431532273150722052)\n112 - PUBG (432058869229813761)\n113 - FpsGang (437676407624040464)\n114 - PanDa (438025306176094208)\n115 - meikraft GUCCI CLAN CHAT (394470902114287638)\n116 - test (425758653694345226)\n117 - ARISTOTLE II (424659028887732225)\n118 - Cos (424411393794768909)\n119 - Test Spam (351377335397646337)\n120 - Komunitas Roblox Indonesia (432121905156456450)\n121 - RaidCity (382576139979325463)\n122 - Kanalik (437655473055989763)\n123 - EASY OFFICIAL CLAN (421756717131366412)\n124 - Team Hore (431536623956656128)\n125 - Xiomara (320788851058540544)\n126 - BotTest (437918726797525004)\n127 - Randomness (431503585713586183)\n128 - 出口のコミュニティ (399177631603621889)\n129 - Projekt X (427443445083406346)\n130 - Fortnite (436749917390766087)\n131 - Meme Machine (309226667816255488)\n132 - Hentai Land (437678801267326986)\n133 - Wolf (438663319553835008)\n134 - EFoX (439393140219183107)\n135 - Bot Testing Server (430847589018107907)\n136 - The blue Army (369588359863205899)\n137 - BaPeX (437721716093878275)\n138 - wowo (437760434150309910)\n139 - Collin's Christian Server (348596166738575361)\n140 - Derp Gamerek (404594813674061827)\n141 - Team Dropite (326843021737984004)\n142 - My Hero Academia (RP) (407105448005861376)
+2018-04-27 14:29:25 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 19
+2018-04-27 14:29:25 #bots @Synapse#0692: You haven't chosen anything.
+2018-04-27 14:29:25 #bots @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-27 14:29:30 #bots @Domus#0611: Fruit bowl doesn’t have mee6
+2018-04-27 14:29:33 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Hello?
+2018-04-27 14:29:33 #bots @Synapse#0692: You haven't chosen anything.
+2018-04-27 14:29:37 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 19
+2018-04-27 14:29:40 #bots @Synapse#0692: SkayRock#8589: bye
+2018-04-27 14:29:40 #bots @Synapse#0692: SkayRock#8589: stfu
+2018-04-27 14:29:42 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Hello
+2018-04-27 14:29:44 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Wtf
+2018-04-27 14:29:45 #bots @Domus#0611: Oof
+2018-04-27 14:29:48 #bots @Synapse#0692: oland is gay#4684: https://www.mirror.co.uk/news/world-news/boy-13-accidentally-shoots-himself-10217168
+2018-04-27 14:29:48 #bots @Domus#0611: Boii
+2018-04-27 14:29:50 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Rude
+2018-04-27 14:29:56 #bots @Synapse#0692: SkayRock#8589: @Synapse u suck
+2018-04-27 14:29:56 #bots @Synapse#0692: SkayRock#8589: stfu
+2018-04-27 14:29:57 #bots @Synapse#0692 deleted message from 2018-04-27 14:29:48 (oland is gay#4684: https://www.mirror.co.uk/news/world-news/boy-13-accidentally-shoots-himself-10217168)
+2018-04-27 14:29:57 #bots @Synapse#0692: A VERY LITTLE Polski#2954: synase
+2018-04-27 14:30:02 #bots @Synapse#0692: A VERY LITTLE Polski#2954: or robot
+2018-04-27 14:30:02 #bots @Domus#0611: Nah
+2018-04-27 14:30:06 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Fuck u too
+2018-04-27 14:30:09 #bots @Domus#0611: Ye
+2018-04-27 14:30:09 #bots @Synapse#0692: SkayRock#8589: robot
+2018-04-27 14:30:10 #bots @Synapse#0692: SkayRock#8589: xaskesd
+2018-04-27 14:30:13 #bots @Synapse#0692: oland is gay#4684: @Synapse  kill yourself
+2018-04-27 14:30:16 #bots @Domus#0611: No u
+2018-04-27 14:30:25 #bots @Synapse#0692: A VERY LITTLE Polski#2954: hes gonna come and ban you one by one
+2018-04-27 14:30:27 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Sick my sixk
+2018-04-27 14:30:32 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Dick
+2018-04-27 14:30:39 #bots @Domus#0611: Smooth
+2018-04-27 14:30:41 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult
+2018-04-27 14:30:41 #bots @Synapse#0692: SkayRock#8589: i have dig bick
+2018-04-27 14:30:41 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ You're so ugly, the only dates you get are on a calendar.
+2018-04-27 14:30:45 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Ooooof
+2018-04-27 14:30:47 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Fuxk
+2018-04-27 14:30:51 #bots @Synapse#0692: A VERY LITTLE Polski#2954: !insult @Synapse
+2018-04-27 14:30:55 #bots @Synapse#0692: oland is gay#4684: @Synapse  you dick small
+2018-04-27 14:30:57 #bots @I Lιкє Ɓιя∂ιєѕ#2427: LOL
+2018-04-27 14:31:04 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Dumb nigga
+2018-04-27 14:31:14 #bots @Synapse#0692: A VERY LITTLE Polski#2954: @Synapse can you tell mr robot
+2018-04-27 14:31:14 #bots @Synapse#0692: A VERY LITTLE Polski#2954: i
+2018-04-27 14:31:21 #bots @Synapse#0692: A VERY LITTLE Polski#2954: wait
+2018-04-27 14:31:23 #bots @Domus#0611: Uhhhh
+2018-04-27 14:31:23 #bots @MEE6#4876: GG @ĐØ₥Ʉ₴, you just advanced to **level 1** !
+2018-04-27 14:31:25 #bots @Synapse#0692: A VERY LITTLE Polski#2954: !say nigger
+2018-04-27 14:31:25 #bots @Synapse#0692: oland is gay#4684: @Synapse  kill yourself fucking fortnite playing fuck
+2018-04-27 14:31:30 #bots @Synapse#0692: A VERY LITTLE Polski#2954: XD
+2018-04-27 14:31:31 #bots @MEE6#4876 deleted message from 2018-04-27 14:31:23 (GG @ĐØ₥Ʉ₴, you just advanced to **level 1** !)
+2018-04-27 14:31:31 #bots @Synapse#0692: SkayRock#8589: bhjuhjb
+2018-04-27 14:31:36 #bots @Domus#0611: But too far boii
+2018-04-27 14:31:37 #bots @Synapse#0692: A VERY LITTLE Polski#2954: !synapse the worst bot
+2018-04-27 14:31:39 #bots @Synapse#0692: Marcus#4044: yo synapse is a fuckin savage
+2018-04-27 14:31:50 #bots @Synapse#0692: A VERY LITTLE Polski#2954: !say synapse the worst bot
+2018-04-27 14:32:03 #bots @Synapse#0692: A VERY LITTLE Polski#2954: ^^
+2018-04-27 14:32:14 #bots @Synapse#0692: Klaus Ze Flammenwerfer#9999: !say you guys should stop calling the members niggers or you are going to get your ass pounded
+2018-04-27 14:32:18 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Have your ever considered comiting suicide
+2018-04-27 14:32:28 #bots @Synapse#0692: oland is gay#4684: oh shit im gonna get pounded by klaus
+2018-04-27 14:32:30 #bots @Domus#0611: For a server called mods and hugs you aren’t very friendly😂
+2018-04-27 14:32:35 #bots @Synapse#0692: oland is gay#4684: time to leave
+2018-04-27 14:32:38 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Yup
+2018-04-27 14:32:44 #bots @Synapse#0692: A VERY LITTLE Polski#2954: true
+2018-04-27 14:32:55 #bots @Synapse#0692: A VERY LITTLE Polski#2954: dont use the n word
+2018-04-27 14:32:56 #bots @I Lιкє Ɓιя∂ιєѕ#2427: I like this server
+2018-04-27 14:33:00 #bots @Domus#0611: Tbh
+2018-04-27 14:33:03 #bots @Synapse#0692: oland is gay#4684: n
+2018-04-27 14:33:03 #bots @Synapse#0692: oland is gay#4684: n
+2018-04-27 14:33:04 #bots @Domus#0611: They funny fellas
+2018-04-27 14:33:09 #bots @Synapse#0692: A VERY LITTLE Polski#2954: synapse is attractive
+2018-04-27 14:33:12 #bots @Synapse#0692: oland is gay#4684: @Synapse  is a n word
+2018-04-27 14:33:13 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Okay Smokey
+2018-04-27 14:33:19 #bots @Synapse#0692: Klaus Ze Flammenwerfer#9999: <@300754440045068289>
+2018-04-27 14:33:20 #bots @Synapse#0692: Klaus Ze Flammenwerfer#9999: stop
+2018-04-27 14:33:36 #bots @Synapse#0692: Klaus Ze Flammenwerfer#9999: <@300754440045068289>
+2018-04-27 14:33:36 #bots @Synapse#0692: oland is gay#4684: synapse is a n
+2018-04-27 14:33:36 #bots @Synapse#0692: A VERY LITTLE Polski#2954: Features: Intelligenci
+2018-04-27 14:33:37 #bots @Synapse#0692: Klaus Ze Flammenwerfer#9999: http://prntscr.com/jav8nr
+2018-04-27 14:33:41 #bots @Synapse#0692 edited message from 2018-04-27 14:33:37 (Klaus Ze Flammenwerfer#9999: http://prntscr.com/jav8nr) to read: Klaus Ze Flammenwerfer#9999: http://prntscr.com/jav8nr
+2018-04-27 14:33:43 #bots @Domus#0611: Bye new friends
+2018-04-27 14:33:45 #bots @Synapse#0692: SkayRock#8589: XD
+2018-04-27 14:33:45 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !riftclose
+2018-04-27 14:33:51 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Exit
+2018-04-27 14:33:53 #bots @Synapse#0692: Rift closed.
+2018-04-27 14:34:01 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !riftopen general
+2018-04-27 14:34:01 #bots @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Little House (411210462370463754)\n1 - TMP [TIEMPO]😎 (406867153288036379)\n2 - TMP [TIEMPO]😎 (406870371132768270)\n3 - TMP [TIEMPO]😎 (397092503372693505)\n4 - Superverse: New World (438434432479789058)\n5 - Games For Life (411565808674668551)\n6 - Sith (436603020403539989)\n7 - music (257124692501069825)\n8 - [HS] (438087432139964439)\n9 - Star & ShippetGaming (242169591202054144)\n10 - The Flames (394589299011616771)\n11 - Potatisens Grupp (436991292271099904)\n12 - FloppityPenguin Fans! (356004835046457345)\n13 - A Kittah Server (429940809010380812)\n14 - wadawwww (437568071620755458)\n15 - Discord Bots (110373943822540800)\n16 - Art Shoppe (437689375816417283)\n17 - vip (429836880285138946)\n18 - ⎣ ❄ Lucky 7 ❄ ⎦ (434116904202928128)\n19 - Mods And Hugs (435705136879370251)\n20 - why (437298772008239116)\n21 - Boii (313966213850202113)\n22 - weebs only <3 (439206255832072192)\n23 - JoshCord (439417861384044554)\n24 - Yunas Discord (426103216808263684)\n25 - King's Trap (437968108666224654)\n26 - ne (412293593676382209)\n27 - ne (410769773903872000)\n28 - CHAT IT OUT (373949477146591234)\n29 - Pure Squad (407159312016867339)\n30 - Game of chance camp (437538353311645698)\n31 - DU tapai (409711223878189068)\n32 - Niggers are white (Christian server) (305450747569504258)\n33 - RandomCheese (437797089141850118)\n34 - El bar de designers v2 (436540220616212480)\n35 - SpeedzArmy (437332236874809354)\n36 - SpeedzArmy (437204541339860993)\n37 - PridePVP 2.0 (433618085971230725)\n38 - Kemal's Custom Pizzeria (429795948118540295)\n39 - Daedric's server (436728311608115215)\n40 - Servidores dos locões (231146163057721344)\n41 - fee's testserver (223263134339694603)\n42 - YTOyuncuKokuyorYT (405531407650390029)\n43 - Normie Cult (366563967247843329)\n44 - For the bot (406861225775857667)\n45 - tesadfsertaw (433369133099515926)\n46 - Raspyberry (408959687782825985)\n47 - My Bois (438726115574546432)\n48 - memes (385768785665327106)\n49 - The Weeb Cafe (239163942822346752)
+2018-04-27 14:34:01 #bots @Synapse#0692: 50 - ayywa.re (429432529968300032)\n51 - Supreme (430589179014021134)\n52 - RERERERE (436861320420261901)\n53 - CS:GO (429308735316295688)\n54 - Black Squad (406190695431274499)\n55 - Synapse Support (436119908443750402)\n56 - THE DRAGON FORCE (343696927130517505)\n57 - KÄÄÄÅÅTEEN (409463385520996357)\n58 - MirekHboi (436828459201724416)\n59 - Dark Productions (343889515414552577)\n60 - STEVEN UNIVERSE (429418533454217216)\n61 - Siwedits (371591859132432387)\n62 - easyᑕhill (439067136653000729)\n63 - HYPECORD (438064195607461908)\n64 - Nightrexa's Discord Channel (312238895494332416)\n65 - JUANCORO (436951640365596674)\n66 - Elite Modders [PC] (438379038994857993)\n67 - TnyCraft (437079238668058629)\n68 - NCD (405702023905017860)\n69 - asd (435017892648583173)\n70 - ROBLOXIAN SERVER (435117940975861762)\n71 - 🔥GgtwizExploits🔥 (421825613402472449)\n72 - United Warlords (438317519724478464)\n73 - Testing (423643113995763723)\n74 - DeadCorporation (438019702350938122)\n75 - DeadCorporation (437981651918651403)\n76 - TheGoldenChampions (224906119821262848)\n77 - No Name (420175720757723139)\n78 - Yet Another Gameserver (417361860296310799)\n79 - Corentin server ! (420924124303589377)\n80 - films ß gratos (377179535919153154)\n81 - FEXPloit (301400632357552138)\n82 - Emote Servers (411233189038784514)\n83 - Fortnite (430796416785448972)\n84 - Lol Server (292755633369776139)\n85 - Vio's children (404099816617148418)\n86 - Game4everGoldy Literally"Fans" (422778877715283971)\n87 - Private Jet (363944480958840832)\n88 - Ayee Its iiSure Fan Group (427554075924496396)\n89 - Con-Mers (411499466382639106)\n90 - Anonymous (425303702233153549)\n91 - Plexy (437616883961823236)\n92 - :: Lyon :: (311459780579557376)\n93 - private channel (436980457989603339)\n94 - +18 PRO HERO'S HANG OUT (438764211795918849)\n95 - Pokemon Trading (438361128335179787)\n96 - PasterSquad.pw (427062710895771653)\n97 - salemgaming (407258968596152323)\n98 - Boobs LEL (438921585081188364)\n99 - kmj (415983763885916166)
+2018-04-27 14:34:02 #bots @Synapse#0692: 100 - SD6 (405088644873977865)\n101 - Higher Humanity (431481535502221312)\n102 - Rescue Squad (439201963272568842)\n103 - Evie Family! (393863229933092873)\n104 - Посиделки (390207947252301827)\n105 - >SF< (438379665250320405)\n106 - RainbowColours (438031112351121410)\n107 - FREE FIRE Indonesia (433165502404231170)\n108 - Trollers (435505750702424085)\n109 - Cola (323252047707111426)\n110 - XXXTENTACION (427622678933929988)\n111 - dragon Ball-z fan club (431532273150722052)\n112 - PUBG (432058869229813761)\n113 - FpsGang (437676407624040464)\n114 - PanDa (438025306176094208)\n115 - meikraft GUCCI CLAN CHAT (394470902114287638)\n116 - test (425758653694345226)\n117 - ARISTOTLE II (424659028887732225)\n118 - Cos (424411393794768909)\n119 - Test Spam (351377335397646337)\n120 - Komunitas Roblox Indonesia (432121905156456450)\n121 - RaidCity (382576139979325463)\n122 - Kanalik (437655473055989763)\n123 - EASY OFFICIAL CLAN (421756717131366412)\n124 - Team Hore (431536623956656128)\n125 - Xiomara (320788851058540544)\n126 - BotTest (437918726797525004)\n127 - Randomness (431503585713586183)\n128 - 出口のコミュニティ (399177631603621889)\n129 - Projekt X (427443445083406346)\n130 - Fortnite (436749917390766087)\n131 - Meme Machine (309226667816255488)\n132 - Hentai Land (437678801267326986)\n133 - Wolf (438663319553835008)\n134 - EFoX (439393140219183107)\n135 - Bot Testing Server (430847589018107907)\n136 - The blue Army (369588359863205899)\n137 - BaPeX (437721716093878275)\n138 - wowo (437760434150309910)\n139 - Collin's Christian Server (348596166738575361)\n140 - Derp Gamerek (404594813674061827)\n141 - Team Dropite (326843021737984004)\n142 - My Hero Academia (RP) (407105448005861376)
+2018-04-27 14:34:34 #bots @Synapse#0692: You haven't chosen anything.
+2018-04-27 14:34:34 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 32
+2018-04-27 14:34:39 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 32
+2018-04-27 14:34:42 #bots @Domus#0611: Ffs
+2018-04-27 14:34:43 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Oi
+2018-04-27 14:34:52 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 32
+2018-04-27 14:34:55 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 15
+2018-04-27 14:34:57 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 77
+2018-04-27 14:35:00 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Fuck
+2018-04-27 14:35:02 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Exit
+2018-04-27 14:35:15 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !riftopen general
+2018-04-27 14:35:15 #bots @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Little House (411210462370463754)\n1 - TMP [TIEMPO]😎 (406867153288036379)\n2 - TMP [TIEMPO]😎 (406870371132768270)\n3 - TMP [TIEMPO]😎 (397092503372693505)\n4 - Superverse: New World (438434432479789058)\n5 - Games For Life (411565808674668551)\n6 - Sith (436603020403539989)\n7 - music (257124692501069825)\n8 - [HS] (438087432139964439)\n9 - Star & ShippetGaming (242169591202054144)\n10 - The Flames (394589299011616771)\n11 - Potatisens Grupp (436991292271099904)\n12 - FloppityPenguin Fans! (356004835046457345)\n13 - A Kittah Server (429940809010380812)\n14 - wadawwww (437568071620755458)\n15 - Discord Bots (110373943822540800)\n16 - Art Shoppe (437689375816417283)\n17 - vip (429836880285138946)\n18 - ⎣ ❄ Lucky 7 ❄ ⎦ (434116904202928128)\n19 - Mods And Hugs (435705136879370251)\n20 - why (437298772008239116)\n21 - Boii (313966213850202113)\n22 - weebs only <3 (439206255832072192)\n23 - JoshCord (439417861384044554)\n24 - Yunas Discord (426103216808263684)\n25 - King's Trap (437968108666224654)\n26 - ne (412293593676382209)\n27 - ne (410769773903872000)\n28 - CHAT IT OUT (373949477146591234)\n29 - Pure Squad (407159312016867339)\n30 - Game of chance camp (437538353311645698)\n31 - DU tapai (409711223878189068)\n32 - Niggers are white (Christian server) (305450747569504258)\n33 - RandomCheese (437797089141850118)\n34 - El bar de designers v2 (436540220616212480)\n35 - SpeedzArmy (437332236874809354)\n36 - SpeedzArmy (437204541339860993)\n37 - PridePVP 2.0 (433618085971230725)\n38 - Kemal's Custom Pizzeria (429795948118540295)\n39 - Daedric's server (436728311608115215)\n40 - Servidores dos locões (231146163057721344)\n41 - fee's testserver (223263134339694603)\n42 - YTOyuncuKokuyorYT (405531407650390029)\n43 - Normie Cult (366563967247843329)\n44 - For the bot (406861225775857667)\n45 - tesadfsertaw (433369133099515926)\n46 - Raspyberry (408959687782825985)\n47 - My Bois (438726115574546432)\n48 - memes (385768785665327106)\n49 - The Weeb Cafe (239163942822346752)
+2018-04-27 14:35:15 #bots @Synapse#0692: 50 - ayywa.re (429432529968300032)\n51 - Supreme (430589179014021134)\n52 - RERERERE (436861320420261901)\n53 - CS:GO (429308735316295688)\n54 - Black Squad (406190695431274499)\n55 - Synapse Support (436119908443750402)\n56 - THE DRAGON FORCE (343696927130517505)\n57 - KÄÄÄÅÅTEEN (409463385520996357)\n58 - MirekHboi (436828459201724416)\n59 - Dark Productions (343889515414552577)\n60 - STEVEN UNIVERSE (429418533454217216)\n61 - Siwedits (371591859132432387)\n62 - easyᑕhill (439067136653000729)\n63 - HYPECORD (438064195607461908)\n64 - Nightrexa's Discord Channel (312238895494332416)\n65 - JUANCORO (436951640365596674)\n66 - Elite Modders [PC] (438379038994857993)\n67 - TnyCraft (437079238668058629)\n68 - NCD (405702023905017860)\n69 - asd (435017892648583173)\n70 - ROBLOXIAN SERVER (435117940975861762)\n71 - 🔥GgtwizExploits🔥 (421825613402472449)\n72 - United Warlords (438317519724478464)\n73 - Testing (423643113995763723)\n74 - DeadCorporation (438019702350938122)\n75 - DeadCorporation (437981651918651403)\n76 - TheGoldenChampions (224906119821262848)\n77 - No Name (420175720757723139)\n78 - Yet Another Gameserver (417361860296310799)\n79 - Corentin server ! (420924124303589377)\n80 - films ß gratos (377179535919153154)\n81 - FEXPloit (301400632357552138)\n82 - Emote Servers (411233189038784514)\n83 - Fortnite (430796416785448972)\n84 - Lol Server (292755633369776139)\n85 - Vio's children (404099816617148418)\n86 - Game4everGoldy Literally"Fans" (422778877715283971)\n87 - Private Jet (363944480958840832)\n88 - Ayee Its iiSure Fan Group (427554075924496396)\n89 - Con-Mers (411499466382639106)\n90 - Anonymous (425303702233153549)\n91 - Plexy (437616883961823236)\n92 - :: Lyon :: (311459780579557376)\n93 - private channel (436980457989603339)\n94 - +18 PRO HERO'S HANG OUT (438764211795918849)\n95 - Pokemon Trading (438361128335179787)\n96 - PasterSquad.pw (427062710895771653)\n97 - salemgaming (407258968596152323)\n98 - Boobs LEL (438921585081188364)\n99 - kmj (415983763885916166)
+2018-04-27 14:35:15 #bots @Synapse#0692: 100 - SD6 (405088644873977865)\n101 - Higher Humanity (431481535502221312)\n102 - Rescue Squad (439201963272568842)\n103 - Evie Family! (393863229933092873)\n104 - Посиделки (390207947252301827)\n105 - >SF< (438379665250320405)\n106 - RainbowColours (438031112351121410)\n107 - FREE FIRE Indonesia (433165502404231170)\n108 - Trollers (435505750702424085)\n109 - Cola (323252047707111426)\n110 - XXXTENTACION (427622678933929988)\n111 - dragon Ball-z fan club (431532273150722052)\n112 - PUBG (432058869229813761)\n113 - FpsGang (437676407624040464)\n114 - PanDa (438025306176094208)\n115 - meikraft GUCCI CLAN CHAT (394470902114287638)\n116 - test (425758653694345226)\n117 - ARISTOTLE II (424659028887732225)\n118 - Cos (424411393794768909)\n119 - Test Spam (351377335397646337)\n120 - Komunitas Roblox Indonesia (432121905156456450)\n121 - RaidCity (382576139979325463)\n122 - Kanalik (437655473055989763)\n123 - EASY OFFICIAL CLAN (421756717131366412)\n124 - Team Hore (431536623956656128)\n125 - Xiomara (320788851058540544)\n126 - BotTest (437918726797525004)\n127 - Randomness (431503585713586183)\n128 - 出口のコミュニティ (399177631603621889)\n129 - Projekt X (427443445083406346)\n130 - Fortnite (436749917390766087)\n131 - Meme Machine (309226667816255488)\n132 - Hentai Land (437678801267326986)\n133 - Wolf (438663319553835008)\n134 - EFoX (439393140219183107)\n135 - Bot Testing Server (430847589018107907)\n136 - The blue Army (369588359863205899)\n137 - BaPeX (437721716093878275)\n138 - wowo (437760434150309910)\n139 - Collin's Christian Server (348596166738575361)\n140 - Derp Gamerek (404594813674061827)\n141 - Team Dropite (326843021737984004)\n142 - My Hero Academia (RP) (407105448005861376)
+2018-04-27 14:35:27 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 23
+2018-04-27 14:35:27 #bots @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-27 14:35:35 #bots @I Lιкє Ɓιя∂ιєѕ#2427: HEY FUCKERS
+2018-04-27 14:35:40 #bots @Synapse#0692: Domus#0611: Boii
+2018-04-27 14:35:42 #bots @Synapse#0692: Domus#0611: 😂
+2018-04-27 14:35:45 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Fuck u
+2018-04-27 14:36:00 #bots @Synapse#0692: Domus#0611: What’s good
+2018-04-27 14:36:10 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Die
+2018-04-27 14:36:14 #bots @Synapse#0692: Domus#0611: No u
+2018-04-27 14:36:48 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult @ĐØ₥Ʉ₴
+2018-04-27 14:36:52 #bots @Synapse#0692: @ĐØ₥Ʉ₴ Say hello to your wife and my kids for me.
+2018-04-27 14:37:17 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Exit
+2018-04-27 14:37:17 #bots @Synapse#0692: Rift closed.
+2018-04-27 14:39:33 #bots @Domus#0611: !riftopen general
+2018-04-27 14:39:34 #bots @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Little House (411210462370463754)\n1 - TMP [TIEMPO]😎 (406867153288036379)\n2 - TMP [TIEMPO]😎 (406870371132768270)\n3 - TMP [TIEMPO]😎 (397092503372693505)\n4 - Superverse: New World (438434432479789058)\n5 - Games For Life (411565808674668551)\n6 - Sith (436603020403539989)\n7 - music (257124692501069825)\n8 - [HS] (438087432139964439)\n9 - Star & ShippetGaming (242169591202054144)\n10 - The Flames (394589299011616771)\n11 - Potatisens Grupp (436991292271099904)\n12 - FloppityPenguin Fans! (356004835046457345)\n13 - A Kittah Server (429940809010380812)\n14 - wadawwww (437568071620755458)\n15 - Discord Bots (110373943822540800)\n16 - Art Shoppe (437689375816417283)\n17 - vip (429836880285138946)\n18 - ⎣ ❄ Lucky 7 ❄ ⎦ (434116904202928128)\n19 - Mods And Hugs (435705136879370251)\n20 - why (437298772008239116)\n21 - Boii (313966213850202113)\n22 - weebs only <3 (439206255832072192)\n23 - JoshCord (439417861384044554)\n24 - Yunas Discord (426103216808263684)\n25 - King's Trap (437968108666224654)\n26 - ne (412293593676382209)\n27 - ne (410769773903872000)\n28 - CHAT IT OUT (373949477146591234)\n29 - Pure Squad (407159312016867339)\n30 - Game of chance camp (437538353311645698)\n31 - DU tapai (409711223878189068)\n32 - Niggers are white (Christian server) (305450747569504258)\n33 - RandomCheese (437797089141850118)\n34 - El bar de designers v2 (436540220616212480)\n35 - SpeedzArmy (437332236874809354)\n36 - SpeedzArmy (437204541339860993)\n37 - PridePVP 2.0 (433618085971230725)\n38 - Kemal's Custom Pizzeria (429795948118540295)\n39 - Daedric's server (436728311608115215)\n40 - Servidores dos locões (231146163057721344)\n41 - fee's testserver (223263134339694603)\n42 - YTOyuncuKokuyorYT (405531407650390029)\n43 - Normie Cult (366563967247843329)\n44 - For the bot (406861225775857667)\n45 - tesadfsertaw (433369133099515926)\n46 - Raspyberry (408959687782825985)\n47 - My Bois (438726115574546432)\n48 - memes (385768785665327106)\n49 - The Weeb Cafe (239163942822346752)
+2018-04-27 14:39:34 #bots @Synapse#0692: 50 - ayywa.re (429432529968300032)\n51 - Supreme (430589179014021134)\n52 - RERERERE (436861320420261901)\n53 - CS:GO (429308735316295688)\n54 - Black Squad (406190695431274499)\n55 - Synapse Support (436119908443750402)\n56 - THE DRAGON FORCE (343696927130517505)\n57 - KÄÄÄÅÅTEEN (409463385520996357)\n58 - MirekHboi (436828459201724416)\n59 - Dark Productions (343889515414552577)\n60 - STEVEN UNIVERSE (429418533454217216)\n61 - Siwedits (371591859132432387)\n62 - easyᑕhill (439067136653000729)\n63 - HYPECORD (438064195607461908)\n64 - Nightrexa's Discord Channel (312238895494332416)\n65 - JUANCORO (436951640365596674)\n66 - Elite Modders [PC] (438379038994857993)\n67 - TnyCraft (437079238668058629)\n68 - NCD (405702023905017860)\n69 - asd (435017892648583173)\n70 - ROBLOXIAN SERVER (435117940975861762)\n71 - 🔥GgtwizExploits🔥 (421825613402472449)\n72 - United Warlords (438317519724478464)\n73 - Testing (423643113995763723)\n74 - DeadCorporation (438019702350938122)\n75 - DeadCorporation (437981651918651403)\n76 - TheGoldenChampions (224906119821262848)\n77 - No Name (420175720757723139)\n78 - Yet Another Gameserver (417361860296310799)\n79 - Corentin server ! (420924124303589377)\n80 - films ß gratos (377179535919153154)\n81 - FEXPloit (301400632357552138)\n82 - Emote Servers (411233189038784514)\n83 - Fortnite (430796416785448972)\n84 - Lol Server (292755633369776139)\n85 - Vio's children (404099816617148418)\n86 - Game4everGoldy Literally"Fans" (422778877715283971)\n87 - Private Jet (363944480958840832)\n88 - Ayee Its iiSure Fan Group (427554075924496396)\n89 - Con-Mers (411499466382639106)\n90 - Anonymous (425303702233153549)\n91 - Plexy (437616883961823236)\n92 - :: Lyon :: (311459780579557376)\n93 - private channel (436980457989603339)\n94 - +18 PRO HERO'S HANG OUT (438764211795918849)\n95 - Pokemon Trading (438361128335179787)\n96 - PasterSquad.pw (427062710895771653)\n97 - salemgaming (407258968596152323)\n98 - Boobs LEL (438921585081188364)\n99 - kmj (415983763885916166)
+2018-04-27 14:39:34 #bots @Synapse#0692: 100 - SD6 (405088644873977865)\n101 - Higher Humanity (431481535502221312)\n102 - Rescue Squad (439201963272568842)\n103 - Evie Family! (393863229933092873)\n104 - Посиделки (390207947252301827)\n105 - >SF< (438379665250320405)\n106 - RainbowColours (438031112351121410)\n107 - FREE FIRE Indonesia (433165502404231170)\n108 - Trollers (435505750702424085)\n109 - Cola (323252047707111426)\n110 - XXXTENTACION (427622678933929988)\n111 - dragon Ball-z fan club (431532273150722052)\n112 - PUBG (432058869229813761)\n113 - FpsGang (437676407624040464)\n114 - PanDa (438025306176094208)\n115 - meikraft GUCCI CLAN CHAT (394470902114287638)\n116 - test (425758653694345226)\n117 - ARISTOTLE II (424659028887732225)\n118 - Cos (424411393794768909)\n119 - Test Spam (351377335397646337)\n120 - Komunitas Roblox Indonesia (432121905156456450)\n121 - RaidCity (382576139979325463)\n122 - Kanalik (437655473055989763)\n123 - EASY OFFICIAL CLAN (421756717131366412)\n124 - Team Hore (431536623956656128)\n125 - Xiomara (320788851058540544)\n126 - BotTest (437918726797525004)\n127 - Randomness (431503585713586183)\n128 - 出口のコミュニティ (399177631603621889)\n129 - Projekt X (427443445083406346)\n130 - Fortnite (436749917390766087)\n131 - Meme Machine (309226667816255488)\n132 - Hentai Land (437678801267326986)\n133 - Wolf (438663319553835008)\n134 - EFoX (439393140219183107)\n135 - Bot Testing Server (430847589018107907)\n136 - The blue Army (369588359863205899)\n137 - BaPeX (437721716093878275)\n138 - wowo (437760434150309910)\n139 - Collin's Christian Server (348596166738575361)\n140 - Derp Gamerek (404594813674061827)\n141 - Team Dropite (326843021737984004)\n142 - My Hero Academia (RP) (407105448005861376)
+2018-04-27 14:39:44 #bots @Domus#0611: 70
+2018-04-27 14:39:44 #bots @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-27 14:39:50 #bots @Domus#0611: Salutations
+2018-04-27 14:49:55 #bots @Synapse#0692: sup you cunts
+2018-04-27 14:50:37 #bots @Synapse#0692: josh you a
+2018-04-27 14:50:48 #bots @Synapse#0692: cunt bubble
+2018-04-27 14:51:03 #bots @[FFL] 117Chris1#6107: h ey boy
+2018-04-27 14:51:13 #bots @Synapse#0692: sup
+2018-04-27 14:51:43 #bots @[FFL] 117Chris1#6107: name's Chris not Josh
+2018-04-27 14:51:59 #bots @[FFL] 117Chris1#6107: Josh just got kidnapped
+2018-04-27 14:52:39 #bots @[FFL] 117Chris1#6107: he is in my basement
+2018-04-27 14:52:55 #bots @Synapse#0692: oh cool he's going to get it in the ass now
+2018-04-27 14:53:36 #bots @[FFL] 117Chris1#6107: nah man in the mouth
+2018-04-27 14:53:49 #bots @Synapse#0692: oh cool
+2018-04-27 14:53:57 #bots @Synapse#0692: and guess what
+2018-04-27 14:54:11 #bots @[FFL] 117Chris1#6107: what boy?
+2018-04-27 14:54:32 #bots @Synapse#0692: you a bubble blowing bitch
+2018-04-27 14:56:08 #bots @The Tracker#1048: oh hi again
+2018-04-27 14:56:30 #bots @[FFL] 117Chris1#6107: i'll blow your asshole up so much you be the  bubble blowing bitch
+2018-04-27 14:56:30 #bots @MEE6#4876: GG @[FFL] 117Chris1, you just advanced to **level 1** !
+2018-04-27 14:56:56 #bots @The Tracker#1048: !insult @[FFL] 117Chris1
+2018-04-27 14:56:56 #bots @Synapse#0692: @[FFL] 117Chris1 You're so ugly, when you got robbed, the robbers made you wear their masks.
+2018-04-27 14:57:21 #bots @The Tracker#1048: !insult @[FFL] 117Chris1
+2018-04-27 14:57:22 #bots @Synapse#0692: @[FFL] 117Chris1 The last time I saw a face like yours I fed it a banana.
+2018-04-27 14:57:40 #bots @[FFL] 117Chris1#6107: no not you the bot  @The Tracker
+2018-04-27 14:58:00 #bots @[FFL] 117Chris1#6107: eixt
+2018-04-27 14:58:11 #bots @The Tracker#1048: the bot was me
+2018-04-27 14:58:13 #bots @[FFL] 117Chris1#6107: exit
+2018-04-27 14:58:28 #bots @[FFL] 117Chris1#6107: exit
+2018-04-27 14:58:29 #bots @The Tracker#1048: *smiles*
+2018-04-27 14:58:49 #bots @[FFL] 117Chris1#6107: oh hahahahaha
+2018-04-27 23:26:36 #bots @Domus#0611: !r6s
+2018-04-27 23:26:39 #bots @Synapse#0692: @ĐØ₥Ʉ₴, 🚫 The owner needs to set credentials first.\nSee: `!r6sset`
+2018-04-27 23:26:49 #bots @Domus#0611: !r6sset
+2018-04-27 23:28:20 #bots @Domus#0611: !subreddit
+2018-04-27 23:28:20 #bots @Synapse#0692: ```\n!subreddit\n\nCommands for getting subreddits\n\nCommands:\n  hot           Command for getting subreddit's hot posts\n  new           Command for getting subreddit's new posts\n  info          Command for getting subreddit info\n  controversial Command for getting subreddit's controversial posts\n  top           Command for getting subreddit's top posts\n\nType !subreddit command for more info on a command.\nYou can also type !subreddit category for more info on a category.\n```
+2018-04-27 23:28:35 #bots @Domus#0611: !r6sset
+2018-04-27 23:28:37 #bots @Domus#0611: Say that
+2018-04-27 23:28:49 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !?r6sset
+2018-04-27 23:28:54 #bots @Domus#0611: Oof
+2018-04-27 23:29:00 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !r6sset
+2018-04-27 23:29:11 #bots @Domus#0611: Ffs
+2018-04-27 23:29:21 #bots @Domus#0611: !subreddit top
+2018-04-27 23:29:21 #bots @Synapse#0692: ```\n!subreddit top <subreddit> [post_count=3]\n\nCommand for getting subreddit's top posts\n\n```
+2018-04-27 23:29:39 #bots @Domus#0611: !subreddit hot
+2018-04-27 23:29:41 #bots @Synapse#0692: ```\n!subreddit hot <subreddit> [post_count=3]\n\nCommand for getting subreddit's hot posts\n\n```
+2018-04-27 23:30:21 #bots @Domus#0611: !redportal
+2018-04-27 23:30:24 #bots @Synapse#0692: ```\n![redportal|redp]\n\nInteract with cogs.red through your bot\n\nCommands:\n  search Searches for a cog\n\nType !redportal command for more info on a command.\nYou can also type !redportal category for more info on a category.\n```
+2018-04-27 23:30:41 #bots @Domus#0611: !redportal command
+2018-04-27 23:30:42 #bots @Synapse#0692: ```\n![redportal|redp]\n\nInteract with cogs.red through your bot\n\nCommands:\n  search Searches for a cog\n\nType !redportal command for more info on a command.\nYou can also type !redportal category for more info on a category.\n```
+2018-04-27 23:32:17 #bots @Domus#0611: !fuck
+2018-04-27 23:32:25 #bots @Domus#0611: !Fuck @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 23:32:33 #bots @Domus#0611: !adventure
+2018-04-27 23:32:33 #bots @Synapse#0692: ```\n![adventure|campsite]\n\nGreetings adventurer. What is it that you plan on doing today?\n\nCommands:\n  load   loads current team's save. defaults to most recent\n  info   Information about your current adventure in this channel\n  join   Your team has embarked on an adventure without you?!\n  quit   \n  embark Start/Continue an adventure.\n\nType !adventure command for more info on a command.\nYou can also type !adventure category for more info on a category.\n```
+2018-04-27 23:32:40 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !fuckyou @ĐØ₥Ʉ₴
+2018-04-27 23:32:43 #bots @Synapse#0692: 
+2018-04-27 23:32:43 #bots @Synapse#0692 edited message from 2018-04-27 23:32:43 () to read: 
+2018-04-27 23:33:05 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 23:33:05 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ You're so fat you'd have to go to Sea World to get baptized.
+2018-04-27 23:33:15 #bots @Domus#0611: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 23:33:17 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ If I wanted a bitch, I'd have bought a dog.
+2018-04-27 23:33:31 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult @ĐØ₥Ʉ₴
+2018-04-27 23:33:31 #bots @Synapse#0692: @ĐØ₥Ʉ₴ Did you know they used to be called "Jumpolines" until your mum jumped on one?
+2018-04-27 23:34:13 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 23:34:14 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ You're so fat you have more rolls than a bakery.
+2018-04-27 23:34:33 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult @I Lιкє Ɓιя∂ιєѕ
+2018-04-27 23:34:36 #bots @Synapse#0692: @I Lιкє Ɓιя∂ιєѕ If I wanted to hear from an asshole, I'd fart.
+2018-04-27 23:34:48 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !insult @ĐØ₥Ʉ₴
+2018-04-27 23:34:49 #bots @Synapse#0692: @ĐØ₥Ʉ₴ I can explain it to you, but I can't understand it for you.
+2018-04-27 23:35:50 #bots @Domus#0611: !Adventure command
+2018-04-27 23:36:03 #bots @Domus#0611: !adventure help
+2018-04-27 23:36:04 #bots @Synapse#0692: ```\n![adventure|campsite]\n\nGreetings adventurer. What is it that you plan on doing today?\n\nCommands:\n  load   loads current team's save. defaults to most recent\n  info   Information about your current adventure in this channel\n  join   Your team has embarked on an adventure without you?!\n  quit   \n  embark Start/Continue an adventure.\n\nType !adventure command for more info on a command.\nYou can also type !adventure category for more info on a category.\n```
+2018-04-27 23:36:15 #bots @Domus#0611: !adventure start
+2018-04-27 23:36:16 #bots @Synapse#0692: ```\n![adventure|campsite]\n\nGreetings adventurer. What is it that you plan on doing today?\n\nCommands:\n  load   loads current team's save. defaults to most recent\n  info   Information about your current adventure in this channel\n  join   Your team has embarked on an adventure without you?!\n  quit   \n  embark Start/Continue an adventure.\n\nType !adventure command for more info on a command.\nYou can also type !adventure category for more info on a category.\n```
+2018-04-27 23:36:26 #bots @Domus#0611: Join
+2018-04-27 23:36:33 #bots @Domus#0611: !adventure join
+2018-04-27 23:36:33 #bots @Synapse#0692: @ĐØ₥Ʉ₴, You are not in a team yet. Find a team to recruit you or type `!team new <team_name>` to start a new one.
+2018-04-27 23:36:54 #bots @Domus#0611: !team new Take Faxi
+2018-04-27 23:36:55 #bots @Synapse#0692: @ĐØ₥Ʉ₴, Under construction. use `!adventure embark <team_name>` instead
+2018-04-27 23:37:07 #bots @Domus#0611: !adventure embark Take Faxi
+2018-04-27 23:37:10 #bots @Synapse#0692: @ĐØ₥Ʉ₴, the first adventurer in JoshCord, starts the Take team and sets off on an adventure!..\nInteract with the adventure with `!> <command>`\n\nWelcome to Adventure!!  Would you like instructions?
+2018-04-27 23:37:33 #bots @Domus#0611: !hes
+2018-04-27 23:37:39 #bots @Domus#0611: !instructions
+2018-04-27 23:37:53 #bots @Domus#0611: !> <instructions>
+2018-04-27 23:37:53 #bots @Synapse#0692: Please answer the question.
+2018-04-27 23:38:08 #bots @Domus#0611: !> <yes>
+2018-04-27 23:38:10 #bots @Synapse#0692: Somewhere nearby is Colossal Cave, where others have found fortunes in\ntreasure and gold, though it is rumored that some who enter are never\nseen again.  Magic is said to work in the cave.  I will be your eyes\nand hands.  Direct me with commands of 1 or 2 words.  I should warn\nyou that I look at only the first five letters of each word, so you'll\nhave to enter "northeast" as "ne" to distinguish it from "north".\n(should you get stuck, type "help" for some general hints.  For infor-\nmation on how to end your adventure, etc., type "info".)\n                              - - -\nThis program was originally developed by Willie Crowther.  Most of the\nfeatures of the current program were added by Don Woods (don @ su-ai).\nContact Don if you have any questions, comments about the original game.\nThe game was ported to python by Brandon Rhodes and was further ported\nas one of Red DiscordBot's cogs by irdumbs.\nPlease direct any questions about the Red cog to irdumbs. If there are\nany bugs or typos please let him know. Have fun! Good luck.\n                              - - -\n\nYou are standing at the end of a road before a small brick building.\nAround you is a forest.  A small stream flows out of the building and\ndown a gully.
+2018-04-27 23:39:06 #bots @Domus#0611: Ok
+2018-04-27 23:39:09 #bots @Domus#0611: Yes
+2018-04-27 23:39:11 #bots @Domus#0611: Help
+2018-04-27 23:39:20 #bots @Domus#0611: !> <ok>
+2018-04-27 23:39:20 #bots @Synapse#0692: I don't know that word.
+2018-04-27 23:39:29 #bots @Domus#0611: !> <yes>
+2018-04-27 23:39:32 #bots @Synapse#0692: I don't know that word.
+2018-04-27 23:39:40 #bots @Domus#0611: !> <help>
+2018-04-27 23:39:41 #bots @Synapse#0692: I know of places, actions, and things.  Most of my vocabulary\ndescribes places and is used to move you there.  To move, try words\nlike forest, building, downstream, enter, east, west, north, south,\nup, or down.  I know about a few special objects, like a black rod\nhidden in the cave.  These objects can be manipulated using some of\nthe action words that I know.  Usually you will need to give both the\nobject and action words (in either order), but sometimes I can infer\nthe object from the verb alone.  Some objects also imply verbs; in\nparticular, "inventory" implies "take inventory", which causes me to\ngive you a list of what you're carrying.  The objects have side\neffects; for instance, the rod scares the bird.  Usually people having\ntrouble moving just need to try a few more words.  Usually people\ntrying unsuccessfully to manipulate an object are attempting something\nbeyond their (or my!) capabilities and should try a completely\ndifferent tack.  To speed the game you can sometimes move long\ndistances with a single word.  For example, "building" usually gets\nyou to the building from anywhere above ground except when lost in the\nforest.  Also, note that cave passages turn a lot, and that leaving a\nroom to the north does not guarantee entering the next from the south.\nGood luck!
+2018-04-27 23:40:28 #bots @Domus#0611: !> <find cave>
+2018-04-27 23:40:28 #bots @Synapse#0692: I don't know that word.
+2018-04-27 23:40:51 #bots @Domus#0611: !> <north>
+2018-04-27 23:40:51 #bots @Synapse#0692: You are in open forest, with a deep valley to one side.
+2018-04-27 23:41:01 #bots @Domus#0611: !> <move>
+2018-04-27 23:41:03 #bots @Synapse#0692: I don't know that word.
+2018-04-27 23:41:11 #bots @Domus#0611: !> <south>
+2018-04-27 23:41:11 #bots @Synapse#0692: You're in forest.
+2018-04-27 23:41:27 #bots @Domus#0611: !> <south>
+2018-04-27 23:41:29 #bots @Synapse#0692: You're in forest.
+2018-04-27 23:41:40 #bots @Domus#0611: !> <north>
+2018-04-27 23:41:42 #bots @Synapse#0692: You are in open forest near both a valley and a road.
+2018-04-27 23:41:51 #bots @Domus#0611: !> <north>
+2018-04-27 23:41:54 #bots @Synapse#0692: You're at end of road again.
+2018-04-27 23:42:03 #bots @Domus#0611: !> <east>
+2018-04-27 23:42:03 #bots @Synapse#0692: You are inside a building, a well house for a large spring.\n\nThere are some keys on the ground here.\n\nThere is a shiny brass lamp nearby.\n\nThere is food here.\n\nThere is a bottle of water here.
+2018-04-27 23:42:15 #bots @Domus#0611: !> <save>
+2018-04-27 23:42:15 #bots @Synapse#0692: I refuse to overwrite an existing file.
+2018-04-27 23:42:37 #bots @Domus#0611: !> <help>
+2018-04-27 23:42:37 #bots @Synapse#0692: I know of places, actions, and things.  Most of my vocabulary\ndescribes places and is used to move you there.  To move, try words\nlike forest, building, downstream, enter, east, west, north, south,\nup, or down.  I know about a few special objects, like a black rod\nhidden in the cave.  These objects can be manipulated using some of\nthe action words that I know.  Usually you will need to give both the\nobject and action words (in either order), but sometimes I can infer\nthe object from the verb alone.  Some objects also imply verbs; in\nparticular, "inventory" implies "take inventory", which causes me to\ngive you a list of what you're carrying.  The objects have side\neffects; for instance, the rod scares the bird.  Usually people having\ntrouble moving just need to try a few more words.  Usually people\ntrying unsuccessfully to manipulate an object are attempting something\nbeyond their (or my!) capabilities and should try a completely\ndifferent tack.  To speed the game you can sometimes move long\ndistances with a single word.  For example, "building" usually gets\nyou to the building from anywhere above ground except when lost in the\nforest.  Also, note that cave passages turn a lot, and that leaving a\nroom to the north does not guarantee entering the next from the south.\nGood luck!
+2018-04-27 23:42:49 #bots @Domus#0611: !> <leave>
+2018-04-27 23:42:50 #bots @Synapse#0692: You're at end of road again.
+2018-04-27 23:43:00 #bots @Domus#0611: !> <end>
+2018-04-27 23:43:00 #bots @Synapse#0692: I don't understand that!
+2018-04-27 23:43:08 #bots @Domus#0611: !> <stop>
+2018-04-27 23:43:08 #bots @Synapse#0692: I don't know the word "stop".  Use "quit" if you want to give up.
+2018-04-27 23:43:22 #bots @Domus#0611: !> <quit>
+2018-04-27 23:43:22 #bots @Synapse#0692: Do you really want to quit now?
+2018-04-27 23:43:36 #bots @Domus#0611: !> <yes>
+2018-04-27 23:43:38 #bots @Synapse#0692: Ok\n\n\nYou scored 31 out of a possible 350 using 17 turns.\n\nYou are obviously a rank amateur.  Better luck next time.\n\nTo achieve the next higher rating, you need 70 more points
+2018-04-27 23:44:00 #bots @Domus#0611: Oof
+2018-04-27 23:44:00 #bots @MEE6#4876: GG @ĐØ₥Ʉ₴, you just advanced to **level 2** !
+2018-04-27 23:44:05 #bots @Domus#0611: Ye
+2018-04-27 23:46:35 #bots @I Lιкє Ɓιя∂ιєѕ#2427: *multicolor
+2018-04-27 23:46:53 #bots @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-27 23:47:32 #bots @I Lιкє Ɓιя∂ιєѕ#2427: *multicolor rainbow @Disco
+2018-04-27 23:47:42 #bots @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-27 23:48:02 #bots @I Lιкє Ɓιя∂ιєѕ#2427: *multicolor @Disco
+2018-04-27 23:48:10 #bots @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-28 04:53:51 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !riftopen general
+2018-04-28 04:53:53 #bots @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Little House (411210462370463754)\n1 - TMP [TIEMPO]😎 (406867153288036379)\n2 - TMP [TIEMPO]😎 (406870371132768270)\n3 - TMP [TIEMPO]😎 (397092503372693505)\n4 - Superverse: New World (438434432479789058)\n5 - Games For Life (411565808674668551)\n6 - Sith (436603020403539989)\n7 - music (257124692501069825)\n8 - [HS] (438087432139964439)\n9 - Burger kingdom (432950182964101121)\n10 - Star & ShippetGaming (242169591202054144)\n11 - The Flames (394589299011616771)\n12 - Potatisens Grupp (436991292271099904)\n13 - FloppityPenguin Fans! (356004835046457345)\n14 - A Kittah Server (429940809010380812)\n15 - wadawwww (437568071620755458)\n16 - Discord Bots (110373943822540800)\n17 - Art Shoppe (437689375816417283)\n18 - vip (429836880285138946)\n19 - Mods And Hugs (435705136879370251)\n20 - why (437298772008239116)\n21 - Boii (313966213850202113)\n22 - caelix fanclub (439206255832072192)\n23 - JoshCord (439417861384044554)\n24 - Yunas Discord (426103216808263684)\n25 - King's Trap (437968108666224654)\n26 - ne (412293593676382209)\n27 - ne (410769773903872000)\n28 - CHAT IT OUT (373949477146591234)\n29 - Pure Squad (407159312016867339)\n30 - Game of chance camp (437538353311645698)\n31 - DU tapai (409711223878189068)\n32 - Niggers are white (Christian server) (305450747569504258)\n33 - RandomCheese (437797089141850118)\n34 - El bar de designers v2 (436540220616212480)\n35 - SpeedzArmy (437332236874809354)\n36 - SpeedzArmy (437204541339860993)\n37 - PridePVP 2.0 (433618085971230725)\n38 - Kemal's Custom Pizzeria (429795948118540295)\n39 - Daedric's server (436728311608115215)\n40 - servidor teste (231146163057721344)\n41 - fee's testserver (223263134339694603)\n42 - YTOyuncuKokuyorYT (405531407650390029)\n43 - Normie Cult (366563967247843329)\n44 - For the bot (406861225775857667)\n45 - tesadfsertaw (433369133099515926)\n46 - Raspyberry (408959687782825985)\n47 - Rocket League (409505779612123142)\n48 - My Bois (438726115574546432)\n49 - memes (385768785665327106)
+2018-04-28 04:53:53 #bots @Synapse#0692: 50 - The Weeb Cafe (239163942822346752)\n51 - ayywa.re (429432529968300032)\n52 - Supreme (430589179014021134)\n53 - RERERERE (436861320420261901)\n54 - CS:GO (429308735316295688)\n55 - Black Squad (406190695431274499)\n56 - Synapse Support (436119908443750402)\n57 - THE DRAGON FORCE (343696927130517505)\n58 - KÄÄÄÅÅTEEN (409463385520996357)\n59 - MirekHboi (436828459201724416)\n60 - Dark Productions (343889515414552577)\n61 - STEVEN UNIVERSE (429418533454217216)\n62 - Siwedits (371591859132432387)\n63 - easyᑕhill (439067136653000729)\n64 - HYPECORD (438064195607461908)\n65 - qffzjfzf (401545819762720781)\n66 - Nightrexa's Discord Channel (312238895494332416)\n67 - AMIGOS PACMAN :v (436951640365596674)\n68 - Elite Modders [PC] (438379038994857993)\n69 - TnyCraft (437079238668058629)\n70 - salty Squad (386583733064433666)\n71 - NCD (405702023905017860)\n72 - asd (435017892648583173)\n73 - ROBLOXIAN SERVER (435117940975861762)\n74 - 🔥GgtwizExploits🔥 (421825613402472449)\n75 - United Warlords (438317519724478464)\n76 - The HaxXd (434958050483240960)\n77 - Testing (423643113995763723)\n78 - DeadCorporation (438019702350938122)\n79 - DeadCorporation (437981651918651403)\n80 - TheGoldenChampions (224906119821262848)\n81 - No Name (420175720757723139)\n82 - Yet Another Gameserver (417361860296310799)\n83 - Corentin server ! (420924124303589377)\n84 - films ß gratos (377179535919153154)\n85 - FEXPloit (301400632357552138)\n86 - Emote Servers (411233189038784514)\n87 - Fortnite (430796416785448972)\n88 - Lol Server (292755633369776139)\n89 - Vio's children (404099816617148418)\n90 - Game4everGoldy Literally"Fans" (422778877715283971)\n91 - Private Jet (363944480958840832)\n92 - ES PRUEBA (430098657518288899)\n93 - Ayee Its iiSure Fan Group (427554075924496396)\n94 - Con-Mers (411499466382639106)\n95 - Anonymous (425303702233153549)\n96 - Plexy (437616883961823236)\n97 - :: Lyon :: (311459780579557376)\n98 - private channel (436980457989603339)\n99 - +18 PRO HERO'S HANG OUT (438764211795918849)
+2018-04-28 04:53:54 #bots @Synapse#0692: 100 - Pokemon Trading (438361128335179787)\n101 - PasterSquad.pw (427062710895771653)\n102 - salemgaming (407258968596152323)\n103 - Boobs LEL (438921585081188364)\n104 - kmj (415983763885916166)\n105 - SD6 (405088644873977865)\n106 - Moonrise Hotels. (435859129236455424)\n107 - Moonrise Hotels. (435809908667973634)\n108 - Higher Humanity (431481535502221312)\n109 - Rescue Squad (439201963272568842)\n110 - Evie Family! (393863229933092873)\n111 - Посиделки (390207947252301827)\n112 - >SF< (438379665250320405)\n113 - RainbowColours (438031112351121410)\n114 - FREE FIRE Indonesia (433165502404231170)\n115 - Trollers (435505750702424085)\n116 - Cola (323252047707111426)\n117 - XXXTENTACION (427622678933929988)\n118 - dragon Ball-z fan club (431532273150722052)\n119 - PUBG (432058869229813761)\n120 - FpsGang (437676407624040464)\n121 - PanDa (438025306176094208)\n122 - meikraft GUCCI CLAN CHAT (394470902114287638)\n123 - test (425758653694345226)\n124 - ARISTOTLE II (424659028887732225)\n125 - Cos (424411393794768909)\n126 - Test Spam (351377335397646337)\n127 - Masters of Gaming (438612526435926016)\n128 - Komunitas Roblox Indonesia (432121905156456450)\n129 - RaidCity (382576139979325463)\n130 - Jun's Café (๑˃̵ᴗ˂̵) (439132465072963604)\n131 - Kanalik (437655473055989763)\n132 - EASY OFFICIAL CLAN (421756717131366412)\n133 - Team Hore (431536623956656128)\n134 - Xiomara (320788851058540544)\n135 - BotTest (437918726797525004)\n136 - Randomness (431503585713586183)\n137 - luv (438035282651119628)\n138 - 出口のコミュニティ (399177631603621889)\n139 - kk (435547715238363150)\n140 - Projekt X (427443445083406346)\n141 - Fortnite (436749917390766087)\n142 - Meme Machine (309226667816255488)\n143 - Hentai Land (437678801267326986)\n144 - Wolf (438663319553835008)\n145 - EFoX (439393140219183107)\n146 - Bot Testing Server (430847589018107907)\n147 - The blue Army (369588359863205899)\n148 - BaPeX (437721716093878275)\n149 - wowo (437760434150309910)\n150 - Collin's Christian Server (348596166738575361)
+2018-04-28 04:53:54 #bots @Synapse#0692: 151 - Derp Gamerek (404594813674061827)\n152 - Team Dropite (326843021737984004)\n153 - My Hero Academia (RP) (407105448005861376)
+2018-04-28 04:54:24 #bots @Synapse#0692: You haven't chosen anything.
+2018-04-28 04:54:31 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 142
+2018-04-28 04:54:34 #bots @Domus#0611: !riftopen general
+2018-04-28 04:54:35 #bots @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Little House (411210462370463754)\n1 - TMP [TIEMPO]😎 (406867153288036379)\n2 - TMP [TIEMPO]😎 (406870371132768270)\n3 - TMP [TIEMPO]😎 (397092503372693505)\n4 - Superverse: New World (438434432479789058)\n5 - Games For Life (411565808674668551)\n6 - Sith (436603020403539989)\n7 - music (257124692501069825)\n8 - [HS] (438087432139964439)\n9 - Burger kingdom (432950182964101121)\n10 - Star & ShippetGaming (242169591202054144)\n11 - The Flames (394589299011616771)\n12 - Potatisens Grupp (436991292271099904)\n13 - FloppityPenguin Fans! (356004835046457345)\n14 - A Kittah Server (429940809010380812)\n15 - wadawwww (437568071620755458)\n16 - Discord Bots (110373943822540800)\n17 - Art Shoppe (437689375816417283)\n18 - vip (429836880285138946)\n19 - Mods And Hugs (435705136879370251)\n20 - why (437298772008239116)\n21 - Boii (313966213850202113)\n22 - caelix fanclub (439206255832072192)\n23 - JoshCord (439417861384044554)\n24 - Yunas Discord (426103216808263684)\n25 - King's Trap (437968108666224654)\n26 - ne (412293593676382209)\n27 - ne (410769773903872000)\n28 - CHAT IT OUT (373949477146591234)\n29 - Pure Squad (407159312016867339)\n30 - Game of chance camp (437538353311645698)\n31 - DU tapai (409711223878189068)\n32 - Niggers are white (Christian server) (305450747569504258)\n33 - RandomCheese (437797089141850118)\n34 - El bar de designers v2 (436540220616212480)\n35 - SpeedzArmy (437332236874809354)\n36 - SpeedzArmy (437204541339860993)\n37 - PridePVP 2.0 (433618085971230725)\n38 - Kemal's Custom Pizzeria (429795948118540295)\n39 - Daedric's server (436728311608115215)\n40 - servidor teste (231146163057721344)\n41 - fee's testserver (223263134339694603)\n42 - YTOyuncuKokuyorYT (405531407650390029)\n43 - Normie Cult (366563967247843329)\n44 - For the bot (406861225775857667)\n45 - tesadfsertaw (433369133099515926)\n46 - Raspyberry (408959687782825985)\n47 - Rocket League (409505779612123142)\n48 - My Bois (438726115574546432)\n49 - memes (385768785665327106)
+2018-04-28 04:54:36 #bots @Synapse#0692: 50 - The Weeb Cafe (239163942822346752)\n51 - ayywa.re (429432529968300032)\n52 - Supreme (430589179014021134)\n53 - RERERERE (436861320420261901)\n54 - CS:GO (429308735316295688)\n55 - Black Squad (406190695431274499)\n56 - Synapse Support (436119908443750402)\n57 - THE DRAGON FORCE (343696927130517505)\n58 - KÄÄÄÅÅTEEN (409463385520996357)\n59 - MirekHboi (436828459201724416)\n60 - Dark Productions (343889515414552577)\n61 - STEVEN UNIVERSE (429418533454217216)\n62 - Siwedits (371591859132432387)\n63 - easyᑕhill (439067136653000729)\n64 - HYPECORD (438064195607461908)\n65 - qffzjfzf (401545819762720781)\n66 - Nightrexa's Discord Channel (312238895494332416)\n67 - AMIGOS PACMAN :v (436951640365596674)\n68 - Elite Modders [PC] (438379038994857993)\n69 - TnyCraft (437079238668058629)\n70 - salty Squad (386583733064433666)\n71 - NCD (405702023905017860)\n72 - asd (435017892648583173)\n73 - ROBLOXIAN SERVER (435117940975861762)\n74 - 🔥GgtwizExploits🔥 (421825613402472449)\n75 - United Warlords (438317519724478464)\n76 - The HaxXd (434958050483240960)\n77 - Testing (423643113995763723)\n78 - DeadCorporation (438019702350938122)\n79 - DeadCorporation (437981651918651403)\n80 - TheGoldenChampions (224906119821262848)\n81 - No Name (420175720757723139)\n82 - Yet Another Gameserver (417361860296310799)\n83 - Corentin server ! (420924124303589377)\n84 - films ß gratos (377179535919153154)\n85 - FEXPloit (301400632357552138)\n86 - Emote Servers (411233189038784514)\n87 - Fortnite (430796416785448972)\n88 - Lol Server (292755633369776139)\n89 - Vio's children (404099816617148418)\n90 - Game4everGoldy Literally"Fans" (422778877715283971)\n91 - Private Jet (363944480958840832)\n92 - ES PRUEBA (430098657518288899)\n93 - Ayee Its iiSure Fan Group (427554075924496396)\n94 - Con-Mers (411499466382639106)\n95 - Anonymous (425303702233153549)\n96 - Plexy (437616883961823236)\n97 - :: Lyon :: (311459780579557376)\n98 - private channel (436980457989603339)\n99 - +18 PRO HERO'S HANG OUT (438764211795918849)
+2018-04-28 04:54:36 #bots @Synapse#0692: 100 - Pokemon Trading (438361128335179787)\n101 - PasterSquad.pw (427062710895771653)\n102 - salemgaming (407258968596152323)\n103 - Boobs LEL (438921585081188364)\n104 - kmj (415983763885916166)\n105 - SD6 (405088644873977865)\n106 - Moonrise Hotels. (435859129236455424)\n107 - Moonrise Hotels. (435809908667973634)\n108 - Higher Humanity (431481535502221312)\n109 - Rescue Squad (439201963272568842)\n110 - Evie Family! (393863229933092873)\n111 - Посиделки (390207947252301827)\n112 - >SF< (438379665250320405)\n113 - RainbowColours (438031112351121410)\n114 - FREE FIRE Indonesia (433165502404231170)\n115 - Trollers (435505750702424085)\n116 - Cola (323252047707111426)\n117 - XXXTENTACION (427622678933929988)\n118 - dragon Ball-z fan club (431532273150722052)\n119 - PUBG (432058869229813761)\n120 - FpsGang (437676407624040464)\n121 - PanDa (438025306176094208)\n122 - meikraft GUCCI CLAN CHAT (394470902114287638)\n123 - test (425758653694345226)\n124 - ARISTOTLE II (424659028887732225)\n125 - Cos (424411393794768909)\n126 - Test Spam (351377335397646337)\n127 - Masters of Gaming (438612526435926016)\n128 - Komunitas Roblox Indonesia (432121905156456450)\n129 - RaidCity (382576139979325463)\n130 - Jun's Café (๑˃̵ᴗ˂̵) (439132465072963604)\n131 - Kanalik (437655473055989763)\n132 - EASY OFFICIAL CLAN (421756717131366412)\n133 - Team Hore (431536623956656128)\n134 - Xiomara (320788851058540544)\n135 - BotTest (437918726797525004)\n136 - Randomness (431503585713586183)\n137 - luv (438035282651119628)\n138 - 出口のコミュニティ (399177631603621889)\n139 - kk (435547715238363150)\n140 - Projekt X (427443445083406346)\n141 - Fortnite (436749917390766087)\n142 - Meme Machine (309226667816255488)\n143 - Hentai Land (437678801267326986)\n144 - Wolf (438663319553835008)\n145 - EFoX (439393140219183107)\n146 - Bot Testing Server (430847589018107907)\n147 - The blue Army (369588359863205899)\n148 - BaPeX (437721716093878275)\n149 - wowo (437760434150309910)\n150 - Collin's Christian Server (348596166738575361)
+2018-04-28 04:54:36 #bots @Synapse#0692: 151 - Derp Gamerek (404594813674061827)\n152 - Team Dropite (326843021737984004)\n153 - My Hero Academia (RP) (407105448005861376)
+2018-04-28 04:54:38 #bots @Domus#0611: 142
+2018-04-28 04:54:39 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 142
+2018-04-28 04:54:40 #bots @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-28 04:54:44 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Hey bby
+2018-04-28 04:54:54 #bots @Domus#0611: Ily bby
+2018-04-28 04:55:07 #bots @I Lιкє Ɓιя∂ιєѕ#2427: Dead chat
+2018-04-28 04:55:11 #bots @Domus#0611: Sum fuk?
+2018-04-28 04:55:34 #bots @Domus#0611: Oof
+2018-04-28 04:55:38 #bots @Domus#0611: Exit
+2018-04-28 04:55:39 #bots @Synapse#0692: Rift closed.
+2018-04-28 04:55:40 #bots @Synapse#0692: `Error in command 'riftopen'. Check your console or logs for details.`
+2018-04-28 04:55:58 #bots @Domus#0611: Find hugs and mods again
+2018-04-28 05:14:21 #bots @I Lιкє Ɓιя∂ιєѕ#2427: !riftopen general
+2018-04-28 05:14:23 #bots @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Little House (411210462370463754)\n1 - TMP [TIEMPO]😎 (406867153288036379)\n2 - TMP [TIEMPO]😎 (406870371132768270)\n3 - TMP [TIEMPO]😎 (397092503372693505)\n4 - Superverse: New World (438434432479789058)\n5 - Games For Life (411565808674668551)\n6 - Sith (436603020403539989)\n7 - music (257124692501069825)\n8 - [HS] (438087432139964439)\n9 - Burger kingdom (432950182964101121)\n10 - Star & ShippetGaming (242169591202054144)\n11 - The Flames (394589299011616771)\n12 - Potatisens Grupp (436991292271099904)\n13 - FloppityPenguin Fans! (356004835046457345)\n14 - A Kittah Server (429940809010380812)\n15 - wadawwww (437568071620755458)\n16 - Discord Bots (110373943822540800)\n17 - Art Shoppe (437689375816417283)\n18 - vip (429836880285138946)\n19 - Mods And Hugs (435705136879370251)\n20 - why (437298772008239116)\n21 - Boii (313966213850202113)\n22 - caelix fanclub (439206255832072192)\n23 - JoshCord (439417861384044554)\n24 - Yunas Discord (426103216808263684)\n25 - King's Trap (437968108666224654)\n26 - ne (412293593676382209)\n27 - ne (410769773903872000)\n28 - CHAT IT OUT (373949477146591234)\n29 - Pure Squad (407159312016867339)\n30 - Game of chance camp (437538353311645698)\n31 - DU tapai (409711223878189068)\n32 - Niggers are white (Christian server) (305450747569504258)\n33 - RandomCheese (437797089141850118)\n34 - El bar de designers v2 (436540220616212480)\n35 - SpeedzArmy (437332236874809354)\n36 - SpeedzArmy (437204541339860993)\n37 - PridePVP 2.0 (433618085971230725)\n38 - Kemal's Custom Pizzeria (429795948118540295)\n39 - Daedric's server (436728311608115215)\n40 - servidor teste (231146163057721344)\n41 - fee's testserver (223263134339694603)\n42 - YTOyuncuKokuyorYT (405531407650390029)\n43 - Normie Cult (366563967247843329)\n44 - For the bot (406861225775857667)\n45 - tesadfsertaw (433369133099515926)\n46 - Raspyberry (408959687782825985)\n47 - Rocket League (409505779612123142)\n48 - My Bois (438726115574546432)\n49 - memes (385768785665327106)
+2018-04-28 05:14:23 #bots @Synapse#0692: 50 - The Weeb Cafe (239163942822346752)\n51 - ayywa.re (429432529968300032)\n52 - Supreme (430589179014021134)\n53 - RERERERE (436861320420261901)\n54 - CS:GO (429308735316295688)\n55 - Black Squad (406190695431274499)\n56 - Synapse Support (436119908443750402)\n57 - THE DRAGON FORCE (343696927130517505)\n58 - KÄÄÄÅÅTEEN (409463385520996357)\n59 - MirekHboi (436828459201724416)\n60 - Dark Productions (343889515414552577)\n61 - STEVEN UNIVERSE (429418533454217216)\n62 - Siwedits (371591859132432387)\n63 - easyᑕhill (439067136653000729)\n64 - HYPECORD (438064195607461908)\n65 - qffzjfzf (401545819762720781)\n66 - Nightrexa's Discord Channel (312238895494332416)\n67 - AMIGOS PACMAN :v (436951640365596674)\n68 - Elite Modders [PC] (438379038994857993)\n69 - TnyCraft (437079238668058629)\n70 - salty Squad (386583733064433666)\n71 - NCD (405702023905017860)\n72 - asd (435017892648583173)\n73 - ROBLOXIAN SERVER (435117940975861762)\n74 - 🔥GgtwizExploits🔥 (421825613402472449)\n75 - United Warlords (438317519724478464)\n76 - The HaxXd (434958050483240960)\n77 - Testing (423643113995763723)\n78 - DeadCorporation (438019702350938122)\n79 - DeadCorporation (437981651918651403)\n80 - TheGoldenChampions (224906119821262848)\n81 - No Name (420175720757723139)\n82 - Yet Another Gameserver (417361860296310799)\n83 - Corentin server ! (420924124303589377)\n84 - films ß gratos (377179535919153154)\n85 - FEXPloit (301400632357552138)\n86 - Emote Servers (411233189038784514)\n87 - Fortnite (430796416785448972)\n88 - Lol Server (292755633369776139)\n89 - Vio's children (404099816617148418)\n90 - Game4everGoldy Literally"Fans" (422778877715283971)\n91 - Private Jet (363944480958840832)\n92 - ES PRUEBA (430098657518288899)\n93 - Ayee Its iiSure Fan Group (427554075924496396)\n94 - Con-Mers (411499466382639106)\n95 - Anonymous (425303702233153549)\n96 - Plexy (437616883961823236)\n97 - :: Lyon :: (311459780579557376)\n98 - private channel (436980457989603339)\n99 - +18 PRO HERO'S HANG OUT (438764211795918849)
+2018-04-28 05:14:23 #bots @Synapse#0692: 100 - Pokemon Trading (438361128335179787)\n101 - PasterSquad.pw (427062710895771653)\n102 - salemgaming (407258968596152323)\n103 - Boobs LEL (438921585081188364)\n104 - kmj (415983763885916166)\n105 - SD6 (405088644873977865)\n106 - Moonrise Hotels. (435859129236455424)\n107 - Moonrise Hotels. (435809908667973634)\n108 - Higher Humanity (431481535502221312)\n109 - Rescue Squad (439201963272568842)\n110 - Evie Family! (393863229933092873)\n111 - Посиделки (390207947252301827)\n112 - >SF< (438379665250320405)\n113 - RainbowColours (438031112351121410)\n114 - FREE FIRE Indonesia (433165502404231170)\n115 - Jayce 伤心 (438457906061508611)\n116 - Trollers (435505750702424085)\n117 - Cola (323252047707111426)\n118 - XXXTENTACION (427622678933929988)\n119 - dragon Ball-z fan club (431532273150722052)\n120 - PUBG (432058869229813761)\n121 - FpsGang (437676407624040464)\n122 - PanDa (438025306176094208)\n123 - meikraft GUCCI CLAN CHAT (394470902114287638)\n124 - test (425758653694345226)\n125 - ARISTOTLE II (424659028887732225)\n126 - Cos (424411393794768909)\n127 - Test Spam (351377335397646337)\n128 - Masters of Gaming (438612526435926016)\n129 - Komunitas Roblox Indonesia (432121905156456450)\n130 - RaidCity (382576139979325463)\n131 - Jun's Café (๑˃̵ᴗ˂̵) (439132465072963604)\n132 - Kanalik (437655473055989763)\n133 - EASY OFFICIAL CLAN (421756717131366412)\n134 - Team Hore (431536623956656128)\n135 - Xiomara (320788851058540544)\n136 - BotTest (437918726797525004)\n137 - Randomness (431503585713586183)\n138 - luv (438035282651119628)\n139 - 出口のコミュニティ (399177631603621889)\n140 - kk (435547715238363150)\n141 - Projekt X (427443445083406346)\n142 - Fortnite (436749917390766087)\n143 - Meme Machine (309226667816255488)\n144 - Hentai Land (437678801267326986)\n145 - Wolf (438663319553835008)\n146 - EFoX (439393140219183107)\n147 - Bot Testing Server (430847589018107907)\n148 - The blue Army (369588359863205899)\n149 - BaPeX (437721716093878275)\n150 - wowo (437760434150309910)
+2018-04-28 05:14:23 #bots @Synapse#0692: 151 - Collin's Christian Server (348596166738575361)\n152 - Derp Gamerek (404594813674061827)\n153 - Team Dropite (326843021737984004)\n154 - My Hero Academia (RP) (407105448005861376)
+2018-04-28 05:14:26 #bots @I Lιкє Ɓιя∂ιєѕ#2427: 19
+2018-04-28 05:14:27 #bots @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-28 05:14:33 #bots @I Lιкє Ɓιя∂ιєѕ#2427: HEY FUCKERS
+2018-04-28 05:25:41 #bot-commands @Domus#0611: Suck nuts
+2018-04-28 05:43:43 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !riftopen general
+2018-04-28 05:43:45 #bot-commands @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Little House (411210462370463754)\n1 - TMP [TIEMPO]😎 (406867153288036379)\n2 - TMP [TIEMPO]😎 (406870371132768270)\n3 - TMP [TIEMPO]😎 (397092503372693505)\n4 - Superverse: New World (438434432479789058)\n5 - Games For Life (411565808674668551)\n6 - Sith (436603020403539989)\n7 - music (257124692501069825)\n8 - [HS] (438087432139964439)\n9 - Burger kingdom (432950182964101121)\n10 - Star & ShippetGaming (242169591202054144)\n11 - The Flames (394589299011616771)\n12 - Potatisens Grupp (436991292271099904)\n13 - FloppityPenguin Fans! (356004835046457345)\n14 - A Kittah Server (429940809010380812)\n15 - wadawwww (437568071620755458)\n16 - Discord Bots (110373943822540800)\n17 - Art Shoppe (437689375816417283)\n18 - vip (429836880285138946)\n19 - Mods And Hugs (435705136879370251)\n20 - why (437298772008239116)\n21 - Boii (313966213850202113)\n22 - caelix fanclub (439206255832072192)\n23 - JoshCord (439417861384044554)\n24 - Yunas Discord (426103216808263684)\n25 - King's Trap (437968108666224654)\n26 - ne (412293593676382209)\n27 - ne (410769773903872000)\n28 - CHAT IT OUT (373949477146591234)\n29 - Pure Squad (407159312016867339)\n30 - Game of chance camp (437538353311645698)\n31 - DU tapai (409711223878189068)\n32 - Niggers are white (Christian server) (305450747569504258)\n33 - RandomCheese (437797089141850118)\n34 - El bar de designers v2 (436540220616212480)\n35 - SpeedzArmy (437332236874809354)\n36 - SpeedzArmy (437204541339860993)\n37 - PridePVP 2.0 (433618085971230725)\n38 - Kemal's Custom Pizzeria (429795948118540295)\n39 - Daedric's server (436728311608115215)\n40 - servidor teste (231146163057721344)\n41 - fee's testserver (223263134339694603)\n42 - YTOyuncuKokuyorYT (405531407650390029)\n43 - Normie Cult (366563967247843329)\n44 - For the bot (406861225775857667)\n45 - tesadfsertaw (433369133099515926)\n46 - Raspyberry (408959687782825985)\n47 - Rocket League (409505779612123142)\n48 - My Bois (438726115574546432)\n49 - memes (385768785665327106)
+2018-04-28 05:43:45 #bot-commands @Synapse#0692: 50 - The Weeb Cafe (239163942822346752)\n51 - ayywa.re (429432529968300032)\n52 - Supreme (430589179014021134)\n53 - RERERERE (436861320420261901)\n54 - CS:GO (429308735316295688)\n55 - Black Squad (406190695431274499)\n56 - Synapse Support (436119908443750402)\n57 - THE DRAGON FORCE (343696927130517505)\n58 - KÄÄÄÅÅTEEN (409463385520996357)\n59 - MirekHboi (436828459201724416)\n60 - Dark Productions (343889515414552577)\n61 - STEVEN UNIVERSE (429418533454217216)\n62 - Siwedits (371591859132432387)\n63 - easyᑕhill (439067136653000729)\n64 - HYPECORD (438064195607461908)\n65 - qffzjfzf (401545819762720781)\n66 - Nightrexa's Discord Channel (312238895494332416)\n67 - AMIGOS PACMAN :v (436951640365596674)\n68 - Elite Modders [PC] (438379038994857993)\n69 - TnyCraft (437079238668058629)\n70 - salty Squad (386583733064433666)\n71 - NCD (405702023905017860)\n72 - asd (435017892648583173)\n73 - ROBLOXIAN SERVER (435117940975861762)\n74 - 🔥GgtwizExploits🔥 (421825613402472449)\n75 - United Warlords (438317519724478464)\n76 - The HaxXd (434958050483240960)\n77 - Testing (423643113995763723)\n78 - DeadCorporation (438019702350938122)\n79 - DeadCorporation (437981651918651403)\n80 - TheGoldenChampions (224906119821262848)\n81 - No Name (420175720757723139)\n82 - Yet Another Gameserver (417361860296310799)\n83 - Corentin server ! (420924124303589377)\n84 - films ß gratos (377179535919153154)\n85 - FEXPloit (301400632357552138)\n86 - Emote Servers (411233189038784514)\n87 - Fortnite (430796416785448972)\n88 - Lol Server (292755633369776139)\n89 - Vio's children (404099816617148418)\n90 - Game4everGoldy Literally"Fans" (422778877715283971)\n91 - Private Jet (363944480958840832)\n92 - ES PRUEBA (430098657518288899)\n93 - Ayee Its iiSure Fan Group (427554075924496396)\n94 - Con-Mers (411499466382639106)\n95 - Anonymous (425303702233153549)\n96 - Plexy (437616883961823236)\n97 - :: Lyon :: (311459780579557376)\n98 - private channel (436980457989603339)\n99 - +18 PRO HERO'S HANG OUT (438764211795918849)
+2018-04-28 05:43:45 #bot-commands @Synapse#0692: 100 - Pokemon Trading (438361128335179787)\n101 - PasterSquad.pw (427062710895771653)\n102 - salemgaming (407258968596152323)\n103 - Boobs LEL (438921585081188364)\n104 - kmj (415983763885916166)\n105 - SD6 (405088644873977865)\n106 - Moonrise Hotels. (435859129236455424)\n107 - Moonrise Hotels. (435809908667973634)\n108 - Higher Humanity (431481535502221312)\n109 - Rescue Squad (439201963272568842)\n110 - Evie Family! (393863229933092873)\n111 - Посиделки (390207947252301827)\n112 - >SF< (438379665250320405)\n113 - RainbowColours (438031112351121410)\n114 - FREE FIRE Indonesia (433165502404231170)\n115 - Jayce 伤心 (438457906061508611)\n116 - Trollers (435505750702424085)\n117 - Cola (323252047707111426)\n118 - XXXTENTACION (427622678933929988)\n119 - dragon Ball-z fan club (431532273150722052)\n120 - PUBG (432058869229813761)\n121 - FpsGang (437676407624040464)\n122 - PanDa (438025306176094208)\n123 - meikraft GUCCI CLAN CHAT (394470902114287638)\n124 - test (425758653694345226)\n125 - ARISTOTLE II (424659028887732225)\n126 - Cos (424411393794768909)\n127 - Test Spam (351377335397646337)\n128 - Masters of Gaming (438612526435926016)\n129 - Komunitas Roblox Indonesia (432121905156456450)\n130 - RaidCity (382576139979325463)\n131 - Jun's Café (๑˃̵ᴗ˂̵) (439132465072963604)\n132 - Kanalik (437655473055989763)\n133 - EASY OFFICIAL CLAN (421756717131366412)\n134 - Team Hore (431536623956656128)\n135 - Xiomara (320788851058540544)\n136 - BotTest (437918726797525004)\n137 - Randomness (431503585713586183)\n138 - luv (438035282651119628)\n139 - 出口のコミュニティ (399177631603621889)\n140 - kk (435547715238363150)\n141 - Projekt X (427443445083406346)\n142 - Fortnite (436749917390766087)\n143 - Meme Machine (309226667816255488)\n144 - Hentai Land (437678801267326986)\n145 - Wolf (438663319553835008)\n146 - EFoX (439393140219183107)\n147 - Bot Testing Server (430847589018107907)\n148 - The blue Army (369588359863205899)\n149 - BaPeX (437721716093878275)\n150 - wowo (437760434150309910)
+2018-04-28 05:43:45 #bot-commands @Synapse#0692: 151 - Collin's Christian Server (348596166738575361)\n152 - Derp Gamerek (404594813674061827)\n153 - Team Dropite (326843021737984004)\n154 - My Hero Academia (RP) (407105448005861376)
+2018-04-28 05:44:16 #bot-commands @Synapse#0692: You haven't chosen anything.
+2018-04-28 05:44:29 #bot-commands @tdolphYT#1559: 🍩general🍩
+2018-04-30 13:52:46 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !autorole @Outraged_Froggy
+2018-04-30 13:52:46 #bot-commands @Synapse#0692: ```\n!autorole\n\nChange settings for autorole\n\nRequires the manage roles permission\n\nCommands:\n  role      Set role for autorole to assign.\n  toggle    Enables/Disables autorole\n  agreement Set the channel and message that will be used for accepting the r...\n\nType !autorole command for more info on a command.\nYou can also type !autorole category for more info on a category.\n```
+2018-04-30 13:52:46 #bot-commands @Synapse#0692: ```Current autorole state: False```
+2018-04-30 13:53:16 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !giverole Admin @Outraged_Froggy
+2018-04-30 13:54:05 #bot-commands @Outraged_Froggy#0379: Wut
+2018-04-30 13:57:43 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: I got admin
+2018-04-30 13:57:45 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: You
+2018-04-30 15:02:53 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .connect
+2018-04-30 15:02:53 #bot-commands @Some Dragon#9190: Summon is now defunct. Please use the .play command so I can join.
+2018-04-30 15:03:21 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play check the statistics by wolfie raps
+2018-04-30 15:03:23 #bot-commands @Synapse#0692: 
+2018-04-30 15:03:23 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:03:23 () to read: 
+2018-04-30 15:03:27 #bot-commands @Synapse#0692: 
+2018-04-30 15:03:27 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:03:27 () to read: 
+2018-04-30 15:03:33 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:03:21 (.play check the statistics by wolfie raps)
+2018-04-30 15:03:34 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:03:23 ()
+2018-04-30 15:03:53 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .disconnect
+2018-04-30 15:04:00 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .leave
+2018-04-30 15:04:01 #bot-commands @Some Dragon#9190: Added **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track)** `[00:04:27]` to the queue list
+2018-04-30 15:04:01 #bot-commands @Some Dragon#9190: Now playing **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track)** `[00:04:27]` (I Lιкє Ɓιя∂ιєѕ#2427)
+2018-04-30 15:04:57 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !ping
+2018-04-30 15:04:57 #bot-commands @Synapse#0692: Pong!
+2018-04-30 15:05:28 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .connect
+2018-04-30 15:05:28 #bot-commands @Some Dragon#9190: Summon is now defunct. Please use the .play command so I can join.
+2018-04-30 15:06:24 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track)
+2018-04-30 15:06:26 #bot-commands @Synapse#0692: 
+2018-04-30 15:06:27 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:06:26 () to read: 
+2018-04-30 15:06:37 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:06:24 (.play **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track))
+2018-04-30 15:06:37 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:06:26 ()
+2018-04-30 15:06:52 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .summon
+2018-04-30 15:06:57 #bot-commands @Some Dragon#9190: Added **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track)** `[00:04:27]` to the queue list
+2018-04-30 15:07:22 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play
+2018-04-30 15:07:23 #bot-commands @Some Dragon#9190: An error occured while processing the command: `url is a required argument that is missing.`
+2018-04-30 15:07:23 #bot-commands @Synapse#0692: 
+2018-04-30 15:07:23 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:07:23 () to read: 
+2018-04-30 15:07:25 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:03:27 ()
+2018-04-30 15:07:25 #bot-commands @Synapse#0692: 
+2018-04-30 15:07:25 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:07:25 () to read: 
+2018-04-30 15:08:02 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .volume 100
+2018-04-30 15:08:02 #bot-commands @Synapse#0692: 
+2018-04-30 15:08:02 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:08:02 () to read: 
+2018-04-30 15:08:02 #bot-commands @Some Dragon#9190: Set the internal volume to `100%`
+2018-04-30 15:08:09 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .resume
+2018-04-30 15:08:09 #bot-commands @Some Dragon#9190: Resumed the song. Had fun doing your thing?
+2018-04-30 15:08:19 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .skip
+2018-04-30 15:08:19 #bot-commands @Some Dragon#9190: The person who wanted to skip in the first place skipped it.
+2018-04-30 15:08:30 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play .play **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track)
+2018-04-30 15:08:31 #bot-commands @Synapse#0692: 
+2018-04-30 15:08:31 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:08:31 () to read: 
+2018-04-30 15:08:40 #bot-commands @Outraged_Froggy#0379: He’s so sassy
+2018-04-30 15:08:41 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:08:30 (.play .play **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track))
+2018-04-30 15:08:42 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:08:31 ()
+2018-04-30 15:09:30 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play honey I’m good
+2018-04-30 15:09:30 #bot-commands @Some Dragon#9190: An error occured while processing the command: `Command raised an exception: TimeoutError: `
+2018-04-30 15:09:32 #bot-commands @Synapse#0692: 
+2018-04-30 15:09:38 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:09:32 () to read: 
+2018-04-30 15:09:42 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:09:32 ()
+2018-04-30 15:09:42 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:09:30 (.play honey I’m good)
+2018-04-30 15:09:57 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .volume 200
+2018-04-30 15:09:57 #bot-commands @Some Dragon#9190: An error occured while processing the command: `Command raised an exception: AttributeError: 'NoneType' object has no attribute 'volume'`
+2018-04-30 15:09:58 #bot-commands @Synapse#0692: 
+2018-04-30 15:09:58 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:09:58 () to read: 
+2018-04-30 15:10:12 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: Join misic
+2018-04-30 15:10:14 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: Music
+2018-04-30 15:10:30 #bot-commands @Some Dragon#9190: An error occured while processing the command: `Command raised an exception: TimeoutError: `
+2018-04-30 15:10:36 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .connect
+2018-04-30 15:10:36 #bot-commands @Some Dragon#9190: Summon is now defunct. Please use the .play command so I can join.
+2018-04-30 15:10:47 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play
+2018-04-30 15:10:47 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:07:23 ()
+2018-04-30 15:10:47 #bot-commands @Synapse#0692: 
+2018-04-30 15:10:47 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:10:47 () to read: 
+2018-04-30 15:10:48 #bot-commands @Some Dragon#9190: An error occured while processing the command: `url is a required argument that is missing.`
+2018-04-30 15:10:49 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:07:25 ()
+2018-04-30 15:10:49 #bot-commands @Synapse#0692: 
+2018-04-30 15:10:49 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:10:49 () to read: 
+2018-04-30 15:10:56 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play Budapest
+2018-04-30 15:10:59 #bot-commands @Synapse#0692: 
+2018-04-30 15:10:59 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:10:59 () to read: 
+2018-04-30 15:11:09 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:10:56 (.play Budapest)
+2018-04-30 15:11:09 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:10:59 ()
+2018-04-30 15:11:27 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play paradise by George Ezra
+2018-04-30 15:11:29 #bot-commands @Synapse#0692: 
+2018-04-30 15:11:29 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:11:29 () to read: 
+2018-04-30 15:11:31 #bot-commands @Some Dragon#9190: Added **George Ezra - Budapest (Official Video)** `[00:03:37]` to the queue list
+2018-04-30 15:11:39 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:11:27 (.play paradise by George Ezra)
+2018-04-30 15:11:39 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:11:29 ()
+2018-04-30 15:11:56 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: ,resume
+2018-04-30 15:11:59 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .reaume
+2018-04-30 15:12:03 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .resume
+2018-04-30 15:12:04 #bot-commands @Some Dragon#9190: Resumed the song. Had fun doing your thing?
+2018-04-30 15:12:09 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .skip
+2018-04-30 15:12:10 #bot-commands @Some Dragon#9190: The person who wanted to skip in the first place skipped it.
+2018-04-30 15:12:31 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .disconnect
+2018-04-30 15:12:31 #bot-commands @Some Dragon#9190: Alright, see ya.
+2018-04-30 15:12:50 #bot-commands @Some Dragon#9190: An error occured while processing the command: `Command raised an exception: TimeoutError: `
+2018-04-30 15:13:12 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !skip
+2018-04-30 15:13:12 #bot-commands @Synapse#0692: Can't skip if I'm not playing.
+2018-04-30 15:13:25 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play paradise by George Ezra
+2018-04-30 15:14:04 #bot-commands @Synapse#0692: 
+2018-04-30 15:14:12 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:14:04 () to read: 
+2018-04-30 15:14:14 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:14:04 ()
+2018-04-30 15:14:55 #bot-commands @Synapse#0692: 
+2018-04-30 15:14:55 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:14:55 () to read: 
+2018-04-30 15:15:06 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:14:55 ()
+2018-04-30 15:16:00 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:10:47 ()
+2018-04-30 15:16:00 #bot-commands @Synapse#0692: 
+2018-04-30 15:16:01 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:16:00 () to read: 
+2018-04-30 15:16:02 #bot-commands @Synapse#0692: 
+2018-04-30 15:16:02 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:10:49 ()
+2018-04-30 15:16:02 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:16:02 () to read: 
+2018-04-30 15:16:18 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !queue
+2018-04-30 15:16:18 #bot-commands @Synapse#0692: Gathering information...
+2018-04-30 15:16:18 #bot-commands @Synapse#0692: 
+2018-04-30 15:16:18 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:16:18 () to read: 
+2018-04-30 15:16:36 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !volume 100
+2018-04-30 15:16:44 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .volumen100
+2018-04-30 15:16:51 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .volume 100
+2018-04-30 15:16:52 #bot-commands @Some Dragon#9190: An error occured while processing the command: `Command raised an exception: AttributeError: 'NoneType' object has no attribute 'volume'`
+2018-04-30 15:16:52 #bot-commands @Synapse#0692: 
+2018-04-30 15:16:52 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:16:52 () to read: 
+2018-04-30 15:17:00 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .skip
+2018-04-30 15:17:01 #bot-commands @Some Dragon#9190: The person who wanted to skip in the first place skipped it.
+2018-04-30 15:17:30 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play .play **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track)
+2018-04-30 15:17:32 #bot-commands @Synapse#0692: 
+2018-04-30 15:17:41 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:17:32 () to read: 
+2018-04-30 15:17:43 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:17:30 (.play .play **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track))
+2018-04-30 15:17:43 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:17:32 ()
+2018-04-30 15:17:48 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .queue
+2018-04-30 15:17:48 #bot-commands @Some Dragon#9190: Hmm... There's nothing in the list.
+2018-04-30 15:17:57 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !list
+2018-04-30 15:18:04 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !music
+2018-04-30 15:18:11 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !help
+2018-04-30 15:18:11 #bot-commands @MEE6#4876: 
+2018-04-30 15:18:13 #bot-commands @MEE6#4876 edited message from 2018-04-30 15:18:11 () to read: 
+2018-04-30 15:18:13 #bot-commands @Synapse#0692: Check your DM, @I Lιкє Ɓιя∂ιєѕ! I have sent something for you :wink:
+2018-04-30 15:18:24 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .help
+2018-04-30 15:18:31 #bot-commands @Some Dragon#9190: An error occured while processing the command: `Command raised an exception: TimeoutError: `
+2018-04-30 15:19:36 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .pick
+2018-04-30 15:19:36 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:19:36 (.pick)
+2018-04-30 15:19:41 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !pick
+2018-04-30 15:19:41 #bot-commands @Synapse#0692: 
+2018-04-30 15:19:41 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:19:41 () to read: 
+2018-04-30 15:19:50 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play 5
+2018-04-30 15:19:51 #bot-commands @Synapse#0692: Queued.
+2018-04-30 15:20:01 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:16:00 ()
+2018-04-30 15:19:53 #bot-commands @Synapse#0692: 
+2018-04-30 15:20:01 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:19:53 () to read: 
+2018-04-30 15:20:01 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:16:02 ()
+2018-04-30 15:19:54 #bot-commands @Synapse#0692: 
+2018-04-30 15:20:01 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:19:54 () to read: 
+2018-04-30 15:20:06 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:19:53 ()
+2018-04-30 15:20:06 #bot-commands @Synapse#0692: 
+2018-04-30 15:20:06 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:20:06 () to read: 
+2018-04-30 15:20:07 #bot-commands @Synapse#0692: 
+2018-04-30 15:20:08 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:20:06 ()
+2018-04-30 15:20:08 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:20:07 () to read: 
+2018-04-30 15:20:09 #bot-commands @Synapse#0692: 
+2018-04-30 15:20:09 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:20:09 () to read: 
+2018-04-30 15:20:09 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:20:07 ()
+2018-04-30 15:20:10 #bot-commands @Synapse#0692: 
+2018-04-30 15:20:10 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:20:10 () to read: 
+2018-04-30 15:20:10 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:20:09 ()
+2018-04-30 15:20:11 #bot-commands @Synapse#0692: 
+2018-04-30 15:20:11 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:20:10 ()
+2018-04-30 15:20:11 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:20:11 () to read: 
+2018-04-30 15:20:50 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play 1
+2018-04-30 15:20:50 #bot-commands @Synapse#0692: Queued.
+2018-04-30 15:21:04 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play 1
+2018-04-30 15:21:05 #bot-commands @Synapse#0692: 
+2018-04-30 15:21:11 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:21:05 () to read: 
+2018-04-30 15:21:11 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:20:11 ()
+2018-04-30 15:21:11 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:21:05 ()
+2018-04-30 15:21:07 #bot-commands @Synapse#0692: 
+2018-04-30 15:21:11 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:21:07 () to read: 
+2018-04-30 15:21:11 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:21:07 ()
+2018-04-30 15:21:08 #bot-commands @Synapse#0692: 
+2018-04-30 15:21:11 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:21:08 () to read: 
+2018-04-30 15:21:09 #bot-commands @Synapse#0692: 
+2018-04-30 15:21:11 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:21:08 ()
+2018-04-30 15:21:11 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:21:09 () to read: 
+2018-04-30 15:21:10 #bot-commands @Synapse#0692: 
+2018-04-30 15:21:11 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:21:09 ()
+2018-04-30 15:21:11 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:21:10 () to read: 
+2018-04-30 15:21:38 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play senpai
+2018-04-30 15:21:40 #bot-commands @Synapse#0692: 
+2018-04-30 15:21:40 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:21:40 () to read: 
+2018-04-30 15:21:42 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:21:10 ()
+2018-04-30 15:21:41 #bot-commands @Synapse#0692: 
+2018-04-30 15:21:42 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:21:41 () to read: 
+2018-04-30 15:21:51 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:21:40 ()
+2018-04-30 15:21:51 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:21:38 (.play senpai)
+2018-04-30 15:22:09 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play senpai
+2018-04-30 15:22:11 #bot-commands @Synapse#0692: 
+2018-04-30 15:22:11 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:22:11 () to read: 
+2018-04-30 15:22:22 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:21:41 ()
+2018-04-30 15:22:12 #bot-commands @Synapse#0692: 
+2018-04-30 15:22:22 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:22:12 () to read: 
+2018-04-30 15:22:21 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play senpai
+2018-04-30 15:22:22 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:22:11 ()
+2018-04-30 15:22:22 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:22:09 (.play senpai)
+2018-04-30 15:22:22 #bot-commands @Synapse#0692: Queued.
+2018-04-30 15:22:38 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .exit
+2018-04-30 15:22:42 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .leave
+2018-04-30 15:22:46 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .disconnect
+2018-04-30 15:22:55 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play 1
+2018-04-30 15:22:55 #bot-commands @Synapse#0692: Queued.
+2018-04-30 15:23:02 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !queue
+2018-04-30 15:23:02 #bot-commands @Synapse#0692: Gathering information...
+2018-04-30 15:23:05 #bot-commands @Synapse#0692: 
+2018-04-30 15:23:06 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:23:05 () to read: 
+2018-04-30 15:23:20 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !reaume
+2018-04-30 15:23:26 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !resume
+2018-04-30 15:23:28 #bot-commands @Synapse#0692: Nothing paused, nothing to resume.
+2018-04-30 15:23:30 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play
+2018-04-30 15:23:31 #bot-commands @Synapse#0692: ```\n!play <url_or_search_terms>\n\nPlays a link / searches and play\n\n```
+2018-04-30 15:23:47 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play queue 2
+2018-04-30 15:23:47 #bot-commands @Synapse#0692: Queued.
+2018-04-30 15:23:54 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play 2
+2018-04-30 15:23:55 #bot-commands @Synapse#0692: Queued.
+2018-04-30 15:24:00 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !skip
+2018-04-30 15:24:00 #bot-commands @Synapse#0692: Skipping...
+2018-04-30 15:24:03 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !skip
+2018-04-30 15:24:03 #bot-commands @Synapse#0692: Can't skip if I'm not playing.
+2018-04-30 15:24:08 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !skip
+2018-04-30 15:24:08 #bot-commands @Synapse#0692: Skipping...
+2018-04-30 15:24:14 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !reset
+2018-04-30 15:24:29 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .music
+2018-04-30 15:24:29 #bot-commands @MEE6#4876: GG @I Lιкє Ɓιя∂ιєѕ, you just advanced to **level 12** !
+2018-04-30 15:24:37 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play senpai
+2018-04-30 15:24:39 #bot-commands @Synapse#0692: 
+2018-04-30 15:24:39 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:24:39 () to read: 
+2018-04-30 15:24:40 #bot-commands @Synapse#0692: 
+2018-04-30 15:24:40 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:24:40 () to read: 
+2018-04-30 15:24:40 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:22:12 ()
+2018-04-30 15:24:50 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:24:37 (.play senpai)
+2018-04-30 15:24:50 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:24:39 ()
+2018-04-30 15:25:06 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play thick naggiaz
+2018-04-30 15:25:07 #bot-commands @Synapse#0692: 
+2018-04-30 15:25:08 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:25:07 () to read: 
+2018-04-30 15:25:09 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:24:40 ()
+2018-04-30 15:25:09 #bot-commands @Synapse#0692: 
+2018-04-30 15:25:09 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:25:09 () to read: 
+2018-04-30 15:25:17 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .join
+2018-04-30 15:25:18 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:25:06 (.play thick naggiaz)
+2018-04-30 15:25:18 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:25:07 ()
+2018-04-30 15:25:40 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track)
+2018-04-30 15:25:41 #bot-commands @Synapse#0692: 
+2018-04-30 15:25:46 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:25:41 () to read: 
+2018-04-30 15:25:43 #bot-commands @Synapse#0692: 
+2018-04-30 15:25:46 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:25:09 ()
+2018-04-30 15:25:46 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:25:43 () to read: 
+2018-04-30 15:25:52 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:25:41 ()
+2018-04-30 15:25:52 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:25:40 (.play **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track))
+2018-04-30 15:28:15 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track)
+2018-04-30 15:28:17 #bot-commands @Synapse#0692: 
+2018-04-30 15:28:17 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:28:17 () to read: 
+2018-04-30 15:28:21 #bot-commands @Synapse#0692: 
+2018-04-30 15:28:22 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:28:21 () to read: 
+2018-04-30 15:28:27 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:28:15 (.play **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track))
+2018-04-30 15:28:28 #bot-commands @Synapse#0692 deleted message from 2018-04-30 15:28:17 ()
+2018-04-30 15:28:49 #bot-commands @I Lιкє Ɓιя∂ιєѕ#2427: !buffer
+2018-04-30 15:33:46 #bot-commands @Synapse#0692: 
+2018-04-30 15:33:46 #bot-commands @Synapse#0692 edited message from 2018-04-30 15:33:46 () to read: 

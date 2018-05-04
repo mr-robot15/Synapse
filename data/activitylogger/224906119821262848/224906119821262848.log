@@ -1,0 +1,72 @@
+2018-04-24 02:26:18 #general @Tatsumaki#8792: 👋🏻 Hey there! I'm **Tatsumaki**.\n**Normal** commands are shown with `t!help` and **moderator** ones are shown with `t@help`.\nI am a versatile bot that aims to increase user activity on your Discord servers.\nAll server and bot settings are shown with `t@help` and can be seen at: **<http://tatsumaki.xyz/settings>**\n\n**|**  Use `t!profile` to display your personal profile card.\n**|**  Use `t!dailies` to get credits every 24 hours.\n**|**  Checkout some cool minigames like `t!fishy` or `t!slots`!\n\nView all commands at: **<http://tatsumaki.xyz/commands>**\nFor help, feedback, bugs, info, changelogs and more, go to **<https://discord.gg/tatsumaki>**
+2018-04-24 02:26:43 #general @TheGoldenChampion#7836: t!dailies
+2018-04-24 02:26:43 #general @Tatsumaki#8792: 🏧 | **TheGoldenChampion**, **you received your 💴 200 daily credits!**
+2018-04-24 02:26:59 #general @TheGoldenChampion#7836: t!help
+2018-04-24 02:26:59 #general @Tatsumaki#8792: ```rb\n`Standard Commands List`\n```\nUse `t!help [command]` to get more info on a specific command, for example: `t!help rank`\n\n**1. Core - **`help` `invite` `leveledroles` `ping` `selfroles` `support` \n**2. Social - **`background` `badges` `dailies` `profile` `rank` `reputation` `setinfo` `settitle` `top` \n**3. Fun - **`8ball` `cah` `cat` `catfacts` `choose` `coin` `cookie` `dice` `dog` `dogfacts` `fishy` `fortune` `numberfacts` `psychopass` `ratewaifu` `reverse` `rps` `slots` `tags` `tatsugotchi` \n**4. Economy - **`credits` `points` \n**5. Utilities - **`color` `converter` `crypto` `google` `image` `lotto` `math` `remindme` `shorten` `stocks` `strawpoll` `todo` `urban` `vote` `weather` `wiki` `youtube` \n**6. Information - **`apikey` `avatar` `botlist` `changelog` `channel` `info` `role` `server` `shared` `usage` \n**7. Anime - **`anime` `manga` `osu` `sic` \n**8. Memes - **`beautiful` `hackerman` \n\n```pl\n# Don't include the example brackets when using commands!\n# To view mod commands, use t@help\n```
+2018-04-24 02:27:05 #general @TheGoldenChampion#7836: t@help
+2018-04-24 02:27:05 #general @Tatsumaki#8792: ```fix\nModerator Commands List \n```\nUse `t@help [command]` to get more info on a specific command, for example: `t@help stats`\n\n**Configuration - **`autorole` `disable` `enable` `goodbye` `ignore` `language` `leveledroles` `notify` `nsfw` `persistence` `prefix` `selfroles` `timezone` `welcome` `whitelist` \n**Information - **`stats` \n**Information - **`twitch` \n**Server Management - **`ban` `blacklist` `deltag` `help` `kick` `points` `prune` `scores` \n\n```pl\n# Don't include the example brackets when using commands!\n# To view standard commands, use t!help\n```
+2018-04-24 02:27:23 #general @TheGoldenChampion#7836: t@help scores
+2018-04-24 02:27:23 #general @Tatsumaki#8792: **`t@scores`** __`Allows you to manage your guild scoreboard`__\n**Required Permission**: `Manage Guild`\n\n**Usage**: t@scores [<add | remove> <user> <score>]\n\n**Examples:**\n**`t@scores `**  displays the guild scores management menu\n**`t@scores add @pyraxo 100`**  adds 100 to user pyraxo's guild score\n**`t@scores remove @pyraxo 100`**  removes 100 from user pyraxo's guild score
+2018-04-24 02:28:35 #general @TheGoldenChampion#7836: t!badges
+2018-04-24 02:28:35 #general @Tatsumaki#8792: <:no:390511503238758400>  |  **TheGoldenChampion**, the correct usage is:  `t!badges [redeem | equip | clear | progress]`\n▫  |  e.g. `t!badges equip`\n▫  |  Get more help using `t!help badges`
+2018-04-24 02:28:49 #general @TheGoldenChampion#7836: t!badges progress
+2018-04-24 02:28:49 #general @Tatsumaki#8792: **📛  |  Badge progress:**\n\n**Total Commands**: 19/100\n**Credits Gained**: 341/5000\n**Dailies Used**: 1/10\n**Rep Given**: 0/50\n**Level Reached**: 2/10
+2018-04-24 02:29:29 #general @TheGoldenChampion#7836: t!rank
+2018-04-24 02:29:29 #general @Tatsumaki#8792: 📝  |  **Server rank card for TheGoldenChampion** (attachment url(s): https://cdn.discordapp.com/attachments/224906119821262848/438164550466928662/rank.png)
+2018-04-24 02:29:36 #general @TheGoldenChampion#7836: t!rank help
+2018-04-24 02:29:36 #general @Tatsumaki#8792: 🔍  |  **TheGoldenChampion**, the user could not be found.
+2018-04-24 02:29:37 #general @Pokécord#4503: ```Congratulations TheGoldenChampion! Your Rayquaza is now level 78!```
+2018-04-24 02:29:56 #general @TheGoldenChampion#7836: t!points
+2018-04-24 02:29:56 #general @Tatsumaki#8792: 🎫  |  **TheGoldenChampion**, **you have a balance of 0 guild points!**
+2018-04-24 02:30:04 #general @TheGoldenChampion#7836: t!credits
+2018-04-24 02:30:04 #general @Tatsumaki#8792: 💳  |  **TheGoldenChampion**, **you have a balance of 💴 341 credits!**
+2018-04-24 02:30:25 #general @TheGoldenChampion#7836: t!reputation
+2018-04-24 02:30:25 #general @Tatsumaki#8792: 🆙  |  **TheGoldenChampion**, **you can award a reputation point!**
+2018-04-24 02:35:45 #general @TheGoldenChampion#7836: f
+2018-04-24 02:37:07 #general @TheGoldenChampion#7836: f
+2018-04-24 02:37:11 #general @TheGoldenChampion#7836: t!profile
+2018-04-24 02:37:12 #general @Tatsumaki#8792: 📝  |  **User profile card for TheGoldenChampion** (attachment url(s): https://cdn.discordapp.com/attachments/224906119821262848/438166491150417921/profile.png)
+2018-04-24 02:39:21 #general @TheGoldenChampion#7836: p!info
+2018-04-24 02:39:21 #general @Pokécord#4503: 
+2018-04-24 02:39:21 #general @Pokécord#4503 edited message from 2018-04-24 02:39:21 () to read: 
+2018-04-24 02:42:03 #general @TheGoldenChampion#7836: j
+2018-04-24 02:42:03 #general @Tatsumaki#8792: 🆙  |  **TheGoldenChampion leveled up!** (attachment url(s): https://cdn.discordapp.com/attachments/224906119821262848/438167714192949268/levelup.png)
+2018-04-24 02:42:06 #general @TheGoldenChampion#7836: nice
+2018-04-24 02:42:21 #general @TheGoldenChampion#7836: jojo
+2018-04-24 02:42:23 #general @TheGoldenChampion#7836: a
+2018-04-24 02:42:23 #general @TheGoldenChampion#7836: a
+2018-04-24 02:42:23 #general @TheGoldenChampion#7836: a
+2018-04-24 02:42:23 #general @TheGoldenChampion#7836: a
+2018-04-24 02:42:23 #general @TheGoldenChampion#7836: a
+2018-04-24 02:42:24 #general @TheGoldenChampion#7836: a
+2018-04-24 02:42:25 #general @TheGoldenChampion#7836: a
+2018-04-24 02:42:25 #general @TheGoldenChampion#7836: a
+2018-04-24 02:42:25 #general @TheGoldenChampion#7836: a
+2018-04-24 02:42:32 #general @TheGoldenChampion#7836: a
+2018-04-24 02:42:32 #general @TheGoldenChampion#7836: a
+2018-04-24 02:42:32 #general @TheGoldenChampion#7836: a
+2018-04-26 20:54:15 #general @Dank Memer#6539: 
+2018-04-26 20:54:17 #general @Dank Memer#6539 edited message from 2018-04-26 20:54:15 () to read: 
+2018-04-26 21:18:24 #general @TheGoldenChampion#7836: !help
+2018-04-26 21:18:24 #general @Pokécord#4503: 
+2018-04-26 21:18:28 #general @Pokécord#4503 edited message from 2018-04-26 21:18:24 () to read: 
+2018-04-26 21:18:25 #general @AvaIre#9124: 
+2018-04-26 21:18:28 #general @AvaIre#9124 edited message from 2018-04-26 21:18:25 () to read: 
+2018-04-26 21:18:29 #general @Synapse#0692: Check your DM, @TheGoldenChampion! I have sent something for you :wink:
+2018-04-26 21:18:55 #general @TheGoldenChampion#7836: p!catch taillow
+2018-04-26 21:18:55 #general @Pokécord#4503: Congratulations @TheGoldenChampion! You caught a Taillow!
+2018-04-26 21:19:11 #general @TheGoldenChampion#7836: !help music
+2018-04-26 21:19:12 #general @AvaIre#9124: :page_with_curl: **List of Commands** ```css\n!clearqueue     [!cqueue, !flushqueue]\n!default-volume [!set-volume]\n!movehere       [!moveh]\n!pause          []\n!play           [!request]\n!playlist       [!list, !pl]\n!removesong     [!songremove]\n!repeatsongs    [!repeatqueue, !loop]\n!resume         []\n!seek           [!goto]\n!shuffle        []\n!skip           []\n!song           [!songs, !queue]\n!soundcloud     [!sc]\n!stop           []\n!volume         [!vol]\n!voteskip       [!vskip]```
+2018-04-26 21:19:12 #general @AvaIre#9124 edited message from 2018-04-26 21:19:12 (:page_with_curl: **List of Commands** ```css\n!clearqueue     [!cqueue, !flushqueue]\n!default-volume [!set-volume]\n!movehere       [!moveh]\n!pause          []\n!play           [!request]\n!playlist       [!list, !pl]\n!removesong     [!songremove]\n!repeatsongs    [!repeatqueue, !loop]\n!resume         []\n!seek           [!goto]\n!shuffle        []\n!skip           []\n!song           [!songs, !queue]\n!soundcloud     [!sc]\n!stop           []\n!volume         [!vol]\n!voteskip       [!vskip]```) to read: :page_with_curl: **List of Commands** ```css\n!clearqueue     [!cqueue, !flushqueue]\n!default-volume [!set-volume]\n!movehere       [!moveh]\n!pause          []\n!play           [!request]\n!playlist       [!list, !pl]\n!removesong     [!songremove]\n!repeatsongs    [!repeatqueue, !loop]\n!resume         []\n!seek           [!goto]\n!shuffle        []\n!skip           []\n!song           [!songs, !queue]\n!soundcloud     [!sc]\n!stop           []\n!volume         [!vol]\n!voteskip       [!vskip]```
+2018-04-26 21:19:11 #general @Synapse#0692: Couldn't find command! Try again.
+2018-04-26 21:19:34 #general @TheGoldenChampion#7836: !playlist
+2018-04-26 21:19:34 #general @AvaIre#9124: 
+2018-04-26 21:19:34 #general @AvaIre#9124 edited message from 2018-04-26 21:19:34 () to read: 
+2018-04-26 21:19:34 #general @Synapse#0692: ```\n!playlist\n\nPlaylist management/control.\n\nCommands:\n  queue  Adds a song to the playlist loop.\n  remove Deletes a saved playlist.\n  add    Add a YouTube or Soundcloud playlist.\n  append Appends to a playlist.\n  create Creates an empty playlist\n  mix    Plays and mixes a playlist.\n  list   Lists all available playlists\n  start  Plays a playlist.\n\nType !playlist command for more info on a command.\nYou can also type !playlist category for more info on a category.\n```
+2018-04-26 21:19:44 #general @TheGoldenChampion#7836: !playlist add
+2018-04-26 21:19:44 #general @Synapse#0692: ```\n!playlist add <name> <url>\n\nAdd a YouTube or Soundcloud playlist.\n\n```
+2018-04-26 21:19:44 #general @AvaIre#9124: 
+2018-04-26 21:19:44 #general @AvaIre#9124 edited message from 2018-04-26 21:19:44 () to read: 
+2018-04-26 21:20:35 #general @AvaIre#9124 deleted message from 2018-04-26 21:19:34 ()
+2018-04-26 21:20:44 #general @AvaIre#9124 deleted message from 2018-04-26 21:19:44 ()
+2018-04-28 03:59:41 #general @TheGoldenChampion#7836: <:WhitePower:439636696112300033>

@@ -1,0 +1,12 @@
+2018-04-26 15:09:28 #test @J4K3#6823: !help
+2018-04-26 15:09:28 #test @Rythm#3722: ✅ **Check <https://rythmbot.co/features#list> for a list of commands**
+2018-04-26 15:09:31 #test @Synapse#0692: Check your DM, @J4K3! I have sent something for you :wink:
+2018-04-26 15:10:36 #test @J4K3#6823: !colorme
+2018-04-26 15:10:36 #test @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  unprotect   Remove a role from the list of protected roles.\n  purge       Purge the server of roles that may have been created\n  listprotect Lists roles that are protected from color changes.\n  protect     Add a role to the list of protected roles.\n  clean       Clean colorme roles by removing all permissions.\n  change      Change the color of your name.\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```
+2018-04-26 15:12:10 #test @J4K3#6823: !colorme change
+2018-04-26 15:12:10 #test @Synapse#0692: ```\n!colorme change <newcolor>\n\nChange the color of your name.\n\nNew color must be a valid hexidecimal color value.\n\n```
+2018-04-26 15:12:27 #test @J4K3#6823: !colorme change BLUE
+2018-04-26 15:12:28 #test @Synapse#0692: @J4K3, Your new color is set.
+2018-04-26 15:13:39 #test @J4K3#6823: !Owner
+2018-04-26 15:13:57 #test @J4K3#6823: !Owner
+2018-04-26 15:14:26 #test @J4K3#6823: !Oboobs

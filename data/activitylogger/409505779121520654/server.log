@@ -1,0 +1,128 @@
+2018-04-27 21:17:01 this bot joined the server
+2018-04-27 21:17:25 Member role add: 'Big boy' role was added to @Synapse#0692
+2018-04-27 21:18:03 Role hoist: 'Big boy' is no longer shown seperately
+2018-04-27 21:18:23 Role permissions: 'Big boy' changed from 104324161 to 104323137
+2018-04-27 21:20:00 Channel overwrites: big-boys-only (430386774905454602): role @everyone (409505779121520654) updated to values 65536, 1024 (was 0, 1024)
+2018-04-27 21:22:02 Channel deleted: big-boys-only
+2018-04-27 21:22:21 Channel created: big-boys-only
+2018-04-27 21:24:51 Member role remove: The 'Co-Admin' role was removed from @Rosie#2290
+2018-04-27 21:24:53 Member role remove: The 'Platinum' role was removed from @Rosie#2290
+2018-04-27 21:25:51 Channel overwrites: big-boys-only (439536803935158273): role @everyone (409505779121520654) updated to values 0, 805825616 (was 0, 1024)
+2018-04-27 21:27:02 Role created: 'new role' (id 439537986133295114)
+2018-04-27 21:27:13 Role renamed: 'new role' to 'Nobody'
+2018-04-27 21:27:21 Role permissions: 'Nobody' changed from 133680201 to 133680193
+2018-04-27 21:28:25 Member role add: 'Platinum' role was added to @Rosie#2290
+2018-04-27 21:28:27 Member role add: 'Co-Admin' role was added to @Rosie#2290
+2018-04-27 21:29:33 Member join: @RosieV2#6799 (id 375792168595619842)
+2018-04-27 21:30:32 Member role add: 'Big boy' role was added to @Rosie#2290
+2018-04-27 21:31:12 Channel deleted: big-boys-only
+2018-04-27 21:31:40 Channel created: big-boys-only
+2018-04-27 21:31:40 Member role add: 'Big boy' role was added to @Allstargamer#0105
+2018-04-27 21:32:10 Member role remove: The 'Platinum' role was removed from @Rosie#2290
+2018-04-27 21:32:10 Member role remove: The 'Big boy' role was removed from @Rosie#2290
+2018-04-27 21:32:10 Member role remove: The 'Co-Admin' role was removed from @Rosie#2290
+2018-04-27 21:33:30 Member role add: 'Platinum' role was added to @Rosie#2290
+2018-04-27 21:33:30 Member role add: 'Big boy' role was added to @Rosie#2290
+2018-04-27 21:33:30 Member role add: 'Co-Admin' role was added to @Rosie#2290
+2018-04-27 21:34:20 Channel created: Private
+2018-04-27 21:34:57 Channel created: big-boys-only
+2018-04-27 21:34:58 Channel created: big-boys-only
+2018-04-27 21:35:20 Channel deleted: big-boys-only
+2018-04-27 21:36:29 Channel deleted: big-boys-only
+2018-04-27 21:38:21 Member role add: 'Champ' role was added to @Rosie#2290
+2018-04-27 21:38:21 Member role remove: The 'Platinum' role was removed from @Rosie#2290
+2018-04-27 21:38:37 Channel overwrites: private (427600675397042176): role Champ (409547629731643393) removed (was 1024, 0)
+2018-04-27 21:38:39 Channel overwrites: private (427600675397042176): role Diamond (409547514556186635) removed (was 1024, 0)
+2018-04-27 21:38:46 Channel overwrites: private (427600675397042176): role Platinum (409547880492171264) removed (was 1024, 0)
+2018-04-27 21:38:50 Channel overwrites: private (427600675397042176): role Gold (409547431374487562) removed (was 1024, 0)
+2018-04-27 21:38:54 Channel overwrites: private (427600675397042176): role @everyone (409505779121520654) updated to values 0, 0 (was 0, 1024)
+2018-04-27 21:41:45 Role permissions: '@everyone' changed from 133680201 to 133680193
+2018-04-27 21:42:18 Channel overwrites: oxyl (439531527483818005): role Big boy (430386599193477131) removed (was 1024, 0)
+2018-04-27 21:42:31 Channel overwrites: private (427600675397042176): role Champ (409547629731643393) added with values 0, 0
+2018-04-27 21:42:35 Channel overwrites: private (427600675397042176): role Diamond (409547514556186635) added with values 0, 0
+2018-04-27 21:42:38 Channel overwrites: private (427600675397042176): role Admin (409507220091306007) added with values 0, 0
+2018-04-27 21:42:40 Channel overwrites: private (427600675397042176): role Co-Admin (409507432679604227) added with values 0, 0
+2018-04-27 21:43:03 Channel deleted: private
+2018-04-27 21:43:08 Channel position: oxyl moved from 3 to 1
+2018-04-27 21:43:08 Channel position: big-boys-only moved from 6 to 2
+2018-04-27 21:43:37 Channel created: big-boys-only
+2018-04-27 21:43:51 Channel deleted: big-boys-only
+2018-04-27 21:44:22 Channel created: oxyl
+2018-04-27 21:44:29 Channel deleted: oxyl
+2018-04-27 21:45:11 Role permissions: 'Big boy' changed from 104323137 to 104319041
+2018-04-27 21:45:48 Role created: 'new role' (id 439542712186961920)
+2018-04-27 21:46:32 Role renamed: 'new role' to 'bigger boy'
+2018-04-27 21:46:32 Role color: 'new role' changed from #000000 to #992d22
+2018-04-27 21:46:32 Role mentionable: 'bigger boy' is now mentionable
+2018-04-27 21:46:32 Role permissions: 'new role' changed from 133680193 to 133680201
+2018-04-27 21:47:10 Member role add: 'bigger boy' role was added to @Synapse#0692
+2018-04-27 21:47:43 Member leave: @Synapse#0692 (id 435538622293344266)
+2018-04-27 21:47:43 this bot left the server
+2018-04-27 21:49:13 this bot joined the server
+2018-04-27 21:49:13 Role created: 'Synapse' (id 439543558266159104)
+2018-04-27 21:49:13 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-27 21:49:21 Member role add: 'bigger boy' role was added to @Synapse#0692
+2018-04-27 21:50:47 Channel topic: big-boys-only topic was set to ""
+2018-04-27 21:51:00 Channel deleted: big-boys-only
+2018-04-27 21:51:34 Channel created: nswf-channel-big-boys-only
+2018-04-27 21:51:50 Channel deleted: nswf-channel-big-boys-only
+2018-04-27 21:52:16 Channel created: big-boys-only
+2018-04-27 21:52:20 Channel topic: big-boys-only topic was set to ""
+2018-04-27 21:52:41 Channel overwrites: big-boys-only (439544331469193216): role @everyone (409505779121520654) updated to values 805829713, 0 (was 0, 1024)
+2018-04-27 21:53:07 Channel deleted: big-boys-only
+2018-04-27 21:53:32 Channel created: big-boys-only
+2018-04-27 21:53:39 Channel topic: big-boys-only topic was set to ""
+2018-04-27 21:53:52 Channel overwrites: big-boys-only (439544655395291146): role @everyone (409505779121520654) updated to values 805829713, 0 (was 0, 1024)
+2018-04-27 21:54:29 Channel overwrites: big-boys-only (439544655395291146): role @everyone (409505779121520654) updated to values 68608, 0 (was 805829713, 0)
+2018-04-27 21:55:07 Channel deleted: big-boys-only
+2018-04-27 21:55:27 Channel created: big-boys-only
+2018-04-27 21:55:56 Channel overwrites: big-boys-only (439545135660007444): role @everyone (409505779121520654) updated to values 68608, 0 (was 0, 1024)
+2018-04-27 21:56:13 Channel overwrites: big-boys-only (439545135660007444): role @everyone (409505779121520654) updated to values 0, 0 (was 68608, 0)
+2018-04-27 21:56:24 Channel overwrites: big-boys-only (439545135660007444): role @everyone (409505779121520654) updated to values 0, 3072 (was 0, 0)
+2018-04-27 21:56:47 Channel topic: big-boys-only topic was set to ""
+2018-04-27 22:14:58 Member role add: 'Platinum' role was added to @Rosie#2290
+2018-04-27 22:14:58 Member role remove: The 'Champ' role was removed from @Rosie#2290
+2018-04-28 01:08:07 Member role add: 'Grand Champ' role was added to @RosieV2#6799
+2018-04-28 01:08:07 Member role add: 'bigger boy' role was added to @RosieV2#6799
+2018-04-28 05:28:56 Member join: @jelly#9144 (id 241783301096996875)
+2018-04-28 05:29:04 Member leave: @jelly#9144 (id 241783301096996875)
+2018-04-28 05:50:13 Member role add: 'bigger boy' role was added to @DaSloths#5702
+2018-04-28 05:51:04 Member role remove: The 'bigger boy' role was removed from @DaSloths#5702
+2018-04-28 06:20:22 Member join: @jelly#9144 (id 241783301096996875)
+2018-04-28 13:17:19 Member role add: 'Gold' role was added to @jelly#9144
+2018-04-28 13:17:36 Member role remove: The 'Gold' role was removed from @jelly#9144
+2018-04-28 13:17:36 Member role add: 'Silver' role was added to @jelly#9144
+2018-04-28 15:38:45 Member nickname: '@Tomm#4739' (id 232138293402271744) changed nickname from 'Vehicular Soccer' to 'Teszt'
+2018-04-28 18:54:50 Member unban: @Fishahi#3597 (id 256171731754942464)
+2018-04-28 18:54:51 Member join: @Fishahi#3597 (id 256171731754942464)
+2018-04-30 18:23:00 Member role add: 'Grand Champ' role was added to @IAmDerpyPotato#4442
+2018-04-30 18:23:00 Member role remove: The 'Diamond' role was removed from @IAmDerpyPotato#4442
+2018-04-30 18:23:00 Member role remove: The 'Mod' role was removed from @IAmDerpyPotato#4442
+2018-04-30 18:23:15 Member role remove: The 'Mod' role was removed from @Hyump#0969
+2018-05-01 23:48:12 Member role remove: The 'bigger boy' role was removed from @DaSloths#5702
+2018-05-01 23:48:15 Member role remove: The 'Co-Admin' role was removed from @DaSloths#5702
+2018-05-01 23:48:22 Member role add: 'bigger boy' role was added to @DaSloths#5702
+2018-05-01 23:48:23 Member role remove: The 'bigger boy' role was removed from @DaSloths#5702
+2018-05-01 23:48:24 Member role add: 'Co-Admin' role was added to @DaSloths#5702
+2018-05-01 23:48:38 Member role remove: The 'Big boy' role was removed from @Ahelpfulhand#7620
+2018-05-01 23:48:40 Member role remove: The 'bigger boy' role was removed from @Ahelpfulhand#7620
+2018-05-03 00:15:46 Channel position: PLatinum 🥈 moved from 15 to 11
+2018-05-03 00:15:46 Channel position: Jelly's Playroom moved from 11 to 12
+2018-05-03 00:15:46 Channel position: BrOnZe 🥔 moved from 12 to 13
+2018-05-03 00:15:46 Channel position: SiLvEr 🥄 moved from 13 to 14
+2018-05-03 00:15:46 Channel position: GoLd 🏅 moved from 14 to 15
+2018-05-03 00:16:03 Channel position: 1s moved from 2 to 1
+2018-05-03 00:16:03 Channel position: 2s moved from 3 to 2
+2018-05-03 00:16:03 Channel position: Trading Post moved from 1 to 3
+2018-05-03 00:17:34 Member role remove: The 'Mod' role was removed from @bshaw70#4109
+2018-05-03 00:18:02 Member role add: 'Mod' role was added to @bshaw70#4109
+2018-05-03 00:18:30 Member role remove: The 'Mod' role was removed from @bshaw70#4109
+2018-05-03 00:19:05 Member role remove: The 'Grand Champ' role was removed from @IAmDerpyPotato#4442
+2018-05-03 00:56:36 Member username: '@jelly#9144' (id 241783301096996875) changed username from 'jelly' to 'JellyBelly9'
+2018-05-03 03:50:17 Member role remove: The 'Co-Admin' role was removed from @DaSloths#5702
+2018-05-03 03:50:58 Member role remove: The 'Grand Champ' role was removed from @RosieV2#6799
+2018-05-03 03:50:58 Member role add: 'Grand Champ' role was added to @RosieV2#6799
+2018-05-03 03:50:59 Member role remove: The 'Grand Champ' role was removed from @RosieV2#6799
+2018-05-03 03:51:02 Member role add: 'Grand Champ' role was added to @RosieV2#6799
+2018-05-03 03:51:02 Member role remove: The 'bigger boy' role was removed from @RosieV2#6799
+2018-05-03 03:51:02 Member role add: 'Grand Champ' role was added to @RosieV2#6799

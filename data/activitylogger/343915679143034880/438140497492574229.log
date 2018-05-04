@@ -1,0 +1,57 @@
+2018-04-24 00:53:59 #commands @Kali_Linux_#1096: t!help
+2018-04-24 00:53:59 #commands @Tatsumaki#8792: ```rb\n`Standard Commands List`\n```\nUse `t!help [command]` to get more info on a specific command, for example: `t!help rank`\n\n**1. Core - **`help` `invite` `leveledroles` `ping` `selfroles` `support` \n**2. Social - **`background` `badges` `dailies` `profile` `rank` `reputation` `setinfo` `settitle` `top` \n**3. Fun - **`8ball` `cah` `cat` `catfacts` `choose` `coin` `cookie` `dice` `dog` `dogfacts` `fishy` `fortune` `numberfacts` `psychopass` `ratewaifu` `reverse` `rps` `slots` `tags` `tatsugotchi` \n**4. Economy - **`credits` `points` \n**5. Utilities - **`color` `converter` `crypto` `google` `image` `lotto` `math` `remindme` `shorten` `stocks` `strawpoll` `todo` `urban` `vote` `weather` `wiki` `youtube` \n**6. Information - **`apikey` `avatar` `botlist` `changelog` `channel` `info` `role` `server` `shared` `usage` \n**7. Anime - **`anime` `manga` `osu` `sic` \n**8. Memes - **`beautiful` `hackerman` \n\n```pl\n# Don't include the example brackets when using commands!\n# To view mod commands, use t@help\n```
+2018-04-24 00:54:12 #commands @Kali_Linux_#1096: t!leveledroles
+2018-04-24 00:54:13 #commands @Tatsumaki#8792: 📋  |  **Kali_Linux_**, This guild has no leveled roles set.
+2018-04-24 00:56:05 #commands @Kali_Linux_#1096: t!leveledroles help
+2018-04-24 00:56:05 #commands @Tatsumaki#8792: 📋  |  **Kali_Linux_**, This guild has no leveled roles set.
+2018-04-24 01:01:11 #commands @Kali_Linux_#1096: b!
+2018-04-24 01:01:15 #commands @Kali_Linux_#1096: b!help
+2018-04-24 01:01:15 #commands @BoxBot#7194: 
+2018-04-24 01:01:15 #commands @BoxBot#7194 edited message from 2018-04-24 01:01:15 () to read: 
+2018-04-24 01:01:20 #commands @BoxBot#7194 edited message from 2018-04-24 01:01:15 () to read: 
+2018-04-24 01:01:20 #commands @BoxBot#7194 edited message from 2018-04-24 01:01:15 () to read: 
+2018-04-24 01:01:41 #commands @Kali_Linux_#1096: b!help
+2018-04-24 01:01:41 #commands @BoxBot#7194: 
+2018-04-24 01:01:41 #commands @BoxBot#7194 edited message from 2018-04-24 01:01:41 () to read: 
+2018-04-24 01:01:43 #commands @BoxBot#7194 edited message from 2018-04-24 01:01:41 () to read: 
+2018-04-24 01:01:43 #commands @BoxBot#7194 edited message from 2018-04-24 01:01:41 () to read: 
+2018-04-24 01:01:53 #commands @BoxBot#7194 deleted message from 2018-04-24 01:01:15 ()
+2018-04-24 01:01:53 #commands @BoxBot#7194 deleted message from 2018-04-24 01:01:41 ()
+2018-04-24 01:02:29 #commands @Kali_Linux_#1096: cm!help
+2018-04-24 01:02:30 #commands @CoinMaster#5190: 
+2018-04-24 01:02:30 #commands @CoinMaster#5190 edited message from 2018-04-24 01:02:30 () to read: 
+2018-04-24 01:02:57 #commands @Kali_Linux_#1096: cm!help beginner
+2018-04-24 01:02:57 #commands @CoinMaster#5190: 
+2018-04-24 01:02:57 #commands @CoinMaster#5190 edited message from 2018-04-24 01:02:57 () to read: 
+2018-04-24 01:03:09 #commands @Kali_Linux_#1096: cm!account create
+2018-04-24 01:03:09 #commands @CoinMaster#5190: *CoinMaster uses embeds. If you can't see an embed below this text, go to Settings > Text & Images > turn on "Show website preview info from links pasted into chat"*
+2018-04-24 01:03:09 #commands @CoinMaster#5190 edited message from 2018-04-24 01:03:09 (*CoinMaster uses embeds. If you can't see an embed below this text, go to Settings > Text & Images > turn on "Show website preview info from links pasted into chat"*) to read: *CoinMaster uses embeds. If you can't see an embed below this text, go to Settings > Text & Images > turn on "Show website preview info from links pasted into chat"*
+2018-04-24 01:03:26 #commands @Kali_Linux_#1096: cm!crate
+2018-04-24 01:03:26 #commands @CoinMaster#5190: 
+2018-04-24 01:03:26 #commands @CoinMaster#5190 edited message from 2018-04-24 01:03:26 () to read: 
+2018-04-24 01:03:41 #commands @Kali_Linux_#1096: cm!crate daily
+2018-04-24 01:03:41 #commands @CoinMaster#5190: 
+2018-04-24 01:03:41 #commands @CoinMaster#5190 edited message from 2018-04-24 01:03:41 () to read: 
+2018-04-24 01:04:11 #commands @Kali_Linux_#1096: cm!crate
+2018-04-24 01:04:12 #commands @CoinMaster#5190: 
+2018-04-24 01:04:12 #commands @CoinMaster#5190 edited message from 2018-04-24 01:04:12 () to read: 
+2018-04-24 01:04:42 #commands @Kali_Linux_#1096: cm!help advanced
+2018-04-24 01:04:42 #commands @CoinMaster#5190: 
+2018-04-24 01:04:42 #commands @CoinMaster#5190 edited message from 2018-04-24 01:04:42 () to read: 
+2018-04-24 01:04:57 #commands @CoinMaster#5190 deleted message from 2018-04-24 01:02:30 ()
+2018-04-24 01:04:57 #commands @CoinMaster#5190 deleted message from 2018-04-24 01:02:57 ()
+2018-04-24 01:04:57 #commands @CoinMaster#5190 deleted message from 2018-04-24 01:03:09 (*CoinMaster uses embeds. If you can't see an embed below this text, go to Settings > Text & Images > turn on "Show website preview info from links pasted into chat"*)
+2018-04-24 01:04:57 #commands @CoinMaster#5190 deleted message from 2018-04-24 01:03:26 ()
+2018-04-24 01:04:57 #commands @CoinMaster#5190 deleted message from 2018-04-24 01:03:41 ()
+2018-04-24 01:04:57 #commands @CoinMaster#5190 deleted message from 2018-04-24 01:04:12 ()
+2018-04-24 01:04:57 #commands @CoinMaster#5190 deleted message from 2018-04-24 01:04:42 ()
+2018-04-26 19:02:32 #commands @DarkLiger#3769: fuck
+2018-04-26 19:02:40 #commands @DarkLiger#3769: !fuck
+2018-04-26 19:03:01 #commands @DarkLiger#3769: !t profile
+2018-04-26 19:03:13 #commands @DarkLiger#3769: t! profile
+2018-04-26 19:03:25 #commands @DarkLiger#3769: t!help
+2018-04-26 19:03:31 #commands @DarkLiger#3769: gay
+2018-04-26 19:03:55 #commands @DarkLiger#3769: t!help
+2018-04-26 19:04:15 #commands @DarkLiger#3769: !help
+2018-04-26 19:04:17 #commands @Synapse#0692: Check your DM, @DarkLiger! I have sent something for you :wink:
+2018-04-26 19:04:24 #commands @DarkLiger#3769: !profile

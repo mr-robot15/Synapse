@@ -1,0 +1,917 @@
+2018-04-27 04:50:31 this bot joined the server
+2018-04-27 04:51:55 Member role add: 'Developer' role was added to @A VERY LITTLE Polski#2954
+2018-04-27 04:55:01 Channel overwrites: User Chat (435705109444296704): role @everyone (435702373701255174) added with values 2097152, 0
+2018-04-27 04:55:01 Channel overwrites: general (435705136879370251): role @everyone (435702373701255174) added with values 2097152, 0
+2018-04-27 04:55:01 Channel overwrites: bot-spam (435705164318638091): role @everyone (435702373701255174) added with values 2097152, 0
+2018-04-27 04:55:01 Channel overwrites: Quite General (435705213748248586): role @everyone (435702373701255174) added with values 2097152, 0
+2018-04-27 04:55:01 Channel overwrites: Very General (435705318928809984): role @everyone (435702373701255174) added with values 2097152, 0
+2018-04-27 04:55:01 Channel overwrites: foreign-chat (435705638404882444): role @everyone (435702373701255174) added with values 2097152, 0
+2018-04-27 04:55:01 Channel overwrites: memes (435705655958175746): role @everyone (435702373701255174) added with values 2097152, 0
+2018-04-27 04:55:01 Channel overwrites: nsfw (435705676497551361): role @everyone (435702373701255174) added with values 2097152, 0
+2018-04-27 04:55:05 Channel overwrites: User Chat (435705109444296704): role @everyone (435702373701255174) updated to values 3145728, 0 (was 2097152, 0)
+2018-04-27 04:55:05 Channel overwrites: general (435705136879370251): role @everyone (435702373701255174) updated to values 3145728, 0 (was 2097152, 0)
+2018-04-27 04:55:05 Channel overwrites: Quite General (435705213748248586): role @everyone (435702373701255174) updated to values 3145728, 0 (was 2097152, 0)
+2018-04-27 04:55:05 Channel overwrites: bot-spam (435705164318638091): role @everyone (435702373701255174) updated to values 3145728, 0 (was 2097152, 0)
+2018-04-27 04:55:05 Channel overwrites: Very General (435705318928809984): role @everyone (435702373701255174) updated to values 3145728, 0 (was 2097152, 0)
+2018-04-27 04:55:05 Channel overwrites: foreign-chat (435705638404882444): role @everyone (435702373701255174) updated to values 3145728, 0 (was 2097152, 0)
+2018-04-27 04:55:05 Channel overwrites: memes (435705655958175746): role @everyone (435702373701255174) updated to values 3145728, 0 (was 2097152, 0)
+2018-04-27 04:55:05 Channel overwrites: nsfw (435705676497551361): role @everyone (435702373701255174) updated to values 3145728, 0 (was 2097152, 0)
+2018-04-27 04:55:47 Role position: 'User' changed from 1 to 2
+2018-04-27 04:55:47 Role position: 'Donator' changed from 2 to 3
+2018-04-27 04:55:47 Role position: 'Nice Donator' changed from 3 to 4
+2018-04-27 04:55:47 Role position: 'Very Nice Donator' changed from 4 to 5
+2018-04-27 04:55:47 Role position: 'Host' changed from 5 to 6
+2018-04-27 04:55:47 Role position: 'Bot' changed from 6 to 7
+2018-04-27 04:55:47 Role position: 'Moderator' changed from 7 to 8
+2018-04-27 04:55:47 Role position: 'Developer' changed from 8 to 9
+2018-04-27 04:55:47 Role position: 'Administrator' changed from 9 to 10
+2018-04-27 04:55:47 Role position: 'Owner' changed from 10 to 11
+2018-04-27 04:55:47 Role permissions: '@everyone' changed from 66560 to 68608
+2018-04-27 04:55:57 Role position: 'User' changed from 2 to 1
+2018-04-27 04:55:57 Role position: 'Donator' changed from 3 to 2
+2018-04-27 04:55:57 Role position: 'Nice Donator' changed from 4 to 3
+2018-04-27 04:55:57 Role position: 'Very Nice Donator' changed from 5 to 4
+2018-04-27 04:55:57 Role position: 'Host' changed from 6 to 5
+2018-04-27 04:55:57 Role position: 'Bot' changed from 7 to 6
+2018-04-27 04:55:57 Role position: 'Moderator' changed from 8 to 7
+2018-04-27 04:55:57 Role position: 'Developer' changed from 9 to 8
+2018-04-27 04:55:57 Role position: 'Administrator' changed from 10 to 9
+2018-04-27 04:55:57 Role permissions: 'Synapse' changed from 8 to 262216
+2018-04-27 04:55:57 Role position: 'Synapse' changed from 1 to 10
+2018-04-27 04:56:09 Role color: 'Synapse' changed from #000000 to #db9090
+2018-04-27 05:12:22 Member join: @DiscordFool#6903 (id 439285708516098051)
+2018-04-27 05:13:47 Server owner changed from Mr. Robot#0007 (id 426234414255570959) to DiscordFool#6903 (id 439285708516098051)
+2018-04-27 05:14:07 Channel overwrites: welcome (439286546957467668): role @everyone (435702373701255174) updated to values 1, 2048 (was 1, 0)
+2018-04-27 05:18:15 Channel created: moneylobby
+2018-04-27 05:18:20 Channel position: moneylobby moved from 12 to 6
+2018-04-27 05:18:20 Channel position: memes moved from 6 to 7
+2018-04-27 05:18:20 Channel position: nsfw moved from 7 to 8
+2018-04-27 05:18:20 Channel position: name moved from 8 to 9
+2018-04-27 05:18:20 Channel position: bot moved from 9 to 10
+2018-04-27 05:18:20 Channel position: logs moved from 10 to 11
+2018-04-27 05:18:20 Channel position: social-club moved from 11 to 12
+2018-04-27 05:18:23 Channel position: moneylobby moved from 6 to 4
+2018-04-27 05:18:23 Channel position: bot-spam moved from 4 to 5
+2018-04-27 05:18:23 Channel position: foreign-chat moved from 5 to 6
+2018-04-27 05:18:39 Role color: 'Synapse' changed from #db9090 to #3498db
+2018-04-27 05:18:39 Channel deleted: social-club
+2018-04-27 05:18:42 Role hoist: 'Synapse' is now shown seperately
+2018-04-27 05:19:03 Role created: 'new role' (id 439294384341778435)
+2018-04-27 05:19:09 Role created: 'new role' (id 439294402955968513)
+2018-04-27 05:19:18 Role renamed: 'new role' to 'A Ver Nice Person'
+2018-04-27 05:19:20 Role color: 'A Ver Nice Person' changed from #000000 to #9b59b6
+2018-04-27 05:19:23 Role hoist: 'A Ver Nice Person' is now shown seperately
+2018-04-27 05:19:28 Role mentionable: 'A Ver Nice Person' is now mentionable
+2018-04-27 05:19:28 Role permissions: 'A Ver Nice Person' changed from 68608 to 68616
+2018-04-27 05:19:40 Member role add: 'A Ver Nice Person' role was added to @MightyPearl#5182
+2018-04-27 05:19:59 Role permissions: 'new role' changed from 68608 to 330816
+2018-04-27 05:19:59 Role position: 'new role' changed from 2 to 1
+2018-04-27 05:19:59 Role position: 'User' changed from 3 to 2
+2018-04-27 05:19:59 Role position: 'Donator' changed from 4 to 3
+2018-04-27 05:19:59 Role position: 'Nice Donator' changed from 5 to 4
+2018-04-27 05:19:59 Role position: 'Very Nice Donator' changed from 6 to 5
+2018-04-27 05:19:59 Role position: 'Host' changed from 7 to 6
+2018-04-27 05:19:59 Role position: 'Bot' changed from 8 to 7
+2018-04-27 05:19:59 Role position: 'Moderator' changed from 9 to 8
+2018-04-27 05:19:59 Role position: 'Developer' changed from 10 to 9
+2018-04-27 05:19:59 Role position: 'Administrator' changed from 11 to 10
+2018-04-27 05:19:59 Role position: 'A Ver Nice Person' changed from 1 to 11
+2018-04-27 05:20:03 Member join: @Jsin24#8570 (id 239603691966038017)
+2018-04-27 05:23:53 Member join: @Krinen#7284 (id 88117329396785152)
+2018-04-27 05:24:00 Member role add: 'Moderator' role was added to @Krinen#7284
+2018-04-27 05:24:08 Member nickname: '@Krinen#7284' (id 88117329396785152) changed nickname from 'None' to 'Spindle'
+2018-04-27 05:26:51 Member role add: 'Moderator' role was added to @SkayRock#8589
+2018-04-27 05:27:17 Member role add: 'Very Nice Donator' role was added to @Tanner#3805
+2018-04-27 05:27:20 Role created: 'new role' (id 439296464536076288)
+2018-04-27 05:27:32 Role renamed: 'new role' to 'member'
+2018-04-27 05:27:43 Member role add: 'Host' role was added to @oland is gay#4684
+2018-04-27 05:27:48 Role color: 'member' changed from #000000 to #dfb563
+2018-04-27 05:27:54 Role mentionable: 'member' is now mentionable
+2018-04-27 05:27:54 Role hoist: 'member' is now shown seperately
+2018-04-27 05:27:58 Role created: 'new role' (id 439296628952924170)
+2018-04-27 05:28:03 Role renamed: 'new role' to 'frend'
+2018-04-27 05:28:06 Role color: 'frend' changed from #000000 to #e67e22
+2018-04-27 05:28:08 Role hoist: 'frend' is now shown seperately
+2018-04-27 05:28:10 Member role add: 'member' role was added to @Derp#2010
+2018-04-27 05:28:15 Member role add: 'member' role was added to @DiscordFool#6903
+2018-04-27 05:28:22 Member role add: 'member' role was added to @Dr.Krow#9280
+2018-04-27 05:28:25 Role position: 'member' changed from 2 to 1
+2018-04-27 05:28:25 Role position: 'new role' changed from 3 to 2
+2018-04-27 05:28:25 Role position: 'User' changed from 4 to 3
+2018-04-27 05:28:25 Role position: 'Donator' changed from 5 to 4
+2018-04-27 05:28:25 Role position: 'Nice Donator' changed from 6 to 5
+2018-04-27 05:28:25 Role position: 'Very Nice Donator' changed from 7 to 6
+2018-04-27 05:28:25 Role position: 'Host' changed from 8 to 7
+2018-04-27 05:28:25 Role position: 'Bot' changed from 9 to 8
+2018-04-27 05:28:25 Role position: 'frend' changed from 1 to 9
+2018-04-27 05:28:26 Member role add: 'member' role was added to @Jsin24#8570
+2018-04-27 05:28:30 Member role add: 'member' role was added to @RonMilk#5633
+2018-04-27 05:28:33 Member role add: 'member' role was added to @SC homieg223#0752
+2018-04-27 05:28:37 Member role add: 'frend' role was added to @Ali6837#7204
+2018-04-27 05:28:38 Member role add: 'member' role was added to @ZehOwnz#1219
+2018-04-27 05:28:44 Member role add: 'frend' role was added to @Len_179#2604
+2018-04-27 05:28:47 Member role add: 'member' role was added to @Adin Sefu Banilor#9896
+2018-04-27 05:28:57 Member role add: 'frend' role was added to @ZehOwnz#1219
+2018-04-27 05:28:57 Member role remove: The 'member' role was removed from @ZehOwnz#1219
+2018-04-27 05:28:59 Member role add: 'member' role was added to @arturtomin#0619
+2018-04-27 05:29:04 Member role add: 'frend' role was added to @whiskeycrayon#5531
+2018-04-27 05:29:09 Member role add: 'member' role was added to @Bryan#8770
+2018-04-27 05:29:11 Member role add: 'User' role was added to @ZehOwnz#1219
+2018-04-27 05:29:15 Member role add: 'member' role was added to @Everous#9561
+2018-04-27 05:29:16 Member role add: 'User' role was added to @whiskeycrayon#5531
+2018-04-27 05:29:16 Member role add: 'member' role was added to @King_Arabi1236#7739
+2018-04-27 05:29:22 Member role add: 'member' role was added to @Len_179#2604
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @SC homieg223#0752
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @Everous#9561
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @Dr.Krow#9280
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @Jsin24#8570
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @Adin Sefu Banilor#9896
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @RonMilk#5633
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @Derp#2010
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @King_Arabi1236#7739
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @arturtomin#0619
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @Len_179#2604
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @Bryan#8770
+2018-04-27 05:29:27 Member role remove: The 'member' role was removed from @DiscordFool#6903
+2018-04-27 05:29:27 Role deleted: 'member' (id 439296464536076288)
+2018-04-27 05:30:47 Role color: 'User' changed from #95a5a6 to #e9d55d
+2018-04-27 05:32:36 Role color: 'User' changed from #e9d55d to #c3f090
+2018-04-27 05:33:07 Member role add: 'User' role was added to @Derp#2010
+2018-04-27 05:33:26 Member role add: 'User' role was added to @DiscordFool#6903
+2018-04-27 05:33:33 Member role add: 'User' role was added to @Dr.Krow#9280
+2018-04-27 05:33:37 Member role add: 'User' role was added to @Jsin24#8570
+2018-04-27 05:33:41 Member role add: 'User' role was added to @RonMilk#5633
+2018-04-27 05:34:12 Member role add: 'User' role was added to @SC homieg223#0752
+2018-04-27 05:34:19 Member role add: 'User' role was added to @Adin Sefu Banilor#9896
+2018-04-27 05:34:25 Member role add: 'User' role was added to @arturtomin#0619
+2018-04-27 05:34:34 Member role add: 'User' role was added to @Bryan#8770
+2018-04-27 05:34:38 Member role add: 'User' role was added to @Everous#9561
+2018-04-27 05:34:42 Member role add: 'User' role was added to @King_Arabi1236#7739
+2018-04-27 05:34:54 Member role add: 'User' role was added to @Paavali#5093
+2018-04-27 05:35:02 Member role add: 'User' role was added to @The_Eternal_abys#8037
+2018-04-27 05:35:06 Member role add: 'User' role was added to @yohaluf#5378
+2018-04-27 05:36:17 Role created: 'new role' (id 439298725316132874)
+2018-04-27 05:36:29 Role renamed: 'new role' to 'robot'
+2018-04-27 05:36:32 Role permissions: 'robot' changed from 68608 to 68616
+2018-04-27 05:36:40 Role renamed: 'new role' to 'klaus'
+2018-04-27 05:36:53 Role position: 'User' changed from 3 to 2
+2018-04-27 05:36:53 Role position: 'Donator' changed from 4 to 3
+2018-04-27 05:36:53 Role position: 'Nice Donator' changed from 5 to 4
+2018-04-27 05:36:53 Role position: 'Very Nice Donator' changed from 6 to 5
+2018-04-27 05:36:53 Role position: 'Host' changed from 7 to 6
+2018-04-27 05:36:53 Role position: 'Bot' changed from 8 to 7
+2018-04-27 05:36:53 Role position: 'frend' changed from 9 to 8
+2018-04-27 05:36:53 Role position: 'Moderator' changed from 10 to 9
+2018-04-27 05:36:53 Role position: 'Developer' changed from 11 to 10
+2018-04-27 05:36:53 Role position: 'Administrator' changed from 12 to 11
+2018-04-27 05:36:53 Role position: 'A Ver Nice Person' changed from 13 to 12
+2018-04-27 05:36:53 Role position: 'Synapse' changed from 14 to 13
+2018-04-27 05:36:53 Role position: 'Owner' changed from 15 to 14
+2018-04-27 05:36:53 Role position: 'klaus' changed from 2 to 15
+2018-04-27 05:36:58 Role position: 'User' changed from 2 to 1
+2018-04-27 05:36:58 Role position: 'Donator' changed from 3 to 2
+2018-04-27 05:36:58 Role position: 'Nice Donator' changed from 4 to 3
+2018-04-27 05:36:58 Role position: 'Very Nice Donator' changed from 5 to 4
+2018-04-27 05:36:58 Role position: 'Host' changed from 6 to 5
+2018-04-27 05:36:58 Role position: 'Bot' changed from 7 to 6
+2018-04-27 05:36:58 Role position: 'frend' changed from 8 to 7
+2018-04-27 05:36:58 Role position: 'Moderator' changed from 9 to 8
+2018-04-27 05:36:58 Role position: 'Developer' changed from 10 to 9
+2018-04-27 05:36:58 Role position: 'Administrator' changed from 11 to 10
+2018-04-27 05:36:58 Role position: 'A Ver Nice Person' changed from 12 to 11
+2018-04-27 05:36:58 Role position: 'Synapse' changed from 13 to 12
+2018-04-27 05:36:58 Role position: 'Owner' changed from 14 to 13
+2018-04-27 05:36:58 Role position: 'klaus' changed from 15 to 14
+2018-04-27 05:36:58 Role position: 'robot' changed from 1 to 15
+2018-04-27 05:37:33 Member role add: 'Developer' role was added to @Mr. Robot#0007
+2018-04-27 05:38:38 Role renamed: 'Host' to 'dropper'
+2018-04-27 05:38:46 Role renamed: 'frend' to 'friend'
+2018-04-27 05:39:32 Channel created: lobby-cars
+2018-04-27 06:06:19 Member role add: 'Administrator' role was added to @Krinen#7284
+2018-04-27 06:06:19 Member role remove: The 'Moderator' role was removed from @Krinen#7284
+2018-04-27 06:12:14 Role color: 'User' changed from #c3f090 to #ffffff
+2018-04-27 06:21:25 Member role add: 'klaus' role was added to @Klaus Ze Flammenwerfer#9999
+2018-04-27 06:21:33 Member role add: 'robot' role was added to @Mr. Robot#0007
+2018-04-27 07:01:14 Role color: 'Owner' changed from #ff0000 to #e74c3c
+2018-04-27 07:02:42 Role renamed: 'Owner' to 'Dein Führers'
+2018-04-27 07:10:50 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/c50fe821621d69c13e2e254f6e9638c9.jpg to https://cdn.discordapp.com/icons/435702373701255174/57260de7bc3a9afed386e066f0318d58.jpg
+2018-04-27 07:13:57 Role color: 'Dein Führers' changed from #e74c3c to #6d00ff
+2018-04-27 07:14:50 Role color: 'klaus' changed from #000000 to #ff0000
+2018-04-27 07:34:15 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/57260de7bc3a9afed386e066f0318d58.jpg to https://cdn.discordapp.com/icons/435702373701255174/8a50784d598b98e3e9e0d452f23592d5.jpg
+2018-04-27 07:36:40 Role color: 'Dein Führers' changed from #6d00ff to #ff0000
+2018-04-27 07:36:46 Role color: 'klaus' changed from #ff0000 to #000000
+2018-04-27 07:36:51 Role permissions: 'klaus' changed from 330816 to 330824
+2018-04-27 07:58:50 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'None' to 'REEEEEEEEEEEEEEEE'
+2018-04-27 07:59:43 Member nickname: '@Derp#2010' (id 333234236364554242) changed nickname from 'None' to 'DICKS OUT FOR HARAMBE'
+2018-04-27 07:59:56 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'REEEEEEEEEEEEEEEE' to 'oland'
+2018-04-27 08:13:24 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/8a50784d598b98e3e9e0d452f23592d5.jpg to https://cdn.discordapp.com/icons/435702373701255174/f219e3619aea6107711ebd0503baddb8.jpg
+2018-04-27 08:18:38 Channel overwrites: lobby-cars (439299539275350018): role @everyone (435702373701255174) updated to values 66561, 2048 (was 1, 0)
+2018-04-27 08:48:08 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/f219e3619aea6107711ebd0503baddb8.jpg to https://cdn.discordapp.com/icons/435702373701255174/351ddb1d6bc2366e54fe876fd2f87a9a.jpg
+2018-04-27 09:20:18 Channel overwrites: bot (435705550668562443): role Administrator (435702826103078924) updated to values 1051648, 0 (was 1049600, 0)
+2018-04-27 09:20:22 Channel overwrites: bot (435705550668562443): role Administrator (435702826103078924) updated to values 1117184, 0 (was 1051648, 0)
+2018-04-27 09:26:25 Channel created: private-af
+2018-04-27 09:27:11 Channel overwrites: private-af (439356638353293322): role Moderator (435703050498211863) added with values 0, 3072
+2018-04-27 09:52:30 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/351ddb1d6bc2366e54fe876fd2f87a9a.jpg to https://cdn.discordapp.com/icons/435702373701255174/0e28a14bc75f956825dc054b92b5b606.jpg
+2018-04-27 09:52:30 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/0e28a14bc75f956825dc054b92b5b606.jpg to https://cdn.discordapp.com/icons/435702373701255174/bea7e85062f555863958299b1a2a48e4.jpg
+2018-04-27 09:52:39 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/bea7e85062f555863958299b1a2a48e4.jpg to https://cdn.discordapp.com/icons/435702373701255174/351ddb1d6bc2366e54fe876fd2f87a9a.jpg
+2018-04-27 09:52:46 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/351ddb1d6bc2366e54fe876fd2f87a9a.jpg to https://cdn.discordapp.com/icons/435702373701255174/0e28a14bc75f956825dc054b92b5b606.jpg
+2018-04-27 09:53:45 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/0e28a14bc75f956825dc054b92b5b606.jpg to https://cdn.discordapp.com/icons/435702373701255174/9c931fe8e5f1efe8089d46d22acce9c7.jpg
+2018-04-27 09:54:32 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/9c931fe8e5f1efe8089d46d22acce9c7.jpg to https://cdn.discordapp.com/icons/435702373701255174/0e28a14bc75f956825dc054b92b5b606.jpg
+2018-04-27 09:57:55 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/0e28a14bc75f956825dc054b92b5b606.jpg to https://cdn.discordapp.com/icons/435702373701255174/b9000aa38b7fcb792f0ede86474a64f1.jpg
+2018-04-27 10:20:17 Member leave: @RonMilk#5633 (id 328868457842212864)
+2018-04-27 10:24:54 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/b9000aa38b7fcb792f0ede86474a64f1.jpg to https://cdn.discordapp.com/icons/435702373701255174/1ac7abe90344f26c17320cfcb79440a9.jpg
+2018-04-27 10:32:01 Channel overwrites: admin (435705468023734272): role Moderator (435703050498211863) removed (was 1049600, 0)
+2018-04-27 10:32:01 Channel overwrites: name (435705498126385162): role Moderator (435703050498211863) removed (was 1049600, 0)
+2018-04-27 10:32:01 Channel overwrites: another name (435705529013370890): role Moderator (435703050498211863) removed (was 1049600, 0)
+2018-04-27 10:32:01 Channel overwrites: logs (435705561422757888): role Moderator (435703050498211863) removed (was 1049600, 0)
+2018-04-27 10:32:52 Channel deleted: private-af
+2018-04-27 10:54:16 Member join: @Marcus#4044 (id 208996659479183361)
+2018-04-27 10:54:17 Member role add: 'User' role was added to @Marcus#4044
+2018-04-27 11:08:36 Member role add: 'dropper' role was added to @Marcus#4044
+2018-04-27 11:12:11 Member join: @tvisdabest21#1356 (id 325450362368819200)
+2018-04-27 11:12:11 Member role add: 'User' role was added to @tvisdabest21#1356
+2018-04-27 11:17:26 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'oland' to 'REEEEEEEEEE'
+2018-04-27 11:19:02 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'REEEEEEEEEE' to 'OLAND'
+2018-04-27 11:23:36 Member nickname: '@Derp#2010' (id 333234236364554242) changed nickname from 'DICKS OUT FOR HARAMBE' to 'Derp241'
+2018-04-27 11:24:48 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'OLAND' to 'oland'
+2018-04-27 11:33:04 Member join: @Axerzz#7104 (id 254561615205105664)
+2018-04-27 11:33:05 Member role add: 'User' role was added to @Axerzz#7104
+2018-04-27 11:42:39 Member join: @Actiota#4221 (id 279368537833734144)
+2018-04-27 11:42:39 Member role add: 'User' role was added to @Actiota#4221
+2018-04-27 12:30:22 Member join: @Allan#5597 (id 344440406102114316)
+2018-04-27 12:30:22 Member role add: 'User' role was added to @Allan#5597
+2018-04-27 13:18:45 Member nickname: '@A VERY LITTLE Polski#2954' (id 278056548369170438) changed nickname from 'None' to 'KYS69_'
+2018-04-27 13:31:49 Member join: @The Crimson Chin#1009 (id 238865251184017408)
+2018-04-27 13:31:49 Member role add: 'User' role was added to @The Crimson Chin#1009
+2018-04-27 13:44:05 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'oland' to 'lil dropper'
+2018-04-27 13:44:58 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'lil dropper' to 'lil fucker'
+2018-04-27 13:45:28 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'lil fucker' to 'lil skrrrr'
+2018-04-27 13:54:24 Member join: @Afilamar#3570 (id 434277444195713025)
+2018-04-27 13:54:25 Member role add: 'User' role was added to @Afilamar#3570
+2018-04-27 15:16:14 Channel overwrites: moneylobby (439294186106257408): role dropper (435703176637972480) added with values 0, 0
+2018-04-27 15:16:20 Channel overwrites: moneylobby (439294186106257408): role dropper (435703176637972480) updated to values 134144, 0 (was 0, 0)
+2018-04-27 15:16:29 Channel overwrites: moneylobby (439294186106257408): role @everyone (435702373701255174) updated to values 3146752, 2048 (was 3145728, 0)
+2018-04-27 15:19:12 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'lil skrrrr' to 'oland'
+2018-04-27 15:21:09 Server icon changed from https://cdn.discordapp.com/icons/435702373701255174/1ac7abe90344f26c17320cfcb79440a9.jpg to https://cdn.discordapp.com/icons/435702373701255174/153c1bd5765104740d7912eee4314070.jpg
+2018-04-27 16:00:47 Role renamed: 'dropper' to 'Host'
+2018-04-27 16:05:17 Channel created: drop-lobby-guide
+2018-04-27 16:05:35 Channel overwrites: News-Rules-FAQ (435704443263123457): role @everyone (435702373701255174) updated to values 65537, 2048 (was 1, 0)
+2018-04-27 16:05:35 Channel overwrites: drop-lobby-guide (439457015337844756): role @everyone (435702373701255174) updated to values 65537, 2048 (was 1, 0)
+2018-04-27 16:07:21 Channel rename: moneylobby renamed to drop-lobby-status
+2018-04-27 16:07:21 Channel topic: moneylobby topic was set to ""
+2018-04-27 16:07:29 Channel overwrites: drop-lobby-status (439294186106257408): role @everyone (435702373701255174) updated to values 3212288, 2048 (was 3146752, 2048)
+2018-04-27 16:08:00 Channel overwrites: drop-lobby-status (439294186106257408): role Host (435703176637972480) updated to values 199680, 0 (was 134144, 0)
+2018-04-27 16:08:16 Channel rename: drop-lobby-status renamed to lobby-status
+2018-04-27 16:08:29 Channel deleted: lobby-cars
+2018-04-27 16:11:35 Channel overwrites: News-Rules-FAQ (435704443263123457): role @everyone (435702373701255174) updated to values 66561, 2048 (was 65537, 2048)
+2018-04-27 16:11:35 Channel overwrites: drop-lobby-guide (439457015337844756): role @everyone (435702373701255174) updated to values 66561, 2048 (was 65537, 2048)
+2018-04-27 16:12:03 Channel created: social-club
+2018-04-27 16:12:11 Channel overwrites: social-club (439458719470714880): role Host (435703176637972480) added with values 0, 0
+2018-04-27 16:12:19 Channel overwrites: social-club (439458719470714880): role @everyone (435702373701255174) added with values 66560, 2048
+2018-04-27 16:12:20 Channel overwrites: social-club (439458719470714880): role Host (435703176637972480) updated to values 68608, 0 (was 0, 0)
+2018-04-27 16:16:46 Role created: 'new role' (id 439459902180556821)
+2018-04-27 16:16:55 Role permissions: 'new role' changed from 68608 to 330816
+2018-04-27 16:16:55 Role position: 'new role' changed from 1 to 5
+2018-04-27 16:16:55 Role renamed: 'new role' to 'Trial Host'
+2018-04-27 16:16:55 Role color: 'new role' changed from #000000 to #c27c0e
+2018-04-27 16:16:55 Role permissions: 'new role' changed from 330816 to 68608
+2018-04-27 16:17:15 Role hoist: 'Trial Host' is now shown seperately
+2018-04-27 16:17:15 Role permissions: 'Trial Host' changed from 68608 to 21040128
+2018-04-27 16:17:27 Channel overwrites: social-club (439458719470714880): role Trial Host (439459902180556821) added with values 0, 0
+2018-04-27 16:17:32 Channel overwrites: social-club (439458719470714880): role Trial Host (439459902180556821) updated to values 3072, 0 (was 0, 0)
+2018-04-27 16:18:06 Member role add: 'Trial Host' role was added to @tvisdabest21#1356
+2018-04-27 16:27:20 Member join: @Varae#6970 (id 72988877203181568)
+2018-04-27 16:27:21 Member role add: 'User' role was added to @Varae#6970
+2018-04-27 16:34:12 Member role add: 'Host' role was added to @Varae#6970
+2018-04-27 16:51:45 Channel position: Queue moved from 3 to 2
+2018-04-27 16:51:45 Channel position: admin moved from 2 to 3
+2018-04-27 16:51:45 Channel position: drop-lobby-guide moved from 13 to 3
+2018-04-27 16:51:45 Channel position: general moved from 3 to 4
+2018-04-27 16:51:45 Channel position: lobby-status moved from 4 to 5
+2018-04-27 16:51:45 Channel position: bot-spam moved from 5 to 6
+2018-04-27 16:51:45 Channel position: foreign-chat moved from 6 to 7
+2018-04-27 16:51:45 Channel position: memes moved from 7 to 8
+2018-04-27 16:51:45 Channel position: nsfw moved from 8 to 9
+2018-04-27 16:51:45 Channel position: social-club moved from 14 to 10
+2018-04-27 16:51:45 Channel position: name moved from 9 to 11
+2018-04-27 16:51:45 Channel position: bot moved from 10 to 12
+2018-04-27 16:51:45 Channel position: logs moved from 11 to 13
+2018-04-27 16:51:45 Channel position: Queue 1 moved from 3 to 2
+2018-04-27 16:51:45 Channel position: Queue 2 moved from 4 to 3
+2018-04-27 16:51:45 Channel position: Lobby I moved from 5 to 4
+2018-04-27 16:51:45 Channel position: Lobby II moved from 6 to 5
+2018-04-27 16:51:45 Channel position: another name moved from 2 to 6
+2018-04-27 16:57:10 Member join: @iCardin1al#2828 (id 419099918540734464)
+2018-04-27 16:57:11 Member role add: 'User' role was added to @iCardin1al#2828
+2018-04-27 17:08:52 Channel created: lobby-car
+2018-04-27 17:17:45 Channel rename: lobby-status renamed to drop-lobby
+2018-04-27 17:29:41 Channel overwrites: drop-lobby (439294186106257408): role @everyone (435702373701255174) updated to values 3214336, 0 (was 3212288, 2048)
+2018-04-27 17:40:50 Member ban: @tvisdabest21#1356 (id 325450362368819200)
+2018-04-27 17:40:50 Member leave: @tvisdabest21#1356 (id 325450362368819200)
+2018-04-27 17:48:26 Member join: @jamieeeeeeeeeeee#3832 (id 439481051392507905)
+2018-04-27 17:48:28 Member role add: 'User' role was added to @jamieeeeeeeeeeee#3832
+2018-04-27 18:08:39 Member leave: @jamieeeeeeeeeeee#3832 (id 439481051392507905)
+2018-04-27 18:09:24 Member join: @andre21#4864 (id 148452240460349440)
+2018-04-27 18:09:25 Member role add: 'User' role was added to @andre21#4864
+2018-04-27 18:13:25 Member join: @SC- Derpotimus#4151 (id 203608568006574081)
+2018-04-27 18:13:25 Member role add: 'User' role was added to @SC- Derpotimus#4151
+2018-04-27 18:24:20 Member join: @Chip#2826 (id 194223773300424704)
+2018-04-27 18:24:20 Member role add: 'User' role was added to @Chip#2826
+2018-04-27 18:37:58 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'oland' to 'lil globlogo'
+2018-04-27 18:38:10 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'lil globlogo' to 'lil globlogabgalab'
+2018-04-27 18:40:26 Member join: @Tremz#8456 (id 203607939846635520)
+2018-04-27 18:40:26 Member role add: 'User' role was added to @Tremz#8456
+2018-04-27 18:47:28 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'lil globlogabgalab' to 'oland'
+2018-04-27 18:52:26 Member join: @Titan#3014 (id 310116625275813889)
+2018-04-27 18:52:27 Member role add: 'User' role was added to @Titan#3014
+2018-04-27 20:15:47 Member username: '@Tremz#8456' (id 203607939846635520) changed username from 'Tremz' to 'SC - ChickenDinnerYum'
+2018-04-27 20:20:03 Channel overwrites: drop-lobby (439294186106257408): role @everyone (435702373701255174) updated to values 3212288, 2048 (was 3214336, 0)
+2018-04-27 21:53:49 Member join: @theuntrusted#0528 (id 197937672382185472)
+2018-04-27 21:53:52 Member role add: 'User' role was added to @theuntrusted#0528
+2018-04-27 22:06:01 Member join: @Grugl#4241 (id 372083135644434452)
+2018-04-27 22:06:01 Member role add: 'User' role was added to @Grugl#4241
+2018-04-27 23:38:48 Member join: @Sc00ter#6887 (id 285925627956297730)
+2018-04-27 23:38:48 Member role add: 'User' role was added to @Sc00ter#6887
+2018-04-28 04:06:53 Member join: @Mr_Santos#3186 (id 235018736669687808)
+2018-04-28 04:06:53 Member role add: 'User' role was added to @Mr_Santos#3186
+2018-04-28 11:28:06 Channel overwrites: Queue 1 (435705846073393152): role @everyone (435702373701255174) added with values 1048576, 0
+2018-04-28 12:48:40 Role permissions: 'Host' changed from 259521623 to 259521619
+2018-04-28 12:48:44 Role permissions: 'Host' changed from 259521619 to 259521617
+2018-04-28 12:48:52 Role permissions: 'Host' changed from 259521617 to 125303889
+2018-04-28 12:50:58 Member nickname: '@Axerzz#7104' (id 254561615205105664) changed nickname from 'None' to '*Thinking*'
+2018-04-28 12:53:30 Member nickname: '@Axerzz#7104' (id 254561615205105664) changed nickname from '*Thinking*' to 'None'
+2018-04-28 12:53:37 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'oland' to 'Lil Globlogabgalab'
+2018-04-28 12:59:30 Member join: @Metzger#3414 (id 278938246858407937)
+2018-04-28 12:59:33 Member role add: 'User' role was added to @Metzger#3414
+2018-04-28 13:01:01 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'Lil Globlogabgalab' to 'oland'
+2018-04-28 15:28:44 Role renamed: 'A Ver Nice Person' to 'A Very Nice Person'
+2018-04-28 16:39:46 Member join: @Crazyjoe#4113 (id 332916280204066827)
+2018-04-28 16:40:00 Member role add: 'User' role was added to @Crazyjoe#4113
+2018-04-28 16:47:51 Member username: '@SC - ChickenDinnerYum#8456' (id 203607939846635520) changed username from 'SC - ChickenDinnerYum' to 'Tremz'
+2018-04-28 16:50:18 Channel created: exo
+2018-04-28 16:50:56 Member role add: 'Moderating Artist' role was added to @Sc00ter#6887
+2018-04-28 16:51:08 Role color: 'friend' changed from #e67e22 to #f39d25
+2018-04-28 16:51:11 Role position: 'Bot' changed from 7 to 6
+2018-04-28 16:51:11 Role position: 'Host' changed from 6 to 7
+2018-04-28 16:51:14 Role position: 'friend' changed from 8 to 7
+2018-04-28 16:51:14 Role position: 'Host' changed from 7 to 8
+2018-04-28 16:52:08 Role permissions: 'A Very Nice Person' changed from 68616 to 2146958551
+2018-04-28 16:52:17 Role permissions: 'Bot' changed from 2146958591 to 2146958583
+2018-04-28 16:52:17 Role permissions: 'Administrator' changed from 2146958591 to 2146958583
+2018-04-28 16:52:34 Channel created: announcements
+2018-04-28 16:52:40 Channel created: status
+2018-04-28 16:52:45 Channel created: vouches
+2018-04-28 16:52:51 Channel created: general
+2018-04-28 16:52:58 Channel created: general-foerign
+2018-04-28 16:53:35 Channel created: nsfw
+2018-04-28 16:53:41 Channel created: 438403671147937792
+2018-04-28 16:53:51 Channel rename: 438403671147937792 renamed to hand-picked-memes
+2018-04-28 16:53:51 Channel topic: 438403671147937792 topic was set to ""
+2018-04-28 16:53:58 Channel created: generated-memes
+2018-04-28 16:54:04 Channel created: bot-spam
+2018-04-28 17:01:22 Channel deleted: general-foerign
+2018-04-28 17:02:45 Channel position: lobby-car moved from 14 to 4
+2018-04-28 17:02:45 Channel position: general moved from 4 to 5
+2018-04-28 17:02:45 Channel position: drop-lobby moved from 5 to 6
+2018-04-28 17:02:45 Channel position: bot-spam moved from 6 to 7
+2018-04-28 17:02:45 Channel position: foreign-chat moved from 7 to 8
+2018-04-28 17:02:45 Channel position: memes moved from 8 to 9
+2018-04-28 17:02:45 Channel position: nsfw moved from 9 to 10
+2018-04-28 17:02:45 Channel position: social-club moved from 10 to 11
+2018-04-28 17:02:45 Channel position: name moved from 11 to 12
+2018-04-28 17:02:45 Channel position: bot moved from 12 to 13
+2018-04-28 17:02:45 Channel position: logs moved from 13 to 14
+2018-04-28 17:02:45 Channel position: nsfw moved from 20 to 19
+2018-04-28 17:02:45 Channel position: hand-picked-memes moved from 21 to 20
+2018-04-28 17:02:45 Channel position: generated-memes moved from 22 to 21
+2018-04-28 17:02:45 Channel position: bot-spam moved from 23 to 22
+2018-04-28 17:03:33 Channel overwrites: announcements (439831301500174345): member SkayRock (300754440045068289) added with values 0, 0
+2018-04-28 17:03:33 Channel overwrites: exo (439830733112999936): member SkayRock (300754440045068289) added with values 0, 0
+2018-04-28 17:03:33 Channel overwrites: status (439831330088419330): member SkayRock (300754440045068289) added with values 0, 0
+2018-04-28 17:03:33 Channel overwrites: vouches (439831347725467658): member SkayRock (300754440045068289) added with values 0, 0
+2018-04-28 17:03:33 Channel overwrites: general (439831373839335435): member SkayRock (300754440045068289) added with values 0, 0
+2018-04-28 17:03:33 Channel overwrites: nsfw (439831557176426496): member SkayRock (300754440045068289) added with values 0, 0
+2018-04-28 17:03:33 Channel overwrites: hand-picked-memes (439831585362149410): member SkayRock (300754440045068289) added with values 0, 0
+2018-04-28 17:03:33 Channel overwrites: generated-memes (439831656069857281): member SkayRock (300754440045068289) added with values 0, 0
+2018-04-28 17:03:33 Channel overwrites: bot-spam (439831680451215360): member SkayRock (300754440045068289) added with values 0, 0
+2018-04-28 17:03:39 Channel overwrites: exo (439830733112999936): member SkayRock (300754440045068289) updated to values 66560, 2048 (was 0, 0)
+2018-04-28 17:03:39 Channel overwrites: announcements (439831301500174345): member SkayRock (300754440045068289) updated to values 66560, 2048 (was 0, 0)
+2018-04-28 17:03:39 Channel overwrites: vouches (439831347725467658): member SkayRock (300754440045068289) updated to values 66560, 2048 (was 0, 0)
+2018-04-28 17:03:39 Channel overwrites: status (439831330088419330): member SkayRock (300754440045068289) updated to values 66560, 2048 (was 0, 0)
+2018-04-28 17:03:39 Channel overwrites: general (439831373839335435): member SkayRock (300754440045068289) updated to values 66560, 2048 (was 0, 0)
+2018-04-28 17:03:39 Channel overwrites: nsfw (439831557176426496): member SkayRock (300754440045068289) updated to values 66560, 2048 (was 0, 0)
+2018-04-28 17:03:39 Channel overwrites: hand-picked-memes (439831585362149410): member SkayRock (300754440045068289) updated to values 66560, 2048 (was 0, 0)
+2018-04-28 17:03:39 Channel overwrites: generated-memes (439831656069857281): member SkayRock (300754440045068289) updated to values 66560, 2048 (was 0, 0)
+2018-04-28 17:03:39 Channel overwrites: bot-spam (439831680451215360): member SkayRock (300754440045068289) updated to values 66560, 2048 (was 0, 0)
+2018-04-28 17:19:20 Channel overwrites: exo (439830733112999936): role Developer (435703963913027584) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:20 Channel overwrites: announcements (439831301500174345): role Developer (435703963913027584) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:20 Channel overwrites: status (439831330088419330): role Developer (435703963913027584) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:20 Channel overwrites: vouches (439831347725467658): role Developer (435703963913027584) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:20 Channel overwrites: general (439831373839335435): role Developer (435703963913027584) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:20 Channel overwrites: nsfw (439831557176426496): role Developer (435703963913027584) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:20 Channel overwrites: generated-memes (439831656069857281): role Developer (435703963913027584) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:20 Channel overwrites: hand-picked-memes (439831585362149410): role Developer (435703963913027584) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:20 Channel overwrites: bot-spam (439831680451215360): role Developer (435703963913027584) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:24 Channel overwrites: exo (439830733112999936): role Synapse (439287203768696842) updated to values 1051648, 0 (was 1049600, 0)
+2018-04-28 17:19:24 Channel overwrites: announcements (439831301500174345): role Synapse (439287203768696842) updated to values 1051648, 0 (was 1049600, 0)
+2018-04-28 17:19:24 Channel overwrites: vouches (439831347725467658): role Synapse (439287203768696842) updated to values 1051648, 0 (was 1049600, 0)
+2018-04-28 17:19:24 Channel overwrites: status (439831330088419330): role Synapse (439287203768696842) updated to values 1051648, 0 (was 1049600, 0)
+2018-04-28 17:19:24 Channel overwrites: general (439831373839335435): role Synapse (439287203768696842) updated to values 1051648, 0 (was 1049600, 0)
+2018-04-28 17:19:24 Channel overwrites: nsfw (439831557176426496): role Synapse (439287203768696842) updated to values 1051648, 0 (was 1049600, 0)
+2018-04-28 17:19:24 Channel overwrites: hand-picked-memes (439831585362149410): role Synapse (439287203768696842) updated to values 1051648, 0 (was 1049600, 0)
+2018-04-28 17:19:24 Channel overwrites: generated-memes (439831656069857281): role Synapse (439287203768696842) updated to values 1051648, 0 (was 1049600, 0)
+2018-04-28 17:19:24 Channel overwrites: bot-spam (439831680451215360): role Synapse (439287203768696842) updated to values 1051648, 0 (was 1049600, 0)
+2018-04-28 17:19:28 Channel overwrites: exo (439830733112999936): role Dein Führers (435702686743003136) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:28 Channel overwrites: announcements (439831301500174345): role Dein Führers (435702686743003136) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:28 Channel overwrites: status (439831330088419330): role Dein Führers (435702686743003136) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:28 Channel overwrites: vouches (439831347725467658): role Dein Führers (435702686743003136) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:28 Channel overwrites: nsfw (439831557176426496): role Dein Führers (435702686743003136) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:28 Channel overwrites: general (439831373839335435): role Dein Führers (435702686743003136) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:28 Channel overwrites: generated-memes (439831656069857281): role Dein Führers (435702686743003136) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:28 Channel overwrites: hand-picked-memes (439831585362149410): role Dein Führers (435702686743003136) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:28 Channel overwrites: bot-spam (439831680451215360): role Dein Führers (435702686743003136) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-28 17:19:43 Role created: 'new role' (id 439838135996907520)
+2018-04-28 17:19:43 Role created: 'new role' (id 439838137494274079)
+2018-04-28 17:19:49 Role deleted: 'new role' (id 439838137494274079)
+2018-04-28 17:20:20 Role created: 'new role' (id 439838272596869120)
+2018-04-28 17:20:33 Role position: 'User' changed from 3 to 2
+2018-04-28 17:20:33 Role position: 'Donator' changed from 4 to 3
+2018-04-28 17:20:33 Role position: 'Nice Donator' changed from 5 to 4
+2018-04-28 17:20:33 Role position: 'Very Nice Donator' changed from 6 to 5
+2018-04-28 17:20:33 Role position: 'Trial Host' changed from 7 to 6
+2018-04-28 17:20:33 Role position: 'Bot' changed from 8 to 7
+2018-04-28 17:20:33 Role position: 'friend' changed from 9 to 8
+2018-04-28 17:20:33 Role position: 'Host' changed from 10 to 9
+2018-04-28 17:20:33 Role position: 'Moderating Artist' changed from 11 to 10
+2018-04-28 17:20:33 Role position: 'Moderator' changed from 12 to 11
+2018-04-28 17:20:33 Role position: 'Developer' changed from 13 to 12
+2018-04-28 17:20:33 Role position: 'Administrator' changed from 14 to 13
+2018-04-28 17:20:33 Role position: 'A Very Nice Person' changed from 15 to 14
+2018-04-28 17:20:33 Role position: 'Synapse' changed from 16 to 15
+2018-04-28 17:20:33 Role position: 'Dein Führers' changed from 17 to 16
+2018-04-28 17:20:33 Role permissions: 'new role' changed from 68608 to 330816
+2018-04-28 17:20:33 Role position: 'new role' changed from 1 to 17
+2018-04-28 17:20:33 Role renamed: 'new role' to 'klaus'
+2018-04-28 17:20:33 Role color: 'new role' changed from #000000 to #e74c3c
+2018-04-28 17:20:33 Role permissions: 'new role' changed from 330816 to 68608
+2018-04-28 17:20:39 Member role add: 'klaus' role was added to @Klaus Ze Flammenwerfer#9999
+2018-04-28 17:20:56 Channel position: bot moved from 13 to 12
+2018-04-28 17:20:56 Channel position: announcements moved from 15 to 13
+2018-04-28 17:20:56 Channel position: status moved from 16 to 14
+2018-04-28 17:20:56 Channel position: vouches moved from 17 to 15
+2018-04-28 17:20:56 Channel position: general moved from 18 to 16
+2018-04-28 17:20:56 Channel position: nsfw moved from 19 to 17
+2018-04-28 17:20:56 Channel position: hand-picked-memes moved from 20 to 18
+2018-04-28 17:20:56 Channel position: generated-memes moved from 21 to 19
+2018-04-28 17:20:56 Channel position: bot-spam moved from 22 to 20
+2018-04-28 17:34:42 Role permissions: 'Administrator' changed from 2146958583 to 2146958591
+2018-04-28 18:06:46 Channel overwrites: exo (439830733112999936): member SkayRock (300754440045068289) updated to values 65536, 3072 (was 66560, 2048)
+2018-04-28 18:06:46 Channel overwrites: announcements (439831301500174345): member SkayRock (300754440045068289) updated to values 65536, 3072 (was 66560, 2048)
+2018-04-28 18:06:46 Channel overwrites: status (439831330088419330): member SkayRock (300754440045068289) updated to values 65536, 3072 (was 66560, 2048)
+2018-04-28 18:06:46 Channel overwrites: vouches (439831347725467658): member SkayRock (300754440045068289) updated to values 65536, 3072 (was 66560, 2048)
+2018-04-28 18:06:46 Channel overwrites: general (439831373839335435): member SkayRock (300754440045068289) updated to values 65536, 3072 (was 66560, 2048)
+2018-04-28 18:06:46 Channel overwrites: hand-picked-memes (439831585362149410): member SkayRock (300754440045068289) updated to values 65536, 3072 (was 66560, 2048)
+2018-04-28 18:06:46 Channel overwrites: nsfw (439831557176426496): member SkayRock (300754440045068289) updated to values 65536, 3072 (was 66560, 2048)
+2018-04-28 18:06:46 Channel overwrites: generated-memes (439831656069857281): member SkayRock (300754440045068289) updated to values 65536, 3072 (was 66560, 2048)
+2018-04-28 18:06:46 Channel overwrites: bot-spam (439831680451215360): member SkayRock (300754440045068289) updated to values 65536, 3072 (was 66560, 2048)
+2018-04-28 18:19:23 Channel overwrites: name (435705498126385162): role Moderating Artist (439789438776901632) added with values 0, 0
+2018-04-28 18:19:23 Channel overwrites: admin (435705468023734272): role Moderating Artist (439789438776901632) added with values 0, 0
+2018-04-28 18:19:23 Channel overwrites: another name (435705529013370890): role Moderating Artist (439789438776901632) added with values 0, 0
+2018-04-28 18:19:23 Channel overwrites: logs (435705561422757888): role Moderating Artist (439789438776901632) added with values 0, 0
+2018-04-28 18:19:25 Channel overwrites: admin (435705468023734272): role Host (435703176637972480) added with values 0, 0
+2018-04-28 18:19:25 Channel overwrites: name (435705498126385162): role Host (435703176637972480) added with values 0, 0
+2018-04-28 18:19:25 Channel overwrites: another name (435705529013370890): role Host (435703176637972480) added with values 0, 0
+2018-04-28 18:19:25 Channel overwrites: logs (435705561422757888): role Host (435703176637972480) added with values 0, 0
+2018-04-28 18:19:28 Channel overwrites: admin (435705468023734272): role Moderator (435703050498211863) added with values 0, 0
+2018-04-28 18:19:28 Channel overwrites: name (435705498126385162): role Moderator (435703050498211863) added with values 0, 0
+2018-04-28 18:19:28 Channel overwrites: another name (435705529013370890): role Moderator (435703050498211863) added with values 0, 0
+2018-04-28 18:19:28 Channel overwrites: logs (435705561422757888): role Moderator (435703050498211863) added with values 0, 0
+2018-04-28 18:19:47 Channel overwrites: admin (435705468023734272): role Host (435703176637972480) removed (was 0, 0)
+2018-04-28 18:19:47 Channel overwrites: name (435705498126385162): role Host (435703176637972480) removed (was 0, 0)
+2018-04-28 18:19:47 Channel overwrites: another name (435705529013370890): role Host (435703176637972480) removed (was 0, 0)
+2018-04-28 18:19:47 Channel overwrites: logs (435705561422757888): role Host (435703176637972480) removed (was 0, 0)
+2018-04-28 18:19:48 Channel overwrites: admin (435705468023734272): role A Very Nice Person (439294402955968513) added with values 0, 0
+2018-04-28 18:19:48 Channel overwrites: name (435705498126385162): role A Very Nice Person (439294402955968513) added with values 0, 0
+2018-04-28 18:19:48 Channel overwrites: another name (435705529013370890): role A Very Nice Person (439294402955968513) added with values 0, 0
+2018-04-28 18:19:48 Channel overwrites: logs (435705561422757888): role A Very Nice Person (439294402955968513) added with values 0, 0
+2018-04-28 19:01:06 Channel overwrites: exo (439830733112999936): member Krinen (88117329396785152) added with values 0, 0
+2018-04-28 19:01:06 Channel overwrites: announcements (439831301500174345): member Krinen (88117329396785152) added with values 0, 0
+2018-04-28 19:01:06 Channel overwrites: status (439831330088419330): member Krinen (88117329396785152) added with values 0, 0
+2018-04-28 19:01:06 Channel overwrites: vouches (439831347725467658): member Krinen (88117329396785152) added with values 0, 0
+2018-04-28 19:01:06 Channel overwrites: general (439831373839335435): member Krinen (88117329396785152) added with values 0, 0
+2018-04-28 19:01:06 Channel overwrites: nsfw (439831557176426496): member Krinen (88117329396785152) added with values 0, 0
+2018-04-28 19:01:06 Channel overwrites: hand-picked-memes (439831585362149410): member Krinen (88117329396785152) added with values 0, 0
+2018-04-28 19:01:06 Channel overwrites: generated-memes (439831656069857281): member Krinen (88117329396785152) added with values 0, 0
+2018-04-28 19:01:06 Channel overwrites: bot-spam (439831680451215360): member Krinen (88117329396785152) added with values 0, 0
+2018-04-28 19:01:10 Channel overwrites: announcements (439831301500174345): member Krinen (88117329396785152) updated to values 0, 1024 (was 0, 0)
+2018-04-28 19:01:10 Channel overwrites: exo (439830733112999936): member Krinen (88117329396785152) updated to values 0, 1024 (was 0, 0)
+2018-04-28 19:01:10 Channel overwrites: status (439831330088419330): member Krinen (88117329396785152) updated to values 0, 1024 (was 0, 0)
+2018-04-28 19:01:10 Channel overwrites: vouches (439831347725467658): member Krinen (88117329396785152) updated to values 0, 1024 (was 0, 0)
+2018-04-28 19:01:10 Channel overwrites: nsfw (439831557176426496): member Krinen (88117329396785152) updated to values 0, 1024 (was 0, 0)
+2018-04-28 19:01:10 Channel overwrites: general (439831373839335435): member Krinen (88117329396785152) updated to values 0, 1024 (was 0, 0)
+2018-04-28 19:01:10 Channel overwrites: hand-picked-memes (439831585362149410): member Krinen (88117329396785152) updated to values 0, 1024 (was 0, 0)
+2018-04-28 19:01:10 Channel overwrites: generated-memes (439831656069857281): member Krinen (88117329396785152) updated to values 0, 1024 (was 0, 0)
+2018-04-28 19:01:10 Channel overwrites: bot-spam (439831680451215360): member Krinen (88117329396785152) updated to values 0, 1024 (was 0, 0)
+2018-04-28 19:02:14 Channel overwrites: exo (439830733112999936): member Krinen (88117329396785152) removed (was 0, 1024)
+2018-04-28 19:02:14 Channel overwrites: announcements (439831301500174345): member Krinen (88117329396785152) removed (was 0, 1024)
+2018-04-28 19:02:14 Channel overwrites: status (439831330088419330): member Krinen (88117329396785152) removed (was 0, 1024)
+2018-04-28 19:02:14 Channel overwrites: vouches (439831347725467658): member Krinen (88117329396785152) removed (was 0, 1024)
+2018-04-28 19:02:14 Channel overwrites: general (439831373839335435): member Krinen (88117329396785152) removed (was 0, 1024)
+2018-04-28 19:02:15 Channel overwrites: nsfw (439831557176426496): member Krinen (88117329396785152) removed (was 0, 1024)
+2018-04-28 19:02:15 Channel overwrites: hand-picked-memes (439831585362149410): member Krinen (88117329396785152) removed (was 0, 1024)
+2018-04-28 19:02:15 Channel overwrites: generated-memes (439831656069857281): member Krinen (88117329396785152) removed (was 0, 1024)
+2018-04-28 19:02:15 Channel overwrites: bot-spam (439831680451215360): member Krinen (88117329396785152) removed (was 0, 1024)
+2018-04-28 20:34:39 Member join: @CheckLogs#7362 (id 199564345095618561)
+2018-04-28 20:34:39 Member role add: 'User' role was added to @CheckLogs#7362
+2018-04-30 09:54:59 Role deleted: 'Discord Emoji' (id 440296603471839252)
+2018-04-30 09:54:59 Member leave: @Discord Emoji#2530 (id 336058853403787275)
+2018-04-30 09:55:22 Server name changed from Mods And Hugs to Mods & Hugs
+2018-04-30 09:55:28 Member join: @EmojiButler#0276 (id 415637632660537355)
+2018-04-30 09:55:28 Role created: 'EmojiButler' (id 440451112600993792)
+2018-04-30 09:55:28 Member role add: 'EmojiButler' role was added to @EmojiButler#0276
+2018-04-30 09:55:28 Member role add: 'EmojiButler' role was added to @EmojiButler#0276
+2018-04-30 09:55:28 Member role add: 'User' role was added to @EmojiButler#0276
+2018-04-30 09:55:37 Member role add: 'Bot' role was added to @EmojiButler#0276
+2018-04-30 10:19:17 Member role remove: The 'Host' role was removed from @Marcus#4044
+2018-04-30 12:05:38 Channel rename: drop-lobby-guide renamed to lobby-guide
+2018-04-30 12:05:38 Channel topic: drop-lobby-guide topic was set to ""
+2018-04-30 12:05:47 Channel rename: rules renamed to rules-and-faq
+2018-04-30 12:05:47 Channel topic: rules topic was set to ""
+2018-04-30 12:18:22 Member nickname: '@Afilamar#3570' (id 434277444195713025) changed nickname from '12528' to 'sc sevoinnor341'
+2018-04-30 12:26:46 Channel created: our-services
+2018-04-30 12:26:48 Channel position: our-services moved from 26 to 4
+2018-04-30 12:26:48 Channel position: lobby-guide moved from 4 to 5
+2018-04-30 12:26:48 Channel position: lobby-car moved from 5 to 6
+2018-04-30 12:26:48 Channel position: general moved from 6 to 7
+2018-04-30 12:26:48 Channel position: drop-lobby moved from 7 to 8
+2018-04-30 12:26:48 Channel position: bot-spam moved from 8 to 9
+2018-04-30 12:26:48 Channel position: foreign-chat moved from 9 to 10
+2018-04-30 12:26:48 Channel position: memes moved from 10 to 11
+2018-04-30 12:26:48 Channel position: nsfw moved from 11 to 12
+2018-04-30 12:26:48 Channel position: social-club moved from 12 to 13
+2018-04-30 12:26:48 Channel position: bot moved from 13 to 14
+2018-04-30 12:26:48 Channel position: name moved from 14 to 15
+2018-04-30 12:26:48 Channel position: logs moved from 15 to 16
+2018-04-30 12:26:48 Channel position: announcements moved from 16 to 17
+2018-04-30 12:26:48 Channel position: status moved from 17 to 18
+2018-04-30 12:26:48 Channel position: vouches moved from 18 to 19
+2018-04-30 12:26:48 Channel position: general moved from 19 to 20
+2018-04-30 12:26:48 Channel position: nsfw moved from 20 to 21
+2018-04-30 12:26:48 Channel position: hand-picked-memes moved from 21 to 22
+2018-04-30 12:26:48 Channel position: generated-memes moved from 22 to 23
+2018-04-30 12:26:48 Channel position: bot-spam moved from 23 to 24
+2018-04-30 12:26:48 Channel position: test moved from 24 to 25
+2018-04-30 12:26:48 Channel position: test2 moved from 25 to 26
+2018-04-30 12:26:57 Channel overwrites: our-services (440489188362551306): role @everyone (435702373701255174) updated to values 1, 68608 (was 66561, 2048)
+2018-04-30 12:39:05 Channel created: vouches-refers
+2018-04-30 12:39:08 Channel position: vouches-refers moved from 27 to 7
+2018-04-30 12:39:08 Channel position: general moved from 7 to 8
+2018-04-30 12:39:08 Channel position: drop-lobby moved from 8 to 9
+2018-04-30 12:39:08 Channel position: bot-spam moved from 9 to 10
+2018-04-30 12:39:08 Channel position: foreign-chat moved from 10 to 11
+2018-04-30 12:39:08 Channel position: memes moved from 11 to 12
+2018-04-30 12:39:08 Channel position: nsfw moved from 12 to 13
+2018-04-30 12:39:08 Channel position: social-club moved from 13 to 14
+2018-04-30 12:39:08 Channel position: bot moved from 14 to 15
+2018-04-30 12:39:08 Channel position: name moved from 15 to 16
+2018-04-30 12:39:08 Channel position: logs moved from 16 to 17
+2018-04-30 12:39:08 Channel position: announcements moved from 17 to 18
+2018-04-30 12:39:08 Channel position: status moved from 18 to 19
+2018-04-30 12:39:08 Channel position: vouches moved from 19 to 20
+2018-04-30 12:39:08 Channel position: general moved from 20 to 21
+2018-04-30 12:39:08 Channel position: nsfw moved from 21 to 22
+2018-04-30 12:39:08 Channel position: hand-picked-memes moved from 22 to 23
+2018-04-30 12:39:08 Channel position: generated-memes moved from 23 to 24
+2018-04-30 12:39:08 Channel position: bot-spam moved from 24 to 25
+2018-04-30 12:39:08 Channel position: test moved from 25 to 26
+2018-04-30 12:39:08 Channel position: test2 moved from 26 to 27
+2018-04-30 12:58:22 Channel deleted: faq
+2018-04-30 13:16:18 Channel position: lobby-guide moved from 5 to 3
+2018-04-30 13:16:18 Channel position: lobby-car moved from 6 to 4
+2018-04-30 13:16:18 Channel position: vouches-refers moved from 7 to 5
+2018-04-30 13:16:18 Channel position: general moved from 8 to 6
+2018-04-30 13:16:18 Channel position: drop-lobby moved from 9 to 7
+2018-04-30 13:16:18 Channel position: bot-spam moved from 10 to 8
+2018-04-30 13:16:18 Channel position: foreign-chat moved from 11 to 9
+2018-04-30 13:16:18 Channel position: memes moved from 12 to 10
+2018-04-30 13:16:18 Channel position: nsfw moved from 13 to 11
+2018-04-30 13:16:18 Channel position: social-club moved from 14 to 12
+2018-04-30 13:16:18 Channel position: bot moved from 15 to 13
+2018-04-30 13:18:56 Channel overwrites: our-services (440489188362551306): role @everyone (435702373701255174) updated to values 66561, 2048 (was 1, 68608)
+2018-04-30 13:19:48 Channel deleted: lobby-car
+2018-04-30 13:22:48 Channel topic: nsfw topic was set to ""
+2018-04-30 15:17:43 Member role add: 'frend' role was added to @chursly#5581
+2018-04-30 15:17:57 Member role add: 'User' role was added to @gempa34#3013
+2018-04-30 15:18:01 Member role add: 'User' role was added to @CheckLogs#9694
+2018-04-30 15:18:06 Member role add: 'User' role was added to @SC-HiddenSquid02#8846
+2018-04-30 17:03:34 Channel overwrites: bot (435705550668562443): role Moderator (435703050498211863) updated to values 1048576, 0 (was 1049600, 0)
+2018-04-30 17:04:05 Channel overwrites: name (435705498126385162): role Moderator (435703050498211863) updated to values 1024, 0 (was 0, 0)
+2018-04-30 17:04:05 Channel overwrites: admin (435705468023734272): role Moderator (435703050498211863) updated to values 1024, 0 (was 0, 0)
+2018-04-30 17:04:05 Channel overwrites: another name (435705529013370890): role Moderator (435703050498211863) updated to values 1024, 0 (was 0, 0)
+2018-04-30 17:04:05 Channel overwrites: logs (435705561422757888): role Moderator (435703050498211863) updated to values 1024, 0 (was 0, 0)
+2018-04-30 17:04:17 Channel overwrites: admin (435705468023734272): role Moderator (435703050498211863) updated to values 3072, 0 (was 1024, 0)
+2018-04-30 17:04:17 Channel overwrites: name (435705498126385162): role Moderator (435703050498211863) updated to values 3072, 0 (was 1024, 0)
+2018-04-30 17:04:18 Channel overwrites: another name (435705529013370890): role Moderator (435703050498211863) updated to values 3072, 0 (was 1024, 0)
+2018-04-30 17:04:18 Channel overwrites: logs (435705561422757888): role Moderator (435703050498211863) updated to values 3072, 0 (was 1024, 0)
+2018-04-30 17:04:18 Channel overwrites: admin (435705468023734272): role Moderating Artist (439789438776901632) updated to values 3072, 0 (was 0, 0)
+2018-04-30 17:04:18 Channel overwrites: name (435705498126385162): role Moderating Artist (439789438776901632) updated to values 3072, 0 (was 0, 0)
+2018-04-30 17:04:18 Channel overwrites: another name (435705529013370890): role Moderating Artist (439789438776901632) updated to values 3072, 0 (was 0, 0)
+2018-04-30 17:04:18 Channel overwrites: logs (435705561422757888): role Moderating Artist (439789438776901632) updated to values 3072, 0 (was 0, 0)
+2018-04-30 17:04:31 Channel overwrites: bot (435705550668562443): role A Very Nice Person (439294402955968513) added with values 0, 0
+2018-04-30 17:04:31 Channel overwrites: bot (435705550668562443): role Moderating Artist (439789438776901632) added with values 3072, 0
+2018-04-30 17:04:31 Channel overwrites: bot (435705550668562443): role Administrator (435702826103078924) updated to values 1049600, 0 (was 1117184, 0)
+2018-04-30 17:04:31 Channel overwrites: bot (435705550668562443): role Moderator (435703050498211863) updated to values 3072, 0 (was 1048576, 0)
+2018-04-30 17:04:46 Channel created: support
+2018-04-30 17:04:49 Channel position: name moved from 16 to 14
+2018-04-30 17:04:49 Channel position: logs moved from 17 to 15
+2018-04-30 17:04:49 Channel position: announcements moved from 18 to 16
+2018-04-30 17:04:49 Channel position: status moved from 19 to 17
+2018-04-30 17:04:49 Channel position: vouches moved from 20 to 18
+2018-04-30 17:04:49 Channel position: general moved from 21 to 19
+2018-04-30 17:04:49 Channel position: nsfw moved from 22 to 20
+2018-04-30 17:04:49 Channel position: hand-picked-memes moved from 23 to 21
+2018-04-30 17:04:49 Channel position: generated-memes moved from 24 to 22
+2018-04-30 17:04:49 Channel position: support moved from 28 to 23
+2018-04-30 17:04:49 Channel position: bot-spam moved from 25 to 24
+2018-04-30 17:04:49 Channel position: test moved from 26 to 25
+2018-04-30 17:04:49 Channel position: test2 moved from 27 to 26
+2018-04-30 17:04:57 Channel position: hand-picked-memes moved from 21 to 20
+2018-04-30 17:04:57 Channel position: generated-memes moved from 22 to 21
+2018-04-30 17:04:57 Channel position: support moved from 23 to 22
+2018-04-30 17:04:57 Channel position: nsfw moved from 20 to 23
+2018-04-30 17:05:04 Channel position: support moved from 22 to 21
+2018-04-30 17:05:04 Channel position: nsfw moved from 23 to 22
+2018-04-30 17:05:04 Channel position: generated-memes moved from 21 to 23
+2018-04-30 17:05:06 Channel position: support moved from 21 to 20
+2018-04-30 17:05:06 Channel position: nsfw moved from 22 to 21
+2018-04-30 17:05:06 Channel position: hand-picked-memes moved from 20 to 22
+2018-04-30 17:05:10 Channel position: vouches moved from 18 to 17
+2018-04-30 17:05:10 Channel position: status moved from 17 to 18
+2018-04-30 17:05:15 Channel position: status moved from 18 to 17
+2018-04-30 17:05:15 Channel position: vouches moved from 17 to 18
+2018-04-30 17:06:38 Member join: @josh189#9149 (id 440559527084163081)
+2018-04-30 17:06:38 Member role add: 'User' role was added to @josh189#9149
+2018-04-30 17:24:49 Role created: 'new role' (id 440564195700768769)
+2018-04-30 17:24:49 Role renamed: 'new role' to 'Punished'
+2018-04-30 17:24:49 Role permissions: 'new role' changed from 67177472 to 0
+2018-04-30 17:24:49 Role permissions: 'EmojiButler' changed from 1073794112 to 1074056256
+2018-04-30 17:24:49 Role position: 'EmojiButler' changed from 2 to 1
+2018-04-30 17:24:49 Role position: 'new role' changed from 3 to 2
+2018-04-30 17:24:49 Role position: 'User' changed from 4 to 3
+2018-04-30 17:24:49 Role position: 'Donator' changed from 5 to 4
+2018-04-30 17:24:49 Role position: 'Nice Donator' changed from 6 to 5
+2018-04-30 17:24:49 Role position: 'Very Nice Donator' changed from 7 to 6
+2018-04-30 17:24:49 Role position: 'Trial Host' changed from 8 to 7
+2018-04-30 17:24:49 Role position: 'Bot' changed from 9 to 8
+2018-04-30 17:24:49 Role position: 'frend' changed from 10 to 9
+2018-04-30 17:24:49 Role position: 'Host' changed from 11 to 10
+2018-04-30 17:24:49 Role position: 'Moderating Artist' changed from 12 to 11
+2018-04-30 17:24:49 Role position: 'Punished' changed from 1 to 14
+2018-04-30 17:24:50 Channel overwrites: another name (435705529013370890): role Punished (440564195700768769) added with values 0, 2097152
+2018-04-30 17:24:50 Channel overwrites: vouches-refers (440492289014628354): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:50 Channel overwrites: drop-lobby (439294186106257408): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:50 Channel overwrites: Queue (435705757527179284): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:50 Channel overwrites: Queue-II (435705892885889024): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:50 Channel overwrites: Lobby-I (435705942152183808): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:50 Channel overwrites: Lobby-II (435705980320481280): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:50 Channel overwrites: Quite General (435705213748248586): role Punished (440564195700768769) added with values 0, 2097152
+2018-04-30 17:24:50 Channel overwrites: Lobby-II (435705980320481280): role Punished (440564195700768769) updated to values 0, 2097152 (was 0, 0)
+2018-04-30 17:24:51 Channel overwrites: general (439831373839335435): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:51 Channel overwrites: memes (435705655958175746): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:51 Channel overwrites: Queue-I (435705846073393152): role Punished (440564195700768769) added with values 0, 2097152
+2018-04-30 17:24:51 Channel overwrites: admin (435705468023734272): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:51 Channel overwrites: name (435705498126385162): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:51 Channel overwrites: logs (435705561422757888): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:51 Channel overwrites: bot (435705550668562443): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:52 Channel overwrites: test2 (440247148760662033): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:52 Channel overwrites: rules-and-faq (435704936089780224): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:52 Channel overwrites: User Chat (435705109444296704): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:52 Channel overwrites: general (435705136879370251): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:52 Channel overwrites: bot-spam (435705164318638091): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:52 Channel overwrites: Very General (435705318928809984): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:52 Channel overwrites: foreign-chat (435705638404882444): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:52 Channel overwrites: nsfw (435705676497551361): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:52 Channel overwrites: News-Rules-FAQ (435704443263123457): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:52 Channel overwrites: announcements (435704592274292757): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:52 Channel overwrites: lobby-guide (439457015337844756): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:52 Channel overwrites: our-services (440489188362551306): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:52 Channel overwrites: bot (435705550668562443): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:52 Channel overwrites: name (435705498126385162): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:52 Channel overwrites: announcements (439831301500174345): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:53 Channel overwrites: lobby-guide (439457015337844756): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:53 Channel overwrites: nsfw (435705676497551361): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:53 Channel overwrites: test (440247091730579496): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:53 Channel overwrites: Very General (435705318928809984): role Punished (440564195700768769) updated to values 0, 2097152 (was 0, 0)
+2018-04-30 17:24:53 Channel overwrites: status (439831330088419330): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:54 Channel overwrites: foreign-chat (435705638404882444): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:54 Channel overwrites: social-club (439458719470714880): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:54 Channel overwrites: Lobby-I (435705942152183808): role Punished (440564195700768769) updated to values 0, 2097152 (was 0, 0)
+2018-04-30 17:24:54 Channel overwrites: general (435705136879370251): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:54 Channel overwrites: vouches (439831347725467658): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:54 Channel overwrites: bot-spam (435705164318638091): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:54 Channel overwrites: announcements (435704592274292757): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:54 Channel overwrites: welcome (439286546957467668): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:55 Channel overwrites: support (440559148241911808): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:55 Channel overwrites: Queue-II (435705892885889024): role Punished (440564195700768769) updated to values 0, 2097152 (was 0, 0)
+2018-04-30 17:24:55 Channel overwrites: our-services (440489188362551306): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:55 Channel overwrites: logs (435705561422757888): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:55 Channel overwrites: hand-picked-memes (439831585362149410): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:55 Channel overwrites: nsfw (439831557176426496): role Punished (440564195700768769) added with values 0, 6208
+2018-04-30 17:24:56 Channel overwrites: exo (439830733112999936): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:56 Channel overwrites: generated-memes (439831656069857281): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:56 Channel overwrites: bot-spam (439831680451215360): role Punished (440564195700768769) added with values 0, 0
+2018-04-30 17:24:56 Channel overwrites: bot-spam (439831680451215360): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:57 Channel overwrites: generated-memes (439831656069857281): role Punished (440564195700768769) updated to values 0, 6208 (was 0, 0)
+2018-04-30 17:24:57 Member role add: 'Punished' role was added to @A VERY LITTLE Polski#2954
+2018-04-30 17:25:09 Member role remove: The 'Punished' role was removed from @A VERY LITTLE Polski#2954
+2018-04-30 17:25:19 Role position: 'Punished' changed from 14 to 13
+2018-04-30 17:25:19 Role position: 'Moderator' changed from 13 to 14
+2018-04-30 18:52:06 Member join: @ali9666#9410 (id 235294993525243904)
+2018-04-30 18:52:07 Member role add: 'User' role was added to @ali9666#9410
+2018-04-30 19:12:04 Member nickname: '@ali9666#9410' (id 235294993525243904) changed nickname from 'None' to 'SC-CanadianDreamz'
+2018-04-30 19:17:13 Member join: @Fluxweed#6617 (id 377609182121295872)
+2018-04-30 19:17:14 Member role add: 'User' role was added to @Fluxweed#6617
+2018-04-30 19:32:53 Member join: @mrpeople#8479 (id 246640076409405441)
+2018-04-30 19:32:53 Member role add: 'User' role was added to @mrpeople#8479
+2018-04-30 19:41:18 Member join: @Jakessu#3375 (id 275162720490225664)
+2018-04-30 19:41:19 Member role add: 'User' role was added to @Jakessu#3375
+2018-04-30 19:46:58 Member nickname: '@Jakessu#3375' (id 275162720490225664) changed nickname from 'None' to 'SC  Jakessu'
+2018-04-30 19:57:04 Member join: @sprinterinoow#2881 (id 308714698919116800)
+2018-04-30 19:57:04 Member role add: 'User' role was added to @sprinterinoow#2881
+2018-04-30 19:57:16 Member leave: @sprinterinoow#2881 (id 308714698919116800)
+2018-04-30 20:01:47 Role color: 'Synapse' changed from #3498db to #e74c3c
+2018-04-30 21:20:50 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'oland is fucking retarded' to 'None'
+2018-04-30 21:31:51 Member join: @Kaoekin#1818 (id 282689521194106883)
+2018-04-30 21:31:51 Member role add: 'User' role was added to @Kaoekin#1818
+2018-04-30 21:33:34 Member leave: @Kaoekin#1818 (id 282689521194106883)
+2018-04-30 22:49:11 Member leave: @ali9666#9410 (id 235294993525243904)
+2018-04-30 23:07:00 Member role add: 'Donator' role was added to @Everous#9561
+2018-04-30 23:07:00 Member role remove: The 'Donator' role was removed from @Everous#9561
+2018-04-30 23:07:02 Member role add: 'Donator' role was added to @Everous#9561
+2018-04-30 23:07:03 Member role remove: The 'Donator' role was removed from @Everous#9561
+2018-04-30 23:07:04 Member role add: 'Nice Donator' role was added to @Everous#9561
+2018-04-30 23:07:05 Member role remove: The 'Nice Donator' role was removed from @Everous#9561
+2018-04-30 23:10:33 Member join: @Fish#9372 (id 311273212602482689)
+2018-04-30 23:10:34 Member role add: 'User' role was added to @Fish#9372
+2018-05-01 01:05:03 Member join: @Floyd#6714 (id 123837809348837376)
+2018-05-01 01:05:04 Member role add: 'User' role was added to @Floyd#6714
+2018-05-01 01:26:20 Member join: @Nachop328#4584 (id 346452978192089098)
+2018-05-01 01:26:20 Member role add: 'User' role was added to @Nachop328#4584
+2018-05-01 01:27:59 Member leave: @Nachop328#4584 (id 346452978192089098)
+2018-05-01 06:15:47 Member join: @Sasuke#8281 (id 196013896480456704)
+2018-05-01 06:15:47 Member role add: 'User' role was added to @Sasuke#8281
+2018-05-01 06:28:23 Member nickname: '@Sasuke#8281' (id 196013896480456704) changed nickname from 'None' to 'SC: donalduchiha'
+2018-05-01 09:39:07 Channel overwrites: bot (435705550668562443): member Synapse (435538622293344266) added with values 0, 2048
+2018-05-01 09:39:17 Channel overwrites: bot (435705550668562443): member Synapse (435538622293344266) removed (was 0, 2048)
+2018-05-01 09:46:55 Role color: 'Synapse' changed from #e74c3c to #d7342a
+2018-05-01 09:47:04 Role color: 'Synapse' changed from #d7342a to #e74c3c
+2018-05-01 09:47:12 Role color: 'Synapse' changed from #e74c3c to #d7342a
+2018-05-01 09:47:20 Role color: 'Synapse' changed from #d7342a to #970045
+2018-05-01 09:47:22 Role color: 'Synapse' changed from #970045 to #da004e
+2018-05-01 10:36:10 Member join: @Rythm#3722 (id 235088799074484224)
+2018-05-01 10:36:10 Member role add: 'User' role was added to @Rythm#3722
+2018-05-01 10:36:30 Member role add: 'Administrator' role was added to @Rythm#3722
+2018-05-01 10:36:30 Member role remove: The 'Administrator' role was removed from @Rythm#3722
+2018-05-01 10:36:32 Member role add: 'Bot' role was added to @Rythm#3722
+2018-05-01 10:37:07 Member join: @nobody#1413 (id 221906487688167425)
+2018-05-01 10:37:07 Member role add: 'User' role was added to @nobody#1413
+2018-05-01 10:38:03 Member nickname: '@nobody#1413' (id 221906487688167425) changed nickname from 'None' to 'SC SumppiFkDank'
+2018-05-01 10:38:07 Role position: 'Punished' changed from 13 to 12
+2018-05-01 10:38:07 Role position: 'Moderator' changed from 14 to 13
+2018-05-01 10:38:07 Role position: 'Developer' changed from 12 to 14
+2018-05-01 10:38:14 Role position: 'Punished' changed from 12 to 7
+2018-05-01 10:38:14 Role position: 'Trial Host' changed from 7 to 8
+2018-05-01 10:38:14 Role position: 'Bot' changed from 8 to 9
+2018-05-01 10:38:14 Role position: 'frend' changed from 9 to 10
+2018-05-01 10:38:14 Role position: 'Host' changed from 10 to 11
+2018-05-01 10:38:14 Role position: 'Moderating Artist' changed from 11 to 12
+2018-05-01 10:38:29 Role created: 'new role' (id 440824323918397442)
+2018-05-01 10:38:38 Role renamed: 'new role' to 'DJ'
+2018-05-01 10:38:41 Role position: 'EmojiButler' changed from 2 to 1
+2018-05-01 10:38:41 Role position: 'new role' changed from 3 to 2
+2018-05-01 10:38:41 Role position: 'User' changed from 4 to 3
+2018-05-01 10:38:41 Role position: 'Donator' changed from 5 to 4
+2018-05-01 10:38:41 Role position: 'Nice Donator' changed from 6 to 5
+2018-05-01 10:38:41 Role position: 'Very Nice Donator' changed from 7 to 6
+2018-05-01 10:38:41 Role position: 'Punished' changed from 8 to 7
+2018-05-01 10:38:41 Role position: 'Trial Host' changed from 9 to 8
+2018-05-01 10:38:41 Role position: 'Bot' changed from 10 to 9
+2018-05-01 10:38:41 Role position: 'frend' changed from 11 to 10
+2018-05-01 10:38:41 Role position: 'DJ' changed from 1 to 11
+2018-05-01 10:38:44 Role position: 'DJ' changed from 11 to 10
+2018-05-01 10:38:44 Role position: 'frend' changed from 10 to 11
+2018-05-01 10:38:48 Role color: 'DJ' changed from #000000 to #e91e63
+2018-05-01 10:39:16 Member join: @ulascan#4049 (id 293435183695396865)
+2018-05-01 10:39:16 Member role add: 'User' role was added to @ulascan#4049
+2018-05-01 10:39:50 Role renamed: 'DJ' to 'DJ boi'
+2018-05-01 10:39:53 Role mentionable: 'DJ boi' is now mentionable
+2018-05-01 10:39:53 Role hoist: 'DJ boi' is now shown seperately
+2018-05-01 10:39:58 Member join: @demix#1344 (id 148389865258614784)
+2018-05-01 10:40:00 Member role add: 'User' role was added to @demix#1344
+2018-05-01 10:40:24 Member role add: 'DJ boi' role was added to @SkayRock#8589
+2018-05-01 10:42:22 Member join: @Ricochet#6610 (id 199984819432587264)
+2018-05-01 10:42:29 Member role add: 'User' role was added to @Ricochet#6610
+2018-05-01 10:43:35 Member join: @Thomaz#1325 (id 260388917579087873)
+2018-05-01 10:43:35 Member role add: 'User' role was added to @Thomaz#1325
+2018-05-01 10:46:24 Member leave: @demix#1344 (id 148389865258614784)
+2018-05-01 10:50:41 Channel position: drop-lobby moved from 7 to 6
+2018-05-01 10:50:41 Channel position: general moved from 6 to 7
+2018-05-01 10:52:30 Member nickname: '@Thomaz#1325' (id 260388917579087873) changed nickname from 'None' to 'SC  _Thomaz_'
+2018-05-01 11:07:53 Channel deleted: News-Rules-FAQ
+2018-05-01 11:08:04 Channel overwrites: welcome (439286546957467668): role @everyone (435702373701255174) updated to values 1025, 2048 (was 1, 2048)
+2018-05-01 11:08:04 Channel overwrites: welcome (439286546957467668): role @everyone (435702373701255174) updated to values 66561, 2048 (was 1025, 2048)
+2018-05-01 11:08:21 Member nickname: '@Ricochet#6610' (id 199984819432587264) changed nickname from 'None' to 'SC - RiCoCHET12121'
+2018-05-01 11:08:33 Channel created: Misc
+2018-05-01 11:08:33 Channel overwrites: Misc (440831892044906499): role Punished (440564195700768769) added with values 0, 0
+2018-05-01 11:08:37 Channel position: User Chat moved from 1 to 0
+2018-05-01 11:08:37 Channel position: Queue moved from 2 to 1
+2018-05-01 11:08:37 Channel position: Misc moved from 5 to 2
+2018-05-01 11:08:40 Channel position: Misc moved from 2 to 1
+2018-05-01 11:08:40 Channel position: Queue moved from 1 to 2
+2018-05-01 11:08:47 Channel position: announcements moved from 1 to 0
+2018-05-01 11:08:47 Channel position: rules-and-faq moved from 2 to 1
+2018-05-01 11:08:47 Channel position: lobby-guide moved from 3 to 2
+2018-05-01 11:08:47 Channel position: our-services moved from 4 to 3
+2018-05-01 11:08:47 Channel position: vouches-refers moved from 5 to 4
+2018-05-01 11:08:47 Channel position: drop-lobby moved from 6 to 5
+2018-05-01 11:08:47 Channel position: general moved from 7 to 6
+2018-05-01 11:08:47 Channel position: bot-spam moved from 8 to 7
+2018-05-01 11:08:47 Channel position: foreign-chat moved from 9 to 8
+2018-05-01 11:08:47 Channel position: memes moved from 10 to 9
+2018-05-01 11:08:47 Channel position: nsfw moved from 11 to 10
+2018-05-01 11:08:47 Channel position: welcome moved from 0 to 11
+2018-05-01 11:08:52 Channel position: drop-lobby moved from 5 to 4
+2018-05-01 11:08:52 Channel position: general moved from 6 to 5
+2018-05-01 11:08:52 Channel position: bot-spam moved from 7 to 6
+2018-05-01 11:08:52 Channel position: foreign-chat moved from 8 to 7
+2018-05-01 11:08:52 Channel position: memes moved from 9 to 8
+2018-05-01 11:08:52 Channel position: nsfw moved from 10 to 9
+2018-05-01 11:08:52 Channel position: vouches-refers moved from 4 to 10
+2018-05-01 11:26:20 Member nickname: '@Thomaz#1325' (id 260388917579087873) changed nickname from 'SC  _Thomaz_' to 'SC -  _Thomaz_'
+2018-05-01 11:28:02 Member nickname: '@oland is gay#4684' (id 422752559569305600) changed nickname from 'None' to 'oland'
+2018-05-01 11:51:21 Member nickname: '@Ali6837#7204' (id 201387886023671808) changed nickname from 'None' to 'No u'
+2018-05-01 12:08:42 Member join: @-菌子_ｄｒｕｎｋ-#9074 (id 170868893278011393)
+2018-05-01 12:08:42 Member role add: 'User' role was added to @-菌子_ｄｒｕｎｋ-#9074
+2018-05-01 12:11:11 Member nickname: '@-菌子_ｄｒｕｎｋ-#9074' (id 170868893278011393) changed nickname from 'None' to 'SC - Seraphicalic'
+2018-05-01 12:22:52 Member username: '@SC-VilliSusi#4688' (id 209824962905636874) changed username from 'SC-VilliSusi' to 'Nahjus'
+2018-05-01 12:26:41 Member join: @Lowlight#8252 (id 353297249742094338)
+2018-05-01 12:26:41 Member role add: 'User' role was added to @Lowlight#8252
+2018-05-01 13:04:18 Member join: @samo please die#0816 (id 189048449923022858)
+2018-05-01 13:04:18 Member role add: 'User' role was added to @samo please die#0816
+2018-05-01 14:29:40 Member join: @isopodnigga#5355 (id 305847849512337421)
+2018-05-01 14:29:42 Member role add: 'User' role was added to @isopodnigga#5355
+2018-05-01 14:32:39 Member nickname: '@isopodnigga#5355' (id 305847849512337421) changed nickname from 'None' to 'SC - Andr3_w'
+2018-05-01 14:35:16 Channel created: paid-services
+2018-05-01 14:35:16 Channel overwrites: paid-services (440883909190877184): role Punished (440564195700768769) added with values 0, 6208
+2018-05-01 14:35:28 Member join: @HaPPeQ#0667 (id 236924448328908801)
+2018-05-01 14:35:28 Member role add: 'User' role was added to @HaPPeQ#0667
+2018-05-01 16:17:56 Member join: @LahePois#9947 (id 202139698519343111)
+2018-05-01 16:17:56 Member role add: 'User' role was added to @LahePois#9947
+2018-05-01 17:27:55 Member join: @Joy☘#4546 (id 137707316706410496)
+2018-05-01 17:27:55 Member role add: 'User' role was added to @Joy☘#4546
+2018-05-01 19:18:21 Member join: @Lenumator#9805 (id 397821008339402752)
+2018-05-01 19:18:21 Member role add: 'User' role was added to @Lenumator#9805
+2018-05-01 19:29:05 Member leave: @Rythm#3722 (id 235088799074484224)
+2018-05-01 20:49:02 Member join: @CJPoison#7392 (id 170723842224816129)
+2018-05-01 20:49:02 Member role add: 'User' role was added to @CJPoison#7392
+2018-05-01 20:50:34 Member leave: @CJPoison#7392 (id 170723842224816129)
+2018-05-01 21:43:18 Member join: @James#5996 (id 247346416614113281)
+2018-05-01 21:43:18 Member role add: 'User' role was added to @James#5996
+2018-05-02 02:06:39 Member join: @Dawglang#1496 (id 225009350572245002)
+2018-05-02 02:06:41 Member role add: 'User' role was added to @Dawglang#1496
+2018-05-02 02:44:19 Member join: @yan#8143 (id 250052946597773332)
+2018-05-02 02:44:19 Member role add: 'User' role was added to @yan#8143
+2018-05-02 04:39:14 Member join: @Katie#0810 (id 261234669192871936)
+2018-05-02 04:39:15 Member role add: 'User' role was added to @Katie#0810
+2018-05-02 06:01:25 Member leave: @Jerome#6448 (id 190958502406127616)
+2018-05-02 08:49:06 Channel deleted: our-services
+2018-05-02 08:49:15 Channel overwrites: paid-services (440883909190877184): role @everyone (435702373701255174) updated to values 1024, 0 (was 0, 1024)
+2018-05-02 08:49:16 Channel overwrites: paid-services (440883909190877184): role @everyone (435702373701255174) updated to values 1024, 2048 (was 1024, 0)
+2018-05-02 08:49:19 Channel overwrites: paid-services (440883909190877184): role @everyone (435702373701255174) updated to values 66560, 2048 (was 1024, 2048)
+2018-05-02 08:54:40 Channel created: rules
+2018-05-02 08:54:40 Channel overwrites: rules (441160587637030912): role Punished (440564195700768769) added with values 0, 6208
+2018-05-02 08:54:54 Channel overwrites: rules (441160587637030912): role @everyone (435702373701255174) added with values 0, 2048
+2018-05-02 08:54:54 Channel overwrites: rules (441160587637030912): role @everyone (435702373701255174) updated to values 0, 67584 (was 0, 2048)
+2018-05-02 08:54:57 Channel overwrites: rules (441160587637030912): role @everyone (435702373701255174) updated to values 65536, 2048 (was 0, 67584)
+2018-05-02 08:55:01 Channel overwrites: rules (441160587637030912): role @everyone (435702373701255174) updated to values 65536, 3072 (was 65536, 2048)
+2018-05-02 09:55:01 Role color: 'klaus' changed from #000000 to #e74c3c
+2018-05-02 09:55:07 Member role remove: The 'klaus' role was removed from @Klaus Ze Flammenwerfer#9999
+2018-05-02 09:55:07 Role deleted: 'klaus' (id 439838272596869120)
+2018-05-02 09:59:35 Channel deleted: rules-and-faq
+2018-05-02 09:59:43 Channel rename: rules renamed to rules-and-faq
+2018-05-02 09:59:43 Channel topic: rules topic was set to ""
+2018-05-02 09:59:59 Channel overwrites: rules-and-faq (441160587637030912): role @everyone (435702373701255174) updated to values 66560, 2048 (was 65536, 3072)
+2018-05-02 14:40:20 Member leave: @yohaluf#5378 (id 255736979650510848)
+2018-05-02 15:34:37 Member leave: @Dr.Krow#9280 (id 236992172858015744)
+2018-05-02 19:41:35 Member leave: @samo please die#0816 (id 189048449923022858)
+2018-05-02 20:20:09 Member nickname: '@Dawglang#1496' (id 225009350572245002) changed nickname from 'None' to 'SC-Damoetas'
+2018-05-02 20:28:59 Member join: @Reaper6261#1164 (id 324626571329536002)
+2018-05-02 20:28:59 Member role add: 'User' role was added to @Reaper6261#1164
+2018-05-02 20:34:14 Member role add: 'frend' role was added to @ulascan#4049
+2018-05-02 23:53:55 Member nickname: '@Sasuke#8281' (id 196013896480456704) changed nickname from 'SC: donalduchiha' to 'D'
+2018-05-03 02:02:53 Member username: '@Len_179#2604' (id 397086210738225153) changed username from 'Len_179' to 'LenSmith179'
+2018-05-03 07:01:07 Member role add: 'Administrator' role was added to @Klaus Ze Flammenwerfer#9999
+2018-05-03 07:01:41 Member role remove: The 'Administrator' role was removed from @Klaus Ze Flammenwerfer#9999
+2018-05-03 07:02:13 Member role add: 'User' role was added to @Klaus Ze Flammenwerfer#9999
+2018-05-03 07:02:29 Member role remove: The 'User' role was removed from @Klaus Ze Flammenwerfer#9999
+2018-05-03 07:20:49 Role mentionable: 'User' is now mentionable

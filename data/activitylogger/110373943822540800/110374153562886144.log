@@ -1,0 +1,830 @@
+2018-04-18 12:36:08 #development @NumerX#4587: hello
+2018-04-18 14:43:23 #development @Julia#7544: <:nitro:314068430611415041>
+2018-04-18 14:55:52 #development @FlamingCore#8440: @Wonder your website link for pokebot is broken
+2018-04-18 14:56:05 #development @FlamingCore#8440 deleted message from 2018-04-18 14:55:52 (@Wonder your website link for pokebot is broken)
+2018-04-18 16:35:40 #development @HoussemKeyCo#6770: How can I make a leveling system using python like Mee6 one?
+2018-04-18 16:36:29 #development @CHT#8214: Step 1: Set up a DB.\nStep 2: Code the framework that connects to said DB.\nStep 3: Make leveling system.
+2018-04-18 16:36:47 #development @HoussemKeyCo#6770: Done the first steps, doesn't know how to make the 3rd step
+2018-04-18 16:36:54 #development @HoussemKeyCo#6770 edited message from 2018-04-18 16:36:47 (Done the first steps, doesn't know how to make the 3rd step) to read: Done the first steps, don't know how to make the 3rd step
+2018-04-18 16:39:26 #development @CHT#8214: Leveling system steps(for step 3):\na. Decide on a value for each level.\nb. Decide on another value for each post.\nc. Make bot give value in b for each post.\nd. Check total value given against value for each level.\ne. If more, level up.
+2018-04-18 16:43:08 #development @HoussemKeyCo#6770: Tried this, but the message of leveling up keep appearing
+2018-04-18 16:43:11 #development @HoussemKeyCo#6770: after leveling up
+2018-04-18 16:43:19 #development @VitalKanev#2348: !noanime
+2018-04-18 16:43:21 #development @VitalKanev#2348 deleted message from 2018-04-18 16:43:19 (!noanime)
+2018-04-18 16:44:03 #development @CHT#8214: If the message keeps appearing, maybe make a variable that checks if the message for that level has already been given.
+2018-04-18 16:44:15 #development @CHT#8214: If yes, stop posting.
+2018-04-18 16:44:24 #development @CHT#8214: No, post then update variable.
+2018-04-18 17:14:49 #development @HoussemKeyCo#6770: OK
+2018-04-18 18:29:56 #development @DaveXxX😏😏#8349: ?cat
+2018-04-18 18:29:56 #development @Animal Kingdom#8485: **Random cat fact #26:** Cats have a longer term memory than dogs (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/436231928413159434/32.jpg)
+2018-04-18 18:31:57 #development @Zhopa#8650: @Jenki
+2018-04-18 19:46:34 #development @Maximus_V#4413: ?roll
+2018-04-18 19:46:34 #development @Cosmos#0369: **:game_die:  |  You rolled a 2!**
+2018-04-18 19:46:34 #development @Musika#1414: 
+2018-04-18 19:46:34 #development @The Tome of +1 Knowledge#5818: Don't do stupid stuff with the Roll command.
+2018-04-18 19:46:34 #development @Musika#1414 edited message from 2018-04-18 19:46:34 () to read: 
+2018-04-18 19:46:35 #development @BlackB1RD-BOT#1133: :game_die: | You rolled **1**
+2018-04-18 19:46:41 #development @Maximus_V#4413: .roll
+2018-04-18 19:46:41 #development @Rocky#2551: 
+2018-04-18 19:46:41 #development @Rocky#2551 edited message from 2018-04-18 19:46:41 () to read: 
+2018-04-18 19:46:41 #development @Yui#6589: Rolled dice with range of [1 - 6] and got: **2**
+2018-04-18 19:46:41 #development @SmileyBot#0842: 
+2018-04-18 19:46:41 #development @SmileyBot#0842 edited message from 2018-04-18 19:46:41 () to read: 
+2018-04-18 19:46:41 #development @BlackB1RD-BOT#1133: @Maximus_V, please wait **3.2** more second(s) before using the `roll` command again!
+2018-04-18 20:05:05 #development @helldjpro#4232: .roll
+2018-04-18 20:05:05 #development @Rocky#2551: 
+2018-04-18 20:05:05 #development @SmileyBot#0842: 
+2018-04-18 20:05:05 #development @Rocky#2551 edited message from 2018-04-18 20:05:05 () to read: 
+2018-04-18 20:05:05 #development @SmileyBot#0842 edited message from 2018-04-18 20:05:05 () to read: 
+2018-04-18 20:05:05 #development @Yui#6589: Rolled dice with range of [1 - 6] and got: **4**
+2018-04-18 20:05:05 #development @BlackB1RD-BOT#1133: :game_die: | You rolled **1**
+2018-04-18 20:08:58 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: !!ping
+2018-04-18 20:08:58 #development @AdvaithBot#2249: Pinging...
+2018-04-18 20:08:58 #development @AdvaithBot#2249 edited message from 2018-04-18 20:08:58 (Pinging...) to read: :ping_pong: Pong! Took **45**ms
+2018-04-18 20:08:58 #development @Spyke#0593: Pong! `1.00ms`
+2018-04-18 20:08:58 #development @deeBot#0996: WebSocket Ping: **51ms**
+2018-04-18 20:08:58 #development @HatBot#7181: Pong!
+2018-04-18 20:08:58 #development @PvPCraft#0625: Testing Ping
+2018-04-18 20:08:59 #development @Lucy#8225: 🔄 | Pinging...
+2018-04-18 20:08:59 #development @ServerHub#9109: 
+2018-04-18 20:08:59 #development @ServerHub#9109 edited message from 2018-04-18 20:08:59 () to read: 
+2018-04-18 20:08:59 #development @PvPCraft#0625 edited message from 2018-04-18 20:08:58 (Testing Ping) to read: Ping is `209.75867599993944`ms!
+2018-04-18 20:08:59 #development @Lucy#8225 edited message from 2018-04-18 20:08:59 (🔄 | Pinging...) to read: 
+2018-04-18 20:08:59 #development @Lucy#8225 edited message from 2018-04-18 20:08:59 () to read: 
+2018-04-18 20:09:04 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: .......
+2018-04-18 20:09:11 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: i see my prefix is used more than i thought
+2018-04-18 20:09:24 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: thats fun
+2018-04-18 20:09:31 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: !!dbstats switch
+2018-04-18 20:09:31 #development @Spyke#0593: 
+2018-04-18 20:09:32 #development @Spyke#0593 edited message from 2018-04-18 20:09:31 () to read: 
+2018-04-18 20:12:50 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: im afraid to do about in case all those other bots respond
+2018-04-18 20:43:58 #development @Chewey#1635: \!help
+2018-04-18 20:44:11 #development @Chewey#1635: it seems thats less used that i thought
+2018-04-18 20:51:01 #development @Googie2149#2149: `prune bots
+2018-04-18 20:51:01 #development @spoo.py(◡‿◡✿)#6138: Removed 21 messages\nMusika#1414: 1\ndeeBot#0996: 1\nBlackB1RD-BOT#1133: 3\nThe Tome of +1 Knowledge#5818: 1\nLucy#8225: 1\nAdvaithBot#2249: 1\nCosmos#0369: 1\nHatBot#7181: 1\nSmileyBot#0842: 2\nRocky#2551: 2\nYui#6589: 2\nPvPCraft#0625: 1\nSpyke#0593: 2\nServerHub#9109: 1\nAnimal Kingdom#8485: 1
+2018-04-18 20:51:33 #development @Googie2149#2149: @DAVeXxX😏😏#8349 @helldjpro @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ @Chewey Please use testing channels instead
+2018-04-18 20:51:38 #development @Googie2149#2149: ...................................
+2018-04-18 20:51:39 #development @Googie2149#2149: mobile pls
+2018-04-18 20:51:56 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: sorry
+2018-04-18 20:52:16 #development @Chewey#1635: wot?
+2018-04-18 20:52:24 #development @Chewey#1635: i didnt make any bots reply
+2018-04-18 20:52:36 #development @Chewey#1635: \!help
+2018-04-18 20:52:39 #development @Chewey#1635: does nothing
+2018-04-18 20:53:02 #development @Chewey#1635 deleted message from 2018-04-18 20:52:36 (\!help)
+2018-04-18 20:53:05 #development @Chewey#1635 deleted message from 2018-04-18 20:52:39 (does nothing)
+2018-04-18 21:01:48 #development @FlamingCore#8440: How do I create a thread to an async method in python?
+2018-04-18 21:01:54 #development @FlamingCore#8440: Can't find answers to that 🤔
+2018-04-18 21:24:56 #development @FlamingCore#8440: or rather, is there anything i can use to replace async to send messages?
+2018-04-18 21:44:13 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: uh
+2018-04-18 21:44:21 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: @FlamingCore
+2018-04-18 21:44:27 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: you either do async or threading
+2018-04-18 21:44:28 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: not both
+2018-04-18 21:44:37 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: (i think)
+2018-04-18 21:44:52 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: and as much as i understand, d.py requires async to function
+2018-04-18 21:44:56 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: so, no
+2018-04-18 21:45:38 #development @FlamingCore#8440: what if i want to do a daily task :?
+2018-04-18 21:45:53 #development @FlamingCore#8440: i cant think of a different way than using a thread
+2018-04-18 21:46:02 #development @FlamingCore#8440: although i gotta have async for discord.py
+2018-04-18 22:09:15 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: i have something for that
+2018-04-18 22:09:17 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: i use uh
+2018-04-18 22:09:40 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: http://apscheduler.readthedocs.io/en/latest/modules/schedulers/asyncio.html
+2018-04-18 22:09:41 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: here ya go
+2018-04-18 22:09:42 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: i use this
+2018-04-18 22:09:57 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: so then right before bot.run i have
+2018-04-18 22:10:00 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: ```\n    sched = AsyncIOScheduler(timezone='utc')\n    sched.add_job(post_gear,'cron',hour='0,2,4,6,8,10,12,14,16,18,20,22',minute='2')\n```
+2018-04-18 22:10:14 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: @FlamingCore
+2018-04-18 22:10:29 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: it lets you schedule things like cron which is fantastic
+2018-04-18 22:12:20 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: so my `sched.add_job` says "run post_gear at these times of the day"
+2018-04-18 22:12:23 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: basically
+2018-04-18 22:12:41 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: you can even get really specific with the time and date and stuff
+2018-04-18 22:12:51 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: like i needed one that runs on the last day of the moneth
+2018-04-18 22:13:06 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: so i did ```sched.add_job(scrub_x(500.0),'cron',hour='0',minute='00',day='last')```
+2018-04-18 22:13:17 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600 edited message from 2018-04-18 22:13:06 (so i did ```sched.add_job(scrub_x(500.0),'cron',hour='0',minute='00',day='last')```) to read: so i did ```sched.add_job(scrub_x,'cron',hour='0',minute='00',day='last')```
+2018-04-18 22:13:31 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: really nice and easy to use
+2018-04-18 22:25:12 #development @FlamingCore#8440: What's a cron?
+2018-04-18 22:26:58 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: `cron` is the linux task scheduler
+2018-04-18 22:27:16 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: and in the case of apscheduler, it makes use of cron (im pretty sure)
+2018-04-18 22:28:13 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: http://apscheduler.readthedocs.io/en/latest/userguide.html#choosing-the-right-scheduler-job-store-s-executor-s-and-trigger-s
+2018-04-18 22:28:24 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: riight there
+2018-04-18 22:28:29 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: https://a.uguu.se/ChK5LniTPnKB_chrome_2018-04-18_15-28-25.png
+2018-04-18 22:28:29 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600 edited message from 2018-04-18 22:28:29 (https://a.uguu.se/ChK5LniTPnKB_chrome_2018-04-18_15-28-25.png) to read: https://a.uguu.se/ChK5LniTPnKB_chrome_2018-04-18_15-28-25.png
+2018-04-18 22:34:53 #development @FlamingCore#8440: @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ do I need to async the method or will it count?
+2018-04-18 22:37:49 #development @「𝐭𝐚𝐤𝐨𝐭𝐬𝐮𝐛𝐨」ᴮᴼᵀ#2600: When you write your function to run on the scheduler it should be `async def` yes
+2018-04-18 22:40:17 #development @FlamingCore#8440: thx
+2018-04-19 07:10:00 #development @ProxyNeko#2818: Looking for some help with a ban event using Discord4J as I have done almost everything right so it seems bar the banned reason as when a user is banned the reason does not show even though one is given instead it shows the string in the code for when no reason is given so could someone help spot the issue and point me in the right direction \n\n```java\npublic class EventUserBanned {\n\n    @EventSubscriber\n    public void userBanned(UserBanEvent event) {\n        IChannel channel;\n        EmbedBuilder embed = new EmbedBuilder();\n        \n        String bannedBy = event.getGuild().getAuditLog(ActionType.MEMBER_BAN_ADD).getEntriesByTarget(event.getUser().getLongID()).get(0).getResponsibleUser().toString();\n        \n        String banReason = event.getGuild().getAuditLog(ActionType.MEMBER_BAN_ADD).getEntriesByTarget(event.getUser().getLongID()).get(0).getReason().orElseGet(() -> bannedBy + " gave no reason for banning " + event.getUser().mention());\n\n        channel = event.getGuild().getChannelByID(Long.parseLong(BotConfig.getConfig().getEventChannelIDUniversal()));\n\n        embed.withColor(Utils.RED);\n        embed.withTitle("__**User Banned**__");\n        embed.withThumbnail(event.getUser().getAvatarURL());\n        embed.appendField("**User:**", event.getUser().mention(), false);\n        embed.appendField("**Banned by:**", bannedBy, false);\n        embed.appendField("**Ban reason:**", banReason, false);\n        embed.withTimestamp(System.currentTimeMillis());\n        channel.sendMessage(embed.build());\n    }\n}\n```
+2018-04-19 08:12:38 #development @ProxyNeko#2818 edited message from 2018-04-19 07:10:00 (Looking for some help with a ban event using Discord4J as I have done almost everything right so it seems bar the banned reason as when a user is banned the reason does not show even though one is given instead it shows the string in the code for when no reason is given so could someone help spot the issue and point me in the right direction \n\n```java\npublic class EventUserBanned {\n\n    @EventSubscriber\n    public void userBanned(UserBanEvent event) {\n        IChannel channel;\n        EmbedBuilder embed = new EmbedBuilder();\n        \n        String bannedBy = event.getGuild().getAuditLog(ActionType.MEMBER_BAN_ADD).getEntriesByTarget(event.getUser().getLongID()).get(0).getResponsibleUser().toString();\n        \n        String banReason = event.getGuild().getAuditLog(ActionType.MEMBER_BAN_ADD).getEntriesByTarget(event.getUser().getLongID()).get(0).getReason().orElseGet(() -> bannedBy + " gave no reason for banning " + event.getUser().mention());\n\n        channel = event.getGuild().getChannelByID(Long.parseLong(BotConfig.getConfig().getEventChannelIDUniversal()));\n\n        embed.withColor(Utils.RED);\n        embed.withTitle("__**User Banned**__");\n        embed.withThumbnail(event.getUser().getAvatarURL());\n        embed.appendField("**User:**", event.getUser().mention(), false);\n        embed.appendField("**Banned by:**", bannedBy, false);\n        embed.appendField("**Ban reason:**", banReason, false);\n        embed.withTimestamp(System.currentTimeMillis());\n        channel.sendMessage(embed.build());\n    }\n}\n```) to read: Looking for some help with a ban event using Discord4J as I have done almost everything right so it seems bar the banned reason as when a user is banned the reason does not show even though one is given instead it shows the string in the code for when no reason is given so could someone help spot the issue and point me in the right direction \n\n```java\npublic class EventUserBanned {\n\n    @EventSubscriber\n    public void userBanned(UserBanEvent event) {\n        IChannel channel;\n        EmbedBuilder embed = new EmbedBuilder();\n        \n        String bannedBy = event.getGuild().getAuditLog(ActionType.MEMBER_BAN_ADD).getEntriesByTarget(event.getUser().getLongID()).get(0).getResponsibleUser().toString();\n        \n        String banReason = event.getGuild().getAuditLog(ActionType.MEMBER_BAN_ADD).getEntriesByTarget(event.getUser().getLongID()).get(0).getReason().orElseGet(() -> bannedBy + " gave no reason for banning " + event.getUser().mention());\n\n        channel = event.getGuild().getChannelByID(Long.parseLong(BotConfig.getConfig().getEventChannelIDUniversal()));\n\n        embed.withColor(Utils.RED);\n        embed.withTitle("__**User Banned**__");\n        embed.withThumbnail(event.getUser().getAvatarURL());\n        embed.appendField("**User:**", event.getUser().mention(), false);\n        embed.appendField("**Banned by:**", bannedBy, false);\n        embed.appendField("**Ban reason:**", banReason, false);\n        embed.withTimestamp(System.currentTimeMillis());\n        channel.sendMessage(embed.build());\n    }\n}\n```\nEdit: please ping me if you have any ideas/solutions as I am working today :/
+2018-04-19 08:56:07 #development @HoussemKeyCo#6770: In my leveling system, how can I add unlimited levels?
+2018-04-19 08:56:21 #development @HoussemKeyCo#6770: Like level 1, level 2, to infinity
+2018-04-19 13:09:36 #development @Throudin#4867: What do you mean? `level += 1`
+2018-04-19 13:28:55 #development @JohnKontos10 ACT IV eSports#5145: %roleme no nsfw
+2018-04-19 13:28:55 #development @Spectra#7794: <:spSuccess:314044652799918080> You have been given the role *No NSFW*
+2018-04-19 15:14:10 #development @FlamingCore#8440: Is there anyone here who tried using hastebin api with python?
+2018-04-19 15:20:06 #development @FlamingCore#8440: I got a problem that started suddenly today\nup untill now it worked perfectly but now when it reaches a certain row i get this error that crashes my entire script even after excepting\n```\nasync def hastebin(message, code:str):\n    async with aiohttp.ClientSession() as session:\n        async with session.post("https://hastebin.com/documents", data=code) as resp:\n            resp = await resp.json()\n            str_out =""\n            try:\n                str_out =   f"https://hastebin.com/{resp['key']} made by {message.author}"\n            except discord.Forbidden:\n                str_out =  f"https://hastebin.com/{resp['key']} made by {message.author} *Note: I would have deleted the original code but I lack the perms*"\n            return str_out\n\n@bot.event\nasync def on_message(message):\n    hastebin_stuff = await hastebin(message, out_str)\n```\nCan you help me out? (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/436546541541392404/unknown.png)
+2018-04-19 15:22:52 #development @FlamingCore#8440 edited message from 2018-04-19 15:20:06 (I got a problem that started suddenly today\nup untill now it worked perfectly but now when it reaches a certain row i get this error that crashes my entire script even after excepting\n```\nasync def hastebin(message, code:str):\n    async with aiohttp.ClientSession() as session:\n        async with session.post("https://hastebin.com/documents", data=code) as resp:\n            resp = await resp.json()\n            str_out =""\n            try:\n                str_out =   f"https://hastebin.com/{resp['key']} made by {message.author}"\n            except discord.Forbidden:\n                str_out =  f"https://hastebin.com/{resp['key']} made by {message.author} *Note: I would have deleted the original code but I lack the perms*"\n            return str_out\n\n@bot.event\nasync def on_message(message):\n    hastebin_stuff = await hastebin(message, out_str)\n```\nCan you help me out?) to read: I got a problem that started suddenly today\nup untill now it worked perfectly but now when it reaches a certain row i get this error that crashes my entire script even after excepting\n```\nasync def hastebin(message, code:str):\n    async with aiohttp.ClientSession() as session:\n        async with session.post("https://hastebin.com/documents", data=code) as resp: #problem in here\n            resp = await resp.json()\n            str_out =""\n            try:\n                str_out =   f"https://hastebin.com/{resp['key']} made by {message.author}"\n            except discord.Forbidden:\n                str_out =  f"https://hastebin.com/{resp['key']} made by {message.author} *Note: I would have deleted the original code but I lack the perms*"\n            return str_out\n\n@bot.event\nasync def on_message(message):\n    hastebin_stuff = await hastebin(message, out_str)\n```\nCan you help me out?
+2018-04-19 15:23:25 #development @FlamingCore#8440 edited message from 2018-04-19 15:20:06 (I got a problem that started suddenly today\nup untill now it worked perfectly but now when it reaches a certain row i get this error that crashes my entire script even after excepting\n```\nasync def hastebin(message, code:str):\n    async with aiohttp.ClientSession() as session:\n        async with session.post("https://hastebin.com/documents", data=code) as resp: #problem in here\n            resp = await resp.json()\n            str_out =""\n            try:\n                str_out =   f"https://hastebin.com/{resp['key']} made by {message.author}"\n            except discord.Forbidden:\n                str_out =  f"https://hastebin.com/{resp['key']} made by {message.author} *Note: I would have deleted the original code but I lack the perms*"\n            return str_out\n\n@bot.event\nasync def on_message(message):\n    hastebin_stuff = await hastebin(message, out_str)\n```\nCan you help me out?) to read: I got a problem that started suddenly today\nup untill now it worked perfectly but now when it reaches a certain row i get this error that crashes my entire script even after excepting\n```\nasync def hastebin(message, code:str):\n    async with aiohttp.ClientSession() as session:\n        async with session.post("https://hastebin.com/documents", data=code) as resp: #problem in here\n            resp = await resp.json()\n            str_out =""\n            try:\n                str_out =   f"https://hastebin.com/{resp['key']} made by {message.author}"\n            except discord.Forbidden:\n                str_out =  f"https://hastebin.com/{resp['key']} made by {message.author} *Note: I would have deleted the original code but I lack the perms*"\n            return str_out\n\n@bot.event\nasync def on_message(message):\n    hastebin_stuff = await hastebin(message, out_str)\n```\nCan you help me figure  out what happened?
+2018-04-19 15:36:28 #development @Murdertramp#1945: @mantaro hypersharding is the mantaro bot suppose to put icons next to those who have birthdays or do an announcement? Someone’s birthday is today and I don’t see a difference.
+2018-04-19 15:42:34 #development @Kodehawa#3457: it assigns roles
+2018-04-19 15:42:38 #development @Kodehawa#3457: if you have it setup
+2018-04-19 15:42:49 #development @Kodehawa#3457: and this is #development in dbots yes very good place to ask
+2018-04-19 17:43:26 #development @cry#2449: ```\nHoussemKeyCo - Today at 10:56 AM\nIn my leveling system, how can I add unlimited levels?\nLike level 1, level 2, to infinity\n```\n\nthere's no actual "infinite" in terms of numbers in programming
+2018-04-19 21:02:07 #development @ProxyNeko#2818: I had those kind of issues back early last year with Discord.js and I could never find the issue so I'm trying Discord4J for now but I might just put it down to disconnect crashes or something
+2018-04-19 21:02:13 #development @ProxyNeko#2818: That's my random guess
+2018-04-19 21:46:50 #development @Burnt#6490: @Krybskytten#8992 if you've played any valve games, it's hte button that opens console.
+2018-04-19 21:46:51 #development @jagbot#7305: @Krybskytten <:this:270416539025539073>
+2018-04-19 21:46:54 #development @Burnt#6490: this once `
+2018-04-19 21:46:59 #development @Burnt#6490 edited message from 2018-04-19 21:46:54 (this once `) to read: this one `
+2018-04-19 21:47:05 #development @Burnt#6490: it's to the left of the 1 key
+2018-04-19 21:47:07 #development @Burnt#6490: and on top of tab
+2018-04-19 21:47:17 #development @Burnt#6490: put it on either side of your word
+2018-04-19 21:47:25 #development @Burnt#6490: `and boom, there you go`
+2018-04-19 21:47:28 #development @Burnt#6490: http://prntscr.com/j7kjf1
+2018-04-19 21:47:29 #development @Burnt#6490 edited message from 2018-04-19 21:47:28 (http://prntscr.com/j7kjf1) to read: http://prntscr.com/j7kjf1
+2018-04-20 06:50:16 #development @XkijuX#6667: ```       removeId = removeList.slice(1);\n        console.log(removeId)\n        removeId = removeId.split(";");\n        console.log(removeId)``` why does this come undefined when removeList is ```;238312447411355648;310136864898154497;163372054610051072```
+2018-04-20 06:53:50 #development @duncte123#1245: seems to work fine for me https://im.going-g.host/NxitvW.png
+2018-04-20 06:53:50 #development @duncte123#1245 edited message from 2018-04-20 06:53:50 (seems to work fine for me https://im.going-g.host/NxitvW.png) to read: seems to work fine for me https://im.going-g.host/NxitvW.png
+2018-04-20 06:56:11 #development @XkijuX#6667: hmm then the problem might be this ```          var removeList = "";\n          var removeId = "";\n          \n          while(users.size > amounts[i])\n          {\n            removeId = users.randomKey()\n            users.delete(removeId); // Remove one random user.\n            // console.log(removeId);\n            removeList = removeList + ";" + removeId;\n            console.log(removeList);\n          }```
+2018-04-20 06:56:24 #development @XkijuX#6667: how do i make it change so it takes the values outside the loop
+2018-04-20 06:57:43 #development @duncte123#1245: add `console.log(removeList);` after the loop
+2018-04-20 06:57:47 #development @duncte123#1245: it should change them
+2018-04-20 06:58:14 #development @XkijuX#6667: i did
+2018-04-20 06:58:30 #development @XkijuX#6667: ```\n````
+2018-04-20 06:58:32 #development @duncte123#1245: you added it inside of the loop
+2018-04-20 06:58:34 #development @XkijuX#6667: just empty
+2018-04-20 06:58:49 #development @XkijuX#6667: ```            removeId = users.randomKey()\n            users.delete(removeId); // Remove one random user.\n            // console.log(removeId);\n            removeList = removeList + ";" + removeId;\n            console.log(removeList);\n          }\n            await client.channels.get(config.EndChannel).send("**These people reacted with " + classes[i] +":**\n" + reactions[i].users.map(s => '<@' + s.id + '>').join('\n'));\n        };\n        console.log(removeList)```
+2018-04-20 06:59:12 #development @duncte123#1245: I need more info from above the loop
+2018-04-20 06:59:35 #development @duncte123#1245: where are you getting `ammounts[i]` from for example
+2018-04-20 07:00:09 #development @XkijuX#6667: ```      var amounts = eventFile.events[endName].amount;```
+2018-04-20 07:00:20 #development @duncte123#1245: and what is `i`?
+2018-04-20 07:00:55 #development @XkijuX#6667: ```            "amount": [\n                "2",\n                "1"\n            ],```
+2018-04-20 07:01:28 #development @duncte123#1245: can you send the entire function on hastebin?
+2018-04-20 07:01:50 #development @duncte123#1245: because I can't do much with the snippets provided
+2018-04-20 07:02:04 #development @XkijuX#6667: https://hastebin.com/adunikodex.js
+2018-04-20 07:04:23 #development @duncte123#1245: I think that `users.size` is never bigger than `ammounts[i]`
+2018-04-20 07:04:49 #development @XkijuX#6667: thats correct
+2018-04-20 07:05:09 #development @XkijuX#6667: because there can only be X amount of users and therefore the other get in the leftovers
+2018-04-20 07:05:30 #development @duncte123#1245: that means that your while loop is never looping thus your `removeList` is never filled
+2018-04-20 07:06:45 #development @XkijuX#6667: its looping and removeList = ``;163372054610051072;310136864898154497;238312447411355648`` in this example
+2018-04-20 07:07:17 #development @duncte123#1245: wait
+2018-04-20 07:07:48 #development @duncte123#1245: you declared the `removeList` inside of the for loop and you try to access it outside of it
+2018-04-20 07:08:27 #development @duncte123#1245: move ```\nvar removeList = "";\nvar removeId = "";```\nunder ```var otherR = "";``` and try it again
+2018-04-20 07:08:53 #development @XkijuX#6667: ok
+2018-04-20 07:10:13 #development @XkijuX#6667: yea now it worked <:MarioFP:230102243951509504>
+2018-04-20 07:10:17 #development @XkijuX#6667: thanks
+2018-04-20 07:10:22 #development @XkijuX#6667 deleted message from 2018-04-20 07:02:04 (https://hastebin.com/adunikodex.js)
+2018-04-20 07:10:24 #development @duncte123#1245: you're welcome :)
+2018-04-20 17:04:26 #development @GamingBot#0372: Thank you for using **GamingBot**!
+2018-04-20 17:04:26 #development @GamingBot#0372 edited message from 2018-04-20 17:04:26 (Thank you for using **GamingBot**!) to read: Thank you for using **GamingBot**!
+2018-04-20 17:05:12 #development @duncte123#1245: pls pinghelpers pls remove <:this:270416539025539073>
+2018-04-20 17:05:13 #development @Erio Touwa#3819: Helper Autoping:\n**pls remove <:this:270416539025539073>**\n@ryvita (by **duncte123**#1245)
+2018-04-20 17:05:30 #development @ry00001#3487: %clean bots
+2018-04-20 17:05:31 #development @GamingBot#0372 deleted message from 2018-04-20 17:04:26 (Thank you for using **GamingBot**!)
+2018-04-20 17:05:31 #development @Erio Touwa#3819 deleted message from 2018-04-20 17:05:13 (Helper Autoping:\n**pls remove <:this:270416539025539073>**\n@ryvita (by **duncte123**#1245))
+2018-04-20 17:05:30 #development @Spectra#7794: 🚮 Cleaned **4** messages.
+2018-04-20 17:05:35 #development @duncte123#1245: ty
+2018-04-20 17:21:33 #development @llenn#2245: anyone know why I'd get a `DiscordAPIError: Missing Permission` while trying to use `client.ping` (using discord. js)
+2018-04-20 17:22:11 #development @Etzy#5281: Missing permission
+2018-04-20 17:22:57 #development @llenn#2245: ik that but why if its just getting API the bots ping
+2018-04-20 17:48:23 #development @1UP#6405: mine uses \ as a prefix
+2018-04-20 18:59:57 #development @GoodWIN#8479: https://discord.gg/EHQ2hfH
+2018-04-20 18:59:57 #development @Vortex#8540: @GoodWIN: Please do not post invite links here.
+2018-04-20 18:59:57 #development @GoodWIN#8479 deleted message from 2018-04-20 18:59:57 (https://discord.gg/EHQ2hfH)
+2018-04-20 20:27:40 #development @JÖH-2018#2974: !hi
+2018-04-21 00:01:33 #development @Hand Sanitizer。_Crispy#9738: ok
+2018-04-21 00:01:47 #development @Hand Sanitizer。_Crispy#9738: i'm stuck with 3 command groups
+2018-04-21 00:01:52 #development @Hand Sanitizer。_Crispy#9738: and i can't create a new one
+2018-04-21 00:01:54 #development @Savitar50#1938: Ok.
+2018-04-21 00:01:56 #development @Savitar50#1938: Umm
+2018-04-21 00:02:15 #development @Savitar50#1938: It the mod role won't work.
+2018-04-21 00:02:23 #development @Savitar50#1938: In some servers.
+2018-04-21 00:02:35 #development @Hand Sanitizer。_Crispy#9738: this is the code
+2018-04-21 00:02:41 #development @Hand Sanitizer。_Crispy#9738: ```javascript\n\nconst commando = require('discord.js-commando');\n\n\nclass SetModCommand extends commando.Command {\n    constructor(client){\n        super(client, {\n            name: 'setmod',\n            group: 'admin',\n            memberName: 'setmod',\n            description: 'Sets moderators.'\n        });\n    }\n    async run(message, args){\n        message.reply('SetMod called.');\n        message.reply(user.name+' is a mod!');\n        if(client.memberHasRole(message.author, '@Mod')\n        /*&& message.contains(user.name)*/){\n            message.reply(user.name+' is a mod!');\n            client.addMemberToRole(user, 'Mod');\n        }\n    }\n}\n\nmodule.exports = SetModCommand;```
+2018-04-21 00:02:50 #development @Hand Sanitizer。_Crispy#9738: i'm not sure how to do it
+2018-04-21 00:02:56 #development @Savitar50#1938: Ok.
+2018-04-21 00:03:02 #development @Hand Sanitizer。_Crispy#9738: it says that 'admin' is not a registered group
+2018-04-21 00:03:15 #development @Savitar50#1938: Commando isn't really my best this to work with but I will try.
+2018-04-21 00:03:26 #development @Hand Sanitizer。_Crispy#9738: thank you so much
+2018-04-21 00:03:30 #development @Savitar50#1938: np
+2018-04-21 00:03:36 #development @Hand Sanitizer。_Crispy#9738: also is there a better lib?
+2018-04-21 00:03:46 #development @Savitar50#1938: Depends what language.
+2018-04-21 00:03:58 #development @Savitar50#1938: What language are you using to script the bot?
+2018-04-21 00:04:00 #development @Hand Sanitizer。_Crispy#9738: js
+2018-04-21 00:04:06 #development @Savitar50#1938: node.js?
+2018-04-21 00:04:09 #development @Hand Sanitizer。_Crispy#9738: yea
+2018-04-21 00:04:23 #development @Savitar50#1938: I suggest eris.
+2018-04-21 00:04:34 #development @Savitar50#1938: But I also suggest Discord.js if you want me to help you.
+2018-04-21 00:04:43 #development @Savitar50#1938: Discord.js is my main lib.
+2018-04-21 00:04:46 #development @Hand Sanitizer。_Crispy#9738: ok
+2018-04-21 00:04:48 #development @Savitar50#1938: Eris is better.
+2018-04-21 00:05:09 #development @Savitar50#1938: It is just I don't know eris as good as Discord.js
+2018-04-21 00:05:22 #development @Hand Sanitizer。_Crispy#9738: can you help me in discord.js then
+2018-04-21 00:05:39 #development @Savitar50#1938: Yes.
+2018-04-21 00:05:57 #development @Savitar50#1938: But I don't suggest changing now for that bot.
+2018-04-21 00:06:06 #development @Savitar50#1938: You will have to start from scratch.
+2018-04-21 00:06:12 #development @Savitar50#1938: But I can help with that.
+2018-04-21 00:06:18 #development @Hand Sanitizer。_Crispy#9738: with commando?
+2018-04-21 00:06:21 #development @Savitar50#1938: No.
+2018-04-21 00:06:24 #development @Hand Sanitizer。_Crispy#9738: or with starting from scratch
+2018-04-21 00:06:44 #development @Savitar50#1938: Starting from sctratch.
+2018-04-21 00:06:53 #development @Savitar50#1938: scratch*
+2018-04-21 00:07:45 #development @Hand Sanitizer。_Crispy#9738: wait i have to go. I'll DM you when I'm back
+2018-04-21 00:09:29 #development @Savitar50#1938: Ok.
+2018-04-21 03:38:14 #development @Fallen#5149: @Hand Sanitizer。_Crispy, Each API library has its own advantages and disadvantages. Choose something that you're comfortable writing in and learn everything it has to offer before deciding you want to move on from that.
+2018-04-21 06:08:22 #development @Mangos#0096: ?searchname Help
+2018-04-21 06:08:32 #development @Mangos#0096: ?searchname AlexFlipnote
+2018-04-21 06:09:03 #development @Mangos#0096: ?searchname LoganDark
+2018-04-21 06:09:12 #development @Ovyerus#2211: what are you even trying to do
+2018-04-21 06:09:26 #development @Mangos#0096: to use a godamn command -_-
+2018-04-21 06:09:30 #development @Mangos#0096: ffs
+2018-04-21 06:09:37 #development @Ovyerus#2211: try #testing-[\] or #testing-^_`
+2018-04-21 06:09:39 #development @Mangos#0096: btw, love the name xD
+2018-04-21 06:09:49 #development @Mangos#0096: not working there... still trying tho
+2018-04-21 06:10:01 #development @Ovyerus#2211: maybe it doesnt exist
+2018-04-21 06:10:02 #development @Ovyerus#2211: ¯\_(ツ)_/¯
+2018-04-21 06:10:08 #development @Mangos#0096: lmao... saw that xD
+2018-04-21 06:10:15 #development @Mangos#0096: and yes.. it does mate :/
+2018-04-21 10:47:39 #development @delineate#6464: yeet brothers
+2018-04-21 14:40:41 #development @Kaito#6704: one chat witch anime
+2018-04-21 14:40:50 #development @Kaito#6704: please
+2018-04-21 17:19:05 #development @Pull Up#3763: https://gyazo.com/0b0f225b546f501771b6672c54f5f4ee
+2018-04-21 17:19:19 #development @jhmaster2000ا1337#4367: youre using the wrong token to login
+2018-04-21 17:19:20 #development @Pull Up#3763: Can some one help?
+2018-04-21 17:19:25 #development @Pull Up#3763: No no its
+2018-04-21 17:19:29 #development @Pull Up#3763: correct my token
+2018-04-21 17:19:52 #development @jhmaster2000ا1337#4367: does your token start with M or N?
+2018-04-21 17:20:05 #development @Pull Up#3763: N
+2018-04-21 17:20:23 #development @jhmaster2000ا1337#4367: well ok at least youre using a token instead of an id
+2018-04-21 17:20:34 #development @jhmaster2000ا1337#4367: where did you get the token from
+2018-04-21 17:20:39 #development @Pull Up#3763: Dev
+2018-04-21 17:20:40 #development @Pull Up#3763: Where
+2018-04-21 17:20:46 #development @Pull Up#3763: we always get our tokens from
+2018-04-21 17:21:27 #development @Pull Up#3763: Hold up let me mess with the settings
+2018-04-21 17:21:32 #development @jhmaster2000ا1337#4367: ok
+2018-04-21 17:22:04 #development @Pull Up#3763: THEIR
+2018-04-21 17:22:07 #development @Pull Up#3763: I GOT IT WORKING
+2018-04-21 17:22:08 #development @Pull Up#3763: Finnaly
+2018-04-21 17:22:47 #development @Pull Up#3763: @📦 thx m9
+2018-04-21 17:22:55 #development @Pull Up#3763: For helping me mess with my settings
+2018-04-21 17:23:22 #development @jhmaster2000ا1337#4367: <:GWfroggyPepoThumb:400751103223922689>
+2018-04-21 18:30:43 #development @Dream#4507: p!pokemon
+2018-04-21 18:30:47 #development @Dream#4507: fucks sakr
+2018-04-21 18:30:49 #development @Dream#4507: sake
+2018-04-21 18:31:15 #development @Dream#4507: <:calp:400152361647079424>
+2018-04-21 21:29:45 #development @Wulzahar#4384: hey
+2018-04-21 21:29:48 #development @Wulzahar#4384: how can i tag a role?
+2018-04-21 21:48:44 #development @jhmaster2000ا1337#4367: <@&roleid>
+2018-04-21 22:15:09 #development @nishi#0669: m
+2018-04-21 23:22:40 #development @Pull Up#3763: bot.guilds.get("437391270382534658").channels.get("437090611007455232").sendEmbed(embed2);
+2018-04-21 23:22:51 #development @Pull Up#3763: This code doesnt work i get this error
+2018-04-21 23:22:58 #development @Pull Up#3763: Cannot read property 'channels' of undefined
+2018-04-21 23:23:32 #development @Pull Up#3763: @📦 U know alot
+2018-04-21 23:23:36 #development @Pull Up#3763: Can u tell me whats wrong?
+2018-04-21 23:24:10 #development @jhmaster2000ا1337#4367: the bot is not able to get the channel you want from the ID 437391270382534658
+2018-04-21 23:24:16 #development @jhmaster2000ا1337#4367: I mean the guild
+2018-04-21 23:25:08 #development @Pull Up#3763: Here
+2018-04-21 23:25:14 #development @Pull Up#3763: Join my discord server
+2018-04-21 23:25:20 #development @Pull Up#3763: And u can help me from their
+2018-04-22 01:13:38 #development @Samrux#3980: Finished my shiny new leaderboard :sparkles: (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/437420685694861322/unknown.png)
+2018-04-22 01:14:44 #development @Samrux#3980: This image is dumb, let me clarify that it can take 0 to 2 arguments (for start and end) and it caps at displaying 20 at a time
+2018-04-22 01:19:28 #development @ilia17118#6674: Are there any tips for making a bot?
+2018-04-22 01:42:27 #development @duncte123#1245: @ilia17118 don't leak your token to git, you'd be surprised how much that happens
+2018-04-22 02:22:35 #development @Samrux#3980: and if you do leak it, change it
+2018-04-22 02:22:58 #development @Samrux#3980: ~~It can happen to the best of us~~
+2018-04-22 02:23:19 #development @Samrux#3980: ~~*sheds a tear of broken past*~~
+2018-04-22 02:23:32 #development @Samrux#3980 deleted message from 2018-04-22 02:23:19 (~~*sheds a tear of broken past*~~)
+2018-04-22 05:37:22 #development @! craftxbox#4738: c;eval cthis.cs.commands
+2018-04-22 05:37:22 #development @craftxbot#3271: Evaluating
+2018-04-22 05:37:22 #development @craftxbot#3271 edited message from 2018-04-22 05:37:22 (Evaluating) to read: ```[class java.util.HashMap] {test=test, testg=testg, penis=penis, 2fa=2fa, gay=gay}```
+2018-04-22 05:37:31 #development @! craftxbox#4738: penis
+2018-04-22 05:37:54 #development @! craftxbox#4738 deleted message from 2018-04-22 05:37:31 (penis)
+2018-04-22 05:37:55 #development @! craftxbox#4738 deleted message from 2018-04-22 05:37:22 (c;eval cthis.cs.commands)
+2018-04-22 05:37:57 #development @! craftxbox#4738: c;purge
+2018-04-22 05:37:57 #development @craftxbot#3271 deleted message from 2018-04-22 05:37:22 (```[class java.util.HashMap] {test=test, testg=testg, penis=penis, 2fa=2fa, gay=gay}```)
+2018-04-22 05:37:57 #development @craftxbot#3271: <:vpGreenTick:319191454331437058> Messages Purged.
+2018-04-22 05:37:58 #development @! craftxbox#4738 deleted message from 2018-04-22 05:37:57 (c;purge)
+2018-04-22 05:38:00 #development @craftxbot#3271 deleted message from 2018-04-22 05:37:57 (<:vpGreenTick:319191454331437058> Messages Purged.)
+2018-04-22 05:38:17 #development @! craftxbox#4738: penis
+2018-04-22 05:38:21 #development @! craftxbox#4738: k!pinghelpers
+2018-04-22 05:38:24 #development @! craftxbox#4738 deleted message from 2018-04-22 05:38:21 (k!pinghelpers)
+2018-04-22 05:38:34 #development @! craftxbox#4738: pls pinghelpers autoreact bot to penis
+2018-04-22 05:38:35 #development @Erio Touwa#3819: Helper Autoping:\n**autoreact bot to penis**\n@Nijino Yume on a VGA display (by **! craftxbox**#4738)
+2018-04-22 05:38:54 #development @! craftxbox#4738: @Moderation
+2018-04-22 05:38:55 #development @Moderation#9332: 
+2018-04-22 05:38:55 #development @Moderation#9332 edited message from 2018-04-22 05:38:55 () to read: 
+2018-04-22 05:39:04 #development @! craftxbox#4738: `upvote`
+2018-04-22 05:39:11 #development @Ovyerus#2211: lol
+2018-04-22 05:39:12 #development @TripingPC#2094: ;noreactions @Moderation reacts to "penis"
+2018-04-22 05:39:12 #development @Minitori#9464: Added `No Emoji/Reactions` to the following bot:\n**Moderation#9332**
+2018-04-22 07:57:45 #development @CircuitRCAY#3038: now I can breathe easily
+2018-04-22 12:22:05 #development @Mr.Legend#3846: @Minitori @Minitori @Minitori @Minitori
+2018-04-22 12:48:33 #development @Googie2149#2149: ...?
+2018-04-22 12:48:33 #development @MinimalBot#7605: 
+2018-04-22 12:48:48 #development @MinimalBot#7605 edited message from 2018-04-22 12:48:33 () to read: 
+2018-04-22 12:48:41 #development @Googie2149#2149: that's new
+2018-04-22 12:48:51 #development @Googie2149#2149: ;mute @MinimalBot responds to `...?`
+2018-04-22 12:48:51 #development @Minitori#9464: Added `Non-Testing Mute` to the following bot:\n**MinimalBot#7605**
+2018-04-22 13:41:42 #development @Eclipse#5372: ;help
+2018-04-22 13:41:42 #development @Velma#5707: 
+2018-04-22 13:41:42 #development @Sagiri#4034: @Eclipse, eu enviarei a ajuda no privado! 😉
+2018-04-22 13:41:42 #development @rikka-bot#2289: @Eclipse https://discordbots.org/bot/430482288053059584
+2018-04-22 13:41:42 #development @Yorha#5985: 
+2018-04-22 13:41:42 #development @Velma#5707 edited message from 2018-04-22 13:41:42 () to read: 
+2018-04-22 13:41:42 #development @Yorha#5985 edited message from 2018-04-22 13:41:42 () to read: 
+2018-04-22 13:41:42 #development @OKTO#5406: 
+2018-04-22 13:41:42 #development @AltDentifier#5594: 
+2018-04-22 13:41:43 #development @OKTO#5406 edited message from 2018-04-22 13:41:42 () to read: 
+2018-04-22 13:41:42 #development @n3bot#9054: **List of commands**\n```help - display list of commands\nprefix [prefix] - change prefix\nprice [coin] - display current price\ntop [#] - display top # coins\ncoin [coin] - display coin's info\nconvert [#] [coin1] [coin2] - convert # of coin1 to coin2\nglobal - view global market info```\n***Report bugs here\nhttps://github.com/n3onis/n3bot/issues/new***
+2018-04-22 13:41:43 #development @AltDentifier#5594 edited message from 2018-04-22 13:41:42 () to read: 
+2018-04-22 13:41:42 #development @Noob Bot#7383: 
+2018-04-22 13:41:43 #development @Noob Bot#7383 edited message from 2018-04-22 13:41:42 () to read: 
+2018-04-22 13:41:42 #development @electratipbot#8455: Currently the following commands are available: `;ping`, `;uptime`, `;tip`, `;soak`, `;rain`, `;active`, `;balance`, `;terms`, `;withdraw`, `;deposit`, `;support`, `;invite`
+2018-04-22 13:41:43 #development @AndeliaEN#6362: @Eclipse, Check your DMs !
+2018-04-22 13:41:49 #development @rikka-bot#2289 edited message from 2018-04-22 13:41:42 (@Eclipse https://discordbots.org/bot/430482288053059584) to read: @Eclipse https://discordbots.org/bot/430482288053059584
+2018-04-22 13:42:15 #development @Googie2149#2149: @Eclipse use testing channels
+2018-04-22 13:42:19 #development @Googie2149#2149: pls prune bots
+2018-04-22 13:42:20 #development @MinimalBot#7605 deleted message from 2018-04-22 12:48:33 ()
+2018-04-22 13:42:20 #development @Minitori#9464 deleted message from 2018-04-22 12:48:51 (Added `Non-Testing Mute` to the following bot:\n**MinimalBot#7605**)
+2018-04-22 13:42:20 #development @Velma#5707 deleted message from 2018-04-22 13:41:42 ()
+2018-04-22 13:42:20 #development @Sagiri#4034 deleted message from 2018-04-22 13:41:42 (@Eclipse, eu enviarei a ajuda no privado! 😉)
+2018-04-22 13:42:20 #development @rikka-bot#2289 deleted message from 2018-04-22 13:41:42 (@Eclipse https://discordbots.org/bot/430482288053059584)
+2018-04-22 13:42:20 #development @Yorha#5985 deleted message from 2018-04-22 13:41:42 ()
+2018-04-22 13:42:20 #development @OKTO#5406 deleted message from 2018-04-22 13:41:42 ()
+2018-04-22 13:42:20 #development @AltDentifier#5594 deleted message from 2018-04-22 13:41:42 ()
+2018-04-22 13:42:20 #development @n3bot#9054 deleted message from 2018-04-22 13:41:42 (**List of commands**\n```help - display list of commands\nprefix [prefix] - change prefix\nprice [coin] - display current price\ntop [#] - display top # coins\ncoin [coin] - display coin's info\nconvert [#] [coin1] [coin2] - convert # of coin1 to coin2\nglobal - view global market info```\n***Report bugs here\nhttps://github.com/n3onis/n3bot/issues/new***)
+2018-04-22 13:42:20 #development @Noob Bot#7383 deleted message from 2018-04-22 13:41:42 ()
+2018-04-22 13:42:20 #development @electratipbot#8455 deleted message from 2018-04-22 13:41:42 (Currently the following commands are available: `;ping`, `;uptime`, `;tip`, `;soak`, `;rain`, `;active`, `;balance`, `;terms`, `;withdraw`, `;deposit`, `;support`, `;invite`)
+2018-04-22 13:42:20 #development @AndeliaEN#6362 deleted message from 2018-04-22 13:41:43 (@Eclipse, Check your DMs !)
+2018-04-22 13:42:20 #development @spoo.py🍅 beta#0668: Removed 15 messages\nrikka-bot#2289: 1\nOKTO#5406: 1\nMinimalBot#7605: 1\nelectratipbot#8455: 1\nVelma#5707: 1\nModeration#9332: 1\nYorha#5985: 1\nAndeliaEN#6362: 1\nAltDentifier#5594: 1\nErio Touwa#3819: 1\nSagiri#4034: 1\nn3bot#9054: 1\nMinitori#9464: 2\nNoob Bot#7383: 1
+2018-04-22 13:42:34 #development @Eclipse#5372: ok
+2018-04-22 13:43:08 #development @Eclipse#5372: I just wanted to learn the commands @Minitori
+2018-04-22 13:43:22 #development @Googie2149#2149: Minitori doesn't really have a help command
+2018-04-22 13:43:27 #development @Googie2149#2149: only real public command it has is
+2018-04-22 13:43:28 #development @Googie2149#2149: ;blah
+2018-04-22 13:43:28 #development @Minitori#9464: Blah to you too, @box.
+2018-04-22 13:46:54 #development @Rafał#0777: siema
+2018-04-22 14:21:16 #development @Samrux#3980: neat
+2018-04-22 15:30:44 #development @Layso#1062: Is it okay to ask tutorials on here? I found some videos on youtube but they seem like copy of each other and wasn't explained enough things to enlighten me. Is there any newbie tutorials (for the Discord API not a whole programming language) for me to find?
+2018-04-22 15:31:21 #development @CHT#8214: Well, no vids.
+2018-04-22 15:31:36 #development @CHT#8214: You want info about the API itself, check the docs on Discord.
+2018-04-22 15:32:42 #development @Layso#1062: Good point, I'll start with that thanks
+2018-04-22 15:43:28 #development @Nom d'utilisateur#0819: Spam
+2018-04-22 15:43:30 #development @Nom d'utilisateur#0819: Spam
+2018-04-22 15:43:32 #development @Nom d'utilisateur#0819: Spam
+2018-04-22 15:43:32 #development @Nom d'utilisateur#0819 deleted message from 2018-04-22 15:43:32 (Spam)
+2018-04-22 15:43:33 #development @Nom d'utilisateur#0819: Spam
+2018-04-22 15:43:34 #development @Nom d'utilisateur#0819 deleted message from 2018-04-22 15:43:28 (Spam)
+2018-04-22 15:43:33 #development @Vortex#8540: @𛲢*JESUISQUEMIGO*: Please stop spamming. Your messages have been removed.
+2018-04-22 15:43:34 #development @Nom d'utilisateur#0819 deleted message from 2018-04-22 15:43:30 (Spam)
+2018-04-22 15:43:34 #development @Nom d'utilisateur#0819 deleted message from 2018-04-22 15:43:33 (Spam)
+2018-04-22 15:43:35 #development @Nom d'utilisateur#0819: Spam
+2018-04-22 15:43:35 #development @Nom d'utilisateur#0819 deleted message from 2018-04-22 15:43:35 (Spam)
+2018-04-22 15:46:06 #development @Gleeny#7008: How can I integrate the API in my bot? Anyone give me examples?
+2018-04-22 16:02:31 #development @GeorgeKillerTop#2638: can add my bot here plase?
+2018-04-22 16:02:50 #development @GeorgeKillerTop#2638: https://discordapp.com/oauth2/authorize?client_id=422080381299326986&permissions=0&scope=bot
+2018-04-22 16:02:51 #development @GeorgeKillerTop#2638 edited message from 2018-04-22 16:02:50 (https://discordapp.com/oauth2/authorize?client_id=422080381299326986&permissions=0&scope=bot) to read: https://discordapp.com/oauth2/authorize?client_id=422080381299326986&permissions=0&scope=bot
+2018-04-22 16:11:37 #development @Juurkeel#3622: hello, someone know how to save the bot token in an other file? I try this but that say "Improper token has been passed." (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/437646670684225536/Bot_python_token.PNG)
+2018-04-22 16:12:25 #development @Juurkeel#3622: The token is save as Token:"MyToken" in the file
+2018-04-22 17:09:56 #development @ProFortnite2018YTB Pro#5858: @Juurkeel#3622
+2018-04-22 17:09:56 #development @jagbot#7305: @Juurkeel <:this:270416539025539073>
+2018-04-22 17:10:04 #development @ProFortnite2018YTB Pro#5858: This is incorrect
+2018-04-22 17:10:28 #development @ProFortnite2018YTB Pro#5858: The token not run
+2018-04-22 17:11:20 #development @ProFortnite2018YTB Pro#5858: You do actives the Root Files and you authorized at files mon_ficher.tkt
+2018-04-22 17:27:33 #development @Juurkeel#3622: How can i authorize mon_fichier.txt?
+2018-04-22 17:45:11 #development @Throudin#4867: Might I suggest using ConfigParser instead of making your own from scratch: https://docs.python.org/3/library/configparser.html
+2018-04-22 17:59:40 #development @Juurkeel#3622: Thanks I try this
+2018-04-22 18:03:18 #development @Optimus AGAR_YT#5284: igonna
+2018-04-22 18:03:22 #development @Optimus AGAR_YT#5284: he;lo
+2018-04-22 18:03:23 #development @Optimus AGAR_YT#5284: sjjs
+2018-04-22 18:03:23 #development @Optimus AGAR_YT#5284: sjjs
+2018-04-22 18:16:11 #development @Juurkeel#3622: That don't solvemy problem
+2018-04-22 18:23:18 #development @Juurkeel#3622: ah, yes, it works now, i don't know why
+2018-04-22 23:23:13 #development @ipadpuppydogdude1#3562: Is there any bot developer out there that has case mod logging? if so, can I get some github respoitory or a basic code of how to use it?
+2018-04-22 23:29:26 #development @droopy🍡#9762: @ipadpuppydogdude1 blargbot
+2018-04-22 23:29:33 #development @droopy🍡#9762: b!info
+2018-04-22 23:29:33 #development @Blitzcrank Bot#6141: A simple bot in it's second iteration for League of Legends summoner look ups. Written using discord.py by Frosty ☃#5263.
+2018-04-22 23:29:33 #development @Blob#0428: 
+2018-04-22 23:29:33 #development @Blob#0428 edited message from 2018-04-22 23:29:33 () to read: 
+2018-04-22 23:29:34 #development @blargbot#0128: blargbot is a multipurpose bot with new features implemented regularly, written in javascript using Eris.\n\n:birthday: I am currently 2 years, 6 months, 8 days, 19 hours, 29 minutes, and 33 seconds old!\n\n:heart: __**Special thanks to my patrons!**__ :heart:\n** - Nex\n - zhaey#5375\n - Titansmasher#0001\n - Dee#0314\n - Petruslol#0001\n - AssumedQui#3808\n - droopy🍡#0567\n - Mel and Aaron#8097\n - Aviivix#2695**\n\n:heart: __**Special thanks to all my other donators!**__ :heart:\n** - Terminator966#0966\n - Saederup92#2901\n - HunteRoi#1469**\n\nSpecial huge thanks to the awesome **Titansmasher#0001** for massive contributions to the BBTag system! :tada:\n\nAdditional credits to Aurieh#0258! :thumbsup:\n\nFor commands, do `help`. For information about supporting me, do `donate`. For any additional information, such as command documentation, please visit my website: <https://blargbot.xyz>
+2018-04-22 23:29:39 #development @droopy🍡#9762: Nice
+2018-04-22 23:29:49 #development @droopy🍡#9762: Anyway you can look at that link^
+2018-04-22 23:30:32 #development @droopy🍡#9762: @ipadpuppydogdude1 https://github.com/Ratismal/blargbot/
+2018-04-22 23:30:33 #development @droopy🍡#9762 edited message from 2018-04-22 23:30:32 (@ipadpuppydogdude1 https://github.com/Ratismal/blargbot/) to read: @ipadpuppydogdude1 https://github.com/Ratismal/blargbot/
+2018-04-22 23:36:40 #development @ipadpuppydogdude1#3562: thats eris
+2018-04-22 23:36:40 #development @ipadpuppydogdude1#3562: not js
+2018-04-22 23:37:56 #development @Adam#8596: 🤦 Eris is a node.js lib
+2018-04-22 23:57:14 #development @droopy🍡#0567: ^
+2018-04-23 00:17:21 #development @! ✖  Jи[α]вy♪,🎻🍷,#7800: de!help
+2018-04-23 00:17:21 #development @Discord Emoji#2530: :mailbox_with_mail: Check your DMs.
+2018-04-23 00:19:16 #development @! ✖  Jи[α]вy♪,🎻🍷,#7800: de!invite
+2018-04-23 00:19:16 #development @Discord Emoji#2530: Invite the bot here! https://discordapp.com/oauth2/authorize?client_id=336058853403787275&scope=bot&permissions=1073761280
+2018-04-23 00:19:17 #development @Discord Emoji#2530 edited message from 2018-04-23 00:19:16 (Invite the bot here! https://discordapp.com/oauth2/authorize?client_id=336058853403787275&scope=bot&permissions=1073761280) to read: Invite the bot here! https://discordapp.com/oauth2/authorize?client_id=336058853403787275&scope=bot&permissions=1073761280
+2018-04-23 07:57:07 #development @LWTech#0005: k!pingmods Commands in dev channel
+2018-04-23 07:57:07 #development @Kitchen Sink#6569: Mod Autoping: \n**Commands in dev channel **\n@Sarah Fletcher (by **LWTech**)
+2018-04-23 08:17:28 #development @Roadcrosser#3657: pls purge bots
+2018-04-23 08:17:28 #development @LWTech#0005 deleted message from 2018-04-23 07:57:07 (k!pingmods Commands in dev channel)
+2018-04-23 08:17:28 #development @Kitchen Sink#6569 deleted message from 2018-04-23 07:57:07 (Mod Autoping: \n**Commands in dev channel **\n@Sarah Fletcher (by **LWTech**))
+2018-04-23 08:17:28 #development @Roadcrosser#3657 deleted message from 2018-04-23 08:17:28 (pls purge bots)
+2018-04-23 08:17:28 #development @Kitchen Sink#6569: \🚮 `14`
+2018-04-23 08:17:33 #development @Kitchen Sink#6569 deleted message from 2018-04-23 08:17:28 (\🚮 `14`)
+2018-04-23 12:14:52 #development @ProFortnite2018YTB Pro#5858: I have a problem with my bot
+2018-04-23 12:17:02 #development @ProFortnite2018YTB Pro#5858: Bot problem
+2018-04-23 12:18:10 #development @ProFortnite2018YTB Pro#5858: This is the bot HatBot
+2018-04-23 12:18:22 #development @ProFortnite2018YTB Pro#5858: I talk with us for later
+2018-04-23 12:19:51 #development @Ovyerus#2211: ...wat
+2018-04-23 12:25:14 #development @cry#2449: ``I talk with us for later``\n\ntime travelling?\n\nHEY WHATS UP YOU GUYS WELCOME TO ANOTHER CONSPIRACY THEORY VIDEO
+2018-04-23 12:55:38 #development @Even | Just King#9999: <
+2018-04-23 19:23:36 #development @Noah#0004: Hey! I need help transferring my bot over to my VPS on Vultr. Please pm me if you can help
+2018-04-23 22:57:57 #development @NORA✦#6361: .
+2018-04-23 22:58:29 #development @NORA✦#6361: @​here
+2018-04-23 22:58:45 #development @NORA✦#6361 deleted message from 2018-04-23 22:58:29 (@​here)
+2018-04-23 22:58:54 #development @NORA✦#6361: @BOT
+2018-04-23 22:59:01 #development @NORA✦#6361 deleted message from 2018-04-23 22:58:54 (@BOT)
+2018-04-23 23:39:54 #development @михаил#8480: so I did the thingy and my bot will join this server or?
+2018-04-24 02:44:25 #development @PassTheMayo#1281: Or don't use Vultr
+2018-04-24 03:34:29 #development @Box Of Fox#1418: ...
+2018-04-24 03:34:34 #development @Box Of Fox#1418: 2...
+2018-04-24 03:38:48 #development @void#0038: loool
+2018-04-24 05:46:58 #development @Box Of Fox#1418: just finished the first ver of Question bot
+2018-04-24 05:47:05 #development @Box Of Fox#1418: ....
+2018-04-24 05:53:01 #development @Ovyerus#2211: ok
+2018-04-24 06:57:11 #development @8763457653469iq#5823: @Ninja
+2018-04-24 06:57:21 #development @8763457653469iq#5823 deleted message from 2018-04-24 06:57:11 (@Ninja)
+2018-04-24 07:28:09 #development @Superswaagerbros#9044: What?
+2018-04-24 11:00:00 #development @Tzelon#7541: Hey, I'm trying to add my bot, but I get an error saying "428123999172689921 is not in the Discord Bots server" \nWhat should I do ?
+2018-04-24 11:08:43 #development @1024x2#1337: are you trying to add a owner that isn't in this server
+2018-04-24 11:11:36 #development @Tzelon#7541: @node-box Yes, my mistake
+2018-04-24 11:11:54 #development @1024x2#1337: well give them an invite link and then try again
+2018-04-24 11:15:30 #development @Tzelon#7541: Got it, thank you
+2018-04-24 22:32:15 #development @Jose Craft [YT]#6660: whuwr ftes
+2018-04-24 22:32:40 #development @Jose Craft [YT]#6660: bi fla yo bots
+2018-04-24 22:32:41 #development @Kaiju#9622: yo
+2018-04-24 22:32:44 #development @Kaiju#9622: hai
+2018-04-24 22:33:05 #development @Kaiju#9622: i wanna make a bot but i need help
+2018-04-24 22:33:41 #development @Jose Craft [YT]#6660: dsadf ys fd
+2018-04-24 22:34:05 #development @Kaiju#9622: um
+2018-04-24 22:34:33 #development @Kaiju#9622: uh what that stand for again
+2018-04-24 22:38:21 #development @Kaiju#9622: *sigh*
+2018-04-24 22:44:48 #development @Optimus AGAR_YT#5284: Shut
+2018-04-24 22:44:54 #development @Optimus AGAR_YT#5284: Heolo
+2018-04-24 22:44:59 #development @Optimus AGAR_YT#5284: Hele
+2018-04-24 22:45:02 #development @Optimus AGAR_YT#5284: Hello
+2018-04-24 22:45:10 #development @Optimus AGAR_YT#5284: Bots
+2018-04-24 22:45:14 #development @Optimus AGAR_YT#5284: !help
+2018-04-24 22:47:47 #development @Optimus AGAR_YT#5284: OMF
+2018-04-24 23:46:04 #development @Kashall#1307: Ok so seriously, someone tell me if y'all want me to send shard info and all of the shards total guild count or just send it based per shard?
+2018-04-24 23:46:24 #development @Kashall#1307: Because right now my shard count is double what it really is.
+2018-04-24 23:59:50 #development @Luke#6723: do what ever works
+2018-04-24 23:59:59 #development @Xamtheking#2099: you can add a note in descc
+2018-04-25 01:18:47 #development @stupid cat#8160: @[former dbl native] Circuit are you sending the request with forms or json
+2018-04-25 01:18:51 #development @stupid cat#8160: because the api will only accept json
+2018-04-25 01:18:55 #development @CircuitRCAY#3038: json
+2018-04-25 01:19:05 #development @stupid cat#8160: can you post the code again
+2018-04-25 01:19:09 #development @CircuitRCAY#3038: http://cdn.circuitrcay.me/1RRRMCS4VA5TU3IBUJO4.png
+2018-04-25 01:19:10 #development @CircuitRCAY#3038 edited message from 2018-04-25 01:19:09 (http://cdn.circuitrcay.me/1RRRMCS4VA5TU3IBUJO4.png) to read: http://cdn.circuitrcay.me/1RRRMCS4VA5TU3IBUJO4.png
+2018-04-25 01:19:12 #development @stupid cat#8160: dont ask in dapi since this has nothing to do with dapi
+2018-04-25 01:19:18 #development @Inferno™#7296: __***Battle Royale Community!***__\n__*-Includes RoS, Fortnite,Critical Ops, PubG,\n and Immortals Area news/updates!!\nmake sure to join and don't miss anything!*\n*It is all ok if you don't play or interested in any of these\ngames but you can still join us as community and chill!*__\n__*Help us reach 800 members as we have 700+!!*__\n__Here is our link:__ https://discord.gg/j3qkV2U
+2018-04-25 01:19:19 #development @Inferno™#7296 deleted message from 2018-04-25 01:19:18 (__***Battle Royale Community!***__\n__*-Includes RoS, Fortnite,Critical Ops, PubG,\n and Immortals Area news/updates!!\nmake sure to join and don't miss anything!*\n*It is all ok if you don't play or interested in any of these\ngames but you can still join us as community and chill!*__\n__*Help us reach 800 members as we have 700+!!*__\n__Here is our link:__ https://discord.gg/j3qkV2U)
+2018-04-25 01:19:24 #development @CircuitRCAY#3038: yeah, wasn't going to
+2018-04-25 01:19:48 #development @perryprog#9657: @a feline surprise the d.py channel is usually fine with going off topic for that sorta thing
+2018-04-25 01:19:53 #development @perryprog#9657: as long as it's bot related
+2018-04-25 01:19:53 #development @stupid cat#8160: b!logs 10
+2018-04-25 01:19:53 #development @blargbot#0128: Generating your logs...
+2018-04-25 01:19:54 #development @blargbot#0128 edited message from 2018-04-25 01:19:53 (Generating your logs...) to read: Your logs are available here: https://blargbot.xyz/logs/#1524619193996
+2018-04-25 01:19:57 #development @perryprog#9657 edited message from 2018-04-25 01:19:53 (as long as it's bot related) to read: as long as it's bot and python related
+2018-04-25 01:20:08 #development @stupid cat#8160: nice
+2018-04-25 01:20:14 #development @perryprog#9657: heh
+2018-04-25 01:20:15 #development @perryprog#9657: nice one
+2018-04-25 01:20:20 #development @stupid cat#8160: the reactor was the same as the advertiser
+2018-04-25 01:20:25 #development @stupid cat#8160 edited message from 2018-04-25 01:20:20 (the reactor was the same as the advertiser) to read: the reacter was the same as the advertiser
+2018-04-25 01:20:51 #development @stupid cat#8160: @[former dbl native] Circuit are you *absolutely sure* that you're posting json
+2018-04-25 01:20:56 #development @perryprog#9657: oh
+2018-04-25 01:20:56 #development @stupid cat#8160: since nothing is being specified there
+2018-04-25 01:20:57 #development @perryprog#9657: that's not json
+2018-04-25 01:21:02 #development @perryprog#9657: do `json=body`
+2018-04-25 01:21:09 #development @perryprog#9657: instead of `data=body`
+2018-04-25 01:21:09 #development @stupid cat#8160: <a:eyesGlance_cat:395764357398528000>
+2018-04-25 01:21:43 #development @Dreams#0001: ```py\n async with aiohttp.ClientSession() as session:\n            payload = {'server_count': len(bot.guilds)}\n            header_two = {'Content-Type': 'application/json', 'Authorization': ''}\n            await session.post(f'https://bots.discord.pw/api/bots/{bot.user.id}/stats', json=payload, headers=header_two)\n            await asyncio.sleep(1800) \n```
+2018-04-25 01:21:59 #development @Dreams#0001: this should work if i wrote it correctly
+2018-04-25 01:22:00 #development @stupid cat#8160: thonk
+2018-04-25 01:22:01 #development @perryprog#9657: you could just share a session on your bot instance
+2018-04-25 01:22:04 #development @stupid cat#8160: are you posting on a timer
+2018-04-25 01:22:10 #development @Dreams#0001: ever 30 minutes
+2018-04-25 01:22:17 #development @Dreams#0001 edited message from 2018-04-25 01:22:10 (ever 30 minutes) to read: every 30 minutes
+2018-04-25 01:22:18 #development @perryprog#9657: don't create a new session every 30 minutes
+2018-04-25 01:22:30 #development @perryprog#9657: create one, and put it on `ctx` or the bot instance
+2018-04-25 01:22:52 #development @stupid cat#8160: i know that carbonetix prefers posting on guild count changing instead of a steady interval
+2018-04-25 01:22:57 #development @stupid cat#8160: unsure of what abal's preference is
+2018-04-25 01:23:11 #development @perryprog#9657: probably on guild change
+2018-04-25 01:23:16 #development @perryprog#9657: because that would be normal
+2018-04-25 01:23:37 #development @CircuitRCAY#3038: I do it on guild join/leave and ready anyway
+2018-04-25 01:23:53 #development @perryprog#9657: anyway yeah, just try changing it to json=body
+2018-04-25 07:50:39 #development @Julia#0001: p-help
+2018-04-25 10:09:11 #development @ICeCrEaM_ChRiS#2211: how to add bot? lel
+2018-04-25 10:09:32 #development @duncte123#1245: #information
+2018-04-25 10:09:49 #development @ICeCrEaM_ChRiS#2211: kk
+2018-04-25 10:22:02 #development @ICeCrEaM_ChRiS#2211: i can't submit
+2018-04-25 10:22:04 #development @ICeCrEaM_ChRiS#2211: idk why
+2018-04-25 10:22:42 #development @ICeCrEaM_ChRiS#2211: is this the link?
+2018-04-25 10:44:35 #development @Fennix#1150: http://bots.discord.pw/ @ICeCrEaM_ChRiS :3
+2018-04-25 10:44:36 #development @Fennix#1150 edited message from 2018-04-25 10:44:35 (http://bots.discord.pw/ @ICeCrEaM_ChRiS :3) to read: http://bots.discord.pw/ @ICeCrEaM_ChRiS :3
+2018-04-25 10:46:46 #development @ICeCrEaM_ChRiS#2211: done .3.
+2018-04-25 10:55:49 #development @FlamingCore#8440: ```\nimport hastebin\nimport requests\n\nasync def getTaggedUsers(message, is_mia):\n    out_str = "around 1-2k chars"\n    hastebin_stuff = hastebin.post(out_str)\n    msg_out = f"{hastebin_stuff} made by {message.author}"\n    await bot.send_message(message.channel, msg_out)  ```\nanyone have a clue as for why an event loops is closing if I didn't do it myself? (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/438654362290487306/unknown.png)
+2018-04-25 10:57:01 #development @FlamingCore#8440 edited message from 2018-04-25 10:55:49 (```\nimport hastebin\nimport requests\n\nasync def getTaggedUsers(message, is_mia):\n    out_str = "around 1-2k chars"\n    hastebin_stuff = hastebin.post(out_str)\n    msg_out = f"{hastebin_stuff} made by {message.author}"\n    await bot.send_message(message.channel, msg_out)  ```\nanyone have a clue as for why an event loops is closing if I didn't do it myself?) to read: ```\nimport hastebin\nimport requests\nimport discord\nfrom discord.ext import commands\nimport asyncio\n\nasync def getTaggedUsers(message, is_mia):\n    out_str = "around 1-2k chars"\n    hastebin_stuff = hastebin.post(out_str)\n    msg_out = f"{hastebin_stuff} made by {message.author}"\n    await bot.send_message(message.channel, msg_out)  ```\nanyone have a clue as for why an event loops is closing if I didn't do it myself?
+2018-04-25 11:47:17 #development @doomfish#0671: I'm trying to make my bot join my discord channel and I'm copying the oauth2 code and it just tells me  "UNKNOWN_ERROR" when I paste it. Any reasons this could happen? I'm clueless.
+2018-04-25 12:13:53 #development @Empty Silence#8332: What’s a i18n error?
+2018-04-25 12:15:47 #development @FlamingCore#8440: @doomfish you need to click on the site to create a user bot
+2018-04-25 12:15:58 #development @FlamingCore#8440: i'ts in the settings of the bot
+2018-04-25 12:16:57 #development @doomfish#0671: ah yes thanks, I figured it out with the help from the api discord 😃
+2018-04-25 12:33:29 #development @михаил#8480: why the fuck do i sometimes get the "missed a heartbeat" error
+2018-04-25 12:33:33 #development @михаил#8480: ehh
+2018-04-25 12:33:54 #development @михаил#8480: i made the bot restart for every reported exception that wasn't made in an event or command thread
+2018-04-25 15:38:56 #development @Vlad07#9667: v
+2018-04-25 15:39:00 #development @Vlad07#9667 deleted message from 2018-04-25 15:38:56 (v)
+2018-04-25 23:44:15 #development @KilioZ - Développeur Web#5207: Please, give me rank "Bot Developers". my bot is @DevTime
+2018-04-25 23:44:54 #development @SHREK 5 COMING 2019#3146: Your bot is unverified though
+2018-04-26 00:07:40 #development @PassTheMayo#1281:  (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/438853638354370563/unknown.png)
+2018-04-26 00:07:42 #development @PassTheMayo#1281:  (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/438853643794644992/unknown.png)
+2018-04-26 00:08:06 #development @PassTheMayo#1281: It says it can't find the module (`Structure/Collection`) but it's clearly right there
+2018-04-26 00:13:59 #development @Kromatic#0420: try with the `.js`
+2018-04-26 00:14:03 #development @SHREK 5 COMING 2019#3146: Maybe `./Structure/Collection.js` yea
+2018-04-26 00:14:05 #development @Kromatic#0420: probably doesnt matter but better safe than sorry
+2018-04-26 00:14:12 #development @Kromatic#0420: @PassTheMayo
+2018-04-26 00:14:16 #development @PassTheMayo#1281: Ok
+2018-04-26 00:14:35 #development @PassTheMayo#1281:  (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/438855375513452545/unknown.png)
+2018-04-26 00:15:32 #development @Kromatic#0420: try:\n```js\nrequire(`${__dirname}/Structure/Collection.js`);\n```\n@PassTheMayo
+2018-04-26 00:16:16 #development @PassTheMayo#1281: Ok
+2018-04-26 00:18:08 #development @Kromatic#0420: <:thinkman:431179445248983041>
+2018-04-26 00:18:16 #development @PassTheMayo#1281:  (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/438856305680318476/unknown.png)
+2018-04-26 00:18:43 #development @PassTheMayo#1281: what de fuq (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/438856415059247105/unknown.png)
+2018-04-26 00:18:46 #development @PassTheMayo#1281: where is t
+2018-04-26 00:18:47 #development @PassTheMayo#1281 edited message from 2018-04-26 00:18:46 (where is t) to read: where is it
+2018-04-26 00:19:17 #development @SHREK 5 COMING 2019#3146: Try "ls -a"?
+2018-04-26 00:19:26 #development @PassTheMayo#1281: nope not there
+2018-04-26 00:19:31 #development @SHREK 5 COMING 2019#3146: ...
+2018-04-26 00:19:32 #development @PassTheMayo#1281: weird
+2018-04-26 00:19:38 #development @PassTheMayo#1281: I'll just modify the file and repush
+2018-04-26 00:20:39 #development @PassTheMayo#1281:  (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/438856905310339074/unknown.png)
+2018-04-26 00:20:41 #development @PassTheMayo#1281: um
+2018-04-26 00:20:57 #development @SHREK 5 COMING 2019#3146: Can you view the file in your text editor?
+2018-04-26 00:21:11 #development @PassTheMayo#1281: yeah its here (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/438857037636435979/unknown.png)
+2018-04-26 00:21:56 #development @SHREK 5 COMING 2019#3146: Try copying everything and then create the file regularly in terminal or something and paste everything in?
+2018-04-26 00:22:10 #development @PassTheMayo#1281: I'll just reclone the repo
+2018-04-26 00:22:48 #development @PassTheMayo#1281: WTF
+2018-04-26 00:22:54 #development @PassTheMayo#1281:  (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/438857471054970890/unknown.png)
+2018-04-26 00:23:09 #development @PassTheMayo#1281: why did it keep old files, I deleted those before pushing
+2018-04-26 00:23:59 #development @SHREK 5 COMING 2019#3146: ...
+2018-04-26 00:24:05 #development @Kot#1337: just make a new repo <:mmLol:406800804138188810>
+2018-04-26 00:24:36 #development @PassTheMayo#1281: Yeah, Git is messing up
+2018-04-26 00:24:44 #development @PassTheMayo#1281: I'm gonna have to
+2018-04-26 00:24:55 #development @PassTheMayo#1281: but I won't now, I'll deal with this later
+2018-04-26 00:24:55 #development @Kot#1337: git isn't something you understand, it's something you *try* to do
+2018-04-26 00:25:10 #development @Kot#1337 edited message from 2018-04-26 00:24:55 (git isn't something you understand, it's something you *try* to do) to read: git isn't something you understand, it's something you *try* to do\n<:mmLol:406800804138188810>
+2018-04-26 05:00:57 #development @Stanly☭#0001: ...
+2018-04-26 14:42:46 #development @Piotrek29992#6122: Kurwa 😄
+2018-04-26 15:49:07 #development @DaMyFTW#1586: -play swalla
+2018-04-26 15:49:08 #development @Discord Music#6014: You need to be in a voice channel to use this command. :mute:
+2018-04-26 15:49:08 #development @Vertbot#1498: 
+2018-04-26 15:49:08 #development @Vertbot#1498 edited message from 2018-04-26 15:49:08 () to read: 
+2018-04-26 15:49:08 #development @PaPi#1558: You are not in a voice channel.
+2018-04-26 15:49:08 #development @Fun Guy Bot#0524: Add some songs to the queue with -add, and summon me to a voice channel with -summon to begin
+2018-04-26 15:49:08 #development @Doyle#6224: 
+2018-04-26 15:49:08 #development @MMBot#1222: :no_entry_sign: | You're not in a voice channel~
+2018-04-26 15:49:08 #development @Doyle#6224 edited message from 2018-04-26 15:49:08 () to read: 
+2018-04-26 16:05:06 #development @Mr. Robot#1010: @DaMyFTW what testing channels are for
+2018-04-26 16:35:35 #development @Squillywonka#3292: I’m gay
+2018-04-26 16:48:29 #development @Squillywonka#3292 deleted message from 2018-04-26 16:35:35 (I’m gay)
+2018-04-26 16:49:18 #development @Googie2149#2149: `prune bots
+2018-04-26 16:49:19 #development @Discord Music#6014 deleted message from 2018-04-26 15:49:08 (You need to be in a voice channel to use this command. :mute:)
+2018-04-26 16:49:19 #development @Vertbot#1498 deleted message from 2018-04-26 15:49:08 ()
+2018-04-26 16:49:19 #development @PaPi#1558 deleted message from 2018-04-26 15:49:08 (You are not in a voice channel.)
+2018-04-26 16:49:19 #development @Fun Guy Bot#0524 deleted message from 2018-04-26 15:49:08 (Add some songs to the queue with -add, and summon me to a voice channel with -summon to begin)
+2018-04-26 16:49:19 #development @Doyle#6224 deleted message from 2018-04-26 15:49:08 ()
+2018-04-26 16:49:19 #development @MMBot#1222 deleted message from 2018-04-26 15:49:08 (:no_entry_sign: | You're not in a voice channel~)
+2018-04-26 16:49:19 #development @spoo.py(◡‿◡✿)#6138: Removed 7 messages\nMMBot#1222: 1\nDiscord Music#6014: 1\nFun Guy Bot#0524: 1\nDoyle#6224: 1\nVertbot#1498: 1\nblargbot#0128: 1\nPaPi#1558: 1
+2018-04-26 16:57:06 #development @deleted#8222: guys
+2018-04-26 16:58:06 #development @deleted#8222: guys\nis there anyone\ncan tell me how to make\na voice mute and voice defean in log channel\njs or py or anything
+2018-04-26 16:59:01 #development @Kiru#0002: well get the event
+2018-04-26 16:59:04 #development @Kiru#0002: and make things
+2018-04-26 16:59:29 #development @deleted#8222: give me example
+2018-04-26 16:59:39 #development @deleted#8222: voice mute
+2018-04-26 16:59:39 #development @deleted#8222: and
+2018-04-26 16:59:42 #development @deleted#8222: voice defean
+2018-04-26 17:01:39 #development @Kiru#0002: no
+2018-04-26 17:01:48 #development @CHT#8214: ^
+2018-04-26 17:02:52 #development @Kiru#0002: *fornite dance*
+2018-04-26 19:47:42 #development @!Max#7512: pls position @Pollr
+2018-04-26 19:47:42 #development @Discord Bots Verification#7498: The bot **Pollr#1848** is at position **49/83** in the verification queue.\n\nThis position is calculated based on when the bot was added in relation to other bots in the queue. On occasion, certain bots in the queue are processed out of order.
+2018-04-26 20:04:30 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: wait
+2018-04-26 20:04:32 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: so for the bot api
+2018-04-26 20:05:16 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: does `:bot_user_id` in `POST /api/bots/:bot_user_id/stats` mean that i need to put the ID there *with* or without the colon?
+2018-04-26 21:13:23 #development @LWTech#0005: Without, it's just a placeholder
+2018-04-26 22:37:55 #development @la casa da grazy#8485: oi
+2018-04-26 22:37:57 #development @la casa da grazy#8485: hi
+2018-04-26 22:38:03 #development @la casa da grazy#8485: okay
+2018-04-26 22:59:13 #development @Adam#8596: pls position @Lilac
+2018-04-26 22:59:13 #development @Discord Bots Verification#7498: The bot **Lilac#7781** is at position **43/83** in the verification queue.\n\nThis position is calculated based on when the bot was added in relation to other bots in the queue. On occasion, certain bots in the queue are processed out of order.
+2018-04-26 22:59:15 #development @Adam#8596: oh
+2018-04-26 23:00:48 #development @ItsRick#6708: ;
+2018-04-27 00:54:29 #development @ipadpuppydogdude1#3562: pls position Lockdown
+2018-04-27 00:54:30 #development @Discord Bots Verification#7498: That wasn't an ID!
+2018-04-27 00:54:44 #development @ipadpuppydogdude1#3562: pls position https://bots.discord.pw/bots/41404367597
+2018-04-27 00:54:44 #development @Discord Bots Verification#7498: That wasn't a bot!
+2018-04-27 00:54:56 #development @ipadpuppydogdude1#3562: pls position 414043675979415552
+2018-04-27 00:54:56 #development @Discord Bots Verification#7498: That wasn't a bot!
+2018-04-27 00:55:14 #development @ipadpuppydogdude1#3562: pls position https://bots.discord.pw/bots/414043675979415552
+2018-04-27 00:55:14 #development @Discord Bots Verification#7498: That wasn't a bot!
+2018-04-27 00:55:19 #development @ipadpuppydogdude1#3562: WHAT
+2018-04-27 01:07:02 #development @SHREK 5 COMING 2019#3146: You need to tag the bot
+2018-04-27 02:56:23 #development @Samrux#3980: It always feel satisfying seeing my bot start up, just thought I'd share\n```11:51:37 [Info] Storage: Loaded 95 custom prefixes from prefixes.bot.\n11:51:37 [Info] Storage: Loaded 1913 scoreboard entries from scoreboard.bot.\n11:51:37 [Info] Storage: Loaded 766 games from previous session.\n11:51:37 [Info] Discord: Discord.Net v2.0.0-beta-00876 (API v6)\n11:51:37 [Info] Gateway: Connecting\n11:51:41 [Info] Gateway: Connected\n11:51:48 [Info] Gateway: Ready\n11:51:48 [Info] Bot: Guild count is now 1765```
+2018-04-27 02:57:11 #development @Samrux#3980 edited message from 2018-04-27 02:56:23 (It always feel satisfying seeing my bot start up, just thought I'd share\n```11:51:37 [Info] Storage: Loaded 95 custom prefixes from prefixes.bot.\n11:51:37 [Info] Storage: Loaded 1913 scoreboard entries from scoreboard.bot.\n11:51:37 [Info] Storage: Loaded 766 games from previous session.\n11:51:37 [Info] Discord: Discord.Net v2.0.0-beta-00876 (API v6)\n11:51:37 [Info] Gateway: Connecting\n11:51:41 [Info] Gateway: Connected\n11:51:48 [Info] Gateway: Ready\n11:51:48 [Info] Bot: Guild count is now 1765```) to read: It always feel satisfying seeing my bot start up\nI don't know why but I wanted to share\n```11:51:37 [Info] Storage: Loaded 95 custom prefixes from prefixes.bot.\n11:51:37 [Info] Storage: Loaded 1913 scoreboard entries from scoreboard.bot.\n11:51:37 [Info] Storage: Loaded 766 games from previous session.\n11:51:37 [Info] Discord: Discord.Net v2.0.0-beta-00876 (API v6)\n11:51:37 [Info] Gateway: Connecting\n11:51:41 [Info] Gateway: Connected\n11:51:48 [Info] Gateway: Ready\n11:51:48 [Info] Bot: Guild count is now 1765```
+2018-04-27 02:57:49 #development @Samrux#3980 deleted message from 2018-04-27 02:56:23 (It always feel satisfying seeing my bot start up\nI don't know why but I wanted to share\n```11:51:37 [Info] Storage: Loaded 95 custom prefixes from prefixes.bot.\n11:51:37 [Info] Storage: Loaded 1913 scoreboard entries from scoreboard.bot.\n11:51:37 [Info] Storage: Loaded 766 games from previous session.\n11:51:37 [Info] Discord: Discord.Net v2.0.0-beta-00876 (API v6)\n11:51:37 [Info] Gateway: Connecting\n11:51:41 [Info] Gateway: Connected\n11:51:48 [Info] Gateway: Ready\n11:51:48 [Info] Bot: Guild count is now 1765```)
+2018-04-27 02:57:56 #development @Samrux#3980: It's always satisfying seeing my bot start up
+2018-04-27 05:42:22 #development @t69420#4089: pls position @Lockdown
+2018-04-27 05:42:22 #development @Discord Bots Verification#7498: The bot **Lockdown#6939** is at position **57/59** in the verification queue.\n\nThis position is calculated based on when the bot was added in relation to other bots in the queue. On occasion, certain bots in the queue are processed out of order.
+2018-04-27 06:30:45 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: hey
+2018-04-27 06:30:51 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: i'm trying to post my server count
+2018-04-27 06:31:14 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: `requests.post('https://bots.discord.pw/api/bots/my_bot_id/stats', data={"server_count": len(self.bot.guilds)}, headers={"Authorization":"my_token_is_here"}) `
+2018-04-27 06:31:26 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: i keep getting `{"error":"Invalid token"}`
+2018-04-27 06:31:32 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: how am i supposed to do it?
+2018-04-27 06:31:39 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: i double checked that the token is valid
+2018-04-27 06:31:57 #development @cry#6666: api token not your bots token lol
+2018-04-27 06:32:04 #development @Deivedux#9316: is it your discord app's token?
+2018-04-27 06:32:13 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: lmao ik ik
+2018-04-27 06:32:26 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: it's my token in https://bots.discord.pw/api
+2018-04-27 06:32:27 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897 edited message from 2018-04-27 06:32:26 (it's my token in https://bots.discord.pw/api) to read: it's my token in https://bots.discord.pw/api
+2018-04-27 06:32:34 #development @Deivedux#9316: and make sure it's a string, not a variable xd
+2018-04-27 06:32:42 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: yeah ik lmao
+2018-04-27 06:32:49 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: it is a string of my token
+2018-04-27 06:32:51 #development @cry#6666: thonk
+2018-04-27 06:32:58 #development @Deivedux#9316: thonkong
+2018-04-27 06:33:07 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: thonk
+2018-04-27 06:33:08 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: dufuk
+2018-04-27 06:33:31 #development @Deivedux#9316: can you generate a new token?
+2018-04-27 06:33:36 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: ok
+2018-04-27 06:34:38 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: same error
+2018-04-27 06:34:42 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: thooonk
+2018-04-27 06:37:19 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: `requests.post('https://bots.discord.pw/api/bots/my_bot_id/stats', data={"server_count": len(self.bot.guilds)}, headers={"Authorization":"token_is_here"})` >>>>> `{"error":"Invalid token"}` dufuk :(
+2018-04-27 06:39:20 #development @ASIANBOIIIIS#7995: lol
+2018-04-27 06:39:38 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: how tf
+2018-04-27 06:39:45 #development @Deivedux#9316: hm
+2018-04-27 06:40:51 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: wait
+2018-04-27 06:40:54 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: lemme make sure
+2018-04-27 06:40:59 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: that's the correct format rite?
+2018-04-27 06:41:15 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: the thing says "`POST /api/bots/:bot_user_id/stats` - Post your bot's stats. You must be an owner of the bot to access this. The POST request should contain data in a JSON-encoded body. Not all metadata keys (server_count) are required"
+2018-04-27 06:41:25 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: i'm not supposed to have the `:` before my bot's user id rite?
+2018-04-27 06:41:31 #development @Ovyerus#2211: yes
+2018-04-27 06:41:35 #development @Ovyerus#2211: `:` denotes a variable
+2018-04-27 06:41:41 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: omg that might be why
+2018-04-27 06:41:47 #development @Ovyerus#2211: <:HAhaa:368345725538664448>
+2018-04-27 06:42:15 #development @Deivedux#9316: but why a "invalid token" error then <a:thonkspin:435177867781996555>
+2018-04-27 06:43:01 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: ^ :o
+2018-04-27 06:43:22 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: https://bots.discord.pw/api/bots/:424817451293736961/stats
+2018-04-27 06:43:32 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: is that the correct way for the url?
+2018-04-27 06:43:59 #development @Deivedux#9316: you still have `:` as I see
+2018-04-27 06:44:33 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: wait
+2018-04-27 06:44:34 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: ohhhhhhhh
+2018-04-27 06:44:41 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: `:` denotes a variable
+2018-04-27 06:44:45 #development @Ovyerus#2211: yes
+2018-04-27 06:44:46 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: so i should *leave* it removed
+2018-04-27 06:44:47 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: omg
+2018-04-27 06:44:50 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: i'm autistic
+2018-04-27 06:44:52 #development @Ovyerus#2211: f
+2018-04-27 06:44:56 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: i got confused about the "yes"
+2018-04-27 06:45:07 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: as "yes, u should have the colon"
+2018-04-27 06:45:16 #development @Ovyerus#2211: i was agreeing with your statement
+2018-04-27 06:45:35 #development @Deivedux#9316: ~~learn how to explain properly, Ovyerus~~
+2018-04-27 06:45:42 #development @Ovyerus#2211: no u
+2018-04-27 06:45:43 #development @Deivedux#9316: 👁
+2018-04-27 06:45:48 #development @Deivedux#9316: ew
+2018-04-27 06:45:50 #development @Deivedux#9316: wrong eye
+2018-04-27 06:45:54 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: oof
+2018-04-27 06:45:57 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: get no u'd
+2018-04-27 06:46:09 #development @Deivedux#9316: <:nou:422501350606110726> <:nou:435159818295312394>
+2018-04-27 06:46:12 #development @Deivedux#9316: I have 2 of them
+2018-04-27 06:48:19 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: dufuk y no wuk doe
+2018-04-27 06:48:28 #development @Deivedux#9316: still?
+2018-04-27 06:48:51 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: yeahh
+2018-04-27 06:49:55 #development @Deivedux#9316: the only guess I have is you poorly structured your request, I don't use requests myself, I prefer aiohttp more
+2018-04-27 06:50:30 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: i'm looking up examples now
+2018-04-27 06:50:59 #development @NumerX#4587: ayy hi
+2018-04-27 06:52:29 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: hey
+2018-04-27 06:52:31 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: halp
+2018-04-27 06:53:22 #development @Deivedux#9316: _halp is on the way_
+2018-04-27 06:53:41 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: tanks
+2018-04-27 06:53:44 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: *halp*
+2018-04-27 06:53:47 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897 edited message from 2018-04-27 06:53:44 (*halp*) to read: for *halp*
+2018-04-27 06:53:54 #development @Deivedux#9316: no tanks allowed here, soldier
+2018-04-27 06:54:31 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: *halp* soldier down
+2018-04-27 06:55:07 #development @Deivedux#9316: what did I just say about tanks? now look what you did
+2018-04-27 06:56:48 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: lmao
+2018-04-27 08:18:14 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: so uhh
+2018-04-27 12:18:48 #development @davfsa#7026: how can you invite a  bot?
+2018-04-27 12:18:58 #development @davfsa#7026 edited message from 2018-04-27 12:18:48 (how can you invite a  bot?) to read: how can you invite a  bot to this server?
+2018-04-27 12:19:07 #development @Ovyerus#2211: #information
+2018-04-27 12:19:13 #development @duncte123#1245: <:this:270416539025539073> read that
+2018-04-27 12:20:32 #development @davfsa#7026: thanks
+2018-04-27 18:23:05 #development @KevinGamer817#5746: hey guys
+2018-04-27 18:52:20 #development @lexielex#6413: Hey hey hey
+2018-04-27 21:12:31 #development @Anti-Gøddess🥀#7974: Hello
+2018-04-27 21:48:28 #development @Jonny#5984: Hey long time bot developer, second time attempting verification 😟 . Just wondering what's required to get your bot verified?
+2018-04-27 21:49:18 #development @トバイアス#0420: read #information
+2018-04-27 21:53:12 #development @Jonny#5984: Thanks much appreciated
+2018-04-27 22:51:41 #development @sharky#4576: Anyone know anything about imgur links ending with _d.jpg not working with embeds
+2018-04-27 22:54:14 #development @sharky#4576: https://i.imgur.com/PvNBzQ0_d.jpg
+2018-04-27 22:54:23 #development @sharky#4576: Or at all
+2018-04-28 02:30:11 #development @con229#1552: https://discord.gg/C27aAK
+2018-04-28 02:30:13 #development @con229#1552 deleted message from 2018-04-28 02:30:11 (https://discord.gg/C27aAK)
+2018-04-28 03:26:47 #development @PassTheMayo#1281: ¯\_(ツ)_/¯
+2018-04-28 04:41:03 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: im still having problems posting my server count in python
+2018-04-28 04:41:55 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: here's my code so far: `requests.post('https://bots.discord.pw/api/bots/424817451293736961/stats', data={"server_count": len(self.bot.guilds)}, headers={"Authorization":"myapitoken",'Content-Type': 'application/json'}) `
+2018-04-28 04:43:39 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: i keep getting `{"error":"Invalid token"}`
+2018-04-28 04:49:32 #development @Throudin#4867: There's supposed to be an underscore in `server_count` and are you sure you are including your whole API token?
+2018-04-28 05:21:33 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: yes
+2018-04-28 05:21:59 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: and server count does have an underscore in it
+2018-04-28 05:48:31 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: is that the correct way?
+2018-04-28 05:51:28 #development @Throudin#4867: @Joshuliu Try `json={"server_count": len(self.bot.guilds)}` instead of `data={"server_count": len(self.bot.guilds)}`
+2018-04-28 05:52:05 #development @Throudin#4867: And sorry, couldn't see your _ since Discord formatting is weird: (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/439665088878739456/unknown.png)
+2018-04-28 05:52:16 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: oh ok
+2018-04-28 05:52:20 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: it's fine
+2018-04-28 05:52:45 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: it didn't work
+2018-04-28 05:54:02 #development @Throudin#4867: Hmm. This is how *I* had it a while back when, but it seems you are doing practically the same exact thing. (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/439665577506766848/unknown.png)
+2018-04-28 05:56:22 #development @Throudin#4867: I doubt it would make any difference, but what if you swap the order of Content-Type and Authorization headers? (And stay consisted with what question marks are use.)
+2018-04-28 05:57:10 #development @Throudin#4867: Other than that, the only thing I can suggest is are you *sure* your full token is being provided.
+2018-04-28 05:57:43 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: alright
+2018-04-28 05:59:28 #development @sharky#4576: pls position 438904020405583873
+2018-04-28 05:59:28 #development @Discord Bots Verification#7498: The bot **tag#8170** is at position **52/61** in the verification queue.\n\nThis position is calculated based on when the bot was added in relation to other bots in the queue. On occasion, certain bots in the queue are processed out of order.
+2018-04-28 05:59:34 #development @sharky#4576: sweet
+2018-04-28 06:03:10 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: i switched them and it still didn't work
+2018-04-28 06:03:33 #development @Throudin#4867: Still saying `{"error":"Invalid token"}`?
+2018-04-28 06:03:51 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: yes
+2018-04-28 06:03:56 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: it's so annoying -_---
+2018-04-28 06:05:55 #development @Throudin#4867: And just to make 100% sure. You are using the token here, and not your bot's token, or your token for discordbots.org by accident? (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/439668566925508628/unknown.png)
+2018-04-28 06:09:41 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: yes, that exact token
+2018-04-28 06:09:57 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: and i made sure by copying by putting my cursor from the beginning to the end
+2018-04-28 06:10:14 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897: and tried regenning a few other times too
+2018-04-28 06:13:07 #development @𝗝𝗼𝘀𝗵𝘂𝗹𝗶𝘂#1897 edited message from 2018-04-28 06:10:14 (and tried regenning a few other times too) to read: and tried regening a few times too
+2018-04-28 06:19:15 #development @Throudin#4867: Bizarre. I'm not sure what else to try. We made sure the token was fresh and copied in full. We tried changing the order of the headers, We tried doing `json=` instead of `data=`. We tried making sure all the quotation marks were the same, either " or '. Have we tried, I don't know if this would help, setting that arguments as variables and then assigning them like.\n\n```python\nurl = "https://bots.discord.pw/api/bots/424817451293736961/stats"\nheader = {"Content-Type": "application/json", "Authorization": "thetoken"}\ndata = {"server_count": len(self.bot.guilds)}\nreq = requests.post(url, json=data, headers=header)\n```
+2018-04-28 06:21:04 #development @Throudin#4867: Currently when I check the website, it looks like you have a server count.
+2018-04-28 07:50:55 #development @BarnMS#3108: pls verification Poop Bot
+2018-04-28 07:51:08 #development @BarnMS#3108: pls verification @Poop Bot
+2018-04-28 07:51:13 #development @BarnMS#3108: no
+2018-04-28 07:51:33 #development @BarnMS#3108: \@Poop Bot
+2018-04-28 07:51:45 #development @BarnMS#3108: pls verification 381409327673638923
+2018-04-28 07:51:58 #development @BarnMS#3108: pls position 381409327673638923
+2018-04-28 07:51:59 #development @Discord Bots Verification#7498: The bot **Poop Bot#1105** is not part of the verification queue. Either it hasn't been added to the guild, or it has already been verified.
+2018-04-28 07:52:10 #development @BarnMS#3108: good
+2018-04-28 09:48:52 #development @Music#9755: pls position @Music
+2018-04-28 09:48:52 #development @Discord Bots Verification#7498: That wasn't a bot!
+2018-04-28 10:23:57 #development @Aileen Lumina#1801: pls position @Mitsuki
+2018-04-28 10:23:57 #development @Discord Bots Verification#7498: The bot **Mitsuki#3436** is not part of the verification queue. Either it hasn't been added to the guild, or it has already been verified.
+2018-04-28 10:24:10 #development @Aileen Lumina#1801: okay
+2018-04-28 10:58:12 #development @gametedestroy3#9687: .
+2018-04-28 10:58:20 #development @gametedestroy3#9687 deleted message from 2018-04-28 10:58:12 (.)
+2018-04-28 11:56:17 #development @Googie2149#2149: pls position @Minitori
+2018-04-28 11:56:17 #development @Discord Bots Verification#7498: The bot **Minitori#9464** is not part of the verification queue. Either it hasn't been added to the guild, or it has already been verified.
+2018-04-28 11:56:26 #development @Googie2149#2149: boo
+2018-04-28 11:56:32 #development @Googie2149#2149: also why am i testing in here i know better than that
+2018-04-28 11:56:40 #development @Ovyerus#2211: naughty naughty
+2018-04-28 15:19:41 #development @Hoffay#4248: I don't understand how im supposed to use the api
+2018-04-28 15:19:54 #development @Hoffay#4248: discordjs btw
+2018-04-28 15:30:51 #development @Hoffay#4248: could someone explain it to me
+2018-04-28 16:04:53 #development @sharky#4576: pls position @tag
+2018-04-28 16:04:53 #development @tag#8170: 
+2018-04-28 16:04:53 #development @Discord Bots Verification#7498: The bot **tag#8170** is at position **44/59** in the verification queue.\n\nThis position is calculated based on when the bot was added in relation to other bots in the queue. On occasion, certain bots in the queue are processed out of order.
+2018-04-28 16:04:57 #development @tag#8170 edited message from 2018-04-28 16:04:53 () to read: 
+2018-04-28 16:05:15 #development @sharky#4576: That can't be right lol
+2018-04-28 16:05:21 #development @sharky#4576: Why is it allowed to talk
+2018-04-28 16:22:09 #development @PassTheMayo#1281: Can anyone explain why this causes an `Out of memory` error? (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/439823650816917514/unknown.png)
+2018-04-28 16:22:28 #development @PassTheMayo#1281: All of the properties within `new RegExp()` are strings, not objects
+2018-04-28 16:24:25 #development @Void#1488: anyone here used SQLite before
+2018-04-28 16:24:49 #development @PassTheMayo#1281: Yes
+2018-04-28 16:25:09 #development @Void#1488: how is it
+2018-04-28 16:25:18 #development @Void#1488: I'm just saving data to a json file rn
+2018-04-28 16:26:46 #development @PassTheMayo#1281: SQLite is very light weight
+2018-04-28 16:26:49 #development @PassTheMayo#1281: It's great for small bots
+2018-04-28 16:27:01 #development @PassTheMayo#1281: but once your bot grows, get a proper external DB like Rethink or MySQL
+2018-04-28 16:27:15 #development @PassTheMayo#1281: SQLite isn't good for multi-process bots like d.js v11 sharding
+2018-04-28 16:27:22 #development @PassTheMayo#1281: @Void
+2018-04-28 16:27:49 #development @Void#1488: yeah if I have the need to start sharding I'll probably go over to mysql or mariadb
+2018-04-28 16:28:02 #development @PassTheMayo#1281: MySQL seems very outdated to me
+2018-04-28 16:28:09 #development @PassTheMayo#1281: I need more modern methods, so I use RethinkDB
+2018-04-28 16:28:12 #development @PassTheMayo#1281: I like it
+2018-04-28 16:28:30 #development @Void#1488: never did any research on rethinkdb
+2018-04-28 16:29:30 #development @Void#1488: heard good things about mongodb tho
+2018-04-28 17:50:14 #development @LWTech#0005: MongoDB is a bit of a different beast
+2018-04-28 17:50:40 #development @LWTech#0005: Rethink is relatively easy to get your head around, especially with the JS driver as it uses the JSON data model with no alterations
+2018-04-28 17:50:54 #development @LWTech#0005: MongoDB has schemas and models and a lot of superficial fluff
+2018-04-28 17:51:12 #development @LWTech#0005: And there’s the “MongoDB is webscale” meme
+2018-04-28 18:12:07 #development @zaop#0003: W E B S C A L E https://www.youtube.com/watch?v=b2F-DItXtZs
+2018-04-28 18:12:17 #development @zaop#0003 edited message from 2018-04-28 18:12:07 (W E B S C A L E https://www.youtube.com/watch?v=b2F-DItXtZs) to read: W E B S C A L E https://www.youtube.com/watch?v=b2F-DItXtZs
+2018-04-28 18:12:12 #development @zaop#0003 edited message from 2018-04-28 18:12:07 (W E B S C A L E https://www.youtube.com/watch?v=b2F-DItXtZs) to read: W E B S C A L E <https://www.youtube.com/watch?v=b2F-DItXtZs>
+2018-04-28 18:12:23 #development @zaop#0003: why do you say mysql seems "very outdated"?
+2018-04-28 18:48:37 #development @Void#1488: why's my bot sending the emote like this (attachment url(s): https://cdn.discordapp.com/attachments/110374153562886144/439860510301749268/unknown.png)
+2018-04-28 18:48:51 #development @Void#1488: `:online:` in a description field of an embed
+2018-04-28 18:48:57 #development @Void#1488 edited message from 2018-04-28 18:48:51 (`:online:` in a description field of an embed) to read: `:online:` in a description field of an embed
+2018-04-28 18:49:05 #development @Void#1488 edited message from 2018-04-28 18:48:51 (`:online:` in a description field of an embed) to read: `< :online:438877428807368705 >` in a description field of an embed
+2018-04-28 18:49:12 #development @Void#1488 edited message from 2018-04-28 18:48:51 (`< :online:438877428807368705 >` in a description field of an embed) to read: `< :online:438877428807368705 >`(without spaces) in a description field of an embed
+2018-04-28 18:49:19 #development @Void#1488: the same emote in the same field works with another command
+2018-04-28 18:56:49 #development @Noikoio#7890: been seeing that myself. best as I can tell, for whatever reason a number of bots aren't being allowed to use external emojis.
+2018-04-28 18:57:53 #development @Noikoio#7890: I've been asking around a tiny bit (though not here) and haven't really found an answer. to be fair though, I haven't looked to much into this myself.
+2018-04-28 18:58:12 #development @Noikoio#7890 edited message from 2018-04-28 18:57:53 (I've been asking around a tiny bit (though not here) and haven't really found an answer. to be fair though, I haven't looked to much into this myself.) to read: I've been asking around a tiny bit (though not here) and haven't really found an answer. to be fair though, I haven't looked too much into this myself.
+2018-04-28 19:18:42 #development @Moist#4404: Who's a Discord JS pleb here, and on master branch, I'm desperate for help on a simple little thing

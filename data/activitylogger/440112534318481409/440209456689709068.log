@@ -1,0 +1,64 @@
+2018-05-02 12:47:34 #discord-js-dev-channel @ドリアン#8850: $step 1
+2018-05-02 12:47:35 #discord-js-dev-channel @bot test#4780: step 1 send in DM to you
+2018-05-02 12:47:39 #discord-js-dev-channel @ドリアン#8850: $step djfj
+2018-05-02 12:47:39 #discord-js-dev-channel @bot test#4780: step djfj send in DM to you
+2018-05-02 12:48:04 #discord-js-dev-channel @Antoine#1742: $step1
+2018-05-02 12:48:05 #discord-js-dev-channel @bot test#4780: step1 send in DM to you
+2018-05-02 12:49:31 #discord-js-dev-channel @Antoine#1742: $step2
+2018-05-02 12:49:31 #discord-js-dev-channel @bot test#4780: step2 send in DM to you
+2018-05-02 12:49:38 #discord-js-dev-channel @ドリアン#8850: ptn mais le regex à été approuvé par Kyra et un autre
+2018-05-02 12:49:56 #discord-js-dev-channel @Antoine#1742: ?
+2018-05-02 12:50:21 #discord-js-dev-channel @ドリアン#8850: ```\nbot.on('message', (msg) => {\n    let content = msg.content;\n    if(content.indexOf(tag) === 0) {\n    		if(/\$step\s\d+/.test(content)) {\n    			send(msg,'step ok');\n       	return false;\n       } else {\n       	for(let a = 0;a<commands.length;a++) {\n        	let command = commands[a];\n         	if (find(content, command.name)) {\n         		let txt = command.result(msg);\n         		if(txt=='not_find') {\n           	send(msg,'Sorry, the command you wrote does not exist. ❌');\n           	return false;\n           } else {\n								send(msg,txt);\n								return false;\n							}\n          }\n					}\n       }\n      send(msg,'Sorry, the command you wrote does not exist. ❌');\n      return false;\n     }\n});\n```
+2018-05-02 12:50:52 #discord-js-dev-channel @Antoine#1742: Mais ça marche
+2018-05-02 12:50:54 #discord-js-dev-channel @ドリアン#8850: $step1
+2018-05-02 12:50:59 #discord-js-dev-channel @Antoine#1742: $step27
+2018-05-02 12:51:32 #discord-js-dev-channel @ドリアン#8850: att
+2018-05-02 12:51:35 #discord-js-dev-channel @ドリアン#8850: la cest bon
+2018-05-02 12:51:46 #discord-js-dev-channel @ドリアン#8850: je suis censé accepter QUE
+2018-05-02 12:51:47 #discord-js-dev-channel @Antoine#1742: $step96
+2018-05-02 12:51:47 #discord-js-dev-channel @bot test#4780: step96 send in DM to you
+2018-05-02 12:51:57 #discord-js-dev-channel @ドリアン#8850: les $step unnombre
+2018-05-02 12:52:11 #discord-js-dev-channel @Antoine#1742: Ouais
+2018-05-02 12:52:16 #discord-js-dev-channel @Antoine#1742: $helli
+2018-05-02 12:52:16 #discord-js-dev-channel @bot test#4780: Sorry, the command you wrote does not exist. :x:
+2018-05-02 12:52:17 #discord-js-dev-channel @ドリアン#8850: pas les $step ou $stepwbxbx ou $step111
+2018-05-02 12:52:31 #discord-js-dev-channel @Antoine#1742: Ah le problème c'est le type
+2018-05-02 12:52:35 #discord-js-dev-channel @ドリアン#8850: $a
+2018-05-02 12:52:36 #discord-js-dev-channel @bot test#4780: b
+2018-05-02 12:52:35 #discord-js-dev-channel @Antoine#1742: $stepjej
+2018-05-02 12:52:36 #discord-js-dev-channel @bot test#4780: stepjej send in DM to you
+2018-05-02 12:52:51 #discord-js-dev-channel @Antoine#1742: Je vois le pb
+2018-05-02 12:55:42 #discord-js-dev-channel @ドリアン#8850: ou ?
+2018-05-02 12:55:48 #discord-js-dev-channel @ドリアン#8850: $step11
+2018-05-02 12:55:57 #discord-js-dev-channel @ドリアン#8850: $step11
+2018-05-02 12:55:57 #discord-js-dev-channel @bot test#4780: step11 send in DM to you
+2018-05-02 12:56:09 #discord-js-dev-channel @Antoine#1742: $stepa
+2018-05-02 12:56:10 #discord-js-dev-channel @bot test#4780: stepa send in DM to you
+2018-05-02 12:56:56 #discord-js-dev-channel @ドリアン#8850: tu sais comment le resolver ?
+2018-05-02 13:02:33 #discord-js-dev-channel @Antoine#1742: Nn
+2018-05-02 13:09:40 #discord-js-dev-channel @ドリアン#8850: $a
+2018-05-02 13:09:41 #discord-js-dev-channel @bot test#4780: a send in DM to you
+2018-05-02 13:09:46 #discord-js-dev-channel @ドリアン#8850: $b
+2018-05-02 13:09:47 #discord-js-dev-channel @bot test#4780: Sorry, the command you wrote does not exist. :x:
+2018-05-02 13:09:59 #discord-js-dev-channel @ドリアン#8850: $a
+2018-05-02 13:09:59 #discord-js-dev-channel @bot test#4780: b
+2018-05-02 13:10:03 #discord-js-dev-channel @ドリアン#8850: $b
+2018-05-02 13:10:03 #discord-js-dev-channel @bot test#4780: b send in DM to you
+2018-05-02 13:10:06 #discord-js-dev-channel @ドリアン#8850: $c
+2018-05-02 13:10:06 #discord-js-dev-channel @bot test#4780: Sorry, the command you wrote does not exist. :x:
+2018-05-02 13:10:17 #discord-js-dev-channel @ドリアン#8850: bon deja les regex marchent
+2018-05-02 13:10:19 #discord-js-dev-channel @ドリアン#8850: youpie
+2018-05-02 13:12:53 #discord-js-dev-channel @ドリアン#8850: $step
+2018-05-02 13:12:53 #discord-js-dev-channel @bot test#4780: step send in DM to you
+2018-05-02 13:12:57 #discord-js-dev-channel @ドリアン#8850: $stttep
+2018-05-02 13:12:58 #discord-js-dev-channel @bot test#4780: Sorry, the command you wrote does not exist. :x:
+2018-05-02 13:13:01 #discord-js-dev-channel @ドリアン#8850: $a
+2018-05-02 13:13:01 #discord-js-dev-channel @bot test#4780: b
+2018-05-02 13:13:07 #discord-js-dev-channel @ドリアン#8850: $stp
+2018-05-02 13:13:08 #discord-js-dev-channel @bot test#4780: Sorry, the command you wrote does not exist. :x:
+2018-05-02 13:13:21 #discord-js-dev-channel @ドリアン#8850: $7 step
+2018-05-02 13:13:21 #discord-js-dev-channel @bot test#4780: Sorry, the command you wrote does not exist. :x:
+2018-05-02 13:13:28 #discord-js-dev-channel @ドリアン#8850: $stepwbw 7
+2018-05-02 13:13:28 #discord-js-dev-channel @bot test#4780: stepwbw 7 send in DM to you
+2018-05-02 13:13:35 #discord-js-dev-channel @ドリアン#8850: $step7
+2018-05-02 13:13:35 #discord-js-dev-channel @bot test#4780: step7 send in DM to you

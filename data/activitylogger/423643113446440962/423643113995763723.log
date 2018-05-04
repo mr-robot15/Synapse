@@ -1,0 +1,126 @@
+2018-04-27 11:57:31 #general @Synapse#0692: 
+2018-04-27 12:01:44 #general @Ryan_𝐋ikes#6192: .multicolor OWNER
+2018-04-27 12:02:21 #general @Ryan_𝐋ikes#6192: .multicolor 2 OWNER
+2018-04-27 12:03:32 #general @Ryan_𝐋ikes#6192: *multicolor 2 OWNER
+2018-04-27 12:03:43 #general @Ryan_𝐋ikes#6192: .multicolor 2 OWNER
+2018-04-27 12:04:22 #general @Ryan_𝐋ikes#6192: .multicolor 1 OWNER
+2018-04-27 12:04:36 #general @Ryan_𝐋ikes#6192: !help
+2018-04-27 12:04:37 #general @UnbelievaBoat#1046: __**Command List**__\n<https://unbelievable.pizza/commands>\n\n__**Support Server**__\nhttps://discord.gg/YMJ2dGp\nAsk questions in the #support channel\n\n__**Upvote**__\nYou can show your support for UnbelievaBoat by upvoting it here:\n<https://discordbots.org/bot/unbelievable>\n\n__**Help Command**__\n`help [command or module]` - provides help for a command or lists all commands in a module\n`help modules` - lists all modules
+2018-04-27 12:04:38 #general @Synapse#0692: Check your DM, @Ryan_𝐋ikes! I have sent something for you :wink:
+2018-04-27 12:07:05 #general @Ryan_𝐋ikes#6192: !locate
+2018-04-27 12:07:05 #general @Synapse#0692: ```\n!locate <user>\n\nExample: [p]locate @Nop0x\nRequires Mention or Name\n\n```
+2018-04-27 12:07:12 #general @Ryan_𝐋ikes#6192: !locate @Ryan_𝐋ikes
+2018-04-27 12:07:13 #general @Synapse#0692: Ryan_𝐋ikes has no country set :(
+2018-04-27 12:07:42 #general @Ryan_𝐋ikes#6192: !locate @VoteIt
+2018-04-27 12:07:43 #general @VoteIt#5360: Type `.help` to see the command list!
+2018-04-27 12:07:45 #general @Synapse#0692: VoteIt has no country set :(
+2018-04-27 12:08:08 #general @Ryan_𝐋ikes#6192: !Mentiontracker
+2018-04-27 12:08:14 #general @Ryan_𝐋ikes#6192: !mentiontracker
+2018-04-27 12:08:19 #general @Ryan_𝐋ikes#6192: !listwords
+2018-04-27 12:08:20 #general @Synapse#0692: You haven't set any words to be tracked!
+2018-04-27 12:08:28 #general @Ryan_𝐋ikes#6192: !mentiontracker lol
+2018-04-27 12:08:38 #general @Ryan_𝐋ikes#6192: !Mentiontracker lol
+2018-04-27 12:09:00 #general @Ryan_𝐋ikes#6192: !newsannouncer
+2018-04-27 12:09:11 #general @Ryan_𝐋ikes#6192: !Newsannouncer
+2018-04-27 12:12:32 #general @Ryan_𝐋ikes#6192: .Newsannouncer
+2018-04-27 12:12:45 #general @Ryan_𝐋ikes#6192: .newsannouncer
+2018-04-27 12:12:59 #general @Ryan_𝐋ikes#6192: .makeannouncement
+2018-04-27 12:13:12 #general @Ryan_𝐋ikes#6192: !v
+2018-04-27 12:13:14 #general @Ryan_𝐋ikes#6192: !makeannouncement
+2018-04-27 12:13:15 #general @Synapse#0692: ```\n!makeannouncement <message>\n\nMakes an announcement in the current channel\n\n```
+2018-04-27 12:13:28 #general @Ryan_𝐋ikes#6192: !makeannouncement We're closing the server
+2018-04-27 12:13:28 #general @Synapse#0692: `Error in command 'makeannouncement'. Check your console or logs for details.`
+2018-04-27 12:13:47 #general @Ryan_𝐋ikes#6192: !makeannouncement <message>
+2018-04-27 12:13:47 #general @Synapse#0692: `Error in command 'makeannouncement'. Check your console or logs for details.`
+2018-04-27 12:14:05 #general @Ryan_𝐋ikes#6192: !joinnews
+2018-04-27 12:14:06 #general @Synapse#0692: No news role available here!
+2018-04-27 12:14:33 #general @Ryan_𝐋ikes#6192: !joinnews
+2018-04-27 12:14:36 #general @Synapse#0692: No news role available here!
+2018-04-27 12:14:46 #general @Ryan_𝐋ikes#6192: !joinnews
+2018-04-27 12:14:50 #general @Synapse#0692: No news role available here!
+2018-04-27 12:15:05 #general @Ryan_𝐋ikes#6192: !addnewschannel
+2018-04-27 12:15:05 #general @Synapse#0692: Role created!
+2018-04-27 12:15:40 #general @Ryan_𝐋ikes#6192: !joinnews
+2018-04-27 12:15:41 #general @Synapse#0692: Added that role successfully
+2018-04-27 12:15:58 #general @Ryan_𝐋ikes#6192: !makeannouncement SERVER SHUTTING DOWN
+2018-04-27 12:15:58 #general @Synapse#0692: @general SERVER SHUTTING DOWN
+2018-04-27 12:16:05 #general @Ryan_𝐋ikes#6192: +HELP
+2018-04-27 12:16:09 #general @Ryan_𝐋ikes#6192: +help
+2018-04-27 12:16:10 #general @Poll Bot#0082: Check your DMs!
+2018-04-27 12:16:31 #general @Ryan_𝐋ikes#6192: !help
+2018-04-27 12:16:31 #general @UnbelievaBoat#1046: __**Command List**__\n<https://unbelievable.pizza/commands>\n\n__**Support Server**__\nhttps://discord.gg/YMJ2dGp\nAsk questions in the #support channel\n\n__**Upvote**__\nYou can show your support for UnbelievaBoat by upvoting it here:\n<https://discordbots.org/bot/unbelievable>\n\n__**Help Command**__\n`help [command or module]` - provides help for a command or lists all commands in a module\n`help modules` - lists all modules
+2018-04-27 12:16:34 #general @Synapse#0692: Check your DM, @Ryan_𝐋ikes! I have sent something for you :wink:
+2018-04-28 11:04:01 #general @Ryan_𝐋ikes#6192: https://discord.gg/27gpWD
+2018-05-02 22:41:04 #general @Renity#0767: 
+2018-05-02 22:41:42 #general @Ryan_𝐋ikes#6192: .;help
+2018-05-02 22:41:42 #general @Renity#0767: 
+2018-05-02 22:41:48 #general @Renity#0767 edited message from 2018-05-02 22:41:42 () to read: 
+2018-05-02 22:41:51 #general @Ryan_𝐋ikes#6192: .;clan
+2018-05-02 22:41:57 #general @Ryan_𝐋ikes#6192: help
+2018-05-02 22:41:59 #general @Ryan_𝐋ikes#6192: clan
+2018-05-02 22:42:01 #general @Ryan_𝐋ikes#6192: -clan
+2018-05-02 22:42:07 #general @Ryan_𝐋ikes#6192: .;help clan
+2018-05-02 22:42:07 #general @Renity#0767: 
+2018-05-02 22:42:08 #general @Renity#0767 edited message from 2018-05-02 22:42:07 () to read: 
+2018-05-02 22:43:06 #general @Ryan_𝐋ikes#6192: .;create-clan
+2018-05-02 22:43:06 #general @Renity#0767: @Ryan_𝐋ikes, What should the Clan name be?(Input "server" if you desire a clan named after your server. This will add the server owner as the clan owner.)\n\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 30 seconds.
+2018-05-02 22:43:22 #general @Ryan_𝐋ikes#6192: Friends
+2018-05-02 22:43:22 #general @Renity#0767: @Ryan_𝐋ikes, What do you want the description to be?\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 30 seconds.
+2018-05-02 22:43:29 #general @Ryan_𝐋ikes#6192: We Make Friends
+2018-05-02 22:43:29 #general @Renity#0767: @Ryan_𝐋ikes, An error occurred while running the command: `TypeError: Cannot read property 'id' of null`\nYou shouldn't ever receive an error like this.\nPlease contact iAlusion#3104 in this server: iAlusion#3104
+2018-05-02 22:43:47 #general @Ryan_𝐋ikes#6192: .;create-clan
+2018-05-02 22:43:49 #general @Renity#0767: @Ryan_𝐋ikes, What should the Clan name be?(Input "server" if you desire a clan named after your server. This will add the server owner as the clan owner.)\n\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 30 seconds.
+2018-05-02 22:43:52 #general @Ryan_𝐋ikes#6192: lol
+2018-05-02 22:43:52 #general @Renity#0767: @Ryan_𝐋ikes, What do you want the description to be?\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 30 seconds.
+2018-05-02 22:43:54 #general @Ryan_𝐋ikes#6192: lol
+2018-05-02 22:43:55 #general @Renity#0767: @Ryan_𝐋ikes, An error occurred while running the command: `TypeError: Cannot read property 'id' of null`\nYou shouldn't ever receive an error like this.\nPlease contact iAlusion#3104 in this server: iAlusion#3104
+2018-05-02 22:48:32 #general @CSGO-STATS.NET#0943: 
+2018-05-02 22:49:04 #general @Stranger#6688: 
+2018-05-02 22:49:18 #general @Ryan_𝐋ikes#6192: !csgostats Wesker_.
+2018-05-02 22:49:20 #general @CSGO-STATS.NET#0943: @Ryan_𝐋ikes, no player found with this ID\nIf you need help write `!csgostatsnet help`
+2018-05-02 22:49:53 #general @Ryan_𝐋ikes#6192: !csgostatsnet help
+2018-05-02 22:51:39 #general @Ryan_𝐋ikes#6192: !csgostatsnet fer
+2018-05-02 22:52:05 #general @Ryan_𝐋ikes#6192: !csgostats fe
+2018-05-02 22:52:07 #general @CSGO-STATS.NET#0943: 
+2018-05-02 22:52:07 #general @CSGO-STATS.NET#0943 edited message from 2018-05-02 22:52:07 () to read: 
+2018-05-02 22:52:11 #general @Ryan_𝐋ikes#6192: !csgostats fer
+2018-05-02 22:52:14 #general @CSGO-STATS.NET#0943: 
+2018-05-02 22:52:15 #general @CSGO-STATS.NET#0943 edited message from 2018-05-02 22:52:14 () to read: 
+2018-05-02 22:57:15 #general @Hangman#8235: 
+2018-05-02 22:57:15 #general @Hangman#8235: This server has been blacklisted for `Bot collection server`. If this is an issue please contact xXBuilderBXx#8265
+2018-05-02 22:57:39 #general @Wump#9467: 
+2018-05-02 22:58:20 #general @G4M3R#3591: 
+2018-05-02 22:58:23 #general @G4M3R#3591: 
+2018-05-02 22:58:31 #general @G4M3R#3591 edited message from 2018-05-02 22:58:23 () to read: 
+2018-05-02 22:58:38 #general @Guess That Number#5634: 
+2018-05-02 22:58:50 #general @Ryan_𝐋ikes#6192: g!help
+2018-05-02 22:58:50 #general @Guess That Number#5634: 
+2018-05-02 22:58:50 #general @G4M3R#3591: 
+2018-05-02 22:58:50 #general @Guess That Number#5634 edited message from 2018-05-02 22:58:50 () to read: 
+2018-05-02 22:58:52 #general @G4M3R#3591 edited message from 2018-05-02 22:58:50 () to read: 
+2018-05-02 23:00:12 #general @Ryan_𝐋ikes#6192: g!help community
+2018-05-02 23:00:15 #general @G4M3R#3591: 
+2018-05-02 23:00:15 #general @G4M3R#3591 edited message from 2018-05-02 23:00:15 () to read: 
+2018-05-02 23:00:41 #general @Ryan_𝐋ikes#6192: g!start
+2018-05-02 23:00:41 #general @Guess That Number#5634: 
+2018-05-02 23:00:43 #general @Guess That Number#5634 edited message from 2018-05-02 23:00:41 () to read: 
+2018-05-02 23:00:53 #general @Ryan_𝐋ikes#6192: 300
+2018-05-02 23:01:04 #general @Ryan_𝐋ikes#6192: g!guess 100
+2018-05-02 23:01:04 #general @Guess That Number#5634: 
+2018-05-02 23:01:04 #general @Guess That Number#5634 edited message from 2018-05-02 23:01:04 () to read: 
+2018-05-02 23:01:13 #general @Ryan_𝐋ikes#6192: g!guess 3000
+2018-05-02 23:01:13 #general @Guess That Number#5634: 
+2018-05-02 23:01:13 #general @Guess That Number#5634 edited message from 2018-05-02 23:01:13 () to read: 
+2018-05-02 23:01:35 #general @Ryan_𝐋ikes#6192: g!shop
+2018-05-02 23:01:38 #general @Guess That Number#5634: :thinking:   **»**   The developer of this bot currently is unable to think of anything to add to this shop. If you have an idea of what to put here, please suggest it here: https://discord.gg/3hqURjk
+2018-05-02 23:16:00 #general @Ryan_𝐋ikes#6192: -s
+2018-05-02 23:16:02 #general @G4M3R#3591: 
+2018-05-02 23:16:04 #general @G4M3R#3591 edited message from 2018-05-02 23:16:02 () to read: 
+2018-05-02 23:16:43 #general @Ryan_𝐋ikes#6192: -s
+2018-05-02 23:16:58 #general @Ryan_𝐋ikes#6192: @Stranger help
+2018-05-02 23:16:58 #general @Stranger#6688: 
+2018-05-02 23:16:58 #general @Stranger#6688 edited message from 2018-05-02 23:16:58 () to read: 
+2018-05-02 23:16:58 #general @Stranger#6688: https://discord.gg/uekTNPj
+2018-05-02 23:17:32 #general @Ryan_𝐋ikes#6192: -s start
+2018-05-02 23:18:09 #general @Ryan_𝐋ikes#6192: -s next
+2018-05-02 23:20:12 #general @Ryan_𝐋ikes#6192: -s start

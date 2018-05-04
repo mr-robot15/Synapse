@@ -1,0 +1,126 @@
+2018-04-22 19:53:28 this bot joined the server
+2018-04-22 19:53:28 Role created: 'Synapse' (id 437702502633439232)
+2018-04-22 19:53:28 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-22 19:53:36 Member role add: 'artist' role was added to @Synapse#0692
+2018-04-22 19:55:44 Member join: @zoolabelle bot#1231 (id 434529763177267222)
+2018-04-22 19:55:56 Member role add: 'artist' role was added to @zoolabelle bot#1231
+2018-04-22 19:57:56 Member join: @Nadeko#6685 (id 116275390695079945)
+2018-04-22 19:57:56 Member role add: 'Nadeko' role was added to @Nadeko#6685
+2018-04-22 19:57:56 Role created: 'Nadeko' (id 437703610932002847)
+2018-04-22 19:57:56 Member role add: 'Nadeko' role was added to @Nadeko#6685
+2018-04-22 19:58:12 Member nickname: '@Nadeko#6685' (id 116275390695079945) changed nickname from 'None' to 'a furry'
+2018-04-22 19:59:22 Channel overwrites: shop (437702359045636096): role Tatsumaki (437693303845158912) added with values 0, 0
+2018-04-22 19:59:26 Channel overwrites: shop (437702359045636096): role Nadeko (437703610932002847) added with values 0, 0
+2018-04-22 19:59:36 Channel overwrites: shop (437702359045636096): role Nadeko (437703610932002847) updated to values 805829713, 0 (was 0, 0)
+2018-04-22 19:59:49 Channel overwrites: shop (437702359045636096): role Tatsumaki (437693303845158912) updated to values 805829713, 0 (was 0, 0)
+2018-04-22 19:59:52 Channel overwrites: shop (437702359045636096): role @everyone (437689375816417280) added with values 262144, 0
+2018-04-22 19:59:55 Channel overwrites: shop (437702359045636096): role @everyone (437689375816417280) updated to values 311296, 0 (was 262144, 0)
+2018-04-22 20:00:01 Channel overwrites: shop (437702359045636096): role @everyone (437689375816417280) updated to values 314368, 0 (was 311296, 0)
+2018-04-22 20:00:02 Channel overwrites: shop (437702359045636096): role @everyone (437689375816417280) updated to values 268749824, 0 (was 314368, 0)
+2018-04-22 20:00:05 Channel overwrites: shop (437702359045636096): role @everyone (437689375816417280) updated to values 268749824, 16 (was 268749824, 0)
+2018-04-22 20:00:12 Channel overwrites: shop (437702359045636096): role @everyone (437689375816417280) updated to values 268749888, 16 (was 268749824, 16)
+2018-04-22 20:00:29 Member role add: 'Yes, You.' role was added to @Nadeko#6685
+2018-04-22 20:16:55 Member nickname: '@Nadeko#6685' (id 116275390695079945) changed nickname from 'a furry' to 'None'
+2018-04-22 20:19:17 Channel overwrites: shop (437702359045636096): member Synapse (435538622293344266) added with values 0, 0
+2018-04-22 20:19:22 Channel overwrites: shop (437702359045636096): member Synapse (435538622293344266) updated to values 1024, 2048 (was 0, 0)
+2018-04-22 20:19:56 Channel overwrites: shop (437702359045636096): member Synapse (435538622293344266) updated to values 9216, 805820497 (was 1024, 2048)
+2018-04-22 20:20:07 Channel overwrites: shop (437702359045636096): role Synapse (437702502633439232) added with values 0, 0
+2018-04-22 20:20:23 Channel overwrites: shop (437702359045636096): role Synapse (437702502633439232) updated to values 229376, 805600337 (was 0, 0)
+2018-04-22 22:13:32 Member join: @<{Dezel AKA Diesel}>#4837 (id 393138368344621056)
+2018-04-22 22:17:24 Member username: '@<{Dezel AKA Diesel}>#4837' (id 393138368344621056) changed username from '<{Dezel AKA Diesel}>' to '<{Dezel}>'
+2018-04-22 22:21:24 Member join: @Rythm#3722 (id 235088799074484224)
+2018-04-22 22:21:24 Role created: 'Rythm' (id 437739728058449952)
+2018-04-22 22:21:24 Member role add: 'Rythm' role was added to @Rythm#3722
+2018-04-22 22:21:24 Member role add: 'Rythm' role was added to @Rythm#3722
+2018-04-22 22:21:55 Member role add: 'Yes, You.' role was added to @Rythm#3722
+2018-04-22 22:29:10 Role created: 'new role' (id 437741682923143169)
+2018-04-22 22:29:22 Role permissions: 'Rythm' changed from 8 to 262216
+2018-04-22 22:29:22 Role permissions: 'Nadeko' changed from 66186303 to 66448511
+2018-04-22 22:29:22 Role permissions: 'Synapse' changed from 8 to 262216
+2018-04-22 22:29:22 Role position: 'Synapse' changed from 3 to 4
+2018-04-22 22:29:22 Role position: 'Pac-Man Bot' changed from 3 to 5
+2018-04-22 22:29:22 Role position: 'MEE6' changed from 4 to 6
+2018-04-22 22:29:22 Role position: 'Tatsumaki' changed from 5 to 7
+2018-04-22 22:29:22 Role position: 'Waddles' changed from 6 to 8
+2018-04-22 22:29:22 Role position: 'conec one' changed from 7 to 9
+2018-04-22 22:29:22 Role position: 'artist' changed from 8 to 10
+2018-04-22 22:29:22 Role position: 'Yes, You.' changed from 9 to 11
+2018-04-22 22:29:22 Role position: 'adminis' changed from 10 to 12
+2018-04-22 22:29:23 Role renamed: 'new role' to 'Admin'
+2018-04-22 22:29:23 Role color: 'new role' changed from #000000 to #e74c3c
+2018-04-22 22:29:23 Role mentionable: 'Admin' is now mentionable
+2018-04-22 22:29:23 Role hoist: 'Admin' is now shown seperately
+2018-04-22 22:29:23 Role permissions: 'new role' changed from 104324161 to 104324169
+2018-04-22 22:29:29 Member role add: 'Admin' role was added to @LunalaScout#1143
+2018-04-22 22:29:36 Member role remove: The 'adminis' role was removed from @LunalaScout#1143
+2018-04-23 01:07:41 Member join: @YaboiNONO#0772 (id 351358462564761610)
+2018-04-23 01:07:59 Member role add: 'Yes, You.' role was added to @YaboiNONO#0772
+2018-04-23 01:08:25 Channel created: nocontest_ads
+2018-04-23 01:08:40 Channel topic: nocontest_ads topic was set to "only artists and yes you"
+2018-04-23 01:11:11 Channel created: no, why
+2018-04-23 01:11:26 Channel created: too-spicy-memes
+2018-04-23 01:11:35 Channel created: rules
+2018-04-23 01:11:50 Channel topic: rules topic was set to "only artists to edit"
+2018-04-23 01:11:55 Channel overwrites: rules (437782559355830283): role artist (437690448371253250) added with values 0, 0
+2018-04-23 01:12:09 Channel overwrites: rules (437782559355830283): role artist (437690448371253250) updated to values 805829713, 0 (was 0, 0)
+2018-04-23 01:12:30 Channel topic: rules topic was set to "only artists to edit but yes u"
+2018-04-23 01:12:34 Channel overwrites: rules (437782559355830283): role Yes, You. (437690334609408020) added with values 0, 0
+2018-04-23 01:12:43 Channel overwrites: rules (437782559355830283): role Yes, You. (437690334609408020) updated to values 523328, 0 (was 0, 0)
+2018-04-23 01:12:46 Channel overwrites: rules (437782559355830283): role Yes, You. (437690334609408020) updated to values 537394240, 0 (was 523328, 0)
+2018-04-23 01:14:07 Channel created: serously_offtopic
+2018-04-23 01:14:11 Channel position: serously_offtopic moved from 7 to 6
+2018-04-23 01:14:11 Channel position: rules moved from 6 to 7
+2018-04-23 01:20:31 Member role add: 'Admin' role was added to @YaboiNONO#0772
+2018-04-23 01:21:57 Channel overwrites: General (437689375816417285): member Synapse (435538622293344266) added with values 0, 0
+2018-04-23 01:22:02 Channel overwrites: General (437689375816417285): member Synapse (435538622293344266) updated to values 0, 3145728 (was 0, 0)
+2018-04-23 01:22:04 Channel overwrites: General (437689375816417285): member Synapse (435538622293344266) updated to values 0, 36700160 (was 0, 3145728)
+2018-04-23 01:22:07 Channel overwrites: General (437689375816417285): member Synapse (435538622293344266) updated to values 33554432, 3145728 (was 0, 36700160)
+2018-04-23 01:23:17 Channel created: free_emoji
+2018-04-23 01:24:40 Channel created: talk_all
+2018-04-23 01:24:58 Channel rename: talk_all renamed to talk_all-emojis
+2018-04-23 01:24:58 Channel topic: talk_all topic was set to ""
+2018-04-23 01:25:05 Channel created: only-talk-in-memes
+2018-04-23 01:25:13 Channel overwrites: talk_all-emojis (437785849846038529): role @everyone (437689375816417280) added with values 805829713, 0
+2018-04-23 01:25:32 Channel position: only-talk-in-memes moved from 10 to 5
+2018-04-23 01:25:32 Channel position: too-spicy-memes moved from 5 to 6
+2018-04-23 01:25:32 Channel position: serously_offtopic moved from 6 to 7
+2018-04-23 01:25:32 Channel position: rules moved from 7 to 8
+2018-04-23 01:25:32 Channel position: free_emoji moved from 8 to 9
+2018-04-23 01:25:32 Channel position: talk_all-emojis moved from 9 to 10
+2018-04-23 01:25:34 Channel position: talk_all-emojis moved from 10 to 9
+2018-04-23 01:25:34 Channel position: free_emoji moved from 9 to 10
+2018-04-23 01:25:56 Channel topic: only-talk-in-memes topic was set to "99 = too way spicy"
+2018-04-23 01:26:05 Channel topic: only-talk-in-memes topic was set to "99 = too way spicy\n1 = oof"
+2018-04-23 14:55:24 Member nickname: '@Ronnie#7767' (id 427881258614259722) changed nickname from 'None' to 'Four'
+2018-04-23 15:06:18 Member role add: 'Admin' role was added to @Ronnie#7767
+2018-04-23 15:06:19 Member role remove: The 'Admin' role was removed from @Ronnie#7767
+2018-04-23 15:06:20 Member role add: 'Admin' role was added to @Ronnie#7767
+2018-04-23 15:06:22 Member role remove: The 'Admin' role was removed from @Ronnie#7767
+2018-04-23 15:06:28 Member role add: 'Admin' role was added to @Ronnie#7767
+2018-04-23 15:06:28 Member role remove: The 'Admin' role was removed from @Ronnie#7767
+2018-04-23 15:06:29 Member role add: 'Admin' role was added to @Ronnie#7767
+2018-04-23 15:06:32 Member role remove: The 'Admin' role was removed from @Ronnie#7767
+2018-04-23 15:06:37 Member role add: 'Admin' role was added to @Ronnie#7767
+2018-04-23 21:57:59 Member join: @Кингстон#7827 (id 323830658482962433)
+2018-04-25 17:02:47 Member username: '@Ronnie#7767' (id 427881258614259722) changed username from 'Ronnie' to 'MoltenCenthanThe666thWashrrior'
+2018-04-25 21:06:34 Member leave: @Green Floppy Cap#8337 (id 426948844190695426)
+2018-04-26 18:35:55 Member username: '@MoltenCenthanThe666thWashrrior#7767' (id 427881258614259722) changed username from 'MoltenCenthanThe666thWashrrior' to 'Grassy'
+2018-04-27 01:14:54 Member join: @PikaGirl#7552 (id 169678500893163520)
+2018-04-27 01:15:03 Member nickname: '@PikaGirl#7552' (id 169678500893163520) changed nickname from 'None' to 'Pikachu'
+2018-04-27 01:15:21 Member nickname: '@PikaGirl#7552' (id 169678500893163520) changed nickname from 'Pikachu' to 'Pikachu (Animu girl)'
+2018-04-27 13:28:12 Member username: '@Grassy#7767' (id 427881258614259722) changed username from 'Grassy' to 'Blue British Man'
+2018-04-28 01:08:02 Member join: @CanadaFagada#3354 (id 357332973202178069)
+2018-04-28 01:09:33 Member role add: 'artist' role was added to @CanadaFagada#3354
+2018-04-28 09:57:17 Member username: '@Blue British Man#7767' (id 427881258614259722) changed username from 'Blue British Man' to 'Henry Afton'
+2018-04-28 12:21:35 Member username: '@Henry Afton#7767' (id 427881258614259722) changed username from 'Henry Afton' to 'Molten Freddy'
+2018-04-28 15:51:00 Member username: '@Purple Guy/William Afton#7767' (id 427881258614259722) changed username from 'Purple Guy/William Afton' to 'Phantom Mangle'
+2018-04-28 20:13:02 Member username: '@Crying Child#7767' (id 427881258614259722) changed username from 'Crying Child' to 'Henry'
+2018-04-30 14:14:31 Member username: '@Fredbear#5911' (id 427881258614259722) changed username from 'Fredbear' to 'deaf'
+2018-04-30 18:22:33 Member username: '@deaf#5911' (id 427881258614259722) changed username from 'deaf' to 'Jeremy Fitzgerald'
+2018-05-01 12:13:27 Member username: '@Jeremy Fitzgerald#5911' (id 427881258614259722) changed username from 'Jeremy Fitzgerald' to 'The Ink Demon'
+2018-05-02 02:13:12 Member join: @the gay bird#3680 (id 398902551824695306)
+2018-05-02 17:16:21 Member username: '@The Ink Demon#5911' (id 427881258614259722) changed username from 'The Ink Demon' to 'Fredbear Plush'
+2018-05-02 17:44:27 Member username: '@Fredbear Plush#5911' (id 427881258614259722) changed username from 'Fredbear Plush' to 'suffer'
+2018-05-03 00:01:14 Member role add: 'Yes, You.' role was added to @the gay bird#3680
+2018-05-03 00:01:17 Member role add: 'adminis' role was added to @the gay bird#3680
+2018-05-03 04:24:09 Member join: @comradery#2175 (id 440497599716392961)

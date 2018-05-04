@@ -1,0 +1,390 @@
+{
+    "Servers" : {
+        "180437928923627523" : {
+            "Config" : {
+                "Alert Time" : 0,
+                "Bail Base" : 500,
+                "Crew Output" : "None",
+                "Death Timer" : 86400,
+                "Hardcore" : false,
+                "Heist Cost" : 100,
+                "Heist Planned" : false,
+                "Heist Start" : false,
+                "Police Alert" : 60,
+                "Sentence Base" : 600,
+                "Theme" : "Heist",
+                "Version" : 2.42,
+                "Wait Time" : 20
+            },
+            "Crew" : {},
+            "Players" : {
+                "404909786979631106" : {
+                    "Bail Cost" : 0,
+                    "Criminal Level" : 0,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 0,
+                    "Name" : "Domus",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 0,
+                    "Status" : "Free",
+                    "Time Served" : 0,
+                    "Total Jail" : 0
+                }
+            },
+            "Targets" : {
+                "Josh" : {
+                    "Crew" : 2,
+                    "Success" : 1,
+                    "Vault" : 300000,
+                    "Vault Max" : 300000
+                }
+            },
+            "Theme" : {
+                "Bail" : "bail",
+                "Crew" : "crew",
+                "Heist" : "heist",
+                "Jail" : "jail",
+                "OOB" : "out on bail",
+                "Police" : "Police",
+                "Sentence" : "sentence",
+                "Vault" : "vault"
+            }
+        },
+        "245581810724110338" : {
+            "Config" : {
+                "Alert Time" : 5413,
+                "Bail Base" : 500,
+                "Crew Output" : "None",
+                "Death Timer" : 86400,
+                "Hardcore" : false,
+                "Heist Cost" : 100,
+                "Heist Planned" : false,
+                "Heist Start" : false,
+                "Police Alert" : 60,
+                "Sentence Base" : 600,
+                "Theme" : "Heist",
+                "Version" : 2.42,
+                "Wait Time" : 20
+            },
+            "Crew" : {},
+            "Players" : {
+                "144757226794385408" : {
+                    "Bail Cost" : 500,
+                    "Criminal Level" : 1,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 1,
+                    "Name" : "TheBiggestElf",
+                    "OOB" : false,
+                    "Sentence" : 600,
+                    "Spree" : 0,
+                    "Status" : "Apprehended",
+                    "Time Served" : 5390,
+                    "Total Jail" : 1
+                },
+                "291226226608308224" : {
+                    "Bail Cost" : 500,
+                    "Criminal Level" : 1,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 1,
+                    "Name" : "Klaus Ze Flammenwerfer",
+                    "OOB" : false,
+                    "Sentence" : 600,
+                    "Spree" : 0,
+                    "Status" : "Apprehended",
+                    "Time Served" : 5390,
+                    "Total Jail" : 1
+                }
+            },
+            "Targets" : {
+                "Banka" : {
+                    "Crew" : 5,
+                    "Success" : 20,
+                    "Vault" : 8000,
+                    "Vault Max" : 8000
+                },
+                "Jakuten The Orospu" : {
+                    "Crew" : 3,
+                    "Success" : 35,
+                    "Vault" : 3000,
+                    "Vault Max" : 3000
+                }
+            },
+            "Theme" : {
+                "Bail" : "bail",
+                "Crew" : "crew",
+                "Heist" : "heist",
+                "Jail" : "jail",
+                "OOB" : "out on bail",
+                "Police" : "Police",
+                "Sentence" : "sentence",
+                "Vault" : "vault"
+            }
+        },
+        "427830207265767424" : {
+            "Config" : {
+                "Alert Time" : 29236,
+                "Bail Base" : 200,
+                "Crew Output" : "Long",
+                "Death Timer" : 600,
+                "Hardcore" : false,
+                "Heist Cost" : 200,
+                "Heist Planned" : false,
+                "Heist Start" : false,
+                "Police Alert" : 300,
+                "Sentence Base" : 300,
+                "Theme" : "Heist",
+                "Version" : 2.42,
+                "Wait Time" : 30
+            },
+            "Crew" : {},
+            "Players" : {
+                "127824549264752640" : {
+                    "Bail Cost" : 500,
+                    "Criminal Level" : 2,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 2,
+                    "Name" : "Tanner",
+                    "OOB" : false,
+                    "Sentence" : 600,
+                    "Spree" : 0,
+                    "Status" : "Apprehended",
+                    "Time Served" : 270981,
+                    "Total Jail" : 2
+                },
+                "255736979650510848" : {
+                    "Bail Cost" : 500,
+                    "Criminal Level" : 1,
+                    "Death Timer" : 0,
+                    "Deaths" : 1,
+                    "Jail Counter" : 1,
+                    "Name" : "yohaluf",
+                    "OOB" : true,
+                    "Sentence" : 600,
+                    "Spree" : 0,
+                    "Status" : "Free",
+                    "Time Served" : 231499,
+                    "Total Jail" : 1
+                },
+                "278056548369170438" : {
+                    "Bail Cost" : 200,
+                    "Criminal Level" : 1,
+                    "Death Timer" : 0,
+                    "Deaths" : 1,
+                    "Jail Counter" : 1,
+                    "Name" : "A VERY LITTLE Polski",
+                    "OOB" : true,
+                    "Sentence" : 300,
+                    "Spree" : 1,
+                    "Status" : "Free",
+                    "Time Served" : 299043,
+                    "Total Jail" : 2
+                },
+                "291226226608308224" : {
+                    "Bail Cost" : 1200,
+                    "Criminal Level" : 3,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 3,
+                    "Name" : "Klaus Ze Flammenwerfer",
+                    "OOB" : false,
+                    "Sentence" : 600,
+                    "Spree" : 0,
+                    "Status" : "Apprehended",
+                    "Time Served" : 237581,
+                    "Total Jail" : 10
+                },
+                "300754440045068289" : {
+                    "Bail Cost" : 0,
+                    "Criminal Level" : 0,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 0,
+                    "Name" : "skay <3",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 0,
+                    "Status" : "Free",
+                    "Time Served" : 0,
+                    "Total Jail" : 1
+                },
+                "333234236364554242" : {
+                    "Bail Cost" : 500,
+                    "Criminal Level" : 1,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 1,
+                    "Name" : "Derp",
+                    "OOB" : false,
+                    "Sentence" : 600,
+                    "Spree" : 0,
+                    "Status" : "Apprehended",
+                    "Time Served" : 231342,
+                    "Total Jail" : 2
+                },
+                "350789744143237120" : {
+                    "Bail Cost" : 0,
+                    "Criminal Level" : 0,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 0,
+                    "Name" : "norb",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 0,
+                    "Status" : "Free",
+                    "Time Served" : 0,
+                    "Total Jail" : 0
+                },
+                "391606357788327954" : {
+                    "Bail Cost" : 0,
+                    "Criminal Level" : 0,
+                    "Death Timer" : 0,
+                    "Deaths" : 1,
+                    "Jail Counter" : 0,
+                    "Name" : "exo.",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 1,
+                    "Status" : "Free",
+                    "Time Served" : 0,
+                    "Total Jail" : 0
+                },
+                "422752559569305600" : {
+                    "Bail Cost" : 600,
+                    "Criminal Level" : 2,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 2,
+                    "Name" : "oland is gay",
+                    "OOB" : false,
+                    "Sentence" : 300,
+                    "Spree" : 0,
+                    "Status" : "Apprehended",
+                    "Time Served" : 239381,
+                    "Total Jail" : 2
+                },
+                "426234414255570959" : {
+                    "Bail Cost" : 0,
+                    "Criminal Level" : 0,
+                    "Death Timer" : 226590,
+                    "Deaths" : 1,
+                    "Jail Counter" : 0,
+                    "Name" : "Mr. Robot",
+                    "OOB" : false,
+                    "Sentence" : 0,
+                    "Spree" : 0,
+                    "Status" : "Dead",
+                    "Time Served" : 0,
+                    "Total Jail" : 7
+                }
+            },
+            "Targets" : {
+                "Bank" : {
+                    "Crew" : 5,
+                    "Success" : 15,
+                    "Vault" : 30000,
+                    "Vault Max" : 30000
+                },
+                "Exo The Gey" : {
+                    "Crew" : 3,
+                    "Success" : 35,
+                    "Vault" : 10000,
+                    "Vault Max" : 10000
+                }
+            },
+            "Theme" : {
+                "Bail" : "bail",
+                "Crew" : "crew",
+                "Heist" : "heist",
+                "Jail" : "jail",
+                "OOB" : "out on bail",
+                "Police" : "Police",
+                "Sentence" : "sentence",
+                "Vault" : "vault"
+            }
+        },
+        "438379038994857985" : {
+            "Config" : {
+                "Alert Time" : 0,
+                "Bail Base" : 500,
+                "Crew Output" : "None",
+                "Death Timer" : 86400,
+                "Hardcore" : false,
+                "Heist Cost" : 100,
+                "Heist Planned" : false,
+                "Heist Start" : false,
+                "Police Alert" : 60,
+                "Sentence Base" : 600,
+                "Theme" : "Heist",
+                "Version" : 2.42,
+                "Wait Time" : 20
+            },
+            "Crew" : {},
+            "Players" : {
+                "186417609640640512" : {
+                    "Bail Cost" : 500,
+                    "Criminal Level" : 1,
+                    "Death Timer" : 0,
+                    "Deaths" : 1,
+                    "Jail Counter" : 1,
+                    "Name" : "R.",
+                    "OOB" : false,
+                    "Sentence" : 600,
+                    "Spree" : 0,
+                    "Status" : "Apprehended",
+                    "Time Served" : 744,
+                    "Total Jail" : 1
+                },
+                "391606357788327954" : {
+                    "Bail Cost" : 500,
+                    "Criminal Level" : 1,
+                    "Death Timer" : 0,
+                    "Deaths" : 0,
+                    "Jail Counter" : 1,
+                    "Name" : "exo.",
+                    "OOB" : false,
+                    "Sentence" : 600,
+                    "Spree" : 0,
+                    "Status" : "Apprehended",
+                    "Time Served" : 744,
+                    "Total Jail" : 2
+                }
+            },
+            "Targets" : {
+                "Fleeca Job" : {
+                    "Crew" : 2,
+                    "Success" : 65,
+                    "Vault" : 100000000,
+                    "Vault Max" : 100000000
+                },
+                "Maze Bank" : {
+                    "Crew" : 6,
+                    "Success" : 30,
+                    "Vault" : 1000000,
+                    "Vault Max" : 1000000
+                },
+                "Ultimate Bank (usa Bank)" : {
+                    "Crew" : 12,
+                    "Success" : 25,
+                    "Vault" : 10000000,
+                    "Vault Max" : 10000000
+                }
+            },
+            "Theme" : {
+                "Bail" : "bail",
+                "Crew" : "crew",
+                "Heist" : "heist",
+                "Jail" : "jail",
+                "OOB" : "out on bail",
+                "Police" : "Police",
+                "Sentence" : "sentence",
+                "Vault" : "vault"
+            }
+        }
+    }
+}

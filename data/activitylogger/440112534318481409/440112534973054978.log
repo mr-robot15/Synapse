@@ -1,0 +1,49 @@
+2018-05-02 12:43:54 #general @Synapse#0692: 
+2018-05-02 12:44:40 #general @ドリアン#8850: qqun samuse à rajouter des bots ?
+2018-05-02 12:45:05 #general @Antoine#1742: Pas moi
+2018-05-02 12:45:19 #general @Ghostplay R2#1298: 
+2018-05-02 12:45:31 #general @ドリアン#8850: @ุู . fait gaffe,  @Synapse a les roles dadministrateur
+2018-05-02 12:45:39 #general @ุู .#3120: Je sait
+2018-05-02 12:45:39 #general @ドリアン#8850: ya peu etre des risques
+2018-05-02 12:45:46 #general @ドリアン#8850 deleted message from 2018-05-02 12:45:39 (ya peu etre des risques)
+2018-05-02 12:45:49 #general @Antoine#1742: Ghostplay n'est même pas resté 0.5s
+2018-05-02 12:46:07 #general @ドリアン#8850: @ุู . cest toi qui tamuse ?
+2018-05-02 12:46:31 #general @ุู .#3120: Bah je veux inviter un bot mais il reste pas :/
+2018-05-02 12:46:47 #general @Antoine#1742: Mais c'est quoi @Synapse ?
+2018-05-02 12:46:49 #general @ドリアン#8850: mais cest toi qui a admis synapse ?
+2018-05-02 12:47:09 #general @ุู .#3120: Oui
+2018-05-02 12:47:15 #general @Antoine#1742: Ah ok
+2018-05-02 12:47:31 #general @Antoine#1742: .help
+2018-05-02 12:47:53 #general @ドリアン#8850: !help
+2018-05-02 12:47:56 #general @Synapse#0692: Check your DM, @ドリアン! I have sent something for you :wink:
+2018-05-02 12:48:24 #general @ドリアン#8850: wooo,
+2018-05-02 12:48:28 #general @ドリアン#8850: 10 pages
+2018-05-02 12:48:29 #general @ドリアン#8850: wtf
+2018-05-02 12:48:34 #general @Antoine#1742: Wtf
+2018-05-02 12:48:41 #general @Antoine#1742: Moi j'ai juste eu des liens
+2018-05-02 12:48:49 #general @ドリアン#8850: jai eu 15k commandes
+2018-05-02 12:48:49 #general @Antoine#1742: !help
+2018-05-02 12:48:50 #general @Synapse#0692: Check your DM, @Antoine! I have sent something for you :wink:
+2018-05-02 12:49:06 #general @Antoine#1742: Ah ouais lol
+2018-05-02 12:51:46 #general @ุู .#3120: !help
+2018-05-02 12:51:48 #general @Synapse#0692: Check your DM, @ุู .! I have sent something for you :wink:
+2018-05-02 12:58:11 #general @Ghostplay R2#1298: 
+2018-05-02 12:58:28 #general @ุู .#3120: Ptn
+2018-05-02 13:16:21 #general @ุู .#3120: <:GWqlabsRIP:398950660147642368>
+2018-05-02 15:09:15 #general @ドリアン#8850: @Antoine regarde lactivity de mes bots dans le menu a droite -->
+2018-05-02 15:10:48 #general @␥Maximee#3120: On garde @Synapse ? (Pour se donner des idées par ex .. ) ou pas ?
+2018-05-02 15:11:58 #general @ドリアン#8850: mmmhh... pour linstant oui
+2018-05-02 15:12:22 #general @ドリアン#8850: après @ًًً je pourrais pas faire de nvx trucs tant que mon firebase marchera pas, tout repose sur toi
+2018-05-02 15:12:53 #general @␥Maximee#3120: Ah bah j'etait pas au courant que ça marchait pas
+2018-05-02 15:13:09 #general @␥Maximee#3120: Je suis technicien firebase <:GWqlabsThinkBan:398950634533027841>
+2018-05-02 15:13:30 #general @ドリアン#8850: la preuve, hier Matt a essayé a!daily et ca a affiché Nan:Nan:Nan
+2018-05-02 15:13:49 #general @␥Maximee#3120: Mais ça c'est ta commande c'est pas firebase
+2018-05-02 15:13:51 #general @ドリアン#8850: ouaip, ya que toi qui peut me **SOVAI**
+2018-05-02 15:13:55 #general @ドリアン#8850: je sais
+2018-05-02 15:14:47 #general @ドリアン#8850: je te passe mon fichier commands.js et jenlève ttes les commandes innutiles, ca tepargnera 800 lignes de code à trier
+2018-05-02 15:15:32 #general @␥Maximee#3120: C'est simpas
+2018-05-02 15:15:39 #general @␥Maximee#3120: <:GWqlabsMmLol:398950702505918478>
+2018-05-02 15:15:47 #general @␥Maximee#3120: <:GWqlabsCatGlareSip:398950916960550912>
+2018-05-02 15:39:34 #general @Antoine#1742: @ドリアン t'as fais comment pour la description du Bot ?
+2018-05-02 16:21:57 #general @ドリアン#8850: ```\nbot.on('ready', () => {\n	bot.user\n		.setGame('$help | '+bot.guilds.size+' servers')\n});\n```
+2018-05-02 16:24:14 #general @Antoine#1742: ok

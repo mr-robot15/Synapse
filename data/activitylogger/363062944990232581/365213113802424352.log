@@ -1,0 +1,26 @@
+2018-04-19 16:09:56 #rules @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™#8963: !help
+2018-04-19 16:09:56 #rules @Ghostplay#4203: Hey there, @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-04-19 16:09:57 #rules @Synapse#0692: Check your DM, @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™! I have sent something for you :wink:
+2018-04-19 16:15:34 #rules @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™#8963: !colorme change
+2018-04-19 16:15:35 #rules @Synapse#0692: ```\n!colorme change <newcolor>\n\nChange the color of your name.\n\nNew color must be a valid hexidecimal color value.\n\n```
+2018-04-19 16:15:57 #rules @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™#8963: !colorme listprotect
+2018-04-19 16:15:57 #rules @Synapse#0692: Protected role(s):.
+2018-04-19 16:16:04 #rules @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™#8963: none
+2018-04-22 09:39:56 #rules @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™#8963: /unload multicolor
+2018-04-22 09:39:57 #rules @test bot#8669: The cog has been unloaded.
+2018-04-22 09:40:04 #rules @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™#8963: /unload rainbow
+2018-04-22 09:40:04 #rules @test bot#8669: The cog has been unloaded.
+2018-04-22 09:40:23 #rules @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™#8963: /help
+2018-04-22 09:40:24 #rules @test bot#8669: Hey there, @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-04-22 09:42:21 #rules @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™#8963: https://discordapp.com/oauth2/authorize?client_id=375451447392862210&scope=bot
+2018-04-22 10:11:17 #rules @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™#8963: !kick
+2018-04-22 10:11:17 #rules @Synapse#0692: ```\n!kick <user> [reason]\n\nKicks user.\n\n```
+2018-04-22 10:11:17 #rules @Ghostplay#4203: ```\n!kick <user> [reason]\n\nKicks user.\n\n```
+2018-04-22 10:11:29 #rules @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™#8963: !help
+2018-04-22 10:11:29 #rules @Ghostplay#4203: Hey there, @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-04-22 10:11:31 #rules @Synapse#0692: Check your DM, @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™! I have sent something for you :wink:
+2018-04-22 10:14:09 #rules @That1welshman✓ᵛᵉʳᶦᶠᶦᵉᵈ™#8963: !modset
+2018-04-22 10:14:09 #rules @Ghostplay#4203: ```\n!modset\n\nManages server administration settings.\n\nCommands:\n  banmentionspam Enables auto ban for messages mentioning X different people\n  cases          Enables or disables case creation for each type of mod action\n  deletedelay    Sets the delay until the bot removes the command message.\n  deleterepeats  Enables auto deletion of repeated messages\n  hierarchy      Toggles role hierarchy check for mods / admins\n  modlog         Sets a channel as mod log\n  resetcases     Resets modlog's cases\n\nType !modset command for more info on a command.\nYou can also type !modset category for more info on a category.\n```
+2018-04-22 10:14:09 #rules @Synapse#0692: ```\n!modset\n\nManages server administration settings.\n\nCommands:\n  modlog         Sets a channel as mod log\n  hierarchy      Toggles role hierarchy check for mods / admins\n  deletedelay    Sets the delay until the bot removes the command message.\n  deleterepeats  Enables auto deletion of repeated messages\n  banmentionspam Enables auto ban for messages mentioning X different people\n  resetcases     Resets modlog's cases\n  cases          Enables or disables case creation for each type of mod action\n\nType !modset command for more info on a command.\nYou can also type !modset category for more info on a category.\n```
+2018-04-22 10:14:09 #rules @Ghostplay#4203: ```\nAdmin role: Admin\nMod role: Mod\nMod-log: None\nDelete repeats: False\nBan mention spam: False\nDelete delay: Disabled\nRespects hierarchy: False\n```
+2018-04-22 10:14:09 #rules @Synapse#0692: ```\nAdmin role: mods\nMod role: moderator\nMod-log: None\nDelete repeats: False\nBan mention spam: False\nDelete delay: Disabled\nRespects hierarchy: False\n```

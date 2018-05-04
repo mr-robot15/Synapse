@@ -1,0 +1,19 @@
+2018-04-30 21:10:35 #general @Synapse#0692: 
+2018-04-30 21:10:35 #general @Poni#3202: 
+2018-04-30 21:10:37 #general @Poni#3202 edited message from 2018-04-30 21:10:35 () to read: 
+2018-04-30 21:10:41 #general @YouFoundDevGucci#1480: !help
+2018-04-30 21:10:42 #general @Synapse#0692: Check your DM, @YouFoundDevGucci! I have sent something for you :wink:
+2018-04-30 21:10:41 #general @MEE6#4876: 
+2018-04-30 21:10:42 #general @MEE6#4876 edited message from 2018-04-30 21:10:41 () to read: 
+2018-04-30 21:10:42 #general @MEE6#4876: 
+2018-04-30 21:10:42 #general @MEE6#4876 edited message from 2018-04-30 21:10:42 () to read: 
+2018-04-30 21:10:42 #general @MEE6#4876: 
+2018-04-30 21:10:43 #general @MEE6#4876 edited message from 2018-04-30 21:10:42 () to read: 
+2018-04-30 21:10:43 #general @MEE6#4876: 
+2018-04-30 21:10:43 #general @MEE6#4876 edited message from 2018-04-30 21:10:43 () to read: 
+2018-04-30 21:11:03 #general @YouFoundDevGucci#1480: !colorme
+2018-04-30 21:11:04 #general @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  protect     Add a role to the list of protected roles.\n  clean       Clean colorme roles by removing all permissions.\n  unprotect   Remove a role from the list of protected roles.\n  change      Change the color of your name.\n  purge       Purge the server of roles that may have been created\n  listprotect Lists roles that are protected from color changes.\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```
+2018-04-30 21:11:22 #general @YouFoundDevGucci#1480: !colorme change
+2018-04-30 21:11:22 #general @Synapse#0692: ```\n!colorme change <newcolor>\n\nChange the color of your name.\n\nNew color must be a valid hexidecimal color value.\n\n```
+2018-04-30 21:11:34 #general @YouFoundDevGucci#1480: !colorme change rainnbow
+2018-04-30 21:11:34 #general @Synapse#0692: @YouFoundDevGucci, Color must be a valid hexidecimal value.

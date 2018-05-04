@@ -1,0 +1,205 @@
+2018-04-21 14:16:31 this bot joined the server
+2018-04-21 14:16:31 Role created: 'Synapse' (id 437255316116209694)
+2018-04-21 14:16:31 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-21 14:17:19 Role created: 'new role' (id 437255520563363850)
+2018-04-21 14:17:56 Role permissions: 'Synapse' changed from 8 to 262216
+2018-04-21 14:17:57 Role renamed: 'new role' to '~Owner~'
+2018-04-21 14:17:57 Role color: 'new role' changed from #000000 to #71368a
+2018-04-21 14:17:57 Role hoist: '~Owner~' is now shown seperately
+2018-04-21 14:17:57 Role permissions: 'new role' changed from 104324161 to 2146958591
+2018-04-21 14:18:39 Role color: 'Synapse' changed from #000000 to #a2a2a2
+2018-04-21 14:19:36 Role created: 'new role' (id 437256092603383818)
+2018-04-21 14:20:12 Role color: '~Owner~' changed from #71368a to #9b59b6
+2018-04-21 14:20:12 Role renamed: 'new role' to '!Bots'
+2018-04-21 14:20:12 Role color: 'new role' changed from #000000 to #1d002e
+2018-04-21 14:20:16 Member role add: '~Owner~' role was added to @c h o k e. p l e a s e#1273
+2018-04-21 14:20:18 Member role add: '!Bots' role was added to @Synapse#0692
+2018-04-21 14:21:31 Member join: @Kairos#4672 (id 135203991058382848)
+2018-04-21 14:21:31 Member role add: 'Kairos' role was added to @Kairos#4672
+2018-04-21 14:21:31 Role created: 'Kairos' (id 437256575917359125)
+2018-04-21 14:21:31 Member role add: 'Kairos' role was added to @Kairos#4672
+2018-04-21 14:21:54 Member role add: '!Bots' role was added to @Kairos#4672
+2018-04-21 14:22:36 Member nickname: '@Kairos#4672' (id 135203991058382848) changed nickname from 'None' to 'Kairos (=)'
+2018-04-21 14:23:20 Member nickname: '@Synapse#0692' (id 435538622293344266) changed nickname from 'None' to 'Synapse (! or .)'
+2018-04-21 14:24:49 Role hoist: '!Bots' is now shown seperately
+2018-04-21 14:25:31 Channel rename: general renamed to welcome
+2018-04-21 14:25:31 Channel topic: general topic was set to ""
+2018-04-21 14:26:01 Channel created: bots
+2018-04-21 14:26:01 Role created: 'new role' (id 437257706966089728)
+2018-04-21 14:26:01 Role renamed: 'new role' to 'Muted'
+2018-04-21 14:26:01 Role permissions: 'new role' changed from 104324161 to 0
+2018-04-21 14:26:28 Channel overwrites: bots (437257706198401035): role @everyone (437254930101829653) updated to values 0, 805829713 (was 0, 1024)
+2018-04-21 14:28:16 Member join: @Mirai#3157 (id 125367104336691200)
+2018-04-21 14:28:16 Member role add: 'Mirai' role was added to @Mirai#3157
+2018-04-21 14:28:16 Role created: 'Mirai' (id 437258275025846285)
+2018-04-21 14:28:16 Member role add: 'Mirai' role was added to @Mirai#3157
+2018-04-21 14:28:26 Member role add: '!Bots' role was added to @Mirai#3157
+2018-04-21 14:28:47 Member nickname: '@Mirai#3157' (id 125367104336691200) changed nickname from 'None' to 'Mirai (m.)'
+2018-04-21 14:30:10 Member join: @Dyno#3861 (id 155149108183695360)
+2018-04-21 14:30:10 Role created: 'Dyno' (id 437258752744357888)
+2018-04-21 14:30:10 Member role add: 'Dyno' role was added to @Dyno#3861
+2018-04-21 14:30:10 Member role add: 'Dyno' role was added to @Dyno#3861
+2018-04-21 14:30:14 Member role add: '!Bots' role was added to @Dyno#3861
+2018-04-21 14:30:42 Member role remove: The '!Bots' role was removed from @Synapse#0692
+2018-04-21 14:30:44 Member role add: '!Bots' role was added to @Synapse#0692
+2018-04-21 14:30:55 Member nickname: '@Dyno#3861' (id 155149108183695360) changed nickname from 'None' to 'Dyno (?)'
+2018-04-21 14:34:45 Channel created: for-fun
+2018-04-21 14:34:45 Channel overwrites: for-fun (437259904630128643): role Muted (437257706966089728) added with values 0, 6144
+2018-04-21 14:37:15 Channel created: rules
+2018-04-21 14:37:16 Channel overwrites: rules (437260536653283339): role Muted (437257706966089728) added with values 0, 6144
+2018-04-21 14:37:18 Channel position: rules moved from 3 to 0
+2018-04-21 14:37:18 Channel position: welcome moved from 0 to 1
+2018-04-21 14:37:18 Channel position: bots moved from 1 to 2
+2018-04-21 14:37:18 Channel position: for-fun moved from 2 to 3
+2018-04-21 14:40:56 Channel overwrites: rules (437260536653283339): role @everyone (437254930101829653) added with values 66560, 805763153
+2018-04-21 14:42:49 Member join: @Birb#7687 (id 271186557396975626)
+2018-04-21 14:42:49 Member role add: 'Birb' role was added to @Birb#7687
+2018-04-21 14:42:49 Role created: 'Birb' (id 437261933704511492)
+2018-04-21 14:42:49 Member role add: 'Birb' role was added to @Birb#7687
+2018-04-21 14:43:06 Member nickname: '@Birb#7687' (id 271186557396975626) changed nickname from 'None' to 'Birb (b!)'
+2018-04-21 14:45:03 Member role add: '!Bots' role was added to @Birb#7687
+2018-04-21 14:47:22 Member join: @Glyph#8361 (id 248186527161516032)
+2018-04-21 14:47:22 Role created: 'Glyph' (id 437263081836380161)
+2018-04-21 14:47:22 Member role add: 'Glyph' role was added to @Glyph#8361
+2018-04-21 14:50:49 Member join: @Welcomer#5491 (id 330416853971107840)
+2018-04-21 14:50:49 Role created: 'Welcomer' (id 437263947523948575)
+2018-04-21 14:50:49 Member role add: 'Welcomer' role was added to @Welcomer#5491
+2018-04-21 14:50:49 Member role add: 'Welcomer' role was added to @Welcomer#5491
+2018-04-21 14:51:16 Member role add: '!Bots' role was added to @Glyph#8361
+2018-04-21 14:51:22 Member role add: '!Bots' role was added to @Welcomer#5491
+2018-04-21 14:52:24 Member nickname: '@Welcomer#5491' (id 330416853971107840) changed nickname from 'None' to 'Welcomer (+)'
+2018-04-21 14:55:36 Channel deleted: welcome
+2018-04-21 14:55:52 Channel created: welcome
+2018-04-21 14:55:52 Channel overwrites: welcome (437265219224338443): role Muted (437257706966089728) added with values 0, 6144
+2018-04-21 14:56:16 Channel position: welcome moved from 4 to 1
+2018-04-21 14:56:18 Channel position: for-fun moved from 3 to 2
+2018-04-21 14:56:18 Channel position: bots moved from 2 to 3
+2018-04-21 14:57:06 Member join: @Ayana Beta#9311 (id 193959067671068673)
+2018-04-21 14:57:06 Member role add: 'Ayana Beta' role was added to @Ayana Beta#9311
+2018-04-21 14:57:06 Role created: 'Ayana Beta' (id 437265528487411712)
+2018-04-21 14:57:06 Member role add: 'Ayana Beta' role was added to @Ayana Beta#9311
+2018-04-21 14:57:42 Member role add: '!Bots' role was added to @Ayana Beta#9311
+2018-04-21 17:25:05 Member join: @Trivia#0005 (id 337654994461261825)
+2018-04-21 17:26:19 Channel overwrites: welcome (437265219224338443): role @everyone (437254930101829653) updated to values 1024, 14336 (was 0, 1024)
+2018-04-21 17:26:30 Member leave: @Trivia#0005 (id 337654994461261825)
+2018-04-21 17:27:15 Member join: @Mantaro#4454 (id 213466096718708737)
+2018-04-21 17:27:15 Member role add: 'Mantaro' role was added to @Mantaro#4454
+2018-04-21 17:27:15 Role created: 'Mantaro' (id 437303318218539008)
+2018-04-21 17:27:15 Member role add: 'Mantaro' role was added to @Mantaro#4454
+2018-04-21 17:27:42 Member nickname: '@Mantaro#4454' (id 213466096718708737) changed nickname from 'None' to 'Mantaro (->)'
+2018-04-21 17:27:49 Member role add: '!Bots' role was added to @Mantaro#4454
+2018-04-21 17:28:40 Channel overwrites: welcome (437265219224338443): role !Bots (437256092603383818) updated to values 7168, 0 (was 1024, 0)
+2018-04-21 17:29:50 Member join: @Chihiro#0162 (id 421734614042804234)
+2018-04-21 17:29:50 Member role add: 'Chihiro' role was added to @Chihiro#0162
+2018-04-21 17:29:50 Role created: 'Chihiro' (id 437303968331333632)
+2018-04-21 17:29:50 Member role add: 'Chihiro' role was added to @Chihiro#0162
+2018-04-21 17:30:06 Member nickname: '@Chihiro#0162' (id 421734614042804234) changed nickname from 'None' to 'Chihiro (chi!)'
+2018-04-21 17:31:00 Member role add: '!Bots' role was added to @Chihiro#0162
+2018-04-21 17:38:25 Member join: @Senpai#4451 (id 206955935229280256)
+2018-04-21 17:38:25 Member role add: 'Senpai' role was added to @Senpai#4451
+2018-04-21 17:38:25 Role created: 'Senpai' (id 437306125528989696)
+2018-04-21 17:38:25 Member role add: 'Senpai' role was added to @Senpai#4451
+2018-04-21 17:38:43 Role deleted: 'Senpai' (id 437306125528989696)
+2018-04-21 17:38:43 Member leave: @Senpai#4451 (id 206955935229280256)
+2018-04-21 17:40:53 Channel created: f-a-q
+2018-04-21 17:40:53 Channel overwrites: f-a-q (437306746180993025): role Muted (437257706966089728) added with values 0, 6144
+2018-04-21 17:45:27 Channel deleted: f-a-q
+2018-04-21 17:47:17 Member join: @Lil Core#3696 (id 277645255153680384)
+2018-04-21 17:49:52 Channel deleted: welcome
+2018-04-21 17:49:59 Channel created: welcome
+2018-04-21 17:49:59 Channel overwrites: welcome (437309036950454272): role Muted (437257706966089728) added with values 0, 6144
+2018-04-21 17:50:04 Channel position: welcome moved from 4 to 0
+2018-04-21 17:50:04 Channel position: rules moved from 0 to 1
+2018-04-21 17:50:25 Channel overwrites: welcome (437309036950454272): role @everyone (437254930101829653) added with values 66560, 6144
+2018-04-21 17:50:37 Channel overwrites: welcome (437309036950454272): role !Bots (437256092603383818) added with values 0, 0
+2018-04-21 17:50:39 Channel overwrites: welcome (437309036950454272): role ~Owner~ (437255520563363850) added with values 0, 0
+2018-04-21 17:51:00 Channel overwrites: welcome (437309036950454272): role !Bots (437256092603383818) updated to values 805829713, 0 (was 0, 0)
+2018-04-21 17:52:22 Channel rename: Text Channels renamed to ☼Main☼
+2018-04-21 17:53:51 Channel rename: Voice Channels renamed to ♦Admins♦
+2018-04-21 17:54:11 Channel rename: General renamed to ~admin call~
+2018-04-21 17:54:29 Channel created: main-chat
+2018-04-21 17:54:29 Channel overwrites: main-chat (437310169815187476): role Muted (437257706966089728) added with values 0, 6144
+2018-04-21 17:54:32 Channel position: main-chat moved from 4 to 2
+2018-04-21 17:54:32 Channel position: for-fun moved from 2 to 3
+2018-04-21 17:54:32 Channel position: bots moved from 3 to 4
+2018-04-21 17:54:36 Channel position: for-fun moved from 3 to 2
+2018-04-21 17:54:36 Channel position: main-chat moved from 2 to 3
+2018-04-21 17:59:33 Channel position: main-chat moved from 3 to 2
+2018-04-21 17:59:33 Channel position: for-fun moved from 2 to 3
+2018-04-21 17:59:39 Channel created: spam
+2018-04-21 17:59:39 Channel overwrites: spam (437311470070530048): role Muted (437257706966089728) added with values 0, 6144
+2018-04-21 17:59:43 Channel position: spam moved from 5 to 4
+2018-04-21 17:59:43 Channel position: bots moved from 4 to 5
+2018-04-21 18:00:35 Member join: @Waifu#4366 (id 259932651417370624)
+2018-04-21 18:00:35 Member role add: 'Waifu' role was added to @Waifu#4366
+2018-04-21 18:00:35 Role created: 'Waifu' (id 437311705698271260)
+2018-04-21 18:00:35 Member role add: 'Waifu' role was added to @Waifu#4366
+2018-04-21 18:02:26 Role deleted: 'Waifu' (id 437311705698271260)
+2018-04-21 18:02:26 Member leave: @Waifu#4366 (id 259932651417370624)
+2018-04-21 18:03:26 Role created: 'new role' (id 437312423603601415)
+2018-04-21 18:04:37 Role permissions: 'Chihiro' changed from 8 to 262216
+2018-04-21 18:04:37 Role permissions: 'Mantaro' changed from 475199 to 475263
+2018-04-21 18:04:37 Role permissions: 'Ayana Beta' changed from 66186303 to 66448511
+2018-04-21 18:04:37 Role position: 'Glyph' changed from 5 to 6
+2018-04-21 18:04:37 Role position: 'Birb' changed from 5 to 7
+2018-04-21 18:04:37 Role position: 'Dyno' changed from 5 to 8
+2018-04-21 18:04:37 Role position: 'Mirai' changed from 5 to 9
+2018-04-21 18:04:37 Role position: 'Muted' changed from 5 to 10
+2018-04-21 18:04:37 Role position: 'Kairos' changed from 5 to 11
+2018-04-21 18:04:37 Role position: '!Bots' changed from 6 to 12
+2018-04-21 18:04:37 Role position: '~Owner~' changed from 7 to 13
+2018-04-21 18:04:37 Role position: 'Synapse' changed from 8 to 14
+2018-04-21 18:04:37 Role renamed: 'new role' to '♋'
+2018-04-21 18:04:37 Role color: 'new role' changed from #000000 to #b590ff
+2018-04-21 18:04:45 Member role add: '♋' role was added to @Lil Core#3696
+2018-04-21 18:05:15 Role hoist: '♋' is now shown seperately
+2018-04-21 18:05:34 Member join: @TopHat#8364 (id 181136098666348545)
+2018-04-21 18:06:00 Member leave: @TopHat#8364 (id 181136098666348545)
+2018-04-21 18:06:49 Channel overwrites: ~admin call~ (437254930617597955): role @everyone (437254930101829653) added with values 1024, 871366673
+2018-04-21 18:06:52 Channel overwrites: ~admin call~ (437254930617597955): role ~Owner~ (437255520563363850) added with values 0, 0
+2018-04-21 18:06:58 Channel overwrites: ~admin call~ (437254930617597955): role ♋ (437312423603601415) added with values 0, 0
+2018-04-21 18:07:00 Channel overwrites: ~admin call~ (437254930617597955): role !Bots (437256092603383818) added with values 0, 0
+2018-04-21 18:07:23 Channel created: ~admin music~
+2018-04-21 18:07:23 Channel overwrites: ~admin music~ (437313416667856905): role Muted (437257706966089728) added with values 0, 0
+2018-04-21 18:07:44 Channel overwrites: ~admin music~ (437313416667856905): role ~Owner~ (437255520563363850) added with values 0, 0
+2018-04-21 18:07:51 Channel overwrites: ~admin music~ (437313416667856905): role !Bots (437256092603383818) added with values 0, 0
+2018-04-21 18:07:54 Channel overwrites: ~admin music~ (437313416667856905): role ♋ (437312423603601415) added with values 0, 0
+2018-04-21 18:07:58 Channel overwrites: ~admin music~ (437313416667856905): role @everyone (437254930101829653) added with values 1024, 871366673
+2018-04-21 18:10:00 Channel created: ۵Everyone Can Talk۵
+2018-04-21 18:10:01 Channel overwrites: ۵Everyone Can Talk۵ (437314076390064129): role Muted (437257706966089728) added with values 0, 0
+2018-04-21 18:10:18 Channel created: ~Everyone Talks~
+2018-04-21 18:11:12 Channel created: bts-trash
+2018-04-21 18:11:13 Channel overwrites: bts-trash (437314378719690752): role Muted (437257706966089728) added with values 0, 6144
+2018-04-21 18:11:39 Channel overwrites: bts-trash (437314378719690752): role @everyone (437254930101829653) updated to values 328768, 805500945 (was 0, 1024)
+2018-04-21 18:24:31 Channel position: bts-trash moved from 6 to 5
+2018-04-21 18:24:31 Channel position: bots moved from 5 to 6
+2018-04-21 18:33:55 Channel created: mantaro
+2018-04-21 18:33:55 Channel overwrites: mantaro (437320093295443988): role Muted (437257706966089728) added with values 0, 6144
+2018-04-21 18:34:01 Channel position: mantaro moved from 7 to 4
+2018-04-21 18:34:01 Channel position: spam moved from 4 to 5
+2018-04-21 18:34:01 Channel position: bts-trash moved from 5 to 6
+2018-04-21 18:34:01 Channel position: bots moved from 6 to 7
+2018-04-21 18:35:02 Channel created: birthdays
+2018-04-21 18:35:02 Channel overwrites: birthdays (437320375093952512): role Muted (437257706966089728) added with values 0, 6144
+2018-04-21 18:35:12 Channel position: ♦Admins♦ moved from 0 to 1
+2018-04-21 18:35:12 Channel position: ۵Everyone Can Talk۵ moved from 1 to 2
+2018-04-21 18:35:42 Channel created: ✰Events✰
+2018-04-21 18:35:42 Channel overwrites: ✰Events✰ (437320542551408642): role Muted (437257706966089728) added with values 0, 0
+2018-04-21 18:35:55 Channel position: ✰Events✰ moved from 3 to 1
+2018-04-21 18:35:55 Channel position: ♦Admins♦ moved from 1 to 2
+2018-04-21 18:35:55 Channel position: ۵Everyone Can Talk۵ moved from 2 to 3
+2018-04-21 18:37:01 Channel overwrites: birthdays (437320375093952512): role @everyone (437254930101829653) added with values 328768, 805500945
+2018-04-21 18:37:12 Channel overwrites: birthdays (437320375093952512): role ~Owner~ (437255520563363850) added with values 0, 0
+2018-04-21 18:37:33 Channel overwrites: birthdays (437320375093952512): role !Bots (437256092603383818) added with values 0, 0
+2018-04-21 18:37:44 Channel overwrites: birthdays (437320375093952512): role !Bots (437256092603383818) updated to values 805829713, 0 (was 0, 0)
+2018-04-21 18:37:44 Channel overwrites: birthdays (437320375093952512): role ~Owner~ (437255520563363850) updated to values 805829713, 0 (was 0, 0)
+2018-04-21 18:42:04 Channel created: giveaways
+2018-04-21 18:42:04 Channel overwrites: giveaways (437322142242177026): role Muted (437257706966089728) updated to values 0, 6144 (was 0, 0)
+2018-04-24 20:46:34 Member leave: @Lil Core#3696 (id 277645255153680384)
+2018-04-24 21:37:47 Role deleted: 'Kairos' (id 437256575917359125)
+2018-04-24 21:37:47 Member leave: @Kairos#4672 (id 135203991058382848)
+2018-04-24 21:37:50 Role deleted: 'Welcomer' (id 437263947523948575)
+2018-04-24 21:37:50 Member leave: @Welcomer#5491 (id 330416853971107840)
+2018-04-24 21:37:53 Role deleted: 'Mirai' (id 437258275025846285)
+2018-04-24 21:37:53 Member leave: @Mirai#3157 (id 125367104336691200)
+2018-04-24 21:37:57 this bot left the server

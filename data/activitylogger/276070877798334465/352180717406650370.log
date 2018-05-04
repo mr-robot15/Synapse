@@ -1,0 +1,5 @@
+2018-04-18 14:40:40 #ssss @MixTe#3606: *multicolour 0 MixTe
+2018-04-18 14:42:37 #ssss @MixTe#3606: !help
+2018-04-18 14:42:39 #ssss @Synapse#0692: Hey there, @MixTend! I sent you a list of commands through DM.
+2018-04-18 14:43:09 #ssss @MixTe#3606: !colorme
+2018-04-18 14:43:10 #ssss @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  unprotect   Remove a role from the list of protected roles.\n  protect     Add a role to the list of protected roles.\n  change      Change the color of your name.\n  clean       Clean colorme roles by removing all permissions.\n  listprotect Lists roles that are protected from color changes.\n  purge       Purge the server of roles that may have been created\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```

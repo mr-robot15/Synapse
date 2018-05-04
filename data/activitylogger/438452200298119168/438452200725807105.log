@@ -1,0 +1,328 @@
+2018-04-27 22:16:15 #general @Synapse#0692: 
+2018-04-27 22:16:40 #general @අපායේ කොල්ලා#0099: .help
+2018-04-27 22:17:31 #general @අපායේ කොල්ලා#0099: .modules
+2018-04-27 22:17:31 #general @Synapse#0692: 
+2018-04-27 22:17:32 #general @Synapse#0692 edited message from 2018-04-27 22:17:31 () to read: 
+2018-04-27 22:17:39 #general @අපායේ කොල්ලා#0099: .admin)
+2018-04-27 22:17:44 #general @අපායේ කොල්ලා#0099: .adnim
+2018-04-27 22:18:07 #general @අපායේ කොල්ලා#0099: .help administration
+2018-04-27 22:18:07 #general @Synapse#0692: 
+2018-04-27 22:18:08 #general @Synapse#0692 edited message from 2018-04-27 22:18:07 () to read: 
+2018-04-27 22:18:27 #general @අපායේ කොල්ලා#0099: .help Gambling
+2018-04-27 22:18:27 #general @Synapse#0692: 
+2018-04-27 22:18:29 #general @Synapse#0692 edited message from 2018-04-27 22:18:27 () to read: 
+2018-04-27 22:18:48 #general @අපායේ කොල්ලා#0099: .cdms Gambling
+2018-04-27 22:19:20 #general @අපායේ කොල්ලා#0099: .cmds Gabbling
+2018-04-27 22:19:20 #general @Synapse#0692: 
+2018-04-27 22:19:21 #general @Synapse#0692 edited message from 2018-04-27 22:19:20 () to read: 
+2018-04-27 22:19:33 #general @අපායේ කොල්ලා#0099: .cmds gambling
+2018-04-27 22:19:33 #general @Synapse#0692: 
+2018-04-27 22:19:34 #general @Synapse#0692 edited message from 2018-04-27 22:19:33 () to read: 
+2018-04-27 22:19:54 #general @අපායේ කොල්ලා#0099: .flip
+2018-04-27 22:19:54 #general @Synapse#0692: 
+2018-04-27 22:19:55 #general @Synapse#0692 edited message from 2018-04-27 22:19:54 () to read: 
+2018-04-27 22:20:40 #general @Ghostplay R2#1298: 
+2018-04-27 22:20:59 #general @අපායේ කොල්ලා#0099: *help
+2018-04-27 22:21:24 #general @Ghostplay R2#1298: Hey there, @අපායේ කොල්ලා! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-04-27 22:24:02 #general @අපායේ කොල්ලා#0099: !disconnect
+2018-04-27 22:24:02 #general @Rythm#3722: 📭 **Successfully disconnected**
+2018-04-27 22:26:12 #general @Ghostplay R2#1298 deleted message from 2018-04-27 22:20:40 ()
+2018-04-27 22:26:12 #general @Ghostplay R2#1298 deleted message from 2018-04-27 22:21:24 (Hey there, @අපායේ කොල්ලා! I sent you the list of commands in a private message.\nCheck your direct messages)
+2018-04-27 22:26:36 #general @අපායේ කොල්ලා#0099: .give @අපායේ කොල්ලා 700000
+2018-04-27 23:15:26 #general @අපායේ කොල්ලා#0099: .give
+2018-04-27 23:15:35 #general @අපායේ කොල්ලා#0099: !help
+2018-04-27 23:15:36 #general @Rythm#3722: ✅ **Check <https://rythmbot.co/features#list> for a list of commands**
+2018-04-27 23:15:38 #general @Synapse#0692: Check your DM, @අපායේ කොල්ලා! I have sent something for you :wink:
+2018-04-27 23:18:23 #general @අපායේ කොල්ලා#0099: .welcomeset
+2018-04-27 23:18:33 #general @අපායේ කොල්ලා#0099: !welcomeset
+2018-04-27 23:18:35 #general @Synapse#0692: ```\n!welcomeset\n\nSets welcome module settings\n\nCommands:\n  channel Sets the channel to send the welcome message\n  bot     Special welcome for bots\n  whisper Sets whether or not a DM is sent to the new user\n  toggle  Turns on/off welcoming new users to the server\n  msg     Manage welcome messages\n\nType !welcomeset command for more info on a command.\nYou can also type !welcomeset category for more info on a category.\n```
+2018-04-27 23:18:35 #general @Synapse#0692: ```Random GREETING: Welcome {0.name} to {1.name}!\nCHANNEL: #None\nON: False\nWHISPER: False\nBOTS_MSG: None\nBOTS_ROLE: None\n```
+2018-04-27 23:19:38 #general @අපායේ කොල්ලා#0099: .welcomeset channel general
+2018-04-27 23:20:08 #general @අපායේ කොල්ලා#0099: .welcomeset channel
+2018-04-27 23:21:25 #general @අපායේ කොල්ලා#0099: !welcomeset commands
+2018-04-27 23:21:25 #general @Synapse#0692: ```\n!welcomeset\n\nSets welcome module settings\n\nCommands:\n  channel Sets the channel to send the welcome message\n  bot     Special welcome for bots\n  whisper Sets whether or not a DM is sent to the new user\n  toggle  Turns on/off welcoming new users to the server\n  msg     Manage welcome messages\n\nType !welcomeset command for more info on a command.\nYou can also type !welcomeset category for more info on a category.\n```
+2018-04-27 23:21:25 #general @Synapse#0692: ```Random GREETING: Welcome {0.name} to {1.name}!\nCHANNEL: #None\nON: False\nWHISPER: False\nBOTS_MSG: None\nBOTS_ROLE: None\n```
+2018-04-27 23:21:46 #general @අපායේ කොල්ලා#0099: !welcomeset on
+2018-04-27 23:21:46 #general @Synapse#0692: ```\n!welcomeset\n\nSets welcome module settings\n\nCommands:\n  channel Sets the channel to send the welcome message\n  bot     Special welcome for bots\n  whisper Sets whether or not a DM is sent to the new user\n  toggle  Turns on/off welcoming new users to the server\n  msg     Manage welcome messages\n\nType !welcomeset command for more info on a command.\nYou can also type !welcomeset category for more info on a category.\n```
+2018-04-27 23:21:46 #general @Synapse#0692: ```Random GREETING: Welcome {0.name} to {1.name}!\nCHANNEL: #None\nON: False\nWHISPER: False\nBOTS_MSG: None\nBOTS_ROLE: None\n```
+2018-04-27 23:22:08 #general @අපායේ කොල්ලා#0099: !welcomeset toggle
+2018-04-27 23:22:08 #general @Synapse#0692: I will now welcome new users to the server.
+2018-04-27 23:22:08 #general @Synapse#0692: I can't find the specified channel. It might have been deleted.
+2018-04-27 23:23:01 #general @අපායේ කොල්ලා#0099: !welcomeset channel general
+2018-04-27 23:23:04 #general @Synapse#0692: I will now send welcome messages to #general
+2018-04-27 23:23:04 #general @Synapse#0692: `Sending a testing message to `#general
+2018-04-27 23:23:04 #general @Synapse#0692: Welcome අපායේ කොල්ලා to teachingmyself!
+2018-04-27 23:23:57 #general @අපායේ කොල්ලා#0099: !give @අපායේ කොල්ලා 4000
+2018-04-27 23:25:42 #general @අපායේ කොල්ලා#0099: !sysinfo
+2018-04-27 23:25:44 #general @Synapse#0692: ```\n![sysinfo|sys]\n\nShows system information for the machine running the bot\n\nCommands:\n\nType !sysinfo command for more info on a command.\nYou can also type !sysinfo category for more info on a category.\n```
+2018-04-27 23:26:36 #general @අපායේ කොල්ලා#0099: !radio
+2018-04-27 23:26:36 #general @Synapse#0692: Please unload the audio cog before using this cog.
+2018-04-27 23:26:48 #general @අපායේ කොල්ලා#0099: !radio
+2018-04-27 23:26:48 #general @Synapse#0692: Please unload the audio cog before using this cog.
+2018-04-27 23:27:41 #general @අපායේ කොල්ලා#0099: !summon
+2018-04-27 23:27:42 #general @Rythm#3722: 👍 **Joined** `AUTISM` :page_facing_up: **And bound to** `general`
+2018-04-27 23:27:57 #general @අපායේ කොල්ලා#0099: !disconnect
+2018-04-27 23:27:57 #general @Rythm#3722: 📭 **Successfully disconnected**
+2018-04-27 23:28:25 #general @අපායේ කොල්ලා#0099: !radioset AUTISM
+2018-04-27 23:28:51 #general @අපායේ කොල්ලා#0099: !point
+2018-04-27 23:29:07 #general @අපායේ කොල්ලා#0099: !points
+2018-04-27 23:29:07 #general @Synapse#0692: ```\n!points\n\nPoints settings\n\nCommands:\n  remove  Takes away points from a member or multiple members. Defaults to au...\n  balance Allows to show the balance of a user. Defaults to author.\n  add     Adds points to a member or multiple members. Defaults to author.\n  member  Member settings\n  keeper  bookkeeper settings\n  list    Allows to show the balance of all the registered users.\n\nType !points command for more info on a command.\nYou can also type !points category for more info on a category.\n```
+2018-04-27 23:29:27 #general @අපායේ කොල්ලා#0099: !register
+2018-04-27 23:29:44 #general @අපායේ කොල්ලා#0099: !pointbalance
+2018-04-27 23:30:14 #general @අපායේ කොල්ලා#0099: !pointsbalance
+2018-04-27 23:30:41 #general @අපායේ කොල්ලා#0099: !balance
+2018-04-27 23:30:45 #general @අපායේ කොල්ලා#0099: !b
+2018-04-27 23:31:03 #general @අපායේ කොල්ලා#0099: !points add 10000
+2018-04-27 23:31:03 #general @Synapse#0692: `Error in command 'points add'. Check your console or logs for details.`
+2018-04-27 23:31:20 #general @අපායේ කොල්ලා#0099: !pointsadd10000
+2018-04-27 23:31:31 #general @අපායේ කොල්ලා#0099: !pointsadd 10000
+2018-04-27 23:32:20 #general @අපායේ කොල්ලා#0099: !points add 10000
+2018-04-27 23:32:20 #general @Synapse#0692: `Error in command 'points add'. Check your console or logs for details.`
+2018-04-27 23:33:00 #general @අපායේ කොල්ලා#0099: !penis
+2018-04-27 23:33:00 #general @Synapse#0692: ```\n!penis [users...]\n\nDetects user's penis length\n\nThis is 101% accurate.\nEnter multiple users for an accurate comparison!\n\n```
+2018-04-27 23:33:21 #general @අපායේ කොල්ලා#0099: !penis 10
+2018-04-27 23:33:21 #general @Synapse#0692: ```\n!penis [users...]\n\nDetects user's penis length\n\nThis is 101% accurate.\nEnter multiple users for an accurate comparison!\n\n```
+2018-04-27 23:34:01 #general @අපායේ කොල්ලා#0099: !_pepe
+2018-04-27 23:34:01 #general @Synapse#0692: http://i.imgur.com/0koMC0v.jpg
+2018-04-27 23:34:02 #general @Synapse#0692 edited message from 2018-04-27 23:34:01 (http://i.imgur.com/0koMC0v.jpg) to read: http://i.imgur.com/0koMC0v.jpg
+2018-04-27 23:34:09 #general @අපායේ කොල්ලා#0099: !_pepe
+2018-04-27 23:34:09 #general @Synapse#0692: http://i.imgur.com/gMF8eo5.png
+2018-04-27 23:34:09 #general @Synapse#0692 edited message from 2018-04-27 23:34:09 (http://i.imgur.com/gMF8eo5.png) to read: http://i.imgur.com/gMF8eo5.png
+2018-04-27 23:34:18 #general @අපායේ කොල්ලා#0099: !_pepe
+2018-04-27 23:34:19 #general @Synapse#0692: http://i.imgur.com/MmijlWa.png
+2018-04-27 23:34:19 #general @Synapse#0692 edited message from 2018-04-27 23:34:19 (http://i.imgur.com/MmijlWa.png) to read: http://i.imgur.com/MmijlWa.png
+2018-04-27 23:34:44 #general @අපායේ කොල්ලා#0099: !ownerset
+2018-04-27 23:34:48 #general @අපායේ කොල්ලා#0099: !owner
+2018-04-27 23:35:10 #general @අපායේ කොල්ලා#0099: !ass
+2018-04-27 23:35:10 #general @Synapse#0692: http://media.obutts.ru/butts_preview/00686.jpg
+2018-04-27 23:35:11 #general @Synapse#0692 edited message from 2018-04-27 23:35:10 (http://media.obutts.ru/butts_preview/00686.jpg) to read: http://media.obutts.ru/butts_preview/00686.jpg
+2018-04-27 23:35:18 #general @අපායේ කොල්ලා#0099: !ass
+2018-04-27 23:35:19 #general @Synapse#0692: http://media.obutts.ru/butts_preview/03212.jpg
+2018-04-27 23:35:19 #general @Synapse#0692 edited message from 2018-04-27 23:35:19 (http://media.obutts.ru/butts_preview/03212.jpg) to read: http://media.obutts.ru/butts_preview/03212.jpg
+2018-04-27 23:35:22 #general @අපායේ කොල්ලා#0099: !ass
+2018-04-27 23:35:23 #general @Synapse#0692: http://media.obutts.ru/butts_preview/03021.jpg
+2018-04-27 23:35:24 #general @Synapse#0692 edited message from 2018-04-27 23:35:23 (http://media.obutts.ru/butts_preview/03021.jpg) to read: http://media.obutts.ru/butts_preview/03021.jpg
+2018-04-27 23:35:32 #general @අපායේ කොල්ලා#0099: !ass
+2018-04-27 23:35:33 #general @Synapse#0692: http://media.obutts.ru/butts_preview/01602.jpg
+2018-04-27 23:35:43 #general @අපායේ කොල්ලා#0099: !boobs
+2018-04-27 23:35:45 #general @Synapse#0692: http://media.oboobs.ru/boobs_preview/06981.jpg
+2018-04-27 23:35:46 #general @Synapse#0692 edited message from 2018-04-27 23:35:45 (http://media.oboobs.ru/boobs_preview/06981.jpg) to read: http://media.oboobs.ru/boobs_preview/06981.jpg
+2018-04-27 23:36:54 #general @අපායේ කොල්ලා#0099: !ass
+2018-04-27 23:36:56 #general @Synapse#0692: http://media.obutts.ru/butts_preview/00188.jpg
+2018-04-27 23:36:56 #general @Synapse#0692 edited message from 2018-04-27 23:36:56 (http://media.obutts.ru/butts_preview/00188.jpg) to read: http://media.obutts.ru/butts_preview/00188.jpg
+2018-04-27 23:37:07 #general @අපායේ කොල්ලා#0099: !ass
+2018-04-27 23:37:10 #general @Synapse#0692: http://media.obutts.ru/butts_preview/00955.png
+2018-04-27 23:37:10 #general @Synapse#0692 edited message from 2018-04-27 23:37:10 (http://media.obutts.ru/butts_preview/00955.png) to read: http://media.obutts.ru/butts_preview/00955.png
+2018-04-27 23:38:36 #general @අපායේ කොල්ලා#0099: !oboobs
+2018-04-27 23:38:36 #general @Synapse#0692: ```\n!oboobs\n\nThe oboobs/obutts.ru pictures of nature cog.\n\nCommands:\n  nsfw      Toggle oboobs nswf for this channel on/off.\n  togglemsg Enable/Disable the oboobs nswf not allowed message\n  invert    Invert nsfw blacklist to whitlist\n\nType !oboobs command for more info on a command.\nYou can also type !oboobs category for more info on a category.\n```
+2018-04-27 23:39:20 #general @අපායේ කොල්ලා#0099: !setlotery
+2018-04-27 23:39:34 #general @අපායේ කොල්ලා#0099: !setlotery 100
+2018-04-27 23:39:47 #general @අපායේ කොල්ලා#0099: !logs
+2018-04-27 23:39:49 #general @Synapse#0692: ```\n![logs|log]\n\nRetrieve logs, the slowpoke way.\n\nCommands:\n  username [mention] [channel] [number]\n  ignore   [channel]\n  roleplay [channel] [number]\n  all      [channel] [number]\n\nType !logs command for more info on a command.\nYou can also type !logs category for more info on a category.\n```
+2018-04-27 23:40:06 #general @අපායේ කොල්ලා#0099: !game
+2018-04-27 23:40:07 #general @Synapse#0692: ```\n!game <query>\n\nSearches for game information using IGDB\n\n```
+2018-04-27 23:40:21 #general @අපායේ කොල්ලා#0099: !game minecraft
+2018-04-27 23:40:24 #general @Synapse#0692: No games were found or there was an error in the process
+2018-04-27 23:40:42 #general @අපායේ කොල්ලා#0099: !game pacman
+2018-04-27 23:40:42 #general @Synapse#0692: No games were found or there was an error in the process
+2018-04-27 23:41:01 #general @අපායේ කොල්ලා#0099: !rps
+2018-04-27 23:41:03 #general @Synapse#0692: ```\n!rps <your_choice>\n\nPlay rock paper scissors\n\n```
+2018-04-27 23:41:22 #general @අපායේ කොල්ලා#0099: !fuckyou
+2018-04-27 23:41:25 #general @Synapse#0692: 
+2018-04-27 23:41:25 #general @Synapse#0692 edited message from 2018-04-27 23:41:25 () to read: 
+2018-04-27 23:41:44 #general @අපායේ කොල්ලා#0099: !pizza
+2018-04-27 23:41:46 #general @Synapse#0692: @අපායේ කොල්ලා has eaten 83 slices of pizza today.
+2018-04-27 23:41:58 #general @අපායේ කොල්ලා#0099: r u sure ?
+2018-04-27 23:42:03 #general @අපායේ කොල්ලා#0099: !pizza
+2018-04-27 23:42:04 #general @Synapse#0692: @අපායේ කොල්ලා has eaten 106 slices of pizza today.
+2018-04-27 23:42:10 #general @අපායේ කොල්ලා#0099: !pizza
+2018-04-27 23:42:12 #general @Synapse#0692: @අපායේ කොල්ලා has eaten 98 slices of pizza today.
+2018-04-27 23:43:31 #general @Dyno#3861: 
+2018-04-27 23:43:31 #general @Synapse#0692: Welcome Dyno to teachingmyself!
+2018-04-27 23:43:50 #general @අපායේ කොල්ලා#0099: ?help
+2018-04-27 23:44:23 #general @අපායේ කොල්ලා#0099: ?afk
+2018-04-27 23:44:23 #general @Dyno#3861: @අපායේ කොල්ලා I set your AFK: AFK
+2018-04-27 23:44:34 #general @අපායේ කොල්ලා#0099: ?afk
+2018-04-27 23:44:35 #general @Dyno#3861: @අපායේ කොල්ලා, a little too quick there.
+2018-04-27 23:44:46 #general @Dyno#3861 deleted message from 2018-04-27 23:44:35 (@අපායේ කොල්ලා, a little too quick there.)
+2018-04-27 23:46:24 #general @අපායේ කොල්ලා#0099: google youtube
+2018-04-27 23:46:24 #general @Dyno#3861: Welcome back @අපායේ කොල්ලා, I removed your AFK
+2018-04-27 23:46:33 #general @Dyno#3861 deleted message from 2018-04-27 23:46:24 (Welcome back @අපායේ කොල්ලා, I removed your AFK)
+2018-04-27 23:46:43 #general @අපායේ කොල්ලා#0099: ?google youtube
+2018-04-27 23:47:29 #general @අපායේ කොල්ලා#0099: ?randomcolor
+2018-04-27 23:47:29 #general @Dyno#3861: 
+2018-04-27 23:47:30 #general @Dyno#3861 edited message from 2018-04-27 23:47:29 () to read: 
+2018-04-27 23:47:54 #general @අපායේ කොල්ලා#0099: ?randomcolor
+2018-04-27 23:47:54 #general @Dyno#3861: 
+2018-04-27 23:47:56 #general @Dyno#3861 edited message from 2018-04-27 23:47:54 () to read: 
+2018-04-27 23:48:10 #general @අපායේ කොල්ලා#0099: ?randomcolor
+2018-04-27 23:48:11 #general @Dyno#3861: 
+2018-04-27 23:48:12 #general @Dyno#3861 edited message from 2018-04-27 23:48:11 () to read: 
+2018-04-27 23:48:12 #general @අපායේ කොල්ලා#0099: ?randomcolor
+2018-04-27 23:48:12 #general @Dyno#3861: @අපායේ කොල්ලා, a little too quick there.
+2018-04-27 23:48:14 #general @අපායේ කොල්ලා#0099: ?randomcolor
+2018-04-27 23:48:14 #general @අපායේ කොල්ලා#0099: ?randomcolor
+2018-04-27 23:48:15 #general @අපායේ කොල්ලා#0099: ?randomcolor
+2018-04-27 23:48:15 #general @Dyno#3861: 
+2018-04-27 23:48:16 #general @අපායේ කොල්ලා#0099: ?randomcolor
+2018-04-27 23:48:16 #general @Dyno#3861 edited message from 2018-04-27 23:48:15 () to read: 
+2018-04-27 23:48:16 #general @අපායේ කොල්ලා#0099: ?randomcolor
+2018-04-27 23:48:22 #general @Dyno#3861 deleted message from 2018-04-27 23:48:12 (@අපායේ කොල්ලා, a little too quick there.)
+2018-04-27 23:48:52 #general @අපායේ කොල්ලා#0099: !signup
+2018-04-27 23:48:52 #general @Synapse#0692: 
+2018-04-27 23:48:53 #general @Synapse#0692 edited message from 2018-04-27 23:48:52 () to read: 
+2018-04-27 23:49:06 #general @අපායේ කොල්ලා#0099: !accout
+2018-04-27 23:49:26 #general @අපායේ කොල්ලා#0099: !ccout
+2018-04-27 23:49:47 #general @අපායේ කොල්ලා#0099: !account
+2018-04-27 23:49:51 #general @Synapse#0692: 
+2018-04-27 23:49:51 #general @Synapse#0692 edited message from 2018-04-27 23:49:51 () to read: 
+2018-04-27 23:50:01 #general @අපායේ කොල්ලා#0099: !give 10000
+2018-04-27 23:51:20 #general @අපායේ කොල්ලා#0099: !yt
+2018-04-27 23:51:20 #general @Synapse#0692: ```\n!yt <search_terms>\n\nSearches and plays a video from YouTube\n\n```
+2018-04-27 23:51:25 #general @අපායේ කොල්ලා#0099: !yt https://www.youtube.com/watch?v=u1I9ITfzqFs&start_radio=1&list=RDu1I9ITfzqFs
+2018-04-27 23:51:25 #general @Synapse#0692: Searching...
+2018-04-27 23:51:28 #general @අපායේ කොල්ලා#0099 edited message from 2018-04-27 23:51:25 (!yt https://www.youtube.com/watch?v=u1I9ITfzqFs&start_radio=1&list=RDu1I9ITfzqFs) to read: !yt https://www.youtube.com/watch?v=u1I9ITfzqFs&start_radio=1&list=RDu1I9ITfzqFs
+2018-04-27 23:52:21 #general @අපායේ කොල්ලා#0099: !yt https://www.youtube.com/watch?v=zyXmsVwZqX4
+2018-04-27 23:52:21 #general @Synapse#0692: Searching...
+2018-04-27 23:52:21 #general @අපායේ කොල්ලා#0099 edited message from 2018-04-27 23:52:21 (!yt https://www.youtube.com/watch?v=zyXmsVwZqX4) to read: !yt https://www.youtube.com/watch?v=zyXmsVwZqX4
+2018-04-27 23:53:49 #general @අපායේ කොල්ලා#0099: !yt https://www.youtube.com/watch?v=zyXmsVwZqX4
+2018-04-27 23:53:50 #general @Synapse#0692: Searching...
+2018-04-27 23:54:25 #general @අපායේ කොල්ලා#0099: !stop
+2018-04-27 23:54:26 #general @Rythm#3722: ❌ **I am not connected to a voice channel**, Use the summon command to get me in one
+2018-04-27 23:54:26 #general @Synapse#0692: Can't stop if I'm not playing.
+2018-04-27 23:54:51 #general @අපායේ කොල්ලා#0099: dude why u not playign
+2018-04-27 23:55:26 #general @අපායේ කොල්ලා#0099: !sing
+2018-04-27 23:55:41 #general @අපායේ කොල්ලා#0099: !pl\
+2018-04-27 23:55:49 #general @අපායේ කොල්ලා#0099: !play https://www.youtube.com/watch?v=u1I9ITfzqFs&start_radio=1&list=RDu1I9ITfzqFs
+2018-04-27 23:55:49 #general @Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `https://www.youtube.com/watch?v=u1I9ITfzqFs&start_radio=1&list=RDu1I9ITfzqFs`
+2018-04-27 23:56:12 #general @Rythm#3722: **Playing** 🎶 `Diviners - Savannah (feat. Philly K) [NCS Release]` - Now!
+2018-04-27 23:56:12 #general @Rythm#3722: ✅ **Enqueued `26` songs**
+2018-04-27 23:56:39 #general @අපායේ කොල්ලා#0099: !audio
+2018-04-27 23:57:27 #general @අපායේ කොල්ලා#0099: !song
+2018-04-27 23:57:28 #general @Synapse#0692: I'm not playing on this server.
+2018-04-27 23:57:36 #general @අපායේ කොල්ලා#0099: !song
+2018-04-27 23:57:38 #general @Synapse#0692: I'm not playing on this server.
+2018-04-27 23:57:43 #general @අපායේ කොල්ලා#0099: !yt https://www.youtube.com/watch?v=u1I9ITfzqFs&start_radio=1&list=RDu1I9ITfzqFs
+2018-04-27 23:57:44 #general @Synapse#0692: Searching...
+2018-04-27 23:57:49 #general @අපායේ කොල්ලා#0099: !play
+2018-04-27 23:57:49 #general @Synapse#0692: ```\n!play <url_or_search_terms>\n\nPlays a link / searches and play\n\n```
+2018-04-27 23:57:49 #general @Rythm#3722: ❌ **The player is not paused**
+2018-04-27 23:58:14 #general @අපායේ කොල්ලා#0099: !disconnect
+2018-04-27 23:58:14 #general @Rythm#3722: 📭 **Successfully disconnected**
+2018-04-27 23:59:09 #general @අපායේ කොල්ලා#0099: !play https://www.youtube.com/watch?v=u1I9ITfzqFs&start_radio=1&list=RDu1I9ITfzqFs
+2018-04-27 23:59:09 #general @Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `https://www.youtube.com/watch?v=u1I9ITfzqFs&start_radio=1&list=RDu1I9ITfzqFs`
+2018-04-27 23:59:23 #general @Rythm#3722: **Playing** 🎶 `Diviners - Savannah (feat. Philly K) [NCS Release]` - Now!
+2018-04-27 23:59:23 #general @Rythm#3722: ✅ **Enqueued `26` songs**
+2018-04-27 23:59:38 #general @අපායේ කොල්ලා#0099: !play https://www.youtube.com/watch?v=u1I9ITfzqFs&start_radio=1&list=RDu1I9ITfzqFs
+2018-04-27 23:59:38 #general @Rythm#3722: ❌ **You need to be in the same voice channel as Rythm to use this command**
+2018-04-28 00:00:30 #general @අපායේ කොල්ලා#0099: !play bad gay
+2018-04-28 00:00:30 #general @Rythm#3722: ❌ **You need to be in the same voice channel as Rythm to use this command**
+2018-04-28 00:00:55 #general @අපායේ කොල්ලා#0099: !yt
+2018-04-28 00:00:57 #general @Synapse#0692: ```\n!yt <search_terms>\n\nSearches and plays a video from YouTube\n\n```
+2018-04-28 00:01:09 #general @අපායේ කොල්ලා#0099: !yt random
+2018-04-28 00:01:10 #general @Synapse#0692: Searching...
+2018-04-28 00:02:47 #general @අපායේ කොල්ලා#0099: !bday
+2018-04-28 00:02:47 #general @Synapse#0692: ```\n!bday\n\nBirthday settings\n\nCommands:\n  channel Sets the birthday announcement channel for this server\n  remove  Unsets your birthday date\n  role    Sets the birthday role for this server\n  set     Sets your birthday date\n  list    Lists the birthdays\n\nType !bday command for more info on a command.\nYou can also type !bday category for more info on a category.\n```
+2018-04-28 00:03:16 #general @අපායේ කොල්ලා#0099: !bdaychannel general
+2018-04-28 00:03:41 #general @අපායේ කොල්ලා#0099: !bday set 26.4
+2018-04-28 00:03:42 #general @Synapse#0692: :x: The birthday date you entered is invalid. It must be `MM-DD`.
+2018-04-28 00:04:10 #general @අපායේ කොල්ලා#0099: !bday set 4.26
+2018-04-28 00:04:12 #general @Synapse#0692: :x: The birthday date you entered is invalid. It must be `MM-DD`.
+2018-04-28 00:04:35 #general @අපායේ කොල්ලා#0099: !bday 2005.4.24
+2018-04-28 00:04:35 #general @Synapse#0692: ```\n!bday\n\nBirthday settings\n\nCommands:\n  channel Sets the birthday announcement channel for this server\n  remove  Unsets your birthday date\n  role    Sets the birthday role for this server\n  set     Sets your birthday date\n  list    Lists the birthdays\n\nType !bday command for more info on a command.\nYou can also type !bday category for more info on a category.\n```
+2018-04-28 00:04:50 #general @අපායේ කොල්ලා#0099: !bday set 2005.4.64
+2018-04-28 00:04:51 #general @Synapse#0692: :x: The birthday date you entered is invalid. It must be `MM-DD`.
+2018-04-28 00:05:11 #general @අපායේ කොල්ලා#0099: !bday 2005.4.24
+2018-04-28 00:05:12 #general @Synapse#0692: ```\n!bday\n\nBirthday settings\n\nCommands:\n  channel Sets the birthday announcement channel for this server\n  remove  Unsets your birthday date\n  role    Sets the birthday role for this server\n  set     Sets your birthday date\n  list    Lists the birthdays\n\nType !bday command for more info on a command.\nYou can also type !bday category for more info on a category.\n```
+2018-04-28 00:05:31 #general @අපායේ කොල්ලා#0099: !bday set 24.4.2005
+2018-04-28 00:05:34 #general @Synapse#0692: :x: The birthday date you entered is invalid. It must be `MM-DD`.
+2018-04-28 00:06:01 #general @අපායේ කොල්ලා#0099: !bday channel general
+2018-04-28 00:06:01 #general @Synapse#0692: :white_check_mark: The channel for announcing birthdays on **teachingmyself** has been set to: **general**.
+2018-04-28 00:06:39 #general @අපායේ කොල්ලා#0099: !skip
+2018-04-28 00:06:40 #general @Rythm#3722: ⏩ ***Skipped*** 👍
+2018-04-28 00:06:40 #general @Synapse#0692: Can't skip if I'm not playing.
+2018-04-28 00:06:51 #general @අපායේ කොල්ලා#0099: !yt
+2018-04-28 00:06:51 #general @Synapse#0692: ```\n!yt <search_terms>\n\nSearches and plays a video from YouTube\n\n```
+2018-04-28 00:07:00 #general @අපායේ කොල්ලා#0099: !yt playdude
+2018-04-28 00:07:00 #general @Synapse#0692: Searching...
+2018-04-28 00:07:13 #general @අපායේ කොල්ලා#0099: !yt https://www.youtube.com/watch?v=u1I9ITfzqFs&start_radio=1&list=RDu1I9ITfzqFs
+2018-04-28 00:07:13 #general @Synapse#0692: Searching...
+2018-04-28 00:08:40 #general @අපායේ කොල්ලා#0099: n!help
+2018-04-28 00:08:42 #general @NekoBot#2551: 
+2018-04-28 00:08:43 #general @NekoBot#2551 edited message from 2018-04-28 00:08:42 () to read: 
+2018-04-28 00:09:03 #general @අපායේ කොල්ලා#0099: !disconnect
+2018-04-28 00:09:03 #general @Rythm#3722: 📭 **Successfully disconnected**
+2018-04-28 00:09:25 #general @අපායේ කොල්ලා#0099: n!register
+2018-04-28 00:09:26 #general @NekoBot#2551: You already have a bank account <:nkoDed:422666465238319107>
+2018-04-28 00:09:35 #general @අපායේ කොල්ලා#0099: !account
+2018-04-28 00:09:35 #general @Synapse#0692: 
+2018-04-28 00:09:35 #general @Synapse#0692 edited message from 2018-04-28 00:09:35 () to read: 
+2018-04-28 00:09:48 #general @අපායේ කොල්ලා#0099: n!account
+2018-04-28 00:10:04 #general @අපායේ කොල්ලා#0099: n!profile
+2018-04-28 00:10:06 #general @NekoBot#2551: 
+2018-04-28 00:10:06 #general @NekoBot#2551 edited message from 2018-04-28 00:10:06 () to read: 
+2018-04-28 00:10:10 #general @අපායේ කොල්ලා#0099: ffewfew
+2018-04-28 00:10:10 #general @අපායේ කොල්ලා#0099: few
+2018-04-28 00:10:10 #general @අපායේ කොල්ලා#0099: few
+2018-04-28 00:10:10 #general @අපායේ කොල්ලා#0099: few
+2018-04-28 00:10:11 #general @අපායේ කොල්ලා#0099: few
+2018-04-28 00:10:11 #general @අපායේ කොල්ලා#0099: ewf
+2018-04-28 00:10:11 #general @අපායේ කොල්ලා#0099: few
+2018-04-28 00:10:24 #general @අපායේ කොල්ලා#0099: n!profile
+2018-04-28 00:10:26 #general @NekoBot#2551: 
+2018-04-28 00:10:26 #general @NekoBot#2551 edited message from 2018-04-28 00:10:26 () to read: 
+2018-04-28 00:11:21 #general @අපායේ කොල්ලා#0099: n!minecraft
+2018-04-28 00:11:21 #general @NekoBot#2551: ```\nn!minecraft <username>\n\n```
+2018-04-28 00:11:35 #general @අපායේ කොල්ලා#0099: n!minecraft PVPTypekCZ
+2018-04-28 00:11:35 #general @NekoBot#2551: Command is on cooldown... 10.87s left
+2018-04-28 00:11:42 #general @NekoBot#2551 deleted message from 2018-04-28 00:11:35 (Command is on cooldown... 10.87s left)
+2018-04-28 00:11:57 #general @අපායේ කොල්ලා#0099: n!minecraft TVTTypekCZ
+2018-04-28 00:11:58 #general @NekoBot#2551: **Failed to get user**
+2018-04-28 00:12:31 #general @අපායේ කොල්ලා#0099: n!minecraft PVPTypekCZ
+2018-04-28 00:12:31 #general @NekoBot#2551: 
+2018-04-28 00:12:34 #general @NekoBot#2551 edited message from 2018-04-28 00:12:31 () to read: 
+2018-04-28 00:13:13 #general @අපායේ කොල්ලා#0099: n!4k
+2018-04-28 00:13:14 #general @NekoBot#2551: 
+2018-04-28 00:13:17 #general @NekoBot#2551 edited message from 2018-04-28 00:13:14 () to read: 
+2018-04-28 00:13:51 #general @අපායේ කොල්ලා#0099: n!rep
+2018-04-28 00:13:51 #general @NekoBot#2551: ```\nn!rep <user>\n\nGive user reputation\n\n```
+2018-04-28 00:14:09 #general @අපායේ කොල්ලා#0099: n!rep @අපායේ කොල්ලා 1000
+2018-04-28 00:14:09 #general @NekoBot#2551: You can't give yourself rep <:nkoDed:422666465238319107>
+2018-04-28 00:14:14 #general @අපායේ කොල්ලා#0099: why
+2018-04-28 00:14:15 #general @අපායේ කොල්ලා#0099: why
+2018-04-28 00:14:16 #general @අපායේ කොල්ලා#0099: why
+2018-04-28 00:14:17 #general @අපායේ කොල්ලා#0099: why
+2018-04-28 00:14:18 #general @අපායේ කොල්ලා#0099: wgy
+2018-04-28 00:14:18 #general @අපායේ කොල්ලා#0099: dw
+2018-04-28 00:14:19 #general @අපායේ කොල්ලා#0099: f
+2018-04-28 00:14:19 #general @අපායේ කොල්ලා#0099: er
+2018-04-28 00:14:19 #general @අපායේ කොල්ලා#0099: ew
+2018-04-28 00:14:19 #general @අපායේ කොල්ලා#0099: ewg
+2018-04-28 00:14:19 #general @අපායේ කොල්ලා#0099: ewg
+2018-04-28 00:14:20 #general @අපායේ කොල්ලා#0099: ewg
+2018-04-28 00:14:20 #general @අපායේ කොල්ලා#0099: ewg
+2018-04-28 00:14:20 #general @අපායේ කොල්ලා#0099: ewg
+2018-04-28 00:14:20 #general @අපායේ කොල්ලා#0099: ewg
+2018-04-28 00:14:49 #general @අපායේ කොල්ලා#0099: n!memory
+2018-04-28 00:14:49 #general @NekoBot#2551: ```css\n[ Memory ]\n\nMemTotal:        1009308 kB\nMemFree:           62744 kB\nMemAvailable:      26504 kB\n\n```
+2018-04-28 00:15:55 #general @අපායේ කොල්ලා#0099: n!play
+2018-04-28 00:15:57 #general @NekoBot#2551: ```\nn!play <query>\n\nPlay Something\n\n```
+2018-04-28 00:16:25 #general @අපායේ කොල්ලා#0099: n!play https://www.youtube.com/watch?v=u1I9ITfzqFs&start_radio=1&list=RDu1I9ITfzqFs
+2018-04-28 00:16:26 #general @NekoBot#2551: 
+2018-04-28 00:16:26 #general @NekoBot#2551 edited message from 2018-04-28 00:16:26 () to read: 
+2018-04-28 00:16:26 #general @NekoBot#2551: 
+2018-04-28 00:16:27 #general @NekoBot#2551 edited message from 2018-04-28 00:16:26 () to read: 
+2018-04-28 00:16:52 #general @අපායේ කොල්ලා#0099: !skip
+2018-04-28 00:16:52 #general @Rythm#3722: ❌ **I am not connected to a voice channel**, Use the summon command to get me in one
+2018-04-28 00:16:53 #general @Synapse#0692: Can't skip if I'm not playing.
+2018-04-28 00:16:59 #general @අපායේ කොල්ලා#0099: n!skip
+2018-04-28 00:17:00 #general @NekoBot#2551: ⏭ | Skipped.
+2018-04-28 00:17:00 #general @NekoBot#2551: **Queue Ended**
+2018-04-28 00:17:31 #general @අපායේ කොල්ලා#0099: !play ummnice
+2018-04-28 00:17:31 #general @Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `ummnice`
+2018-04-28 00:17:32 #general @Rythm#3722: **Playing** 🎶 `Hot Food - Kids' Poems and Stories With Michael Rosen` - Now!
+2018-04-28 00:18:03 #general @අපායේ කොල්ලා#0099: !disconnect
+2018-04-28 00:18:03 #general @Rythm#3722: 📭 **Successfully disconnected**
+2018-04-28 00:18:29 #general @අපායේ කොල්ලා#0099: !stop
+2018-04-28 00:18:29 #general @Rythm#3722: ❌ **I am not connected to a voice channel**, Use the summon command to get me in one
+2018-04-28 00:18:29 #general @Synapse#0692: Can't stop if I'm not playing.

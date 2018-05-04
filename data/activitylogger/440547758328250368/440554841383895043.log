@@ -1,0 +1,18 @@
+2018-05-01 14:42:44 #bot-commands @Touhou Expert#6548: ?help
+2018-05-01 14:44:31 #bot-commands @Touhou Expert#6548: ?tag create OWNER
+2018-05-01 14:44:31 #bot-commands @Dyno#3861: <:dynoError:314691684455809024> You must give a tag name and tag content.
+2018-05-01 14:44:38 #bot-commands @Touhou Expert#6548: ?tag create
+2018-05-01 14:44:39 #bot-commands @Dyno#3861: <:dynoError:314691684455809024> You must give a tag name and tag content.
+2018-05-01 14:45:59 #bot-commands @Touhou Expert#6548: ?tag create OWNER Bow to him!
+2018-05-01 14:45:59 #bot-commands @Dyno#3861: <:dynoSuccess:314691591484866560> Tag OWNER created.
+2018-05-01 14:46:07 #bot-commands @Touhou Expert#6548: !tag get OWNER
+2018-05-01 14:46:18 #bot-commands @Touhou Expert#6548: ?tag get OWNER
+2018-05-01 14:46:18 #bot-commands @Dyno#3861: Bow to him!
+2018-05-01 14:46:33 #bot-commands @Touhou Expert#6548: oh
+2018-05-01 14:46:42 #bot-commands @Touhou Expert#6548: !help
+2018-05-01 14:46:42 #bot-commands @UnbelievaBoat#1046: __**Command List**__\n<https://unbelievable.pizza/commands>\n\n__**Support Server**__\nhttps://discord.gg/YMJ2dGp\nAsk questions in the #support channel\n\n__**Upvote**__\nYou can show your support for UnbelievaBoat by upvoting it here:\n<https://discordbots.org/bot/unbelievable>\n\n__**Help Command**__\n`help [command or module]` - provides help for a command or lists all commands in a module\n`help modules` - lists all modules
+2018-05-01 14:46:42 #bot-commands @MEE6#4876: 
+2018-05-01 14:46:43 #bot-commands @MEE6#4876 edited message from 2018-05-01 14:46:42 () to read: 
+2018-05-01 14:46:43 #bot-commands @Synapse#0692: Check your DM, @Touhou Expert! I have sent something for you :wink:
+2018-05-01 15:06:38 #bot-commands @Touhou Expert#6548: @UnbelievaBoat set-currency $
+2018-05-01 15:06:38 #bot-commands @UnbelievaBoat#1046: <:check:338071972476878848> The currency symbol has been set to: $

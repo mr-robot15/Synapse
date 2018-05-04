@@ -1,0 +1,120 @@
+2018-04-21 14:31:34 #bots @c h o k e. p l e a s e#1273: ?announcements
+2018-04-21 14:31:52 #bots @c h o k e. p l e a s e#1273 deleted message from 2018-04-21 14:31:34 (?announcements)
+2018-04-21 14:32:01 #bots @c h o k e. p l e a s e#1273: m. announcements
+2018-04-21 14:32:05 #bots @c h o k e. p l e a s e#1273 deleted message from 2018-04-21 14:32:01 (m. announcements)
+2018-04-21 14:32:17 #bots @c h o k e. p l e a s e#1273: ?help
+2018-04-21 14:34:17 #bots @c h o k e. p l e a s e#1273: ?rps
+2018-04-21 14:34:25 #bots @c h o k e. p l e a s e#1273 deleted message from 2018-04-21 14:34:17 (?rps)
+2018-04-21 14:44:18 #bots @c h o k e. p l e a s e#1273: b!help
+2018-04-21 14:44:18 #bots @Birb#7687: :information_source: **Here are all of Birbs commands**\nRun `help <command>` to find the usage of a command.```ini\n[ User Commands ]\n8ball, a, achievement, aesthetic, aliens, avatar, bigtext, birb, birbfact, botinfo, botlist, cat, catfact, channel, choose, clap, coin, cookie, cry, dance, dice, discriminator, dog, dogfact, donttalk, e621, emoji, exchange, fakegit, fortune, furrybooru, gelbooru, giveaway, happy, help, httpstatus, hug, info, inspiro, intelligent, invite, jisho, kiss, konachan, leet, lewd, lmgtfy, locale, look, mal, mcitem, mcskin, meme, mml, needsmorejpeg, neko, npm, osu, owo, pat, patreon, ping, pypi, rate, reverse, roleme, rule34, server, shard, ship, showcolor, slap, smug, staffonline, steam, support, tbib, temperature, tobleflep, triggered, unload, urban, user, xbooru, xd, xkcd, yandere\n\n[ Mod Commands ]\nban, clean, farewell, hackban, kick, mute, prefix, purge, role, softban, unmute, watch, welcome\n\n```
+2018-04-21 14:45:20 #bots @c h o k e. p l e a s e#1273: b!welcome
+2018-04-21 14:53:01 #bots @c h o k e. p l e a s e#1273: +welcomer
+2018-04-21 14:53:05 #bots @Welcomer#5491: :tada:  | **Welcomer usage**\n\n:white_small_square:  | `enable/disable` Toggles welcoming\n:white_small_square:  | `use-image` Toggles use of images\n:white_small_square:  | `use-text` Toggles use of welcome text\n:white_small_square:  | `set-message ...` Sets message for welcoming\n:white_small_square:  | `set-channel <channel>` Sets channel for welcoming\n\n\n:white_small_square:  | `set-image-colour <text/circle/textborder> <hex>` Sets colours on image\n:white_small_square:  | `set-image-text <top/middle/bottom> ...` Sets text position on images\n\n:white_small_square:  | `preview-background <background>` Shows a preview of what the image would look like\n:white_small_square:  | `backgrounds` Lists all premade backgrouds\n:white_small_square:  | `set-background <background>` Sets background\n\n<:welcomerplus:419472867496034325>  | `set-custom-background` Sets custom background <:wipbadge:419472867617538048>\n<:probadge:419473613213794314>  | `set-resolution <width> <height>` Sets custom resolution <:wipbadge:419472867617538048>\n\n:white_small_square:  | `jointest <@>` Tests what images and text will look like\n:white_small_square:  | `markdown` Returns list of different text formatting avaliable\n:white_small_square:  | `config` Returns current welcomer config\n\n:white_small_square:  | Welcomer is disabled
+2018-04-21 14:53:21 #bots @c h o k e. p l e a s e#1273: +enable
+2018-04-21 14:55:25 #bots @c h o k e. p l e a s e#1273: +set-message
+2018-04-21 14:56:12 #bots @c h o k e. p l e a s e#1273: +set-channel welcome
+2018-04-21 14:58:08 #bots @c h o k e. p l e a s e#1273: +enable welcomer
+2018-04-21 17:23:13 #bots @c h o k e. p l e a s e#1273: +welcomer #welcome
+2018-04-21 17:23:13 #bots @Welcomer#5491: :tada:  | **Welcomer usage**\n\n:white_small_square:  | `enable/disable` Toggles welcoming\n:white_small_square:  | `use-image` Toggles use of images\n:white_small_square:  | `use-text` Toggles use of welcome text\n:white_small_square:  | `set-message ...` Sets message for welcoming\n:white_small_square:  | `set-channel <channel>` Sets channel for welcoming\n\n\n:white_small_square:  | `set-image-colour <text/circle/textborder> <hex>` Sets colours on image\n:white_small_square:  | `set-image-text <top/middle/bottom> ...` Sets text position on images\n\n:white_small_square:  | `preview-background <background>` Shows a preview of what the image would look like\n:white_small_square:  | `backgrounds` Lists all premade backgrouds\n:white_small_square:  | `set-background <background>` Sets background\n\n<:welcomerplus:419472867496034325>  | `set-custom-background` Sets custom background <:wipbadge:419472867617538048>\n<:probadge:419473613213794314>  | `set-resolution <width> <height>` Sets custom resolution <:wipbadge:419472867617538048>\n\n:white_small_square:  | `jointest <@>` Tests what images and text will look like\n:white_small_square:  | `markdown` Returns list of different text formatting avaliable\n:white_small_square:  | `config` Returns current welcomer config\n\n:white_small_square:  | Welcomer is disabled
+2018-04-21 17:23:34 #bots @c h o k e. p l e a s e#1273: +use-image
+2018-04-21 17:23:39 #bots @c h o k e. p l e a s e#1273: +use-text
+2018-04-21 17:23:55 #bots @c h o k e. p l e a s e#1273: +welcomer enable
+2018-04-21 17:23:56 #bots @Welcomer#5491: <:check:437236812189270018>  | Welcomer has been enabled
+2018-04-21 17:30:37 #bots @c h o k e. p l e a s e#1273: +setchannel #welcome
+2018-04-21 17:30:54 #bots @c h o k e. p l e a s e#1273: +welcomer setchannel #welcome
+2018-04-21 17:30:54 #bots @Welcomer#5491: <:check:437236812189270018>  | Welcomer will now use #welcome.
+2018-04-21 17:51:18 #bots @c h o k e. p l e a s e#1273: +welcomer setchanne; #welcome
+2018-04-21 17:51:19 #bots @Welcomer#5491: :tada:  | **Welcomer usage**\n\n:white_small_square:  | `enable/disable` Toggles welcoming\n:white_small_square:  | `use-image` Toggles use of images\n:white_small_square:  | `use-text` Toggles use of welcome text\n:white_small_square:  | `set-message ...` Sets message for welcoming\n:white_small_square:  | `set-channel <channel>` Sets channel for welcoming\n\n\n:white_small_square:  | `set-image-colour <text/circle/textborder> <hex>` Sets colours on image\n:white_small_square:  | `set-image-text <top/middle/bottom> ...` Sets text position on images\n\n:white_small_square:  | `preview-background <background>` Shows a preview of what the image would look like\n:white_small_square:  | `backgrounds` Lists all premade backgrouds\n:white_small_square:  | `set-background <background>` Sets background\n\n<:welcomerplus:419472867496034325>  | `set-custom-background` Sets custom background <:wipbadge:419472867617538048>\n<:probadge:419473613213794314>  | `set-resolution <width> <height>` Sets custom resolution <:wipbadge:419472867617538048>\n\n:white_small_square:  | `jointest <@>` Tests what images and text will look like\n:white_small_square:  | `markdown` Returns list of different text formatting avaliable\n:white_small_square:  | `config` Returns current welcomer config\n\n:white_small_square:  | Welcomer is enabled\n:white_small_square:  | Welcomer is enabled but images are not `welcomer useimage True`\n:white_small_square:  | Welcomer is enabled but text is not `welcomer usetext True`\n:white_small_square:  | The channel welcomer is set to use no longer exists `welcomer setchannel #`
+2018-04-21 17:51:34 #bots @c h o k e. p l e a s e#1273: +welcomer setchannel #welcome
+2018-04-21 17:51:34 #bots @Welcomer#5491: <:check:437236812189270018>  | Welcomer will now use #welcome.
+2018-04-21 18:01:44 #bots @c h o k e. p l e a s e#1273: +welcomer @Waifu
+2018-04-21 18:01:44 #bots @Welcomer#5491: :tada:  | **Welcomer usage**\n\n:white_small_square:  | `enable/disable` Toggles welcoming\n:white_small_square:  | `use-image` Toggles use of images\n:white_small_square:  | `use-text` Toggles use of welcome text\n:white_small_square:  | `set-message ...` Sets message for welcoming\n:white_small_square:  | `set-channel <channel>` Sets channel for welcoming\n\n\n:white_small_square:  | `set-image-colour <text/circle/textborder> <hex>` Sets colours on image\n:white_small_square:  | `set-image-text <top/middle/bottom> ...` Sets text position on images\n\n:white_small_square:  | `preview-background <background>` Shows a preview of what the image would look like\n:white_small_square:  | `backgrounds` Lists all premade backgrouds\n:white_small_square:  | `set-background <background>` Sets background\n\n<:welcomerplus:419472867496034325>  | `set-custom-background` Sets custom background <:wipbadge:419472867617538048>\n<:probadge:419473613213794314>  | `set-resolution <width> <height>` Sets custom resolution <:wipbadge:419472867617538048>\n\n:white_small_square:  | `jointest <@>` Tests what images and text will look like\n:white_small_square:  | `markdown` Returns list of different text formatting avaliable\n:white_small_square:  | `config` Returns current welcomer config\n\n:white_small_square:  | Welcomer is enabled\n:white_small_square:  | Welcomer is enabled but images are not `welcomer useimage True`\n:white_small_square:  | Welcomer is enabled but text is not `welcomer usetext True`\n:white_small_square:  | The channel welcomer is set to use no longer exists `welcomer setchannel #`
+2018-04-21 18:02:10 #bots @c h o k e. p l e a s e#1273: +use-text
+2018-04-21 18:02:18 #bots @c h o k e. p l e a s e#1273: +welcomer use-text
+2018-04-21 18:02:19 #bots @Welcomer#5491: <:check:437236812189270018>  | Welcome Text has been enabled
+2018-04-21 18:02:45 #bots @c h o k e. p l e a s e#1273: +welcomer use-images
+2018-04-21 18:02:46 #bots @Welcomer#5491: :tada:  | **Welcomer usage**\n\n:white_small_square:  | `enable/disable` Toggles welcoming\n:white_small_square:  | `use-image` Toggles use of images\n:white_small_square:  | `use-text` Toggles use of welcome text\n:white_small_square:  | `set-message ...` Sets message for welcoming\n:white_small_square:  | `set-channel <channel>` Sets channel for welcoming\n\n\n:white_small_square:  | `set-image-colour <text/circle/textborder> <hex>` Sets colours on image\n:white_small_square:  | `set-image-text <top/middle/bottom> ...` Sets text position on images\n\n:white_small_square:  | `preview-background <background>` Shows a preview of what the image would look like\n:white_small_square:  | `backgrounds` Lists all premade backgrouds\n:white_small_square:  | `set-background <background>` Sets background\n\n<:welcomerplus:419472867496034325>  | `set-custom-background` Sets custom background <:wipbadge:419472867617538048>\n<:probadge:419473613213794314>  | `set-resolution <width> <height>` Sets custom resolution <:wipbadge:419472867617538048>\n\n:white_small_square:  | `jointest <@>` Tests what images and text will look like\n:white_small_square:  | `markdown` Returns list of different text formatting avaliable\n:white_small_square:  | `config` Returns current welcomer config\n\n:white_small_square:  | Welcomer is enabled\n:white_small_square:  | Welcomer is enabled but images are not `welcomer useimage True`\n:white_small_square:  | The channel welcomer is set to use no longer exists `welcomer setchannel #`
+2018-04-21 18:02:57 #bots @c h o k e. p l e a s e#1273: +welcomer use-image
+2018-04-21 18:02:57 #bots @Welcomer#5491: <:check:437236812189270018>  | Welcome Images has been enabled
+2018-04-21 18:27:12 #bots @c h o k e. p l e a s e#1273: +welcomer set-image-text op
+2018-04-21 18:27:12 #bots @Welcomer#5491: :xmark:  | Invalid position returned.\n:white_small_square:  | Positions: `top` `middle` `bottom`
+2018-04-21 18:27:23 #bots @c h o k e. p l e a s e#1273: +welcomer set-image-text top
+2018-04-21 18:27:23 #bots @Welcomer#5491: :check:  | `Top image text has been successfuly set\n:white_small_square:  | **Preview:**\n:white_small_square:  |
+2018-04-21 18:27:48 #bots @c h o k e. p l e a s e#1273: +welcomer preview background
+2018-04-21 18:27:48 #bots @Welcomer#5491: :xmark:  | Invalid background returned.\n:white_small_square:  | Use `welcomer backgrounds` to retrieve a list.\n:white_small_square:  | Backgrounds are case sensitive.
+2018-04-21 18:27:57 #bots @c h o k e. p l e a s e#1273: +welcomer backgrounds
+2018-04-21 18:27:57 #bots @Welcomer#5491: 
+2018-04-21 18:27:57 #bots @Welcomer#5491 edited message from 2018-04-21 18:27:57 () to read: 
+2018-04-21 18:28:12 #bots @Welcomer#5491 deleted message from 2018-04-21 18:27:12 (:xmark:  | Invalid position returned.\n:white_small_square:  | Positions: `top` `middle` `bottom`)
+2018-04-21 18:28:18 #bots @c h o k e. p l e a s e#1273: aesthetics
+2018-04-21 18:28:25 #bots @c h o k e. p l e a s e#1273: +welcomer background aesthetics
+2018-04-21 18:28:25 #bots @Welcomer#5491: :tada:  | **Welcomer usage**\n\n:white_small_square:  | `enable/disable` Toggles welcoming\n:white_small_square:  | `use-image` Toggles use of images\n:white_small_square:  | `use-text` Toggles use of welcome text\n:white_small_square:  | `set-message ...` Sets message for welcoming\n:white_small_square:  | `set-channel <channel>` Sets channel for welcoming\n\n\n:white_small_square:  | `set-image-colour <text/circle/textborder> <hex>` Sets colours on image\n:white_small_square:  | `set-image-text <top/middle/bottom> ...` Sets text position on images\n\n:white_small_square:  | `preview-background <background>` Shows a preview of what the image would look like\n:white_small_square:  | `backgrounds` Lists all premade backgrouds\n:white_small_square:  | `set-background <background>` Sets background\n\n<:welcomerplus:419472867496034325>  | `set-custom-background` Sets custom background <:wipbadge:419472867617538048>\n<:probadge:419473613213794314>  | `set-resolution <width> <height>` Sets custom resolution <:wipbadge:419472867617538048>\n\n:white_small_square:  | `jointest <@>` Tests what images and text will look like\n:white_small_square:  | `markdown` Returns list of different text formatting avaliable\n:white_small_square:  | `config` Returns current welcomer config\n\n:white_small_square:  | Welcomer is enabled\n:white_small_square:  | The channel welcomer is set to use no longer exists `welcomer setchannel #`
+2018-04-21 18:28:39 #bots @c h o k e. p l e a s e#1273: +welcomer set-background aesthetics
+2018-04-21 18:28:39 #bots @Welcomer#5491: <:cross:437236812109316109>  | aesthetics is not a valid background.
+2018-04-21 18:28:49 #bots @Welcomer#5491 deleted message from 2018-04-21 18:27:48 (:xmark:  | Invalid background returned.\n:white_small_square:  | Use `welcomer backgrounds` to retrieve a list.\n:white_small_square:  | Backgrounds are case sensitive.)
+2018-04-21 18:29:16 #bots @c h o k e. p l e a s e#1273: +welcomer set-background Aesthetics
+2018-04-21 18:29:16 #bots @Welcomer#5491: :check:  | Set background to `Aesthetics`\n:white_small_square:  | Do `welcomer jointest` to see the new background or use `welcomer previewbackground <background>`
+2018-04-21 18:29:26 #bots @c h o k e. p l e a s e#1273: +welcomer jointest
+2018-04-21 18:29:27 #bots @Welcomer#5491: Welcome to **ღ Official ღ**, @c h o k e. p l e a s e! You are the **12th** user! (attachment url(s): https://cdn.discordapp.com/attachments/437257706198401035/437318969083297802/Welcome.png)
+2018-04-21 18:29:39 #bots @Welcomer#5491 deleted message from 2018-04-21 18:28:39 (<:cross:437236812109316109>  | aesthetics is not a valid background.)
+2018-04-21 18:30:08 #bots @c h o k e. p l e a s e#1273: +welcomer set-background  NightView
+2018-04-21 18:30:08 #bots @Welcomer#5491: :check:  | Set background to `NightView`\n:white_small_square:  | Do `welcomer jointest` to see the new background or use `welcomer previewbackground <background>`
+2018-04-21 18:30:14 #bots @c h o k e. p l e a s e#1273: +welcomer jointest
+2018-04-21 18:30:14 #bots @Welcomer#5491: Welcome to **ღ Official ღ**, @c h o k e. p l e a s e! You are the **12th** user! (attachment url(s): https://cdn.discordapp.com/attachments/437257706198401035/437319168614858777/Welcome.png)
+2018-04-21 18:30:48 #bots @c h o k e. p l e a s e#1273: +welcomer set-background Vectors
+2018-04-21 18:30:48 #bots @Welcomer#5491: :check:  | Set background to `Vectors`\n:white_small_square:  | Do `welcomer jointest` to see the new background or use `welcomer previewbackground <background>`
+2018-04-21 18:30:52 #bots @c h o k e. p l e a s e#1273: +welcomer jointest
+2018-04-21 18:30:54 #bots @Welcomer#5491: Welcome to **ღ Official ღ**, @c h o k e. p l e a s e! You are the **12th** user! (attachment url(s): https://cdn.discordapp.com/attachments/437257706198401035/437319336143749141/Welcome.png)
+2018-04-21 18:34:21 #bots @c h o k e. p l e a s e#1273: ->help
+2018-04-21 18:34:21 #bots @Mantaro#4454: 
+2018-04-21 18:34:21 #bots @Mantaro#4454 edited message from 2018-04-21 18:34:21 () to read: 
+2018-04-21 18:36:26 #bots @c h o k e. p l e a s e#1273: ->birthday
+2018-04-21 18:36:26 #bots @Mantaro#4454: ✖ You executed this command incorrectly, help for it will be shown below.
+2018-04-21 18:36:26 #bots @Mantaro#4454: 
+2018-04-21 18:36:26 #bots @Mantaro#4454 edited message from 2018-04-21 18:36:26 () to read: 
+2018-04-21 18:36:31 #bots @Mantaro#4454 deleted message from 2018-04-21 18:36:26 (✖ You executed this command incorrectly, help for it will be shown below.)
+2018-04-21 18:36:56 #bots @Mantaro#4454 deleted message from 2018-04-21 18:36:26 ()
+2018-04-21 18:38:05 #bots @c h o k e. p l e a s e#1273: ->birthday
+2018-04-21 18:38:05 #bots @Mantaro#4454: ✖ You executed this command incorrectly, help for it will be shown below.
+2018-04-21 18:38:05 #bots @Mantaro#4454: 
+2018-04-21 18:38:06 #bots @Mantaro#4454 edited message from 2018-04-21 18:38:05 () to read: 
+2018-04-21 18:38:10 #bots @Mantaro#4454 deleted message from 2018-04-21 18:38:05 (✖ You executed this command incorrectly, help for it will be shown below.)
+2018-04-21 18:38:36 #bots @Mantaro#4454 deleted message from 2018-04-21 18:38:05 ()
+2018-04-21 18:38:44 #bots @c h o k e. p l e a s e#1273: ->birthday 3-20-2005
+2018-04-21 18:38:44 #bots @Mantaro#4454: ✖ Not a valid date.
+2018-04-21 18:38:47 #bots @c h o k e. p l e a s e#1273: df
+2018-04-21 18:38:52 #bots @c h o k e. p l e a s e#1273: ->birthday
+2018-04-21 18:38:53 #bots @Mantaro#4454: ✖ You executed this command incorrectly, help for it will be shown below.
+2018-04-21 18:38:53 #bots @Mantaro#4454: 
+2018-04-21 18:38:53 #bots @Mantaro#4454 edited message from 2018-04-21 18:38:53 () to read: 
+2018-04-21 18:38:58 #bots @Mantaro#4454 deleted message from 2018-04-21 18:38:53 (✖ You executed this command incorrectly, help for it will be shown below.)
+2018-04-21 18:39:22 #bots @c h o k e. p l e a s e#1273: ->birthday 13-02-1998
+2018-04-21 18:39:22 #bots @Mantaro#4454: ✅ Added birthdate.
+2018-04-21 18:39:23 #bots @Mantaro#4454 deleted message from 2018-04-21 18:38:53 ()
+2018-04-21 18:39:25 #bots @c h o k e. p l e a s e#1273: oh no
+2018-04-21 18:39:30 #bots @c h o k e. p l e a s e#1273: ->birthday remove
+2018-04-21 18:39:30 #bots @Mantaro#4454: ✅ Correctly reset birthday date.
+2018-04-21 18:39:45 #bots @c h o k e. p l e a s e#1273: ->birthday 3-20-200
+2018-04-21 18:39:45 #bots @Mantaro#4454: ✖ Not a valid date.
+2018-04-21 18:39:51 #bots @c h o k e. p l e a s e#1273: ->birthday 3-20-2000
+2018-04-21 18:39:51 #bots @Mantaro#4454: ✖ Not a valid date.
+2018-04-21 18:40:10 #bots @c h o k e. p l e a s e#1273: ->birthday 3-20-1999
+2018-04-21 18:40:10 #bots @Mantaro#4454: ✖ Not a valid date.
+2018-04-21 18:40:20 #bots @c h o k e. p l e a s e#1273: ->birthday
+2018-04-21 18:40:20 #bots @Mantaro#4454: ✖ You executed this command incorrectly, help for it will be shown below.
+2018-04-21 18:40:21 #bots @Mantaro#4454: 
+2018-04-21 18:40:21 #bots @Mantaro#4454 edited message from 2018-04-21 18:40:21 () to read: 
+2018-04-21 18:40:25 #bots @c h o k e. p l e a s e#1273: OHHH
+2018-04-21 18:40:26 #bots @Mantaro#4454 deleted message from 2018-04-21 18:40:20 (✖ You executed this command incorrectly, help for it will be shown below.)
+2018-04-21 18:40:33 #bots @c h o k e. p l e a s e#1273: ->birthday 20-3-2005
+2018-04-21 18:40:34 #bots @Mantaro#4454: ✅ Added birthdate.
+2018-04-21 18:40:51 #bots @Mantaro#4454 deleted message from 2018-04-21 18:40:21 ()
+2018-04-21 18:41:07 #bots @c h o k e. p l e a s e#1273: ->birthday remove
+2018-04-21 18:41:08 #bots @Mantaro#4454: ✅ Correctly reset birthday date.
+2018-04-21 18:41:24 #bots @c h o k e. p l e a s e#1273: ->birthday 21-4-2018
+2018-04-21 18:41:24 #bots @Mantaro#4454: ✅ Added birthdate.
+2018-04-21 18:41:41 #bots @c h o k e. p l e a s e#1273: ->birthday remove
+2018-04-21 18:41:41 #bots @Mantaro#4454: ✅ Correctly reset birthday date.
+2018-04-21 18:41:42 #bots @c h o k e. p l e a s e#1273: ->birthday 20-3-2005
+2018-04-21 18:41:43 #bots @Mantaro#4454: ✅ Added birthdate.
+2018-04-21 19:06:35 #bots @c h o k e. p l e a s e#1273: ->description

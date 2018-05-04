@@ -1,0 +1,23 @@
+2018-04-30 20:14:31 #general @William#3217: .help
+2018-04-30 20:15:32 #general @William#3217: .rolecolour
+2018-04-30 20:15:34 #general @William#3217 edited message from 2018-04-30 20:15:32 (.rolecolour) to read: .rolecolor
+2018-04-30 20:15:37 #general @William#3217: .rolecolor
+2018-04-30 20:15:45 #general @William#3217: !rolecolor
+2018-04-30 20:16:01 #general @William#3217: .roleclr God
+2018-04-30 20:16:01 #general @Synapse#0692: 
+2018-04-30 20:16:01 #general @Synapse#0692 edited message from 2018-04-30 20:16:01 () to read: 
+2018-04-30 20:16:41 #general @William#3217: .roleclr God Rainbow
+2018-04-30 20:16:43 #general @William#3217: a
+2018-04-30 20:16:44 #general @William#3217: a
+2018-04-30 20:16:44 #general @William#3217: a
+2018-04-30 20:16:45 #general @William#3217: a
+2018-05-01 17:15:12 #general @William#3217: .multicolor god
+2018-05-01 17:15:56 #general @William#3217: *help
+2018-05-01 17:15:56 #general @Ghostplay R2#1298: Hey there, @William! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-05-01 17:16:10 #general @William#3217: *multicolor God
+2018-05-01 17:16:10 #general @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <speed> <role>\n\nChanges the role color every x seconds\nLow number = fast\nHigh number = slow\nFastest speed = 15\n\n```
+2018-05-01 17:16:19 #general @William#3217 edited message from 2018-05-01 17:16:10 (*multicolor God) to read: *multicolor 15 God
+2018-05-01 17:16:24 #general @William#3217: *multicolor 15 God
+2018-05-01 17:16:27 #general @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`
+2018-05-01 17:16:45 #general @William#3217: *multicolour 30 God
+2018-05-01 17:16:45 #general @Ghostplay R2#1298: This command is on cooldown. Try again in 3579.49s

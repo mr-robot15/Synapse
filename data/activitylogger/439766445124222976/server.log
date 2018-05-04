@@ -1,0 +1,338 @@
+2018-04-28 12:39:45 this bot joined the server
+2018-04-28 12:39:45 Role created: 'Synapse' (id 439767644657156098)
+2018-04-28 12:39:45 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-28 12:39:45 Member role add: 'BOT' role was added to @Synapse#0692
+2018-04-28 12:39:46 Member join: @Ghostplay R2#1298 (id 435829986772123658)
+2018-04-28 12:39:46 Member role add: 'Ghostplay R2' role was added to @Ghostplay R2#1298
+2018-04-28 12:39:46 Role created: 'Ghostplay R2' (id 439767675145814036)
+2018-04-28 12:39:46 Member role add: 'Ghostplay R2' role was added to @Ghostplay R2#1298
+2018-04-28 12:39:47 Member role add: 'BOT' role was added to @Ghostplay R2#1298
+2018-04-28 12:40:58 Role permissions: 'Discord Emoji' changed from 1073761280 to 1074023488
+2018-04-28 12:40:58 Role position: 'Discord Emoji' changed from 3 to 2
+2018-04-28 12:40:58 Role permissions: 'Yui (ユイ)' changed from 271641726 to 271903870
+2018-04-28 12:40:58 Role permissions: 'Ghostplay R2' changed from 268520497 to 268782705
+2018-04-28 12:40:58 Role position: 'Ghostplay R2' changed from 1 to 6
+2018-04-28 12:42:09 Role hoist: 'Ghostplay R2' is now shown seperately
+2018-04-28 12:42:09 Role permissions: 'Ghostplay R2' changed from 268782705 to 2146958591
+2018-04-28 12:43:38 Role color: 'Owner' changed from #2ecc71 to #bab549
+2018-04-28 12:43:56 Role position: 'Ghostplay R2' changed from 6 to 3
+2018-04-28 12:43:56 Role position: 'Yui (ユイ)' changed from 3 to 4
+2018-04-28 12:43:56 Role position: 'BOT' changed from 4 to 5
+2018-04-28 12:43:56 Role position: 'Owner' changed from 5 to 6
+2018-04-28 12:44:06 Role position: 'Yui (ユイ)' changed from 4 to 3
+2018-04-28 12:44:06 Role position: 'BOT' changed from 5 to 4
+2018-04-28 12:44:06 Role position: 'Owner' changed from 6 to 5
+2018-04-28 12:44:06 Role position: 'Ghostplay R2' changed from 3 to 6
+2018-04-28 12:44:37 Role color: 'Owner' changed from #bab549 to #e68460
+2018-04-28 12:45:10 Role color: 'Owner' changed from #e68460 to #0efe86
+2018-04-28 12:45:34 Role color: 'Owner' changed from #0efe86 to #d0aeaf
+2018-04-28 12:45:52 Role color: 'Owner' changed from #d0aeaf to #90c1f3
+2018-04-28 12:46:02 Role color: 'Owner' changed from #90c1f3 to #4102bd
+2018-04-28 12:46:04 Channel overwrites: general (439766445124222978): role BOT (439766526606704650) added with values 0, 0
+2018-04-28 12:46:17 Channel overwrites: general (439766445124222978): role BOT (439766526606704650) updated to values 805829713, 0 (was 0, 0)
+2018-04-28 12:46:35 Role color: 'Owner' changed from #4102bd to #fbe997
+2018-04-28 12:46:49 Role color: 'Owner' changed from #fbe997 to #b643af
+2018-04-28 12:47:06 Role color: 'Owner' changed from #b643af to #688b4c
+2018-04-28 12:47:07 Role permissions: 'Synapse' changed from 8 to 2146958591
+2018-04-28 12:47:07 Role position: 'Synapse' changed from 2 to 1
+2018-04-28 12:47:49 Role color: 'Owner' changed from #688b4c to #cdf503
+2018-04-28 12:47:50 Member join: @Rythm#3722 (id 235088799074484224)
+2018-04-28 12:47:50 Role created: 'Rythm' (id 439769714080612353)
+2018-04-28 12:47:50 Member role add: 'Rythm' role was added to @Rythm#3722
+2018-04-28 12:48:01 Member role add: 'BOT' role was added to @Rythm#3722
+2018-04-28 12:48:03 Role color: 'Owner' changed from #cdf503 to #0ed9ed
+2018-04-28 12:48:03 Role position: 'Owner' changed from 6 to 5
+2018-04-28 12:48:21 Role color: 'Owner' changed from #0ed9ed to #21a129
+2018-04-28 12:48:23 Member join: @Mixer#0596 (id 326416235204050945)
+2018-04-28 12:48:23 Role created: 'Mixer' (id 439769852455026689)
+2018-04-28 12:48:23 Member role add: 'Mixer' role was added to @Mixer#0596
+2018-04-28 12:48:31 Role color: 'Owner' changed from #21a129 to #f7b84c
+2018-04-28 12:48:31 Role position: 'Owner' changed from 6 to 5
+2018-04-28 12:48:40 Member role add: 'BOT' role was added to @Mixer#0596
+2018-04-28 12:48:54 Member join: @Steam#3581 (id 319801895352926209)
+2018-04-28 12:48:54 Role created: 'Steam' (id 439769982340038656)
+2018-04-28 12:48:54 Member role add: 'Steam' role was added to @Steam#3581
+2018-04-28 12:49:09 Member join: @pbot#9629 (id 218921854662868993)
+2018-04-28 12:49:09 Member role add: 'pbot' role was added to @pbot#9629
+2018-04-28 12:49:09 Role created: 'pbot' (id 439770045573234708)
+2018-04-28 12:49:09 Member role add: 'pbot' role was added to @pbot#9629
+2018-04-28 12:49:14 Member role add: 'BOT' role was added to @Steam#3581
+2018-04-28 12:49:16 Role color: 'Owner' changed from #f7b84c to #4d6920
+2018-04-28 12:49:16 Role position: 'Owner' changed from 7 to 5
+2018-04-28 12:49:16 Member role add: 'BOT' role was added to @pbot#9629
+2018-04-28 12:49:34 Role color: 'Owner' changed from #4d6920 to #2012aa
+2018-04-28 12:49:45 Role color: 'Owner' changed from #2012aa to #53a700
+2018-04-28 12:49:56 Member join: @Poop Bot#1105 (id 381409327673638923)
+2018-04-28 12:49:56 Member role add: 'Poop Bot' role was added to @Poop Bot#1105
+2018-04-28 12:49:56 Member role add: 'Poop Bot' role was added to @Poop Bot#1105
+2018-04-28 12:49:56 Role created: 'Poop Bot' (id 439770244341301268)
+2018-04-28 12:49:56 Member role add: 'Poop Bot' role was added to @Poop Bot#1105
+2018-04-28 12:49:59 Role color: 'Owner' changed from #53a700 to #b2a394
+2018-04-28 12:49:59 Role position: 'Owner' changed from 6 to 5
+2018-04-28 12:50:01 Member role add: 'BOT' role was added to @Poop Bot#1105
+2018-04-28 12:50:14 Role color: 'Owner' changed from #b2a394 to #98add8
+2018-04-28 12:50:28 Role color: 'Owner' changed from #98add8 to #3818bc
+2018-04-28 12:50:31 Member join: @Chiaki Nanami#4514 (id 247863665598922762)
+2018-04-28 12:50:31 Member role add: 'Chiaki Nanami' role was added to @Chiaki Nanami#4514
+2018-04-28 12:50:31 Role created: 'Chiaki Nanami' (id 439770387694354442)
+2018-04-28 12:50:31 Member role add: 'Chiaki Nanami' role was added to @Chiaki Nanami#4514
+2018-04-28 12:50:55 Role color: 'Owner' changed from #3818bc to #d116b0
+2018-04-28 12:50:55 Role position: 'Owner' changed from 6 to 5
+2018-04-28 12:50:56 Member role add: 'BOT' role was added to @Chiaki Nanami#4514
+2018-04-28 12:51:09 Role color: 'Owner' changed from #d116b0 to #19bb3b
+2018-04-28 12:51:23 Role color: 'Owner' changed from #19bb3b to #e2a1de
+2018-04-28 12:51:42 Member join: @SlotBot#1224 (id 346353957029019648)
+2018-04-28 12:51:42 Member role add: 'SlotBot' role was added to @SlotBot#1224
+2018-04-28 12:51:42 Role created: 'SlotBot' (id 439770687280775168)
+2018-04-28 12:51:42 Member role add: 'SlotBot' role was added to @SlotBot#1224
+2018-04-28 12:51:46 Role color: 'Owner' changed from #e2a1de to #2f9c34
+2018-04-28 12:51:46 Role position: 'Owner' changed from 6 to 5
+2018-04-28 12:52:09 Member join: @UnbelievaBoat#1046 (id 292953664492929025)
+2018-04-28 12:52:09 Member role add: 'UnbelievaBoat' role was added to @UnbelievaBoat#1046
+2018-04-28 12:52:09 Role created: 'UnbelievaBoat' (id 439770765773242369)
+2018-04-28 12:52:09 Member role add: 'UnbelievaBoat' role was added to @UnbelievaBoat#1046
+2018-04-28 12:52:10 Member role add: 'BOT' role was added to @UnbelievaBoat#1046
+2018-04-28 12:52:12 Member role add: 'BOT' role was added to @SlotBot#1224
+2018-04-28 12:52:54 Member join: @Dyno#3861 (id 155149108183695360)
+2018-04-28 12:52:54 Member role add: 'Dyno' role was added to @Dyno#3861
+2018-04-28 12:52:54 Role created: 'Dyno' (id 439770987253465089)
+2018-04-28 12:52:54 Member role add: 'Dyno' role was added to @Dyno#3861
+2018-04-28 12:52:56 Role color: 'Owner' changed from #2f9c34 to #7a40e7
+2018-04-28 12:52:56 Role position: 'Owner' changed from 7 to 5
+2018-04-28 12:53:02 Member role add: 'BOT' role was added to @Dyno#3861
+2018-04-28 12:53:20 Role color: 'Owner' changed from #7a40e7 to #307c6c
+2018-04-28 12:53:24 Role color: 'Owner' changed from #307c6c to #d13b94
+2018-04-28 12:53:40 Member join: @YAGPDB.xyz#8760 (id 204255221017214977)
+2018-04-28 12:54:02 Member join: @Tatsumaki#8792 (id 172002275412279296)
+2018-04-28 12:54:02 Role created: 'Tatsumaki' (id 439771274248585216)
+2018-04-28 12:54:02 Member role add: 'Tatsumaki' role was added to @Tatsumaki#8792
+2018-04-28 12:54:02 Member role add: 'Tatsumaki' role was added to @Tatsumaki#8792
+2018-04-28 12:54:08 Member role add: 'BOT' role was added to @Tatsumaki#8792
+2018-04-28 12:54:09 Role color: 'Owner' changed from #d13b94 to #75b682
+2018-04-28 12:54:09 Role position: 'Owner' changed from 6 to 5
+2018-04-28 12:54:11 Member role add: 'BOT' role was added to @YAGPDB.xyz#8760
+2018-04-28 12:54:34 Role color: 'Owner' changed from #75b682 to #be2379
+2018-04-28 12:54:55 Role color: 'Owner' changed from #be2379 to #3b8c1f
+2018-04-28 12:55:09 Role color: 'Owner' changed from #3b8c1f to #dfe670
+2018-04-28 12:55:46 Role color: 'Owner' changed from #dfe670 to #ab3a22
+2018-04-28 12:55:57 Member join: @Spoti-Search#9111 (id 303904389968560129)
+2018-04-28 12:55:58 Role color: 'Owner' changed from #ab3a22 to #0aef4c
+2018-04-28 12:56:05 Member role add: 'BOT' role was added to @Spoti-Search#9111
+2018-04-28 12:56:12 Role color: 'Owner' changed from #0aef4c to #8b3e41
+2018-04-28 12:56:26 Role color: 'Owner' changed from #8b3e41 to #374a74
+2018-04-28 12:57:00 Role color: 'Owner' changed from #374a74 to #b91cb0
+2018-04-28 12:57:13 Role color: 'Owner' changed from #b91cb0 to #7aea5e
+2018-04-28 12:57:48 Role color: 'Owner' changed from #7aea5e to #8914b1
+2018-04-28 12:58:15 Role color: 'Owner' changed from #8914b1 to #089940
+2018-04-28 12:58:26 Role color: 'Owner' changed from #089940 to #924979
+2018-04-28 12:59:00 Role color: 'Owner' changed from #924979 to #73f499
+2018-04-28 12:59:04 Role deleted: 'Mixer' (id 439769852455026689)
+2018-04-28 12:59:04 Member leave: @Mixer#0596 (id 326416235204050945)
+2018-04-28 12:59:34 Role color: 'Owner' changed from #73f499 to #91d62b
+2018-04-28 12:59:48 Role color: 'Owner' changed from #91d62b to #08d651
+2018-04-28 13:00:02 Role color: 'Owner' changed from #08d651 to #cb0c94
+2018-04-28 13:01:04 Role color: 'Owner' changed from #cb0c94 to #0f25d9
+2018-04-28 13:01:31 Role created: 'Color_Blue' (id 439773158224953359)
+2018-04-28 13:01:31 Role renamed: 'new role' to 'Color_Blue'
+2018-04-28 13:01:31 Role color: 'new role' changed from #000000 to #3498db
+2018-04-28 13:01:31 Role permissions: 'new role' changed from 104324161 to 0
+2018-04-28 13:01:31 Role color: 'Owner' changed from #0f25d9 to #814310
+2018-04-28 13:01:31 Role position: 'Owner' changed from 6 to 5
+2018-04-28 13:01:32 Member role add: 'Color_Blue' role was added to @Jack#5387
+2018-04-28 13:01:38 Member role add: 'Color_Blue' role was added to @Steam#3581
+2018-04-28 13:01:43 Member role remove: The 'Color_Blue' role was removed from @Steam#3581
+2018-04-28 13:02:19 Role color: 'Owner' changed from #814310 to #4b3420
+2018-04-28 13:02:25 Role created: 'new role' (id 439773385787179020)
+2018-04-28 13:02:25 Role renamed: 'new role' to 'Color_Teal'
+2018-04-28 13:02:25 Role color: 'new role' changed from #000000 to #1abc9c
+2018-04-28 13:02:25 Role permissions: 'new role' changed from 104324161 to 0
+2018-04-28 13:02:26 Member role add: 'Color_Teal' role was added to @Jack#5387
+2018-04-28 13:02:26 Member role remove: The 'Color_Blue' role was removed from @Jack#5387
+2018-04-28 13:02:29 Member role remove: The 'Color_Teal' role was removed from @Jack#5387
+2018-04-28 13:02:31 Role color: 'Owner' changed from #4b3420 to #d1d799
+2018-04-28 13:02:31 Role position: 'Owner' changed from 6 to 5
+2018-04-28 13:02:35 Member role add: 'Color_Blue' role was added to @Steam#3581
+2018-04-28 13:02:37 Member role remove: The 'Color_Blue' role was removed from @Steam#3581
+2018-04-28 13:02:38 Member role add: 'Color_Teal' role was added to @Steam#3581
+2018-04-28 13:02:40 Member role remove: The 'Color_Teal' role was removed from @Steam#3581
+2018-04-28 13:02:45 Role color: 'Owner' changed from #d1d799 to #68fe6a
+2018-04-28 13:02:59 Role color: 'Owner' changed from #68fe6a to #16a62b
+2018-04-28 13:03:41 Role color: 'Owner' changed from #16a62b to #0d105d
+2018-04-28 13:03:51 Role color: 'Owner' changed from #0d105d to #f153c1
+2018-04-28 13:05:01 Role color: 'Owner' changed from #f153c1 to #fa88a9
+2018-04-28 13:05:04 Role color: 'Owner' changed from #fa88a9 to #06cb28
+2018-04-28 13:05:15 Role color: 'Owner' changed from #06cb28 to #5688a5
+2018-04-28 13:05:39 Role color: 'Owner' changed from #5688a5 to #66542f
+2018-04-28 13:05:54 Role color: 'Owner' changed from #66542f to #104a7b
+2018-04-28 13:06:14 Role color: 'Owner' changed from #104a7b to #83990b
+2018-04-28 13:06:22 Role color: 'Owner' changed from #83990b to #89bc8a
+2018-04-28 13:06:37 Role color: 'Owner' changed from #89bc8a to #634fb6
+2018-04-28 13:06:51 Role color: 'Owner' changed from #634fb6 to #b77ab8
+2018-04-28 13:07:30 Role color: 'Owner' changed from #b77ab8 to #ef36de
+2018-04-28 13:07:40 Role color: 'Owner' changed from #ef36de to #86f7a6
+2018-04-28 13:07:54 Role color: 'Owner' changed from #86f7a6 to #b74301
+2018-04-28 13:08:01 Member join: @Shadow Sniper#3078 (id 297427669119664128)
+2018-04-28 13:08:08 Role color: 'Owner' changed from #b74301 to #d15768
+2018-04-28 13:08:16 Member role add: 'Color_Teal' role was added to @Shadow Sniper#3078
+2018-04-28 13:08:22 Role color: 'Owner' changed from #d15768 to #fbd18a
+2018-04-28 13:08:47 Role color: 'Owner' changed from #fbd18a to #501dc6
+2018-04-28 13:09:13 Role color: 'Owner' changed from #501dc6 to #8069fe
+2018-04-28 13:09:18 Role deleted: 'Poop Bot' (id 439770244341301268)
+2018-04-28 13:09:18 Member leave: @Poop Bot#1105 (id 381409327673638923)
+2018-04-28 13:09:27 Role color: 'Owner' changed from #8069fe to #28de28
+2018-04-28 13:09:42 Role color: 'Owner' changed from #28de28 to #6136a9
+2018-04-28 13:09:59 Role color: 'Owner' changed from #6136a9 to #61e531
+2018-04-28 13:10:02 Role permissions: 'Tatsumaki' changed from 12659727 to 12921935
+2018-04-28 13:10:02 Role permissions: 'Dyno' changed from 2097176631 to 2097438839
+2018-04-28 13:10:02 Role permissions: 'Chiaki Nanami' changed from 281110647 to 281372791
+2018-04-28 13:10:02 Role position: 'Chiaki Nanami' changed from 7 to 6
+2018-04-28 13:10:02 Role permissions: 'pbot' changed from 8 to 262216
+2018-04-28 13:10:02 Role position: 'pbot' changed from 8 to 7
+2018-04-28 13:10:02 Role permissions: 'Steam' changed from 297984 to 298048
+2018-04-28 13:10:02 Role position: 'Steam' changed from 9 to 8
+2018-04-28 13:10:02 Role permissions: 'Rythm' changed from 8 to 262216
+2018-04-28 13:10:02 Role position: 'Rythm' changed from 10 to 9
+2018-04-28 13:10:02 Role position: 'Synapse' changed from 11 to 10
+2018-04-28 13:10:02 Role position: 'Discord Emoji' changed from 12 to 11
+2018-04-28 13:10:02 Role position: 'Yui (ユイ)' changed from 13 to 12
+2018-04-28 13:10:02 Role position: 'BOT' changed from 14 to 13
+2018-04-28 13:10:02 Role position: 'Owner' changed from 5 to 14
+2018-04-28 13:10:02 Role permissions: 'SlotBot' changed from 3072 to 265280
+2018-04-28 13:10:02 Role position: 'SlotBot' changed from 6 to 15
+2018-04-28 13:10:11 Role color: 'Owner' changed from #61e531 to #d30361
+2018-04-28 13:10:26 Role color: 'Owner' changed from #d30361 to #0b31d0
+2018-04-28 13:10:29 Role position: 'SlotBot' changed from 15 to 4
+2018-04-28 13:10:29 Role position: 'Dyno' changed from 4 to 5
+2018-04-28 13:10:29 Role position: 'Chiaki Nanami' changed from 6 to 7
+2018-04-28 13:10:29 Role position: 'pbot' changed from 7 to 15
+2018-04-28 13:10:29 Role position: 'UnbelievaBoat' changed from 5 to 6
+2018-04-28 13:10:39 Member ban: @SlotBot#1224 (id 346353957029019648)
+2018-04-28 13:10:39 Role deleted: 'SlotBot' (id 439770687280775168)
+2018-04-28 13:10:39 Member leave: @SlotBot#1224 (id 346353957029019648)
+2018-04-28 13:10:39 Member unban: @SlotBot#1224 (id 346353957029019648)
+2018-04-28 13:10:40 Role color: 'Owner' changed from #0b31d0 to #b90f39
+2018-04-28 13:10:40 Role position: 'Owner' changed from 13 to 14
+2018-04-28 13:10:55 Role color: 'Owner' changed from #b90f39 to #56ec38
+2018-04-28 13:11:12 Role color: 'Owner' changed from #56ec38 to #bd7531
+2018-04-28 13:11:54 Role color: 'Owner' changed from #bd7531 to #35617a
+2018-04-28 13:12:09 Role color: 'Owner' changed from #35617a to #53d9e4
+2018-04-28 13:12:27 Role color: 'Owner' changed from #53d9e4 to #8245cc
+2018-04-28 13:12:48 Role color: 'Owner' changed from #8245cc to #bad11d
+2018-04-28 13:13:02 Role color: 'Owner' changed from #bad11d to #c30b22
+2018-04-28 13:13:02 Member ban: @Steam#3581 (id 319801895352926209)
+2018-04-28 13:13:02 Role deleted: 'Steam' (id 439769982340038656)
+2018-04-28 13:13:02 Member leave: @Steam#3581 (id 319801895352926209)
+2018-04-28 13:13:03 Member unban: @Steam#3581 (id 319801895352926209)
+2018-04-28 13:13:16 Role color: 'Owner' changed from #c30b22 to #03ac21
+2018-04-28 13:13:16 Role position: 'Owner' changed from 13 to 14
+2018-04-28 13:13:38 Role color: 'Owner' changed from #03ac21 to #0d10e4
+2018-04-28 13:13:45 Role color: 'Owner' changed from #0d10e4 to #ca7bbd
+2018-04-28 13:13:59 Role color: 'Owner' changed from #ca7bbd to #eb74cb
+2018-04-28 13:14:23 Role color: 'Owner' changed from #eb74cb to #af6964
+2018-04-28 13:14:51 Role color: 'Owner' changed from #af6964 to #e15730
+2018-04-28 13:14:53 Role color: 'Color_Teal' changed from #1abc9c to #8b5d2e
+2018-04-28 13:15:02 Role color: 'Owner' changed from #e15730 to #d6aec9
+2018-04-28 13:15:07 Role created: 'new role' (id 439776580936663060)
+2018-04-28 13:15:11 Role position: 'Owner' changed from 15 to 13
+2018-04-28 13:15:12 Role color: 'Color_Teal' changed from #8b5d2e to #f3d80e
+2018-04-28 13:15:12 Role renamed: 'new role' to 'TESTER'
+2018-04-28 13:15:17 Role position: 'Color_Teal' changed from 2 to 1
+2018-04-28 13:15:17 Role position: 'Color_Blue' changed from 3 to 2
+2018-04-28 13:15:17 Role position: 'Tatsumaki' changed from 4 to 3
+2018-04-28 13:15:17 Role position: 'Dyno' changed from 5 to 4
+2018-04-28 13:15:17 Role position: 'UnbelievaBoat' changed from 6 to 5
+2018-04-28 13:15:17 Role position: 'Chiaki Nanami' changed from 7 to 6
+2018-04-28 13:15:17 Role position: 'Rythm' changed from 8 to 7
+2018-04-28 13:15:17 Role position: 'Synapse' changed from 9 to 8
+2018-04-28 13:15:17 Role position: 'Discord Emoji' changed from 10 to 9
+2018-04-28 13:15:17 Role position: 'Yui (ユイ)' changed from 11 to 10
+2018-04-28 13:15:17 Role position: 'BOT' changed from 12 to 11
+2018-04-28 13:15:17 Role position: 'TESTER' changed from 1 to 12
+2018-04-28 13:15:22 Role color: 'Owner' changed from #d6aec9 to #c7847b
+2018-04-28 13:15:44 Role color: 'Color_Teal' changed from #f3d80e to #1abc9c
+2018-04-28 13:16:05 Role color: 'Color_Teal' changed from #1abc9c to #676f05
+2018-04-28 13:16:05 Member role add: 'TESTER' role was added to @Shadow Sniper#3078
+2018-04-28 13:16:06 Role color: 'Owner' changed from #c7847b to #38eca4
+2018-04-28 13:16:24 Role color: 'Color_Teal' changed from #676f05 to #5c7441
+2018-04-28 13:16:24 Role mentionable: 'TESTER' is now mentionable
+2018-04-28 13:16:24 Role hoist: 'TESTER' is now shown seperately
+2018-04-28 13:16:32 Member role remove: The 'Color_Teal' role was removed from @Shadow Sniper#3078
+2018-04-28 13:16:34 Role color: 'Owner' changed from #38eca4 to #ab2771
+2018-04-28 13:16:54 Role color: 'TESTER' changed from #000000 to #d53df3
+2018-04-28 13:16:54 Role mentionable: 'TESTER' is no longer mentionable
+2018-04-28 13:16:54 Role hoist: 'TESTER' is no longer shown seperately
+2018-04-28 13:17:17 Role color: 'Color_Teal' changed from #5c7441 to #ed9d6d
+2018-04-28 13:17:35 Role color: 'Owner' changed from #ab2771 to #ea4562
+2018-04-28 13:17:45 Role color: 'TESTER' changed from #d53df3 to #c493b7
+2018-04-28 13:17:45 Role mentionable: 'TESTER' is now mentionable
+2018-04-28 13:17:45 Role hoist: 'TESTER' is now shown seperately
+2018-04-28 13:17:56 Role color: 'TESTER' changed from #c493b7 to #583c1d
+2018-04-28 13:17:56 Role mentionable: 'TESTER' is no longer mentionable
+2018-04-28 13:17:56 Role hoist: 'TESTER' is no longer shown seperately
+2018-04-28 13:18:06 Role color: 'Color_Teal' changed from #ed9d6d to #8455cf
+2018-04-28 13:18:16 Role color: 'Owner' changed from #ea4562 to #be8b6e
+2018-04-28 13:18:34 Role color: 'TESTER' changed from #583c1d to #7da6fc
+2018-04-28 13:18:34 Role mentionable: 'TESTER' is now mentionable
+2018-04-28 13:18:34 Role hoist: 'TESTER' is now shown seperately
+2018-04-28 13:18:48 Role color: 'TESTER' changed from #7da6fc to #5f3332
+2018-04-28 13:18:48 Role mentionable: 'TESTER' is no longer mentionable
+2018-04-28 13:18:48 Role hoist: 'TESTER' is no longer shown seperately
+2018-04-28 13:18:59 Role color: 'Color_Teal' changed from #8455cf to #249e77
+2018-04-28 13:19:48 Role color: 'Owner' changed from #be8b6e to #ee71e8
+2018-04-28 13:19:50 Role color: 'TESTER' changed from #5f3332 to #277e8d
+2018-04-28 13:19:50 Role mentionable: 'TESTER' is now mentionable
+2018-04-28 13:19:50 Role hoist: 'TESTER' is now shown seperately
+2018-04-28 13:20:00 Role color: 'TESTER' changed from #277e8d to #0f9ed0
+2018-04-28 13:20:00 Role mentionable: 'TESTER' is no longer mentionable
+2018-04-28 13:20:00 Role hoist: 'TESTER' is no longer shown seperately
+2018-04-28 13:20:11 Role color: 'Color_Teal' changed from #249e77 to #548f60
+2018-04-28 13:20:23 Role color: 'Owner' changed from #ee71e8 to #9c9663
+2018-04-28 13:20:31 Role color: 'TESTER' changed from #0f9ed0 to #dc4f7e
+2018-04-28 13:20:31 Role mentionable: 'TESTER' is now mentionable
+2018-04-28 13:20:31 Role hoist: 'TESTER' is now shown seperately
+2018-04-28 13:20:41 Role color: 'TESTER' changed from #dc4f7e to #db9daf
+2018-04-28 13:20:41 Role mentionable: 'TESTER' is no longer mentionable
+2018-04-28 13:20:41 Role hoist: 'TESTER' is no longer shown seperately
+2018-04-28 13:21:12 Role color: 'Color_Teal' changed from #548f60 to #4c2a56
+2018-04-28 13:21:22 Role color: 'Owner' changed from #9c9663 to #d2e9d5
+2018-04-28 13:21:33 Role color: 'TESTER' changed from #db9daf to #cd2814
+2018-04-28 13:21:33 Role mentionable: 'TESTER' is now mentionable
+2018-04-28 13:21:33 Role hoist: 'TESTER' is now shown seperately
+2018-04-28 13:22:17 Role color: 'TESTER' changed from #cd2814 to #fc1aaf
+2018-04-28 13:22:17 Role mentionable: 'TESTER' is no longer mentionable
+2018-04-28 13:22:17 Role hoist: 'TESTER' is no longer shown seperately
+2018-04-28 13:22:24 Role color: 'Color_Teal' changed from #4c2a56 to #c6172f
+2018-04-28 13:22:34 Role color: 'Owner' changed from #d2e9d5 to #68a815
+2018-04-28 13:23:05 Role color: 'TESTER' changed from #fc1aaf to #f2f22c
+2018-04-28 13:23:05 Role mentionable: 'TESTER' is now mentionable
+2018-04-28 13:23:05 Role hoist: 'TESTER' is now shown seperately
+2018-04-28 13:23:30 Role color: 'TESTER' changed from #f2f22c to #9decd3
+2018-04-28 13:23:30 Role mentionable: 'TESTER' is no longer mentionable
+2018-04-28 13:23:30 Role hoist: 'TESTER' is no longer shown seperately
+2018-04-28 13:23:32 Role color: 'Color_Teal' changed from #c6172f to #3807c9
+2018-04-28 13:23:36 Role color: 'Owner' changed from #68a815 to #25ae33
+2018-04-28 13:23:56 Role color: 'TESTER' changed from #9decd3 to #66d94c
+2018-04-28 13:23:56 Role mentionable: 'TESTER' is now mentionable
+2018-04-28 13:23:56 Role hoist: 'TESTER' is now shown seperately
+2018-04-28 13:24:46 Role color: 'TESTER' changed from #66d94c to #8e38c9
+2018-04-28 13:24:46 Role mentionable: 'TESTER' is no longer mentionable
+2018-04-28 13:24:46 Role hoist: 'TESTER' is no longer shown seperately
+2018-04-28 13:24:49 Role color: 'Color_Teal' changed from #3807c9 to #844030
+2018-04-28 13:25:19 Role color: 'Owner' changed from #25ae33 to #1efc07
+2018-04-28 13:25:28 Role color: 'TESTER' changed from #8e38c9 to #e8d1df
+2018-04-28 13:25:28 Role mentionable: 'TESTER' is now mentionable
+2018-04-28 13:25:28 Role hoist: 'TESTER' is now shown seperately
+2018-04-28 13:25:39 Role color: 'TESTER' changed from #e8d1df to #172122
+2018-04-28 13:25:39 Role mentionable: 'TESTER' is no longer mentionable
+2018-04-28 13:25:39 Role hoist: 'TESTER' is no longer shown seperately
+2018-04-28 13:26:02 Role color: 'Color_Teal' changed from #844030 to #c38d72
+2018-04-28 13:26:10 Role color: 'Owner' changed from #1efc07 to #cbcfcb
+2018-04-28 13:26:40 Role color: 'TESTER' changed from #172122 to #4659db
+2018-04-28 13:26:40 Role mentionable: 'TESTER' is now mentionable
+2018-04-28 13:26:40 Role hoist: 'TESTER' is now shown seperately
+2018-04-28 13:26:50 Role color: 'TESTER' changed from #4659db to #a5f101
+2018-04-28 13:26:50 Role mentionable: 'TESTER' is no longer mentionable
+2018-04-28 13:26:50 Role hoist: 'TESTER' is no longer shown seperately
+2018-04-28 13:27:17 Role color: 'Color_Teal' changed from #c38d72 to #0ecc2b
+2018-04-28 13:27:17 Member ban: @Synapse#0692 (id 435538622293344266)
+2018-04-28 13:27:17 this bot left the server

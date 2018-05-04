@@ -1,0 +1,14 @@
+emoji/__init__.py,sha256=-uUXipcz92798lO4N0ykTmab6SFd9cNDfV22qLv9P2Y,2250
+emoji/core.py,sha256=JS3Y-EwQWteuBILWN3KZFG14_-MXMLx4S64nOpUShnc,3497
+emoji/unicode_codes.py,sha256=5DHVpeAYmGabY2dqtFXo7TpEdjXzL7hXuf9vxyropks,208867
+emoji-0.5.0.dist-info/DESCRIPTION.rst,sha256=rqFk9qPi5UNWUhwBcJZ8nS8rrodWYr6n9YIrgxxixas,1820
+emoji-0.5.0.dist-info/METADATA,sha256=gPfCvE7fC9tleEu5VU0MaG77VRfKsqUzzZ6rZUNOfdE,3268
+emoji-0.5.0.dist-info/RECORD,,
+emoji-0.5.0.dist-info/WHEEL,sha256=AXucK5-TNISW1dQAdsyH02xCRCCE1VKjhXIOWMW_lxI,93
+emoji-0.5.0.dist-info/metadata.json,sha256=QgCvCRcy618ACkMPHIS8P_3ODk7od96nE8FinOJXqHM,1443
+emoji-0.5.0.dist-info/top_level.txt,sha256=UxKwtYLYBTA8ldfisbxvrXDgSz3eVBOq51i2h2ewato,6
+emoji-0.5.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+emoji-0.5.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+emoji/__pycache__/core.cpython-35.pyc,,
+emoji/__pycache__/unicode_codes.cpython-35.pyc,,
+emoji/__pycache__/__init__.cpython-35.pyc,,

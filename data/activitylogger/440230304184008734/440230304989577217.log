@@ -1,0 +1,705 @@
+2018-04-30 13:27:14 #muko @emir#6830: 
+2018-04-30 13:41:35 #muko @mert#9442: 
+2018-04-30 20:56:28 #muko @Murat02#2684: *multicolor 1 OWNER
+2018-04-30 21:02:09 #muko @Murat02#2684: !help
+2018-04-30 21:02:09 #muko @MEE6#4876: 
+2018-04-30 21:02:10 #muko @MEE6#4876 edited message from 2018-04-30 21:02:09 () to read: 
+2018-04-30 21:02:10 #muko @Synapse#0692: Check your DM, @Murat02! I have sent something for you :wink:
+2018-04-30 21:04:50 #muko @Ghostplay R2#1298: 
+2018-04-30 21:05:54 #muko @Ghostplay R2#1298: 
+2018-04-30 21:06:36 #muko @Murat02#2684: *ghost
+2018-04-30 21:07:19 #muko @Ghostplay R2#1298: 
+2018-04-30 21:11:14 #muko @Murat02#2684: var Discord = require('discord.io');var logger = require('winston');var auth = require('./auth.json');// Configure logger settingslogger.remove(logger.transports.Console);logger.add(logger.transports.Console, { colorize: true});logger.level = 'debug';// Initialize Discord Botvar bot = new Discord.Client({ token: auth.token, autorun: true});bot.on('ready', function (evt) { logger.info('Connected'); logger.info('Logged in as: '); logger.info(bot.username + ' - (' + bot.id + ')');});bot.on('message', function (user, userID, channelID, message, evt) { // Our bot needs to know if it will execute a command // It will listen for messages that will start with `!` if (message.substring(0, 1) == '!') { var args = message.substring(1).split(' '); var cmd = args[0]; args = args.splice(1); switch(cmd) { // !ping case 'ping': bot.sendMessage({ to: channelID, message: 'Pong!' }); break; // Just add any case commands if you want to.. } }});
+2018-04-30 21:12:58 #muko @Murat02#2684: *multicolor 1 OWNER
+2018-04-30 21:15:37 #muko @Murat02#2684: @GHOST
+2018-04-30 21:16:01 #muko @Murat02#2684: !play GHOST
+2018-04-30 21:16:02 #muko @Synapse#0692: You must join a voice channel before I can play anything.
+2018-04-30 21:16:14 #muko @Murat02#2684: !run GHOST
+2018-04-30 21:19:26 #muko @Murat02#2684: @GHOST
+2018-04-30 21:20:56 #muko @Murat02#2684: !ping
+2018-04-30 21:20:56 #muko @Synapse#0692: Pong!
+2018-04-30 21:33:01 #muko @Ghostplay R2#1298: 
+2018-04-30 21:33:38 #muko @Murat02#2684: .multicolor 1 OWNER
+2018-04-30 21:36:45 #muko @Ghostplay R2#1298: 
+2018-04-30 21:48:08 #muko @UnbelievaBoat#1046: 
+2018-04-30 21:49:25 #muko @Ghostplay R2#1298 deleted message from 2018-04-30 21:04:50 ()
+2018-04-30 21:49:25 #muko @Ghostplay R2#1298 deleted message from 2018-04-30 21:05:54 ()
+2018-04-30 21:49:25 #muko @Ghostplay R2#1298 deleted message from 2018-04-30 21:07:19 ()
+2018-04-30 21:49:25 #muko @Ghostplay R2#1298 deleted message from 2018-04-30 21:33:01 ()
+2018-04-30 21:49:25 #muko @Ghostplay R2#1298 deleted message from 2018-04-30 21:36:45 ()
+2018-04-30 21:55:16 #muko @Ghostplay R2#1298: 
+2018-05-01 07:48:05 #muko @Ghostplay R2#1298: 
+2018-05-01 07:53:22 #muko @PatchBot#0303: 
+2018-05-01 07:56:19 #muko @MedalBot#1237: 
+2018-05-01 08:03:30 #muko @Ghostplay R2#1298: 
+2018-05-01 11:59:58 #muko @Umd#9538: 
+2018-05-01 13:03:58 #muko @Murat02#2684: *multicolor 0 OWNER
+2018-05-01 13:03:58 #muko @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`
+2018-05-01 13:04:27 #muko @Murat02#2684: *multicolor 0 OWNER
+2018-05-01 13:04:27 #muko @Ghostplay R2#1298: This command is on cooldown. Try again in 3571.26s
+2018-05-01 13:04:45 #muko @Murat02#2684: *multicolor 1 OWNER
+2018-05-01 13:04:46 #muko @Ghostplay R2#1298: This command is on cooldown. Try again in 3552.87s
+2018-05-01 13:08:36 #muko @Murat02#2684: *multicolor 1 OWNER
+2018-05-01 13:08:36 #muko @Tatsumaki#8792: 🆙  |  **Murat02 leveled up!** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/440862105529221121/levelup.png)
+2018-05-01 13:10:00 #muko @Murat02#2684: *multicolor 0 OWNER
+2018-05-01 14:17:36 #muko @Jack VGK#3390: 
+2018-05-01 14:18:02 #muko @Jack VGK#3390: Oles is here
+2018-05-01 15:28:32 #muko @Murat02#2684: t!profile
+2018-05-01 15:28:33 #muko @Tatsumaki#8792: 📝  |  **User profile card for Murat02** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/440897324747587595/profile.png)
+2018-05-01 15:29:56 #muko @Jack VGK#3390: . (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/440897671490830366/trumpet_boiii.jpg)
+2018-05-01 15:31:06 #muko @Murat02#2684: !mute @Jack VGK
+2018-05-01 15:31:08 #muko @Synapse#0692: User has been muted in this channel.
+2018-05-01 15:31:27 #muko @Murat02#2684: Tamam tamam yazık
+2018-05-01 15:31:37 #muko @Murat02#2684: !unmute  @Jack VGK
+2018-05-01 15:31:39 #muko @Synapse#0692: User has been unmuted in this channel.
+2018-05-01 15:31:54 #muko @Jack VGK#3390: Niye bunu yaptın?
+2018-05-01 15:32:04 #muko @Murat02#2684: Şaka amaçlı
+2018-05-01 15:32:07 #muko @Jack VGK#3390: ok
+2018-05-01 15:32:26 #muko @Jack VGK#3390: knk, fizikten hangi dosya ödevdi?
+2018-05-01 15:32:43 #muko @Murat02#2684: Oha ben onu çıkartmayı unuttum bekle
+2018-05-01 15:32:58 #muko @Jack VGK#3390: ben çık
+2018-05-01 15:33:27 #muko @Jack VGK#3390: ben çıkartmam, onun yerine cevapları kağıta yazarım
+2018-05-01 15:35:16 #muko @Jack VGK#3390: @Murat02 hangi dosya ödevdi?
+2018-05-01 15:38:42 #muko @Murat02#2684: WhatsApp dan atım
+2018-05-01 15:39:05 #muko @Jack VGK#3390: SAOL
+2018-05-01 15:39:16 #muko @Murat02#2684: Od
+2018-05-01 15:41:18 #muko @Jack VGK#3390: KNK, botların komutlarını whatsapp'tan yollar mısın?
+2018-05-01 15:41:19 #muko @Tatsumaki#8792: 🆙  |  **Jack VGK leveled up!** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/440900537144311809/levelup.png)
+2018-05-01 15:41:37 #muko @Murat02#2684: ! Help yaz
+2018-05-01 15:41:42 #muko @Murat02#2684: Ama
+2018-05-01 15:41:48 #muko @Murat02#2684: !help.
+2018-05-01 15:41:48 #muko @Jack VGK#3390: !help
+2018-05-01 15:41:49 #muko @MEE6#4876: 
+2018-05-01 15:41:50 #muko @MEE6#4876 edited message from 2018-05-01 15:41:49 () to read: 
+2018-05-01 15:41:50 #muko @Synapse#0692: Check your DM, @Jack VGK! I have sent something for you :wink:
+2018-05-01 15:43:26 #muko @Jack VGK#3390: !shop
+2018-05-01 15:43:28 #muko @Synapse#0692: ```\n!shop\n\nShop Commands. Use !help Shop for other command groups\n\nCommands:\n  blocktrades Toggles blocking trade requests.\n  addrole     Add a role token to shop list. Requires buyrole from refactored...\n  gift        Send a number of items from your inventory to another user\n  give        Adds an item to a users inventory. Item must be in the shop.\n  trade       Request a trade with another user\n  buy         Purchase a shop item with credits.\n  remove      Removes an item from the shop.\n  clear       Wipes the entire shop list\n  list        Shows a list of all the shop items. Roles are blue.\n  add         Adds items to the shop. Use 0 in quantity for infinite.\n  version     Shows the version of the shop cog you are running.\n  redeem      Sends a request to redeem an item\n  trash       Throws away an item in your inventory.\n\nType !shop command for more info on a command.\nYou can also type !shop category for more info on a category.\n```
+2018-05-01 15:43:44 #muko @Jack VGK#3390: !list
+2018-05-01 15:44:13 #muko @Jack VGK#3390: !spotify
+2018-05-01 15:44:14 #muko @Synapse#0692: ```\n!spotify <query>\n\nSearch for a song on Spotify\n\n```
+2018-05-01 15:44:28 #muko @Jack VGK#3390: !spotify earrape
+2018-05-01 15:44:35 #muko @Synapse#0692: 
+2018-05-01 15:44:35 #muko @Synapse#0692 edited message from 2018-05-01 15:44:35 () to read: 
+2018-05-01 15:44:57 #muko @Murat02#2684: Ah ah
+2018-05-01 15:45:13 #muko @Murat02#2684: t! profile
+2018-05-01 15:45:21 #muko @Murat02#2684: t!profile
+2018-05-01 15:45:25 #muko @Tatsumaki#8792: 📝  |  **User profile card for Murat02** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/440901567663570954/profile.png)
+2018-05-01 15:45:52 #muko @Murat02#2684: !leaderboard
+2018-05-01 15:45:53 #muko @Synapse#0692: There are no accounts in the bank.
+2018-05-01 15:45:53 #muko @Jack VGK#3390: Really? Mysterious pw
+2018-05-01 15:46:00 #muko @Jack VGK#3390: person?
+2018-05-01 15:46:09 #muko @Murat02#2684: Onu ben yazmadım
+2018-05-01 15:46:16 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:46:00 (person?)
+2018-05-01 15:46:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:45:53 (Really? Mysterious pw)
+2018-05-01 15:46:21 #muko @Murat02#2684: Nasıl öyle bir şey var anlamış değilim
+2018-05-01 15:46:29 #muko @Murat02#2684: Sen de yazsana bi
+2018-05-01 15:46:48 #muko @Jack VGK#3390: t!profie
+2018-05-01 15:46:57 #muko @Jack VGK#3390: t!profile
+2018-05-01 15:46:59 #muko @Tatsumaki#8792: 📝  |  **User profile card for Jack VGK** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/440901961341075466/profile.png)
+2018-05-01 15:47:13 #muko @Murat02#2684: Bak
+2018-05-01 15:47:21 #muko @Murat02#2684: Herkeste aynı saçmalık
+2018-05-01 15:48:47 #muko @Murat02#2684: ?new patches
+2018-05-01 15:48:55 #muko @Murat02#2684: ?patches
+2018-05-01 15:49:11 #muko @Murat02#2684: ?patch
+2018-05-01 15:49:18 #muko @Jack VGK#3390: patch ne?
+2018-05-01 15:49:20 #muko @Murat02#2684: ?patchbot
+2018-05-01 15:49:20 #muko @PatchBot#0303: Visit https://patchbot.io to manage your subscriptions
+2018-05-01 15:49:36 #muko @Murat02#2684: Bu
+2018-05-01 15:49:42 #muko @Murat02#2684: Bi yazamadım
+2018-05-01 16:05:52 #muko @Jack VGK#3390: !youtube
+2018-05-01 16:05:52 #muko @Synapse#0692: ```\n!youtube <query>\n\nSearch on Youtube\n\n```
+2018-05-01 16:06:08 #muko @Jack VGK#3390: !youtube earrape
+2018-05-01 16:06:09 #muko @MEE6#4876: https://youtube.com/watch?v=KiCmvQiAC8Q
+2018-05-01 16:06:10 #muko @MEE6#4876 edited message from 2018-05-01 16:06:09 (https://youtube.com/watch?v=KiCmvQiAC8Q) to read: https://youtube.com/watch?v=KiCmvQiAC8Q
+2018-05-01 16:06:10 #muko @Synapse#0692: https://www.youtube.com/watch?v=MOvDrom0rjc
+2018-05-01 16:06:35 #muko @Murat02#2684: Eğer dinlemek istiyosan
+2018-05-01 16:06:47 #muko @Murat02#2684: Gir voice channel a
+2018-05-01 16:07:13 #muko @Murat02#2684: Gir
+2018-05-01 16:08:15 #muko @Murat02#2684: Şunu yaz
+2018-05-01 16:08:23 #muko @Murat02#2684: .play earrape
+2018-05-01 16:08:23 #muko @himebot#3590: ⚠ You must be in a voice channel to use that command!
+2018-05-01 16:08:23 #muko @Synapse#0692: 
+2018-05-01 16:08:23 #muko @Synapse#0692 edited message from 2018-05-01 16:08:23 () to read: 
+2018-05-01 16:08:28 #muko @himebot#3590 deleted message from 2018-05-01 16:08:23 (⚠ You must be in a voice channel to use that command!)
+2018-05-01 16:10:21 #muko @Jack VGK#3390: .play Worlds Loudest Ear Rape 1.0
+2018-05-01 16:10:21 #muko @himebot#3590: :mag: Searching for `Worlds Loudest Ear Rape 1.0`
+2018-05-01 16:10:22 #muko @himebot#3590: 🎶 **Now playing** Worlds Loudest Ear Rape 1.0 (`00:00:22`)
+2018-05-01 16:10:22 #muko @himebot#3590 edited message from 2018-05-01 16:10:21 (:mag: Searching for `Worlds Loudest Ear Rape 1.0`) to read: :mag: Searching for `Worlds Loudest Ear Rape 1.0`
+2018-05-01 16:10:22 #muko @himebot#3590 edited message from 2018-05-01 16:10:21 (:mag: Searching for `Worlds Loudest Ear Rape 1.0`) to read: :mag: Searching for `Worlds Loudest Ear Rape 1.0`
+2018-05-01 16:10:23 #muko @Synapse#0692: 
+2018-05-01 16:10:24 #muko @Synapse#0692 edited message from 2018-05-01 16:10:23 () to read: 
+2018-05-01 16:10:25 #muko @Synapse#0692: 
+2018-05-01 16:10:25 #muko @Synapse#0692 edited message from 2018-05-01 16:10:25 () to read: 
+2018-05-01 16:10:33 #muko @Jack VGK#3390 deleted message from 2018-05-01 16:10:21 (.play Worlds Loudest Ear Rape 1.0)
+2018-05-01 16:10:33 #muko @Synapse#0692 deleted message from 2018-05-01 16:10:23 ()
+2018-05-01 16:10:49 #muko @Synapse#0692: 
+2018-05-01 16:10:49 #muko @Synapse#0692 edited message from 2018-05-01 16:10:49 () to read: 
+2018-05-01 16:11:57 #muko @Murat02#2684: !clean 27373737
+2018-05-01 16:11:57 #muko @Synapse#0692: ```\n!clean <user>\n\n```
+2018-05-01 16:12:13 #muko @Murat02#2684: !clean messages
+2018-05-01 16:12:13 #muko @Synapse#0692: ```\n!clean <user>\n\n```
+2018-05-01 16:12:18 #muko @Jack VGK#3390: bu ne?
+2018-05-01 16:12:34 #muko @Murat02#2684: Bu yok herhalde kodunu yazmayı unutmuşum
+2018-05-01 16:12:45 #muko @Murat02#2684: Bilgisayar da kapalı
+2018-05-01 16:12:52 #muko @Murat02#2684: Hiç uğraşamam
+2018-05-01 16:14:47 #muko @Murat02#2684: !help
+2018-05-01 16:14:47 #muko @MEE6#4876: 
+2018-05-01 16:14:48 #muko @MEE6#4876 edited message from 2018-05-01 16:14:47 () to read: 
+2018-05-01 16:14:48 #muko @Synapse#0692: Check your DM, @Murat02! I have sent something for you :wink:
+2018-05-01 16:16:27 #muko @Murat02#2684: !welcomer
+2018-05-01 16:16:29 #muko @Synapse#0692: ```\n!welcomer\n\nWelcomer modules settings.\n\nCommands:\n  disable       Disables the welcomer.\n  examples      Shows some examples for settings.\n  togglel       Toggles the leave message for welcomer.\n  leavemessage  Sets the welcomer leavemessage setting.\n  status        Shows the servers settings for welcomer.\n  botrole       Sets the welcomer bot role setting.\n  togglej       Toggles the join message for welcomer.\n  joinmessage   Sets welcomer joinmessage setting.\n  embed         Toggles the bot role setting for welcomer.\n  channel       Sets the welcomer channel settings.\n  botroletoggle Toggles the bot role setting for welcomer.\n\nType !welcomer command for more info on a command.\nYou can also type !welcomer category for more info on a category.\n```
+2018-05-01 16:16:56 #muko @Murat02#2684: welcomer.channel
+2018-05-01 16:17:08 #muko @Murat02#2684: !welcomer.channel
+2018-05-01 16:17:25 #muko @Murat02#2684: !welcomer channel
+2018-05-01 16:17:27 #muko @Synapse#0692: Channel set.
+2018-05-01 16:17:28 #muko @Jack VGK#3390: Şu an noluyor?
+2018-05-01 16:17:49 #muko @Murat02#2684: Yeni birisi geldiğinde welcome dicek
+2018-05-01 16:18:00 #muko @Jack VGK#3390: ok
+2018-05-01 16:20:32 #muko @Murat02#2684: !reset synapse
+2018-05-01 16:20:45 #muko @Murat02#2684: !reset
+2018-05-01 16:20:50 #muko @Murat02#2684: .reset
+2018-05-01 16:20:50 #muko @himebot#3590: ⚠ You must be in a voice channel to use that command!
+2018-05-01 16:20:56 #muko @himebot#3590 deleted message from 2018-05-01 16:20:50 (⚠ You must be in a voice channel to use that command!)
+2018-05-01 16:21:28 #muko @Murat02#2684: !ping
+2018-05-01 16:21:29 #muko @Synapse#0692: Pong!
+2018-05-01 16:23:34 #muko @Murat02#2684: *multicolor 0 OWNER
+2018-05-01 16:31:58 #muko @Mirai#3157: 
+2018-05-01 16:32:35 #muko @Murat02#2684: !clean 56262
+2018-05-01 16:32:35 #muko @Synapse#0692: ```\n!clean <user>\n\n```
+2018-05-01 16:33:48 #muko @Murat02#2684: @Mirai
+2018-05-01 16:34:10 #muko @Murat02#2684: m.
+2018-05-01 16:34:23 #muko @Murat02#2684: m.clear caht
+2018-05-01 16:34:32 #muko @Murat02#2684: m. clear chat
+2018-05-01 16:34:49 #muko @Murat02#2684: m.
+2018-05-01 16:35:06 #muko @Murat02#2684: !m
+2018-05-01 16:35:15 #muko @Murat02#2684: .m
+2018-05-01 16:37:22 #muko @Mirai#3157: 
+2018-05-01 16:37:37 #muko @Murat02#2684: m. clean
+2018-05-01 16:37:47 #muko @Murat02#2684: M.
+2018-05-01 16:37:51 #muko @Murat02#2684: m.help
+2018-05-01 16:37:51 #muko @Mirai#3157: **Mirai Command Plugins**\n`normal`: Generic commands (27 Commands)\n`moderation`: Moderation commands (8 Commands)\n`anime`: Anime related commands (5 Commands)\n`music`: Music streaming (9 Commands)\n`twitch`: Twitch.tv Commands (4 Commands)\n`osu`: osu Commands (4 Commands)\n\nFor detailed information on each plugin do `m.help plugin_name`\nWe also have a discord server that you can join for help: https://discord.gg/rkWPSdu
+2018-05-01 16:38:08 #muko @Murat02#2684: m.osu
+2018-05-01 16:38:16 #muko @Murat02#2684: m. osu
+2018-05-01 16:38:55 #muko @Murat02#2684: m.help osu
+2018-05-01 16:38:55 #muko @Mirai#3157: **osu Commands**\n`m.osu profile`: Check osu! profiles\n`m.osu recent`: See a user's most recent scores\n`m.osu signature`: Use lemmmy's osu!next sig generator\n`m.osu top`: See a user's top scores\n\nTo see the description of a command do `m.describe osu command_name`
+2018-05-01 16:39:23 #muko @Murat02#2684: m.help normal
+2018-05-01 16:39:23 #muko @Mirai#3157: **Normal Commands**\n`8ball`: Ask the magic 8 ball\n`about`: Info about Mirai Bot\n`avatar`: Display a user's avatar, or the server's icon\n`catgirl`: Get a catgirl\n`choose`: Makes a choice for you\n`coinflip`: Flip a coin\n`crypto`: Cryptocurrency exchange information\n`currency`: Convert between currencies\n`dice`: Roll a die\n`facts`: Get facts about cats, a number, date, year, or math facts on a number\n`fortune`: Get a fortune from yerkee.com\n`info`: Get info on a user, channel, or the server\n`inrole`: See what users have a role\n`lottery`: Run a lottery\n`map`: View a map of an area\n`ping`: Check Mirai's latency\n`pro`: Access Mirai Bot Pro\n`rip`: RIP\n`random`: Generate a random number\n`randomcomic`: Get a random comic from explosm.net's RCG 2.0\n`reddit`: Get posts from reddit\n`reminder`: Set and manage reminders\n`rockpaperscissors`: Play against Mirai\n`strawpoll`: Create a strawpoll\n`urban`: Get a definition from Urban Dictionary\n`vote`: Get the opinion of your users\n`weather`: Get the weather\n\nTo see the description of a command do `m.describe command_name`
+2018-05-01 16:40:04 #muko @Murat02#2684: m.help clean
+2018-05-01 16:40:04 #muko @Mirai#3157: No plugin found matching "clean"\nThese are the current plugins: `normal, moderation, anime, music, twitch, osu`\nIf you want to learn about commands use m.describe instead
+2018-05-01 16:40:22 #muko @Murat02#2684: m.clear
+2018-05-01 16:40:44 #muko @Murat02#2684: m.moderation
+2018-05-01 16:40:56 #muko @Murat02#2684: m.help moderation
+2018-05-01 16:40:56 #muko @Mirai#3157: **Moderation Commands**\n`ban`: Ban a user and provide them a reason\n`kick`: Kick a user and provide them a reason\n`permissions`: Check what permissions a user has\n`prune`: Delete messages\n`role`: Join or leave a role\n`softban`: Kick a user and clear their messages\n\nTo see the description of a command do `m.describe command_name`
+2018-05-01 16:41:44 #muko @Murat02#2684: m.moderation prune
+2018-05-01 16:41:50 #muko @Murat02#2684: m.prune
+2018-05-01 16:41:50 #muko @Mirai#3157: Please tell me how many messages you want me to go through.
+2018-05-01 16:41:59 #muko @Murat02#2684: m.prune 6377474747637
+2018-05-01 16:41:59 #muko @Mirai#3157: Specify a number between 1 and 500.
+2018-05-01 16:42:09 #muko @Murat02#2684: m.prune 500
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:42:09 (m.prune 500)
+2018-05-01 16:42:10 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:43:44 (!list)
+2018-05-01 16:42:10 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:44:13 (!spotify)
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 15:44:14 (```\n!spotify <query>\n\nSearch for a song on Spotify\n\n```)
+2018-05-01 16:42:10 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:44:28 (!spotify earrape)
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 15:44:35 ()
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:44:57 (Ah ah)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:45:13 (t! profile)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:45:21 (t!profile)
+2018-05-01 16:42:10 #muko @Tatsumaki#8792 deleted message from 2018-05-01 15:45:25 (📝  |  **User profile card for Murat02**)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:45:52 (!leaderboard)
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 15:45:53 (There are no accounts in the bank.)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:46:09 (Onu ben yazmadım)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:46:21 (Nasıl öyle bir şey var anlamış değilim)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:46:29 (Sen de yazsana bi)
+2018-05-01 16:42:10 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:46:48 (t!profie)
+2018-05-01 16:42:10 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:46:57 (t!profile)
+2018-05-01 16:42:10 #muko @Tatsumaki#8792 deleted message from 2018-05-01 15:46:59 (📝  |  **User profile card for Jack VGK**)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:47:13 (Bak)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:47:21 (Herkeste aynı saçmalık)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:48:47 (?new patches)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:48:55 (?patches)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:49:11 (?patch)
+2018-05-01 16:42:10 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:49:18 (patch ne?)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:49:20 (?patchbot)
+2018-05-01 16:42:10 #muko @PatchBot#0303 deleted message from 2018-05-01 15:49:20 (Visit https://patchbot.io to manage your subscriptions)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:49:36 (Bu)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 15:49:42 (Bi yazamadım)
+2018-05-01 16:42:10 #muko @Jack VGK#3390 deleted message from 2018-05-01 16:05:52 (!youtube)
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 16:05:52 (```\n!youtube <query>\n\nSearch on Youtube\n\n```)
+2018-05-01 16:42:10 #muko @Jack VGK#3390 deleted message from 2018-05-01 16:06:08 (!youtube earrape)
+2018-05-01 16:42:10 #muko @MEE6#4876 deleted message from 2018-05-01 16:06:09 (https://youtube.com/watch?v=KiCmvQiAC8Q)
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 16:06:10 (https://www.youtube.com/watch?v=MOvDrom0rjc)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:06:35 (Eğer dinlemek istiyosan)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:06:47 (Gir voice channel a)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:07:13 (Gir)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:08:15 (Şunu yaz)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:08:23 (.play earrape)
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 16:08:23 ()
+2018-05-01 16:42:10 #muko @himebot#3590 deleted message from 2018-05-01 16:10:21 (:mag: Searching for `Worlds Loudest Ear Rape 1.0`)
+2018-05-01 16:42:10 #muko @himebot#3590 deleted message from 2018-05-01 16:10:22 (🎶 **Now playing** Worlds Loudest Ear Rape 1.0 (`00:00:22`))
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 16:10:25 ()
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 16:10:49 ()
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:11:57 (!clean 27373737)
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 16:11:57 (```\n!clean <user>\n\n```)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:12:13 (!clean messages)
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 16:12:13 (```\n!clean <user>\n\n```)
+2018-05-01 16:42:10 #muko @Jack VGK#3390 deleted message from 2018-05-01 16:12:18 (bu ne?)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:12:34 (Bu yok herhalde kodunu yazmayı unutmuşum)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:12:45 (Bilgisayar da kapalı)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:12:52 (Hiç uğraşamam)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:14:47 (!help)
+2018-05-01 16:42:10 #muko @MEE6#4876 deleted message from 2018-05-01 16:14:47 ()
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 16:14:48 (Check your DM, @Murat02! I have sent something for you :wink:)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:16:27 (!welcomer)
+2018-05-01 16:42:10 #muko @Synapse#0692 deleted message from 2018-05-01 16:16:29 (```\n!welcomer\n\nWelcomer modules settings.\n\nCommands:\n  disable       Disables the welcomer.\n  examples      Shows some examples for settings.\n  togglel       Toggles the leave message for welcomer.\n  leavemessage  Sets the welcomer leavemessage setting.\n  status        Shows the servers settings for welcomer.\n  botrole       Sets the welcomer bot role setting.\n  togglej       Toggles the join message for welcomer.\n  joinmessage   Sets welcomer joinmessage setting.\n  embed         Toggles the bot role setting for welcomer.\n  channel       Sets the welcomer channel settings.\n  botroletoggle Toggles the bot role setting for welcomer.\n\nType !welcomer command for more info on a command.\nYou can also type !welcomer category for more info on a category.\n```)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:16:56 (welcomer.channel)
+2018-05-01 16:42:10 #muko @Murat02#2684 deleted message from 2018-05-01 16:17:08 (!welcomer.channel)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:17:25 (!welcomer channel)
+2018-05-01 16:42:11 #muko @Synapse#0692 deleted message from 2018-05-01 16:17:27 (Channel set.)
+2018-05-01 16:42:11 #muko @Jack VGK#3390 deleted message from 2018-05-01 16:17:28 (Şu an noluyor?)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:17:49 (Yeni birisi geldiğinde welcome dicek)
+2018-05-01 16:42:11 #muko @Jack VGK#3390 deleted message from 2018-05-01 16:18:00 (ok)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:20:32 (!reset synapse)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:20:45 (!reset)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:20:50 (.reset)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:21:28 (!ping)
+2018-05-01 16:42:11 #muko @Synapse#0692 deleted message from 2018-05-01 16:21:29 (Pong!)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:23:34 (*multicolor 0 OWNER)
+2018-05-01 16:42:11 #muko @Mirai#3157 deleted message from 2018-05-01 16:31:58 ()
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:32:35 (!clean 56262)
+2018-05-01 16:42:11 #muko @Synapse#0692 deleted message from 2018-05-01 16:32:35 (```\n!clean <user>\n\n```)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:33:48 (@Mirai)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:34:10 (m.)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:34:23 (m.clear caht)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:34:32 (m. clear chat)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:34:49 (m.)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:35:06 (!m)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:35:15 (.m)
+2018-05-01 16:42:11 #muko @Mirai#3157 deleted message from 2018-05-01 16:37:22 ()
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:37:37 (m. clean)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:37:47 (M.)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:37:51 (m.help)
+2018-05-01 16:42:11 #muko @Mirai#3157 deleted message from 2018-05-01 16:37:51 (**Mirai Command Plugins**\n`normal`: Generic commands (27 Commands)\n`moderation`: Moderation commands (8 Commands)\n`anime`: Anime related commands (5 Commands)\n`music`: Music streaming (9 Commands)\n`twitch`: Twitch.tv Commands (4 Commands)\n`osu`: osu Commands (4 Commands)\n\nFor detailed information on each plugin do `m.help plugin_name`\nWe also have a discord server that you can join for help: https://discord.gg/rkWPSdu)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:38:08 (m.osu)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:38:16 (m. osu)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:38:55 (m.help osu)
+2018-05-01 16:42:11 #muko @Mirai#3157 deleted message from 2018-05-01 16:38:55 (**osu Commands**\n`m.osu profile`: Check osu! profiles\n`m.osu recent`: See a user's most recent scores\n`m.osu signature`: Use lemmmy's osu!next sig generator\n`m.osu top`: See a user's top scores\n\nTo see the description of a command do `m.describe osu command_name`)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:39:23 (m.help normal)
+2018-05-01 16:42:11 #muko @Mirai#3157 deleted message from 2018-05-01 16:39:23 (**Normal Commands**\n`8ball`: Ask the magic 8 ball\n`about`: Info about Mirai Bot\n`avatar`: Display a user's avatar, or the server's icon\n`catgirl`: Get a catgirl\n`choose`: Makes a choice for you\n`coinflip`: Flip a coin\n`crypto`: Cryptocurrency exchange information\n`currency`: Convert between currencies\n`dice`: Roll a die\n`facts`: Get facts about cats, a number, date, year, or math facts on a number\n`fortune`: Get a fortune from yerkee.com\n`info`: Get info on a user, channel, or the server\n`inrole`: See what users have a role\n`lottery`: Run a lottery\n`map`: View a map of an area\n`ping`: Check Mirai's latency\n`pro`: Access Mirai Bot Pro\n`rip`: RIP\n`random`: Generate a random number\n`randomcomic`: Get a random comic from explosm.net's RCG 2.0\n`reddit`: Get posts from reddit\n`reminder`: Set and manage reminders\n`rockpaperscissors`: Play against Mirai\n`strawpoll`: Create a strawpoll\n`urban`: Get a definition from Urban Dictionary\n`vote`: Get the opinion of your users\n`weather`: Get the weather\n\nTo see the description of a command do `m.describe command_name`)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:40:04 (m.help clean)
+2018-05-01 16:42:11 #muko @Mirai#3157 deleted message from 2018-05-01 16:40:04 (No plugin found matching "clean"\nThese are the current plugins: `normal, moderation, anime, music, twitch, osu`\nIf you want to learn about commands use m.describe instead)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:40:22 (m.clear)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:40:44 (m.moderation)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:40:56 (m.help moderation)
+2018-05-01 16:42:11 #muko @Mirai#3157 deleted message from 2018-05-01 16:40:56 (**Moderation Commands**\n`ban`: Ban a user and provide them a reason\n`kick`: Kick a user and provide them a reason\n`permissions`: Check what permissions a user has\n`prune`: Delete messages\n`role`: Join or leave a role\n`softban`: Kick a user and clear their messages\n\nTo see the description of a command do `m.describe command_name`)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:41:44 (m.moderation prune)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:41:50 (m.prune)
+2018-05-01 16:42:11 #muko @Mirai#3157 deleted message from 2018-05-01 16:41:50 (Please tell me how many messages you want me to go through.)
+2018-05-01 16:42:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:41:59 (m.prune 6377474747637)
+2018-05-01 16:42:11 #muko @Mirai#3157 deleted message from 2018-05-01 16:41:59 (Specify a number between 1 and 500.)
+2018-05-01 16:42:20 #muko @Murat02#2684 deleted message from 2018-05-01 15:28:32 (t!profile)
+2018-05-01 16:42:20 #muko @Tatsumaki#8792 deleted message from 2018-05-01 15:28:33 (📝  |  **User profile card for Murat02**)
+2018-05-01 16:42:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:29:56 (.)
+2018-05-01 16:42:20 #muko @Murat02#2684 deleted message from 2018-05-01 15:31:06 (!mute @Jack VGK)
+2018-05-01 16:42:20 #muko @Synapse#0692 deleted message from 2018-05-01 15:31:08 (User has been muted in this channel.)
+2018-05-01 16:42:20 #muko @Murat02#2684 deleted message from 2018-05-01 15:31:27 (Tamam tamam yazık)
+2018-05-01 16:42:20 #muko @Murat02#2684 deleted message from 2018-05-01 15:31:37 (!unmute  @Jack VGK)
+2018-05-01 16:42:20 #muko @Synapse#0692 deleted message from 2018-05-01 15:31:39 (User has been unmuted in this channel.)
+2018-05-01 16:42:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:31:54 (Niye bunu yaptın?)
+2018-05-01 16:42:20 #muko @Murat02#2684 deleted message from 2018-05-01 15:32:04 (Şaka amaçlı)
+2018-05-01 16:42:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:32:07 (ok)
+2018-05-01 16:42:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:32:26 (knk, fizikten hangi dosya ödevdi?)
+2018-05-01 16:42:20 #muko @Murat02#2684 deleted message from 2018-05-01 15:32:43 (Oha ben onu çıkartmayı unuttum bekle)
+2018-05-01 16:42:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:32:58 (ben çık)
+2018-05-01 16:42:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:33:27 (ben çıkartmam, onun yerine cevapları kağıta yazarım)
+2018-05-01 16:42:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:35:16 (@Murat02 hangi dosya ödevdi?)
+2018-05-01 16:42:20 #muko @Murat02#2684 deleted message from 2018-05-01 15:38:42 (WhatsApp dan atım)
+2018-05-01 16:42:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:39:05 (SAOL)
+2018-05-01 16:42:20 #muko @Murat02#2684 deleted message from 2018-05-01 15:39:16 (Od)
+2018-05-01 16:42:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:41:18 (KNK, botların komutlarını whatsapp'tan yollar mısın?)
+2018-05-01 16:42:20 #muko @Tatsumaki#8792 deleted message from 2018-05-01 15:41:19 (🆙  |  **Jack VGK leveled up!**)
+2018-05-01 16:42:20 #muko @Murat02#2684 deleted message from 2018-05-01 15:41:37 (! Help yaz)
+2018-05-01 16:42:20 #muko @Murat02#2684 deleted message from 2018-05-01 15:41:42 (Ama)
+2018-05-01 16:42:20 #muko @Murat02#2684 deleted message from 2018-05-01 15:41:48 (!help.)
+2018-05-01 16:42:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:41:48 (!help)
+2018-05-01 16:42:20 #muko @MEE6#4876 deleted message from 2018-05-01 15:41:49 ()
+2018-05-01 16:42:20 #muko @Synapse#0692 deleted message from 2018-05-01 15:41:50 (Check your DM, @Jack VGK! I have sent something for you :wink:)
+2018-05-01 16:42:20 #muko @Jack VGK#3390 deleted message from 2018-05-01 15:43:26 (!shop)
+2018-05-01 16:42:20 #muko @Synapse#0692 deleted message from 2018-05-01 15:43:28 (```\n!shop\n\nShop Commands. Use !help Shop for other command groups\n\nCommands:\n  blocktrades Toggles blocking trade requests.\n  addrole     Add a role token to shop list. Requires buyrole from refactored...\n  gift        Send a number of items from your inventory to another user\n  give        Adds an item to a users inventory. Item must be in the shop.\n  trade       Request a trade with another user\n  buy         Purchase a shop item with credits.\n  remove      Removes an item from the shop.\n  clear       Wipes the entire shop list\n  list        Shows a list of all the shop items. Roles are blue.\n  add         Adds items to the shop. Use 0 in quantity for infinite.\n  version     Shows the version of the shop cog you are running.\n  redeem      Sends a request to redeem an item\n  trash       Throws away an item in your inventory.\n\nType !shop command for more info on a command.\nYou can also type !shop category for more info on a category.\n```)
+2018-05-01 16:42:19 #muko @Mirai#3157: I've deleted 229 messages.
+2018-05-01 16:42:27 #muko @Mirai#3157 deleted message from 2018-05-01 16:42:19 (I've deleted 229 messages.)
+2018-05-01 16:43:55 #muko @Murat02#2684: m.stop
+2018-05-01 16:44:24 #muko @Murat02#2684: m.prune 50
+2018-05-01 16:44:31 #muko @Murat02#2684 deleted message from 2018-05-01 16:44:24 (m.prune 50)
+2018-05-01 16:44:31 #muko @Murat02#2684 deleted message from 2018-05-01 16:43:55 (m.stop)
+2018-05-01 16:44:25 #muko @Mirai#3157: I've deleted 1 message.
+2018-05-01 16:44:34 #muko @Mirai#3157 deleted message from 2018-05-01 16:44:25 (I've deleted 1 message.)
+2018-05-01 16:49:52 #muko @Murat02#2684: t!profile
+2018-05-01 16:49:53 #muko @Tatsumaki#8792: 📝  |  **User profile card for Murat02** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/440917792590397440/profile.png)
+2018-05-01 16:50:11 #muko @Jack VGK#3390: t!profile
+2018-05-01 16:50:11 #muko @Tatsumaki#8792: 📝  |  **User profile card for Jack VGK** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/440917868926992385/profile.png)
+2018-05-01 16:50:45 #muko @Murat02#2684: ?patchbot
+2018-05-01 16:50:45 #muko @PatchBot#0303: Visit https://patchbot.io to manage your subscriptions
+2018-05-01 16:51:03 #muko @Jack VGK#3390: .play Worlds Loudest Ear Rape 1.0
+2018-05-01 16:51:03 #muko @himebot#3590: :mag: Searching for `Worlds Loudest Ear Rape 1.0`
+2018-05-01 16:51:04 #muko @himebot#3590: 🎶 **Now playing** Worlds Loudest Ear Rape 1.0 (`00:00:22`)
+2018-05-01 16:51:04 #muko @himebot#3590 edited message from 2018-05-01 16:51:03 (:mag: Searching for `Worlds Loudest Ear Rape 1.0`) to read: :mag: Searching for `Worlds Loudest Ear Rape 1.0`
+2018-05-01 16:51:04 #muko @himebot#3590 edited message from 2018-05-01 16:51:03 (:mag: Searching for `Worlds Loudest Ear Rape 1.0`) to read: :mag: Searching for `Worlds Loudest Ear Rape 1.0`
+2018-05-01 16:51:05 #muko @Synapse#0692: 
+2018-05-01 16:51:10 #muko @Synapse#0692 edited message from 2018-05-01 16:51:05 () to read: 
+2018-05-01 16:51:06 #muko @Synapse#0692: 
+2018-05-01 16:51:10 #muko @Synapse#0692 edited message from 2018-05-01 16:51:06 () to read: 
+2018-05-01 16:51:15 #muko @Synapse#0692 deleted message from 2018-05-01 16:51:05 ()
+2018-05-01 16:51:15 #muko @Jack VGK#3390 deleted message from 2018-05-01 16:51:03 (.play Worlds Loudest Ear Rape 1.0)
+2018-05-01 16:51:30 #muko @Synapse#0692: 
+2018-05-01 16:51:30 #muko @Synapse#0692 edited message from 2018-05-01 16:51:30 () to read: 
+2018-05-01 16:51:36 #muko @Murat02#2684: .stop
+2018-05-01 16:51:36 #muko @himebot#3590: ⚠ The bot is not in a voice channel currently!
+2018-05-01 16:51:36 #muko @Synapse#0692: 
+2018-05-01 16:51:36 #muko @Synapse#0692 edited message from 2018-05-01 16:51:36 () to read: 
+2018-05-01 16:51:41 #muko @himebot#3590 deleted message from 2018-05-01 16:51:36 (⚠ The bot is not in a voice channel currently!)
+2018-05-01 16:52:02 #muko @Murat02#2684: .stop
+2018-05-01 16:52:02 #muko @himebot#3590: ⚠ The bot is not in a voice channel currently!
+2018-05-01 16:52:07 #muko @himebot#3590 deleted message from 2018-05-01 16:52:02 (⚠ The bot is not in a voice channel currently!)
+2018-05-01 16:52:16 #muko @Jack VGK#3390: .stop
+2018-05-01 16:52:17 #muko @himebot#3590: ⚠ The bot is not in a voice channel currently!
+2018-05-01 16:52:17 #muko @Synapse#0692: 
+2018-05-01 16:52:17 #muko @Synapse#0692 edited message from 2018-05-01 16:52:17 () to read: 
+2018-05-01 16:52:23 #muko @himebot#3590 deleted message from 2018-05-01 16:52:17 (⚠ The bot is not in a voice channel currently!)
+2018-05-01 16:52:31 #muko @Jack VGK#3390: .stop
+2018-05-01 16:52:31 #muko @himebot#3590: ⚠ The bot is not in a voice channel currently!
+2018-05-01 16:52:34 #muko @Murat02#2684: m.help moderation
+2018-05-01 16:52:35 #muko @Mirai#3157: **Moderation Commands**\n`ban`: Ban a user and provide them a reason\n`kick`: Kick a user and provide them a reason\n`permissions`: Check what permissions a user has\n`prune`: Delete messages\n`role`: Join or leave a role\n`softban`: Kick a user and clear their messages\n\nTo see the description of a command do `m.describe command_name`
+2018-05-01 16:52:36 #muko @himebot#3590 deleted message from 2018-05-01 16:52:31 (⚠ The bot is not in a voice channel currently!)
+2018-05-01 16:52:52 #muko @Murat02#2684: m. prune 10
+2018-05-01 16:53:01 #muko @Murat02#2684: m.prune 10
+2018-05-01 16:53:01 #muko @Murat02#2684 deleted message from 2018-05-01 16:53:01 (m.prune 10)
+2018-05-01 16:53:01 #muko @Synapse#0692 deleted message from 2018-05-01 16:51:30 ()
+2018-05-01 16:53:01 #muko @Murat02#2684 deleted message from 2018-05-01 16:51:36 (.stop)
+2018-05-01 16:53:01 #muko @Synapse#0692 deleted message from 2018-05-01 16:51:36 ()
+2018-05-01 16:53:01 #muko @Murat02#2684 deleted message from 2018-05-01 16:52:02 (.stop)
+2018-05-01 16:53:01 #muko @Jack VGK#3390 deleted message from 2018-05-01 16:52:16 (.stop)
+2018-05-01 16:53:01 #muko @Synapse#0692 deleted message from 2018-05-01 16:52:17 ()
+2018-05-01 16:53:01 #muko @Jack VGK#3390 deleted message from 2018-05-01 16:52:31 (.stop)
+2018-05-01 16:53:01 #muko @Murat02#2684 deleted message from 2018-05-01 16:52:34 (m.help moderation)
+2018-05-01 16:53:01 #muko @Mirai#3157 deleted message from 2018-05-01 16:52:35 (**Moderation Commands**\n`ban`: Ban a user and provide them a reason\n`kick`: Kick a user and provide them a reason\n`permissions`: Check what permissions a user has\n`prune`: Delete messages\n`role`: Join or leave a role\n`softban`: Kick a user and clear their messages\n\nTo see the description of a command do `m.describe command_name`)
+2018-05-01 16:53:01 #muko @Murat02#2684 deleted message from 2018-05-01 16:52:52 (m. prune 10)
+2018-05-01 16:53:01 #muko @Mirai#3157: I've deleted 10 messages.
+2018-05-01 16:53:09 #muko @Mirai#3157 deleted message from 2018-05-01 16:53:01 (I've deleted 10 messages.)
+2018-05-01 16:53:11 #muko @Murat02#2684: m.prune 5
+2018-05-01 16:53:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:53:11 (m.prune 5)
+2018-05-01 16:53:11 #muko @Murat02#2684 deleted message from 2018-05-01 16:50:45 (?patchbot)
+2018-05-01 16:53:11 #muko @PatchBot#0303 deleted message from 2018-05-01 16:50:45 (Visit https://patchbot.io to manage your subscriptions)
+2018-05-01 16:53:11 #muko @himebot#3590 deleted message from 2018-05-01 16:51:03 (:mag: Searching for `Worlds Loudest Ear Rape 1.0`)
+2018-05-01 16:53:11 #muko @himebot#3590 deleted message from 2018-05-01 16:51:04 (🎶 **Now playing** Worlds Loudest Ear Rape 1.0 (`00:00:22`))
+2018-05-01 16:53:11 #muko @Synapse#0692 deleted message from 2018-05-01 16:51:06 ()
+2018-05-01 16:53:11 #muko @Mirai#3157: I've deleted 5 messages.
+2018-05-01 16:53:24 #muko @Mirai#3157 deleted message from 2018-05-01 16:53:11 (I've deleted 5 messages.)
+2018-05-01 16:53:47 #muko @Murat02#2684: m.random
+2018-05-01 16:53:47 #muko @Mirai#3157: Murat02, I generated a number from **1** to **10** and got **1**
+2018-05-01 16:54:10 #muko @Jack VGK#3390: m.random
+2018-05-01 16:54:10 #muko @Mirai#3157: Jack VGK, I generated a number from **1** to **10** and got **8**
+2018-05-01 16:54:14 #muko @Jack VGK#3390: yes
+2018-05-01 16:54:47 #muko @Murat02#2684: Ben gidiyom ödev var
+2018-05-01 17:55:03 #muko @Jack VGK#3390: bye
+2018-05-01 19:31:53 #muko @Jack VGK#3390: m.random
+2018-05-01 19:31:53 #muko @Mirai#3157: Jack VGK, I generated a number from **1** to **10** and got **10**
+2018-05-01 20:19:02 #muko @Murat02#2684: m.help
+2018-05-01 20:19:02 #muko @Mirai#3157: **Mirai Command Plugins**\n`normal`: Generic commands (27 Commands)\n`moderation`: Moderation commands (8 Commands)\n`anime`: Anime related commands (5 Commands)\n`music`: Music streaming (9 Commands)\n`twitch`: Twitch.tv Commands (4 Commands)\n`osu`: osu Commands (4 Commands)\n\nFor detailed information on each plugin do `m.help plugin_name`\nWe also have a discord server that you can join for help: https://discord.gg/rkWPSdu
+2018-05-01 20:19:10 #muko @Murat02#2684: m.moderation
+2018-05-01 20:19:19 #muko @Murat02#2684: m.help moderation
+2018-05-01 20:19:19 #muko @Mirai#3157: **Moderation Commands**\n`ban`: Ban a user and provide them a reason\n`kick`: Kick a user and provide them a reason\n`permissions`: Check what permissions a user has\n`prune`: Delete messages\n`role`: Join or leave a role\n`softban`: Kick a user and clear their messages\n\nTo see the description of a command do `m.describe command_name`
+2018-05-01 20:19:30 #muko @Murat02#2684: m.prune 11
+2018-05-01 20:19:31 #muko @Murat02#2684 deleted message from 2018-05-01 20:19:30 (m.prune 11)
+2018-05-01 20:19:31 #muko @Jack VGK#3390 deleted message from 2018-05-01 19:31:53 (m.random)
+2018-05-01 20:19:31 #muko @Mirai#3157 deleted message from 2018-05-01 19:31:53 (Jack VGK, I generated a number from **1** to **10** and got **10**)
+2018-05-01 20:19:31 #muko @Murat02#2684 deleted message from 2018-05-01 20:19:02 (m.help)
+2018-05-01 20:19:31 #muko @Mirai#3157 deleted message from 2018-05-01 20:19:02 (**Mirai Command Plugins**\n`normal`: Generic commands (27 Commands)\n`moderation`: Moderation commands (8 Commands)\n`anime`: Anime related commands (5 Commands)\n`music`: Music streaming (9 Commands)\n`twitch`: Twitch.tv Commands (4 Commands)\n`osu`: osu Commands (4 Commands)\n\nFor detailed information on each plugin do `m.help plugin_name`\nWe also have a discord server that you can join for help: https://discord.gg/rkWPSdu)
+2018-05-01 20:19:31 #muko @Murat02#2684 deleted message from 2018-05-01 20:19:10 (m.moderation)
+2018-05-01 20:19:31 #muko @Murat02#2684 deleted message from 2018-05-01 20:19:19 (m.help moderation)
+2018-05-01 20:19:31 #muko @Mirai#3157 deleted message from 2018-05-01 20:19:19 (**Moderation Commands**\n`ban`: Ban a user and provide them a reason\n`kick`: Kick a user and provide them a reason\n`permissions`: Check what permissions a user has\n`prune`: Delete messages\n`role`: Join or leave a role\n`softban`: Kick a user and clear their messages\n\nTo see the description of a command do `m.describe command_name`)
+2018-05-01 20:19:31 #muko @Mirai#3157: I've deleted 11 messages.
+2018-05-01 20:19:39 #muko @Mirai#3157 deleted message from 2018-05-01 20:19:31 (I've deleted 11 messages.)
+2018-05-01 20:26:34 #muko @Murat02#2684: m.prangue
+2018-05-01 20:26:46 #muko @Murat02#2684: m.help moderation
+2018-05-01 20:26:46 #muko @Mirai#3157: **Moderation Commands**\n`ban`: Ban a user and provide them a reason\n`kick`: Kick a user and provide them a reason\n`permissions`: Check what permissions a user has\n`prune`: Delete messages\n`role`: Join or leave a role\n`softban`: Kick a user and clear their messages\n\nTo see the description of a command do `m.describe command_name`
+2018-05-01 20:27:12 #muko @Murat02#2684: m.prune 6
+2018-05-01 20:27:12 #muko @Murat02#2684 deleted message from 2018-05-01 20:27:12 (m.prune 6)
+2018-05-01 20:27:12 #muko @Murat02#2684 deleted message from 2018-05-01 20:26:34 (m.prangue)
+2018-05-01 20:27:12 #muko @Murat02#2684 deleted message from 2018-05-01 20:26:46 (m.help moderation)
+2018-05-01 20:27:12 #muko @Mirai#3157 deleted message from 2018-05-01 20:26:46 (**Moderation Commands**\n`ban`: Ban a user and provide them a reason\n`kick`: Kick a user and provide them a reason\n`permissions`: Check what permissions a user has\n`prune`: Delete messages\n`role`: Join or leave a role\n`softban`: Kick a user and clear their messages\n\nTo see the description of a command do `m.describe command_name`)
+2018-05-01 20:27:12 #muko @Mirai#3157: I've deleted 6 messages.
+2018-05-01 20:27:21 #muko @Mirai#3157 deleted message from 2018-05-01 20:27:12 (I've deleted 6 messages.)
+2018-05-01 20:28:40 #muko @himebot#3590: 🎶 **Now playing** İrem Derici - Hadi Gel (`00:04:05`)
+2018-05-01 20:28:40 #muko @Synapse#0692: 
+2018-05-01 20:28:41 #muko @Synapse#0692 edited message from 2018-05-01 20:28:40 () to read: 
+2018-05-01 20:28:42 #muko @Synapse#0692: 
+2018-05-01 20:28:42 #muko @Synapse#0692 edited message from 2018-05-01 20:28:42 () to read: 
+2018-05-01 20:28:51 #muko @Synapse#0692 deleted message from 2018-05-01 20:28:40 ()
+2018-05-01 20:28:53 #muko @Synapse#0692: 
+2018-05-01 20:28:53 #muko @Synapse#0692 edited message from 2018-05-01 20:28:53 () to read: 
+2018-05-01 20:30:22 #muko @Murat02#2684: m.prune 4
+2018-05-01 20:30:22 #muko @Murat02#2684 deleted message from 2018-05-01 20:30:22 (m.prune 4)
+2018-05-01 20:30:22 #muko @himebot#3590 deleted message from 2018-05-01 20:28:40 (🎶 **Now playing** İrem Derici - Hadi Gel (`00:04:05`))
+2018-05-01 20:30:22 #muko @Synapse#0692 deleted message from 2018-05-01 20:28:42 ()
+2018-05-01 20:30:22 #muko @Synapse#0692 deleted message from 2018-05-01 20:28:53 ()
+2018-05-01 20:30:22 #muko @Mirai#3157: I've deleted 4 messages.
+2018-05-01 20:30:31 #muko @Mirai#3157 deleted message from 2018-05-01 20:30:22 (I've deleted 4 messages.)
+2018-05-01 20:30:33 #muko @Murat02#2684: m.prune 2
+2018-05-01 20:30:34 #muko @Murat02#2684 deleted message from 2018-05-01 20:30:33 (m.prune 2)
+2018-05-01 20:30:33 #muko @Mirai#3157: I've deleted 2 messages.
+2018-05-01 20:30:41 #muko @Mirai#3157 deleted message from 2018-05-01 20:30:33 (I've deleted 2 messages.)
+2018-05-01 20:30:56 #muko @Murat02#2684: m.prune 50
+2018-05-01 20:30:57 #muko @Murat02#2684 deleted message from 2018-05-01 20:30:56 (m.prune 50)
+2018-05-01 20:30:57 #muko @Mirai#3157: I've deleted 0 messages.
+2018-05-01 20:31:05 #muko @Mirai#3157 deleted message from 2018-05-01 20:30:57 (I've deleted 0 messages.)
+2018-05-01 20:31:20 #muko @Murat02#2684: t!profile
+2018-05-01 20:31:21 #muko @Tatsumaki#8792: 📝  |  **User profile card for Murat02** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/440973524094681122/profile.png)
+2018-05-01 20:32:15 #muko @Murat02#2684: !play witcher III:Gorevlere akma
+2018-05-01 20:32:37 #muko @Murat02#2684: ! YouTube witcher III Gorevlere akma
+2018-05-01 20:32:57 #muko @Murat02#2684: !YouTube witcher III Gorevlere akma
+2018-05-01 20:32:57 #muko @MEE6#4876: Error: Nothing found. <:XMARK6:403540169992568833>
+2018-05-01 20:33:45 #muko @Murat02#2684: m.prune 5
+2018-05-01 20:33:51 #muko @Murat02#2684 deleted message from 2018-05-01 20:33:45 (m.prune 5)
+2018-05-01 20:33:51 #muko @Tatsumaki#8792 deleted message from 2018-05-01 20:31:21 (📝  |  **User profile card for Murat02**)
+2018-05-01 20:33:51 #muko @Murat02#2684 deleted message from 2018-05-01 20:32:15 (!play witcher III:Gorevlere akma)
+2018-05-01 20:33:51 #muko @Murat02#2684 deleted message from 2018-05-01 20:32:37 (! YouTube witcher III Gorevlere akma)
+2018-05-01 20:33:51 #muko @Murat02#2684 deleted message from 2018-05-01 20:32:57 (!YouTube witcher III Gorevlere akma)
+2018-05-01 20:33:51 #muko @MEE6#4876 deleted message from 2018-05-01 20:32:57 (Error: Nothing found. <:XMARK6:403540169992568833>)
+2018-05-01 20:33:45 #muko @Mirai#3157: I've deleted 5 messages.
+2018-05-01 20:33:54 #muko @Mirai#3157 deleted message from 2018-05-01 20:33:45 (I've deleted 5 messages.)
+2018-05-01 20:33:57 #muko @Murat02#2684: m.prune 2
+2018-05-01 20:33:57 #muko @Murat02#2684 deleted message from 2018-05-01 20:33:57 (m.prune 2)
+2018-05-01 20:33:58 #muko @Murat02#2684 deleted message from 2018-05-01 20:31:20 (t!profile)
+2018-05-01 20:33:57 #muko @Mirai#3157: I've deleted 1 message.
+2018-05-01 20:34:06 #muko @Mirai#3157 deleted message from 2018-05-01 20:33:57 (I've deleted 1 message.)
+2018-05-01 20:34:18 #muko @Murat02#2684: t!profile
+2018-05-01 20:34:20 #muko @Tatsumaki#8792: 📝  |  **User profile card for Murat02** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/440974275743186945/profile.png)
+2018-05-02 04:57:19 #muko @Murat02#2684: *multicolor 0 OWNER
+2018-05-02 05:01:13 #muko @Murat02#2684: Sen yapamazsın öyle bir yeteneği sadece owner yapabilir
+2018-05-02 05:03:38 #muko @Murat02#2684: ?patchbot
+2018-05-02 05:03:38 #muko @PatchBot#0303: Visit https://patchbot.io to manage your subscriptions
+2018-05-02 13:23:11 #muko @Murat02#2684: t!profile
+2018-05-02 13:23:11 #muko @Tatsumaki#8792: 📝  |  **User profile card for Murat02** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/441228163532587018/profile.png)
+2018-05-02 13:23:27 #muko @Murat02#2684: !play watch dogs 2
+2018-05-02 13:23:27 #muko @Synapse#0692: You must join a voice channel before I can play anything.
+2018-05-02 13:23:46 #muko @Murat02#2684: !YouTube watch dogs 2
+2018-05-02 13:23:46 #muko @MEE6#4876: https://youtube.com/watch?v=-J1P8iOtYxY
+2018-05-02 13:23:48 #muko @MEE6#4876 edited message from 2018-05-02 13:23:46 (https://youtube.com/watch?v=-J1P8iOtYxY) to read: https://youtube.com/watch?v=-J1P8iOtYxY
+2018-05-02 13:24:11 #muko @Murat02#2684: m.prune 5
+2018-05-02 13:24:18 #muko @Murat02#2684 deleted message from 2018-05-02 13:24:11 (m.prune 5)
+2018-05-02 13:24:18 #muko @Tatsumaki#8792 deleted message from 2018-05-02 13:23:11 (📝  |  **User profile card for Murat02**)
+2018-05-02 13:24:18 #muko @Murat02#2684 deleted message from 2018-05-02 13:23:27 (!play watch dogs 2)
+2018-05-02 13:24:18 #muko @Synapse#0692 deleted message from 2018-05-02 13:23:27 (You must join a voice channel before I can play anything.)
+2018-05-02 13:24:18 #muko @Murat02#2684 deleted message from 2018-05-02 13:23:46 (!YouTube watch dogs 2)
+2018-05-02 13:24:18 #muko @MEE6#4876 deleted message from 2018-05-02 13:23:46 (https://youtube.com/watch?v=-J1P8iOtYxY)
+2018-05-02 13:24:17 #muko @Mirai#3157: I've deleted 5 messages.
+2018-05-02 13:24:26 #muko @Mirai#3157 deleted message from 2018-05-02 13:24:17 (I've deleted 5 messages.)
+2018-05-02 13:24:35 #muko @borisimo#0948: 😊
+2018-05-02 13:27:30 #muko @Murat02#2684: BORAN
+2018-05-02 13:27:36 #muko @Murat02#2684: :)
+2018-05-02 13:36:48 #muko @Murat02#2684: Boran rolün çok daha güçlü
+2018-05-02 14:01:57 #muko @borisimo#0948: Guc bende artik
+2018-05-02 14:01:58 #muko @Tatsumaki#8792: 🆙  |  **borisimo leveled up!** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/441237920104316939/levelup.png)
+2018-05-02 14:30:14 #muko @xXEleVerenXx1#5739: 
+2018-05-02 14:30:40 #muko @Murat02#2684: Can da aileye katıldı
+2018-05-02 14:30:45 #muko @xXEleVerenXx1#5739: Hadeeee
+2018-05-02 16:51:13 #muko @Murat02#2684: .play
+2018-05-02 16:51:13 #muko @himebot#3590: ✅ Find the commands list on https://himebot.xyz/features_and_commands.html#commands
+2018-05-02 16:51:13 #muko @Synapse#0692: 
+2018-05-02 16:51:15 #muko @Synapse#0692 edited message from 2018-05-02 16:51:13 () to read: 
+2018-05-02 16:58:36 #muko @Jack VGK#3390: @CAN MA NIGGAAAA
+2018-05-02 16:58:49 #muko @xXEleVerenXx1#5739: Meme aç alicim
+2018-05-02 17:05:08 #muko @Murat02#2684: Gavat bot öldü arkadaşlar
+2018-05-02 17:05:31 #muko @Murat02#2684: TUNA BEYLER İLAÇ ALDI MI
+2018-05-02 17:05:35 #muko @Murat02#2684: İYİLER Mİ
+2018-05-02 17:05:50 #muko @Murat02#2684: Hastalardı merak ettim
+2018-05-02 17:05:55 #muko @Murat02#2684: EMİRCİMİ
+2018-05-02 17:09:02 #muko @Murat02#2684: Tüm serverlarda böyle
+2018-05-02 17:09:13 #muko @Murat02#2684: Demek ki güncelleme falan yapıyolar
+2018-05-02 17:09:31 #muko @Murat02#2684: Korkmayın Gavat botumuz yaşıyo
+2018-05-02 17:12:53 #muko @Murat02#2684: ?patchbot watch dogs 2
+2018-05-02 17:13:05 #muko @Murat02#2684: ?patchbot help
+2018-05-02 17:13:05 #muko @PatchBot#0303: Visit https://patchbot.io to manage your subscriptions
+2018-05-02 17:13:34 #muko @Murat02#2684: ?patchbot rust
+2018-05-02 17:13:42 #muko @Murat02#2684: Yok böyle olmuyo
+2018-05-02 17:20:15 #muko @Jack VGK#3390: buyrun (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/441287823044247554/klo.jpg)
+2018-05-02 17:20:43 #muko @Murat02#2684: m.prune 4
+2018-05-02 17:20:50 #muko @Murat02#2684 deleted message from 2018-05-02 17:20:43 (m.prune 4)
+2018-05-02 17:21:00 #muko @PatchBot#0303 deleted message from 2018-05-02 17:13:05 (Visit https://patchbot.io to manage your subscriptions)
+2018-05-02 17:21:00 #muko @Murat02#2684 deleted message from 2018-05-02 17:13:34 (?patchbot rust)
+2018-05-02 17:21:00 #muko @Murat02#2684 deleted message from 2018-05-02 17:13:42 (Yok böyle olmuyo)
+2018-05-02 17:21:00 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:20:15 (buyrun)
+2018-05-02 17:20:59 #muko @Mirai#3157: I've deleted 4 messages.
+2018-05-02 17:21:08 #muko @Mirai#3157 deleted message from 2018-05-02 17:20:59 (I've deleted 4 messages.)
+2018-05-02 17:21:15 #muko @Jack VGK#3390: lan ne yaptın?
+2018-05-02 17:21:27 #muko @Murat02#2684: Çok saçma şeyler de atmayalım
+2018-05-02 17:21:35 #muko @Jack VGK#3390: ok
+2018-05-02 17:26:15 #muko @Murat02#2684: .play du hast
+2018-05-02 17:26:15 #muko @himebot#3590: :mag: Searching for `du hast`
+2018-05-02 17:26:16 #muko @himebot#3590: 🎶 **Now playing** Rammstein - Du Hast (Official Video) (`00:03:56`)
+2018-05-02 17:26:16 #muko @himebot#3590 edited message from 2018-05-02 17:26:15 (:mag: Searching for `du hast`) to read: :mag: Searching for `du hast`
+2018-05-02 17:26:16 #muko @himebot#3590 edited message from 2018-05-02 17:26:15 (:mag: Searching for `du hast`) to read: :mag: Searching for `du hast`
+2018-05-02 17:26:16 #muko @Synapse#0692: 
+2018-05-02 17:26:17 #muko @Synapse#0692 edited message from 2018-05-02 17:26:16 () to read: 
+2018-05-02 17:26:27 #muko @Synapse#0692 deleted message from 2018-05-02 17:26:16 ()
+2018-05-02 17:26:28 #muko @Murat02#2684 deleted message from 2018-05-02 17:26:15 (.play du hast)
+2018-05-02 17:26:33 #muko @Synapse#0692: 
+2018-05-02 17:26:33 #muko @Synapse#0692 edited message from 2018-05-02 17:26:33 () to read: 
+2018-05-02 17:26:51 #muko @Jack VGK#3390: nice
+2018-05-02 17:28:05 #muko @Jack VGK#3390: .stop
+2018-05-02 17:28:05 #muko @himebot#3590: ✅ The player has now been stopped and the queue is cleared
+2018-05-02 17:28:59 #muko @Jack VGK#3390: .open Dethklok - Murmaider
+2018-05-02 17:29:13 #muko @Jack VGK#3390: .play Dethklok - Murmaider
+2018-05-02 17:29:13 #muko @himebot#3590: :mag: Searching for `Dethklok - Murmaider`
+2018-05-02 17:29:13 #muko @himebot#3590 edited message from 2018-05-02 17:29:13 (:mag: Searching for `Dethklok - Murmaider`) to read: :mag: Searching for `Dethklok - Murmaider`
+2018-05-02 17:29:13 #muko @himebot#3590: 🎶 **Now playing** Dethalbum-Murmaider (`00:03:29`)
+2018-05-02 17:29:13 #muko @himebot#3590 edited message from 2018-05-02 17:29:13 (:mag: Searching for `Dethklok - Murmaider`) to read: :mag: Searching for `Dethklok - Murmaider`
+2018-05-02 17:29:14 #muko @Synapse#0692: 
+2018-05-02 17:29:15 #muko @Synapse#0692 edited message from 2018-05-02 17:29:14 () to read: 
+2018-05-02 17:29:24 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:29:13 (.play Dethklok - Murmaider)
+2018-05-02 17:29:25 #muko @Synapse#0692 deleted message from 2018-05-02 17:29:14 ()
+2018-05-02 17:29:30 #muko @Synapse#0692: 
+2018-05-02 17:29:30 #muko @Synapse#0692 edited message from 2018-05-02 17:29:30 () to read: 
+2018-05-02 17:29:30 #muko @Synapse#0692 deleted message from 2018-05-02 17:26:33 ()
+2018-05-02 17:32:43 #muko @Jack VGK#3390: .play Grand Theft Auto - San Andreas (PUNYASO Remix)
+2018-05-02 17:32:43 #muko @himebot#3590: :mag: Searching for `Grand Theft Auto - San Andreas (PUNYASO Remix)`
+2018-05-02 17:32:44 #muko @himebot#3590 edited message from 2018-05-02 17:32:43 (:mag: Searching for `Grand Theft Auto - San Andreas (PUNYASO Remix)`) to read: :mag: Searching for `Grand Theft Auto - San Andreas (PUNYASO Remix)`
+2018-05-02 17:32:44 #muko @himebot#3590: 🎶 **Now playing** Grand Theft Auto - San Andreas (PUNYASO Remix) (`00:03:06`)
+2018-05-02 17:32:44 #muko @himebot#3590 edited message from 2018-05-02 17:32:43 (:mag: Searching for `Grand Theft Auto - San Andreas (PUNYASO Remix)`) to read: :mag: Searching for `Grand Theft Auto - San Andreas (PUNYASO Remix)`
+2018-05-02 17:32:45 #muko @Synapse#0692: 
+2018-05-02 17:32:45 #muko @Synapse#0692 edited message from 2018-05-02 17:32:45 () to read: 
+2018-05-02 17:32:55 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:32:43 (.play Grand Theft Auto - San Andreas (PUNYASO Remix))
+2018-05-02 17:32:57 #muko @Synapse#0692 deleted message from 2018-05-02 17:32:45 ()
+2018-05-02 17:33:01 #muko @Synapse#0692 deleted message from 2018-05-02 17:29:30 ()
+2018-05-02 17:33:01 #muko @Synapse#0692: 
+2018-05-02 17:33:01 #muko @Synapse#0692 edited message from 2018-05-02 17:33:01 () to read: 
+2018-05-02 17:33:05 #muko @Jack VGK#3390: .stop
+2018-05-02 17:33:05 #muko @himebot#3590: ✅ The player has now been stopped and the queue is cleared
+2018-05-02 17:33:34 #muko @Murat02#2684: .play believer
+2018-05-02 17:33:34 #muko @himebot#3590: :mag: Searching for `believer`
+2018-05-02 17:33:35 #muko @himebot#3590: 🎶 **Now playing** Imagine Dragons - Believer (`00:03:37`)
+2018-05-02 17:33:36 #muko @himebot#3590 edited message from 2018-05-02 17:33:34 (:mag: Searching for `believer`) to read: :mag: Searching for `believer`
+2018-05-02 17:33:36 #muko @himebot#3590 edited message from 2018-05-02 17:33:34 (:mag: Searching for `believer`) to read: :mag: Searching for `believer`
+2018-05-02 17:33:36 #muko @Synapse#0692: 
+2018-05-02 17:33:37 #muko @Synapse#0692 edited message from 2018-05-02 17:33:36 () to read: 
+2018-05-02 17:33:50 #muko @Murat02#2684 deleted message from 2018-05-02 17:33:34 (.play believer)
+2018-05-02 17:33:50 #muko @Synapse#0692 deleted message from 2018-05-02 17:33:36 ()
+2018-05-02 17:33:53 #muko @Synapse#0692 deleted message from 2018-05-02 17:33:01 ()
+2018-05-02 17:33:53 #muko @Synapse#0692: 
+2018-05-02 17:33:53 #muko @Synapse#0692 edited message from 2018-05-02 17:33:53 () to read: 
+2018-05-02 17:35:02 #muko @Jack VGK#3390: şuna bak (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/441291542200844288/believer.PNG)
+2018-05-02 17:35:17 #muko @Jack VGK#3390: 536 miliyon
+2018-05-02 17:35:21 #muko @Jack VGK#3390: .stop
+2018-05-02 17:35:21 #muko @himebot#3590: ✅ The player has now been stopped and the queue is cleared
+2018-05-02 17:36:02 #muko @Jack VGK#3390: .play Eminem - Lose Yourself [HD]
+2018-05-02 17:36:02 #muko @himebot#3590: :mag: Searching for `Eminem - Lose Yourself [HD]`
+2018-05-02 17:36:03 #muko @himebot#3590: 🎶 **Now playing** Eminem - Lose Yourself [HD] (`00:05:24`)
+2018-05-02 17:36:03 #muko @himebot#3590 edited message from 2018-05-02 17:36:02 (:mag: Searching for `Eminem - Lose Yourself [HD]`) to read: :mag: Searching for `Eminem - Lose Yourself [HD]`
+2018-05-02 17:36:03 #muko @himebot#3590 edited message from 2018-05-02 17:36:02 (:mag: Searching for `Eminem - Lose Yourself [HD]`) to read: :mag: Searching for `Eminem - Lose Yourself [HD]`
+2018-05-02 17:36:05 #muko @Synapse#0692: 
+2018-05-02 17:36:05 #muko @Synapse#0692 edited message from 2018-05-02 17:36:05 () to read: 
+2018-05-02 17:36:15 #muko @Synapse#0692 deleted message from 2018-05-02 17:36:05 ()
+2018-05-02 17:36:15 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:36:02 (.play Eminem - Lose Yourself [HD])
+2018-05-02 17:36:21 #muko @Synapse#0692: 
+2018-05-02 17:36:21 #muko @Synapse#0692 deleted message from 2018-05-02 17:33:53 ()
+2018-05-02 17:36:21 #muko @Synapse#0692 edited message from 2018-05-02 17:36:21 () to read: 
+2018-05-02 17:41:27 #muko @Jack VGK#3390:  (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/441293159113162782/putin-cccp-20-shirt-men-s-premium-t-shirt.jpg)
+2018-05-02 17:42:02 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:41:27 ()
+2018-05-02 17:43:32 #muko @Jack VGK#3390: .play Lund - Broken Lyrics
+2018-05-02 17:43:33 #muko @himebot#3590: :mag: Searching for `Lund - Broken Lyrics`
+2018-05-02 17:43:34 #muko @himebot#3590: 🎶 **Now playing** Lund- Broken (Lyric video) (`00:03:21`)
+2018-05-02 17:43:34 #muko @himebot#3590 edited message from 2018-05-02 17:43:33 (:mag: Searching for `Lund - Broken Lyrics`) to read: :mag: Searching for `Lund - Broken Lyrics`
+2018-05-02 17:43:34 #muko @himebot#3590 edited message from 2018-05-02 17:43:33 (:mag: Searching for `Lund - Broken Lyrics`) to read: :mag: Searching for `Lund - Broken Lyrics`
+2018-05-02 17:43:34 #muko @Synapse#0692: 
+2018-05-02 17:43:35 #muko @Synapse#0692 edited message from 2018-05-02 17:43:34 () to read: 
+2018-05-02 17:43:49 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:43:32 (.play Lund - Broken Lyrics)
+2018-05-02 17:43:49 #muko @Synapse#0692 deleted message from 2018-05-02 17:43:34 ()
+2018-05-02 17:43:51 #muko @Synapse#0692: 
+2018-05-02 17:43:51 #muko @Synapse#0692 edited message from 2018-05-02 17:43:51 () to read: 
+2018-05-02 17:43:51 #muko @Synapse#0692 deleted message from 2018-05-02 17:36:21 ()
+2018-05-02 17:46:01 #muko @Murat02#2684: .stop
+2018-05-02 17:46:01 #muko @himebot#3590: ✅ The player has now been stopped and the queue is cleared
+2018-05-02 17:46:18 #muko @Murat02#2684: .play can't stop feeling
+2018-05-02 17:46:18 #muko @himebot#3590: :mag: Searching for `can't stop feeling`
+2018-05-02 17:46:19 #muko @himebot#3590 edited message from 2018-05-02 17:46:18 (:mag: Searching for `can't stop feeling`) to read: :mag: Searching for `can't stop feeling`
+2018-05-02 17:46:19 #muko @himebot#3590: 🎶 **Now playing** CAN'T STOP THE FEELING! (From DreamWorks Animation's "Trolls") (Official Video) (`00:04:46`)
+2018-05-02 17:46:19 #muko @himebot#3590 edited message from 2018-05-02 17:46:18 (:mag: Searching for `can't stop feeling`) to read: :mag: Searching for `can't stop feeling`
+2018-05-02 17:46:21 #muko @Synapse#0692: 
+2018-05-02 17:46:22 #muko @Synapse#0692 edited message from 2018-05-02 17:46:21 () to read: 
+2018-05-02 17:46:32 #muko @Synapse#0692 deleted message from 2018-05-02 17:46:21 ()
+2018-05-02 17:46:32 #muko @Murat02#2684 deleted message from 2018-05-02 17:46:18 (.play can't stop feeling)
+2018-05-02 17:46:39 #muko @Synapse#0692 deleted message from 2018-05-02 17:43:51 ()
+2018-05-02 17:46:38 #muko @Synapse#0692: 
+2018-05-02 17:46:39 #muko @Synapse#0692 edited message from 2018-05-02 17:46:38 () to read: 
+2018-05-02 17:48:59 #muko @Jack VGK#3390: .stop
+2018-05-02 17:48:59 #muko @himebot#3590: ✅ The player has now been stopped and the queue is cleared
+2018-05-02 17:49:22 #muko @Murat02#2684: m.prune 40
+2018-05-02 17:49:23 #muko @Murat02#2684 deleted message from 2018-05-02 17:49:22 (m.prune 40)
+2018-05-02 17:49:23 #muko @Murat02#2684 deleted message from 2018-05-02 17:05:35 (İYİLER Mİ)
+2018-05-02 17:49:23 #muko @Murat02#2684 deleted message from 2018-05-02 17:05:50 (Hastalardı merak ettim)
+2018-05-02 17:49:23 #muko @Murat02#2684 deleted message from 2018-05-02 17:05:55 (EMİRCİMİ)
+2018-05-02 17:49:23 #muko @Murat02#2684 deleted message from 2018-05-02 17:09:02 (Tüm serverlarda böyle)
+2018-05-02 17:49:23 #muko @Murat02#2684 deleted message from 2018-05-02 17:09:13 (Demek ki güncelleme falan yapıyolar)
+2018-05-02 17:49:23 #muko @Murat02#2684 deleted message from 2018-05-02 17:09:31 (Korkmayın Gavat botumuz yaşıyo)
+2018-05-02 17:49:23 #muko @Murat02#2684 deleted message from 2018-05-02 17:12:53 (?patchbot watch dogs 2)
+2018-05-02 17:49:23 #muko @Murat02#2684 deleted message from 2018-05-02 17:13:05 (?patchbot help)
+2018-05-02 17:49:23 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:21:15 (lan ne yaptın?)
+2018-05-02 17:49:23 #muko @Murat02#2684 deleted message from 2018-05-02 17:21:27 (Çok saçma şeyler de atmayalım)
+2018-05-02 17:49:23 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:21:35 (ok)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:26:15 (:mag: Searching for `du hast`)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:26:16 (🎶 **Now playing** Rammstein - Du Hast (Official Video) (`00:03:56`))
+2018-05-02 17:49:23 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:26:51 (nice)
+2018-05-02 17:49:23 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:28:05 (.stop)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:28:05 (✅ The player has now been stopped and the queue is cleared)
+2018-05-02 17:49:23 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:28:59 (.open Dethklok - Murmaider)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:29:13 (:mag: Searching for `Dethklok - Murmaider`)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:29:13 (🎶 **Now playing** Dethalbum-Murmaider (`00:03:29`))
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:32:43 (:mag: Searching for `Grand Theft Auto - San Andreas (PUNYASO Remix)`)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:32:44 (🎶 **Now playing** Grand Theft Auto - San Andreas (PUNYASO Remix) (`00:03:06`))
+2018-05-02 17:49:23 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:33:05 (.stop)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:33:05 (✅ The player has now been stopped and the queue is cleared)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:33:34 (:mag: Searching for `believer`)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:33:35 (🎶 **Now playing** Imagine Dragons - Believer (`00:03:37`))
+2018-05-02 17:49:23 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:35:02 (şuna bak)
+2018-05-02 17:49:23 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:35:17 (536 miliyon)
+2018-05-02 17:49:23 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:35:21 (.stop)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:35:21 (✅ The player has now been stopped and the queue is cleared)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:36:02 (:mag: Searching for `Eminem - Lose Yourself [HD]`)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:36:03 (🎶 **Now playing** Eminem - Lose Yourself [HD] (`00:05:24`))
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:43:33 (:mag: Searching for `Lund - Broken Lyrics`)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:43:34 (🎶 **Now playing** Lund- Broken (Lyric video) (`00:03:21`))
+2018-05-02 17:49:23 #muko @Murat02#2684 deleted message from 2018-05-02 17:46:01 (.stop)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:46:01 (✅ The player has now been stopped and the queue is cleared)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:46:18 (:mag: Searching for `can't stop feeling`)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:46:19 (🎶 **Now playing** CAN'T STOP THE FEELING! (From DreamWorks Animation's "Trolls") (Official Video) (`00:04:46`))
+2018-05-02 17:49:23 #muko @Synapse#0692 deleted message from 2018-05-02 17:46:38 ()
+2018-05-02 17:49:23 #muko @Jack VGK#3390 deleted message from 2018-05-02 17:48:59 (.stop)
+2018-05-02 17:49:23 #muko @himebot#3590 deleted message from 2018-05-02 17:48:59 (✅ The player has now been stopped and the queue is cleared)
+2018-05-02 17:49:22 #muko @Mirai#3157: I've deleted 40 messages.
+2018-05-02 17:49:31 #muko @Mirai#3157 deleted message from 2018-05-02 17:49:22 (I've deleted 40 messages.)
+2018-05-02 20:00:09 #muko @Mnstr#7740: 
+2018-05-02 20:00:40 #muko @Murat02#2684: Ozancím
+2018-05-02 20:00:47 #muko @Mnstr#7740: bu ne yaw
+2018-05-02 20:00:53 #muko @Murat02#2684: Kalící mísíníz
+2018-05-02 20:00:56 #muko @Mnstr#7740: yo
+2018-05-02 20:01:15 #muko @Jack VGK#3390: @Mnstr Welcome to HELL
+2018-05-02 20:01:15 #muko @Murat02#2684: Herkes istediğini yapabiliyo
+2018-05-02 20:01:27 #muko @Mnstr#7740: bak şimdi napcam :d
+2018-05-02 20:01:43 #muko @Murat02#2684: Çıktı
+2018-05-02 20:01:47 #muko @Murat02#2684: Hfjfjjfjfjf
+2018-05-02 20:02:06 #muko @Murat02#2684: Deliriyorum
+2018-05-02 20:02:09 #muko @Murat02#2684: Zjajshhshshdhdhd
+2018-05-02 20:02:37 #muko @Jack VGK#3390: geri alalim mi?
+2018-05-02 20:02:50 #muko @Murat02#2684: Kendisi gelir link sonsuz
+2018-05-02 20:02:56 #muko @Murat02#2684: Öyle geldi zaten
+2018-05-02 20:03:16 #muko @Murat02#2684: Ama kendi serverı var
+2018-05-02 20:03:22 #muko @Murat02#2684: Yani
+2018-05-02 20:03:31 #muko @Jack VGK#3390: ok
+2018-05-03 05:01:30 #muko @Murat02#2684: *multicolor 0 OWNER
+2018-05-03 05:02:01 #muko @Murat02#2684: t!profile
+2018-05-03 05:02:02 #muko @Tatsumaki#8792: 📝  |  **User profile card for Murat02** (attachment url(s): https://cdn.discordapp.com/attachments/440230304989577217/441464431361261568/profile.png)
+2018-05-03 05:02:41 #muko @xXEleVerenXx1#5739: !help
+2018-05-03 05:02:41 #muko @MEE6#4876: 
+2018-05-03 05:02:46 #muko @MEE6#4876 edited message from 2018-05-03 05:02:41 () to read: 
+2018-05-03 05:02:46 #muko @Synapse#0692: Check your DM, @CAN! I have sent something for you :wink:

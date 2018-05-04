@@ -1,0 +1,86 @@
+2018-04-19 11:06:06 #adventure @Klaus Ze Flammenwerfer#7917: !team
+2018-04-19 11:06:06 #adventure @Synapse#0692: ```\n!team\n\nCommands:\n  new     \n  recruit \n  list    \n  leave   \n\nType !team command for more info on a command.\nYou can also type !team category for more info on a category.\n```
+2018-04-19 11:06:10 #adventure @Klaus Ze Flammenwerfer#7917: !team list member
+2018-04-19 11:06:10 #adventure @Synapse#0692: ```\n!team list\n\nCommands:\n  teams   \n  saves   \n  members \n\nType !list command for more info on a command.\nYou can also type !list category for more info on a category.\n```
+2018-04-19 11:06:16 #adventure @Klaus Ze Flammenwerfer#7917: !team list members
+2018-04-19 11:06:16 #adventure @Synapse#0692: @Klaus Ze Flammenwerfer, You are in more than one team. Please specify which team to list the members for.
+2018-04-19 11:06:33 #adventure @Klaus Ze Flammenwerfer#7917: !team
+2018-04-19 11:06:33 #adventure @Synapse#0692: ```\n!team\n\nCommands:\n  new     \n  recruit \n  list    \n  leave   \n\nType !team command for more info on a command.\nYou can also type !team category for more info on a category.\n```
+2018-04-19 11:06:39 #adventure @Klaus Ze Flammenwerfer#7917: !team leave
+2018-04-19 11:06:39 #adventure @Synapse#0692: ```\n!team leave <team>\n\n```
+2018-04-19 11:06:49 #adventure @Klaus Ze Flammenwerfer#7917: !team leave The Meme Tram
+2018-04-19 11:06:50 #adventure @Synapse#0692: `Error in command 'team leave'. Check your console or logs for details.`
+2018-04-19 11:06:59 #adventure @Klaus Ze Flammenwerfer#7917: !team leave The Meme Theam
+2018-04-19 11:06:59 #adventure @Synapse#0692: @Klaus Ze Flammenwerfer, All traces of the abandoned team are erased from history.
+2018-04-19 11:07:07 #adventure @Klaus Ze Flammenwerfer#7917: !team list members
+2018-04-19 11:07:07 #adventure @Synapse#0692: @Klaus Ze Flammenwerfer, You are in more than one team. Please specify which team to list the members for.
+2018-04-19 11:07:17 #adventure @Klaus Ze Flammenwerfer#7917: !team leave The Meme Team
+2018-04-19 11:07:17 #adventure @Synapse#0692: `Error in command 'team leave'. Check your console or logs for details.`
+2018-04-19 11:07:28 #adventure @Klaus Ze Flammenwerfer#7917: !team leave “The Meme Team”
+2018-04-19 11:07:28 #adventure @Synapse#0692: `Error in command 'team leave'. Check your console or logs for details.`
+2018-04-19 11:07:33 #adventure @Klaus Ze Flammenwerfer#7917: !team
+2018-04-19 11:07:33 #adventure @Synapse#0692: ```\n!team\n\nCommands:\n  new     \n  recruit \n  list    \n  leave   \n\nType !team command for more info on a command.\nYou can also type !team category for more info on a category.\n```
+2018-04-19 11:07:37 #adventure @Klaus Ze Flammenwerfer#7917: !team list
+2018-04-19 11:07:37 #adventure @Synapse#0692: ```\n!team list\n\nCommands:\n  teams   \n  saves   \n  members \n\nType !list command for more info on a command.\nYou can also type !list category for more info on a category.\n```
+2018-04-19 11:07:43 #adventure @Klaus Ze Flammenwerfer#7917: !team list teams
+2018-04-19 11:07:43 #adventure @Synapse#0692: `Error in command 'team list teams'. Check your console or logs for details.`
+2018-04-19 11:07:47 #adventure @Klaus Ze Flammenwerfer#7917: nigre
+2018-04-19 11:07:51 #adventure @Klaus Ze Flammenwerfer#7917: !team list members
+2018-04-19 11:07:51 #adventure @Synapse#0692: @Klaus Ze Flammenwerfer, You are in more than one team. Please specify which team to list the members for.
+2018-04-19 11:08:05 #adventure @Klaus Ze Flammenwerfer#7917: !team list members TheMemeTeam
+2018-04-19 11:08:05 #adventure @Synapse#0692: @Klaus Ze Flammenwerfer, **TheMemeTeam** team members:\n\_**__Leader__**\_\n Klaus Ze Flammenwerfer\n\n__Co Leader__\n Mr. Robot\n\nexo.
+2018-04-19 11:08:13 #adventure @Klaus Ze Flammenwerfer#7917: !adv load
+2018-04-19 11:08:13 #adventure @Synapse#0692: `Error in command 'adventure load'. Check your console or logs for details.`
+2018-04-19 11:08:18 #adventure @Klaus Ze Flammenwerfer#7917: !adv
+2018-04-19 11:08:18 #adventure @Synapse#0692: ```\n![adventure|campsite]\n\nGreetings adventurer. What is it that you plan on doing today?\n\nCommands:\n  join   Your team has embarked on an adventure without you?!\n  quit   \n  info   Information about your current adventure in this channel\n  embark Start/Continue an adventure.\n  load   loads current team's save. defaults to most recent\n\nType !adventure command for more info on a command.\nYou can also type !adventure category for more info on a category.\n```
+2018-04-19 11:08:33 #adventure @Klaus Ze Flammenwerfer#7917: !adv embark
+2018-04-19 11:08:33 #adventure @Synapse#0692: `Error in command 'adventure embark'. Check your console or logs for details.`
+2018-04-19 11:08:55 #adventure @Klaus Ze Flammenwerfer#7917: !adv load
+2018-04-19 11:08:55 #adventure @Synapse#0692: `Error in command 'adventure load'. Check your console or logs for details.`
+2018-04-19 11:09:00 #adventure @Klaus Ze Flammenwerfer#7917: !adv
+2018-04-19 11:09:00 #adventure @Synapse#0692: ```\n![adventure|campsite]\n\nGreetings adventurer. What is it that you plan on doing today?\n\nCommands:\n  join   Your team has embarked on an adventure without you?!\n  quit   \n  info   Information about your current adventure in this channel\n  embark Start/Continue an adventure.\n  load   loads current team's save. defaults to most recent\n\nType !adventure command for more info on a command.\nYou can also type !adventure category for more info on a category.\n```
+2018-04-19 11:09:12 #adventure @Klaus Ze Flammenwerfer#7917: !adv info
+2018-04-19 11:09:12 #adventure @Synapse#0692: @Klaus Ze Flammenwerfer, You are not a part of any adventure in this channel.
+2018-04-19 11:09:22 #adventure @Klaus Ze Flammenwerfer#7917: !adv join
+2018-04-19 11:09:22 #adventure @Synapse#0692: @Klaus Ze Flammenwerfer, There are no teams on adventures in this channel.
+2018-04-19 11:22:03 #adventure @exo.#9999: Uhm
+2018-04-19 11:23:33 #adventure @Mr. Robot#0007: lol
+2018-04-19 11:40:07 #adventure @Mr. Robot#0007: !setheist
+2018-04-19 11:40:07 #adventure @Synapse#0692: ```\n!setheist\n\nSet different options in the heist config\n\nCommands:\n  sentence    Set the base apprehension time when caught\n  wait        Set how long a player can gather players\n  bail        Set the base cost of bail\n  output      Change how detailed the starting output is.\n  cost        Set the cost to play heist\n  hardcore    Set game to hardcore mode. Deaths will wipe credits and chips.\n  death       Set how long players are dead\n  authorities Set the time authorities will prevent heists\n\nType !setheist command for more info on a command.\nYou can also type !setheist category for more info on a category.\n```
+2018-04-19 11:40:14 #adventure @Mr. Robot#0007: !up 2
+2018-04-19 11:40:15 #adventure @Mr. Robot#0007 deleted message from 2018-04-19 11:40:07 (!setheist)
+2018-04-19 11:40:15 #adventure @Synapse#0692 deleted message from 2018-04-19 11:40:07 (```\n!setheist\n\nSet different options in the heist config\n\nCommands:\n  sentence    Set the base apprehension time when caught\n  wait        Set how long a player can gather players\n  bail        Set the base cost of bail\n  output      Change how detailed the starting output is.\n  cost        Set the cost to play heist\n  hardcore    Set game to hardcore mode. Deaths will wipe credits and chips.\n  death       Set how long players are dead\n  authorities Set the time authorities will prevent heists\n\nType !setheist command for more info on a command.\nYou can also type !setheist category for more info on a category.\n```)
+2018-04-19 11:40:15 #adventure @Mr. Robot#0007 deleted message from 2018-04-19 11:40:14 (!up 2)
+2018-04-20 08:11:00 #adventure @exo.#9999: !adv
+2018-04-20 08:11:01 #adventure @Synapse#0692: ```\n![adventure|campsite]\n\nGreetings adventurer. What is it that you plan on doing today?\n\nCommands:\n  info   Information about your current adventure in this channel\n  load   loads current team's save. defaults to most recent\n  join   Your team has embarked on an adventure without you?!\n  embark Start/Continue an adventure.\n  quit   \n\nType !adventure command for more info on a command.\nYou can also type !adventure category for more info on a category.\n```
+2018-04-20 08:11:09 #adventure @exo.#9999: !adv info
+2018-04-20 08:11:09 #adventure @Synapse#0692: @exo., You are not a part of any adventure in this channel.
+2018-04-20 08:11:20 #adventure @exo.#9999: !adv join
+2018-04-20 08:11:20 #adventure @Synapse#0692: @exo., There are no teams on adventures in this channel.
+2018-04-20 08:11:32 #adventure @exo.#9999: !adv embark
+2018-04-20 08:11:32 #adventure @Synapse#0692: @exo. brings the TheMemeTeam team back together and sets off on an adventure!..\nInteract with the adventure with `!> <command>`\n\nWelcome to Adventure!!  Would you like instructions?
+2018-04-20 08:11:40 #adventure @Mr. Robot#0007: yes
+2018-04-20 08:11:55 #adventure @Mr. Robot#0007: type it
+2018-04-20 10:02:23 #adventure @Klaus Ze Flammenwerfer#7917: !adv
+2018-04-20 10:02:23 #adventure @Synapse#0692: ```\n![adventure|campsite]\n\nGreetings adventurer. What is it that you plan on doing today?\n\nCommands:\n  quit   \n  embark Start/Continue an adventure.\n  join   Your team has embarked on an adventure without you?!\n  load   loads current team's save. defaults to most recent\n  info   Information about your current adventure in this channel\n\nType !adventure command for more info on a command.\nYou can also type !adventure category for more info on a category.\n```
+2018-04-20 10:02:31 #adventure @Klaus Ze Flammenwerfer#7917: !team
+2018-04-20 10:02:31 #adventure @Synapse#0692: ```\n!team\n\nCommands:\n  list    \n  leave   \n  recruit \n  new     \n\nType !team command for more info on a command.\nYou can also type !team category for more info on a category.\n```
+2018-04-20 10:02:38 #adventure @Klaus Ze Flammenwerfer#7917: !team list
+2018-04-20 10:02:38 #adventure @Synapse#0692: ```\n!team list\n\nCommands:\n  teams   \n  members \n  saves   \n\nType !list command for more info on a command.\nYou can also type !list category for more info on a category.\n```
+2018-04-20 10:02:42 #adventure @Klaus Ze Flammenwerfer#7917: !team list members
+2018-04-20 10:02:42 #adventure @Synapse#0692: @Klaus Ze Flammenwerfer, You are in more than one team. Please specify which team to list the members for.
+2018-04-20 10:02:47 #adventure @skay <3#8589: !heist play
+2018-04-20 10:02:47 #adventure @Synapse#0692: You do not have enough credits to cover the costs of entry. You need 200 credits to participate.
+2018-04-20 10:02:47 #adventure @Klaus Ze Flammenwerfer#7917: !team
+2018-04-20 10:02:47 #adventure @Synapse#0692: ```\n!team\n\nCommands:\n  list    \n  leave   \n  recruit \n  new     \n\nType !team command for more info on a command.\nYou can also type !team category for more info on a category.\n```
+2018-04-20 10:02:52 #adventure @Klaus Ze Flammenwerfer#7917: !team list teams
+2018-04-20 10:02:53 #adventure @Synapse#0692: `Error in command 'team list teams'. Check your console or logs for details.`
+2018-04-20 10:03:01 #adventure @Klaus Ze Flammenwerfer#7917: !team list members TheMemeTeam
+2018-04-20 10:03:01 #adventure @Synapse#0692: @Klaus Ze Flammenwerfer, **TheMemeTeam** team members:\n\_**__Leader__**\_\n Mr. Robot\n\n__Co Leader__\n exo.
+2018-04-20 10:04:26 #adventure @skay <3#8589: !team recruit TheMemeTeam
+2018-04-20 10:04:26 #adventure @Synapse#0692: ```\n!team recruit <user> [team]\n\n```
+2018-04-20 10:04:26 #adventure @skay <3#8589: xd
+2018-04-20 10:04:29 #adventure @skay <3#8589: ladsakla
+2018-04-20 10:04:40 #adventure @skay <3#8589: !team recruit @danone TheMemeTeam
+2018-04-20 10:04:40 #adventure @Synapse#0692: @danone doesn't have a team, so instead, skay <3 takes skay <3 out to lunch
+2018-04-20 10:04:45 #adventure @skay <3#8589: lol

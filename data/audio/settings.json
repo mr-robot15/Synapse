@@ -1,0 +1,669 @@
+{
+    "AVCONV" : false,
+    "MAX_CACHE" : 1600,
+    "MAX_LENGTH" : 69696969,
+    "SERVERS" : {
+        "110373943822540800" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "180437928923627523" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "245581810724110338" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "290269852705488906" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "302619674263420939" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "305450747569504258" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "312308100290052097" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "314470939976794113" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "330953913673187339" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "342336268325224468" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "348012867062202369" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "366501259353784321" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "372479073361854474" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "376466312895135747" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "389354485195210753" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "394589299011616768" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "394803408072343553" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "396242810367639562" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "403355541478572062" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "403651569272225793" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "404099816617148416" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "404445124001660928" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "405170040363810816" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "408021751834869772" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "410446696753922048" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "410940547952541719" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "411924385390395414" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "412276853450080267" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "415174428981460992" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "415694277914656768" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "416565558587293696" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "416666213834555393" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "417030680292360222" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "420455656907210772" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "420980735839567872" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "421582523169243137" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "421756717131366410" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "421825613398278164" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "422427755997560843" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "423414039553769472" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "425042064456286210" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "425163522788425728" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "427830207265767424" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 30,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "428879523552165899" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "429435714799796225" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "430148010769383424" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "430796416785448970" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "430855207396835328" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "431235051154440202" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "431503585713586177" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "431517195315576851" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "434096224237256705" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "435702373701255174" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "435814223600287785" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "435853661827104770" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "436058496455409664" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "436473057691828234" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "436581483898208256" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "436620867875766272" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "436951640365596672" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "437079238668058626" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "437351470325694465" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "437355592693055489" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "437658275685728256" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "437676407624040462" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "437689375816417280" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "437711386890731529" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "437981651075727383" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "438348069050777601" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "438354029681049620" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "438379038994857985" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "439330299474739200" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        },
+        "439914481422958603" : {
+            "NOPPL_DISCONNECT" : true,
+            "NOTIFY" : false,
+            "NOTIFY_CHANNEL" : null,
+            "TIMER_DISCONNECT" : true,
+            "VOLUME" : 50,
+            "VOTE_ENABLED" : true,
+            "VOTE_THRESHOLD" : 50
+        }
+    },
+    "SOUNDCLOUD_CLIENT_ID" : null,
+    "TITLE_STATUS" : false,
+    "VOLUME" : 50,
+    "VOTE_ENABLED" : true,
+    "VOTE_THRESHOLD" : 50
+}

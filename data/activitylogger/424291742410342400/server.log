@@ -1,0 +1,27 @@
+2018-04-28 07:19:47 this bot joined the server
+2018-04-28 07:19:47 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-28 07:20:57 Member join: @PenguBot#9722 (id 303181184718995457)
+2018-04-28 07:20:57 Member role add: 'PenguBot' role was added to @PenguBot#9722
+2018-04-28 07:20:57 Role created: 'PenguBot' (id 439687435815878656)
+2018-04-28 07:20:57 Member role add: 'PenguBot' role was added to @PenguBot#9722
+2018-04-28 07:21:22 Role created: 'new role' (id 439687554577465344)
+2018-04-28 07:21:22 Role renamed: 'new role' to 'nadeko-mute'
+2018-04-28 07:21:22 Role permissions: 'new role' changed from 104324161 to 0
+2018-04-28 07:21:22 Channel overwrites: music (426367453099196418): role nadeko-mute (439687554577465344) added with values 0, 34880
+2018-04-28 07:21:22 Channel overwrites: general (424291742410342402): role nadeko-mute (439687554577465344) added with values 0, 34880
+2018-04-28 07:21:23 Channel overwrites: test (424496685499154434): role nadeko-mute (439687554577465344) added with values 0, 34880
+2018-04-28 07:21:23 Channel overwrites: test (424496246296936458): role nadeko-mute (439687554577465344) added with values 0, 34880
+2018-04-28 07:21:27 Member role add: 'nadeko-mute' role was added to @. 🍏 .#0849
+2018-04-28 07:21:56 Channel created: bot-commands
+2018-04-28 07:22:34 Channel created: music
+2018-04-28 07:23:12 Role position: 'Nano' changed from 3 to 1
+2018-04-28 07:23:12 Role mentionable: 'Nano' is no longer mentionable
+2018-04-28 07:25:20 Channel created: music 2
+2018-04-28 07:25:58 Channel overwrites: music 2 (439688547289530378): role Developer (424495595848466432) added with values 0, 0
+2018-04-28 07:26:12 Channel overwrites: music 2 (439688547289530378): role Tatsumaki (439687007170461696) added with values 0, 0
+2018-04-28 07:27:50 Member ban: @Nano#9814 (id 361374175446827019)
+2018-04-28 07:27:50 Role deleted: 'Nano' (id 439686557247602689)
+2018-04-28 07:27:50 Member leave: @Nano#9814 (id 361374175446827019)
+2018-04-28 07:31:15 Role deleted: 'Synapse' (id 439687154315296768)
+2018-04-28 07:31:15 Member leave: @Synapse#0692 (id 435538622293344266)
+2018-04-28 07:31:15 this bot left the server

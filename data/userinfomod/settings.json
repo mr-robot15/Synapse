@@ -1,0 +1,155 @@
+{
+    "409711223878189066" : {
+        "BACKGROUND" : "data/userinfomod/transparent.png",
+        "BORDER" : [
+            255,
+            255,
+            255,
+            230
+        ],
+        "CHANNEL" : "409711223878189068",
+        "CIRCLE" : [
+            128,
+            128
+        ],
+        "FONT" : {
+            "NAME_FONT" : {
+                "PATH" : "data/userinfomod/fonts/UniSansHeavy.otf",
+                "SIZE" : {
+                    "MEDIUM" : 22,
+                    "NORMAL" : 30,
+                    "SMALL" : 18,
+                    "SMALLEST" : 12
+                }
+            },
+            "SERVER_FONT" : {
+                "PATH" : "data/userinfomod/fonts/UniSansHeavy.otf",
+                "SIZE" : 20
+            },
+            "USER_FONT" : {
+                "PATH" : "data/userinfomod/fonts/UniSansHeavy.otf",
+                "SIZE" : 50
+            }
+        },
+        "OUTLINE" : [
+            0,
+            0,
+            0,
+            255
+        ],
+        "SERVERTEXT" : [
+            255,
+            255,
+            255,
+            230
+        ],
+        "TEXT" : [
+            255,
+            255,
+            255,
+            230
+        ]
+    },
+    "427830207265767424" : {
+        "BACKGROUND" : "data/userinfomod/transparent.png",
+        "BORDER" : [
+            255,
+            255,
+            255,
+            230
+        ],
+        "CHANNEL" : "431825444053057537",
+        "CIRCLE" : [
+            128,
+            128
+        ],
+        "FONT" : {
+            "NAME_FONT" : {
+                "PATH" : "data/userinfomod/fonts/UniSansHeavy.otf",
+                "SIZE" : {
+                    "MEDIUM" : 22,
+                    "NORMAL" : 30,
+                    "SMALL" : 18,
+                    "SMALLEST" : 12
+                }
+            },
+            "SERVER_FONT" : {
+                "PATH" : "data/userinfomod/fonts/UniSansHeavy.otf",
+                "SIZE" : 20
+            },
+            "USER_FONT" : {
+                "PATH" : "data/userinfomod/fonts/UniSansHeavy.otf",
+                "SIZE" : 50
+            }
+        },
+        "OUTLINE" : [
+            0,
+            0,
+            0,
+            255
+        ],
+        "SERVERTEXT" : [
+            255,
+            255,
+            255,
+            230
+        ],
+        "TEXT" : [
+            255,
+            255,
+            255,
+            230
+        ]
+    },
+    "440021065650012160" : {
+        "BACKGROUND" : "data/userinfomod/transparent.png",
+        "BORDER" : [
+            255,
+            255,
+            255,
+            230
+        ],
+        "CHANNEL" : "440038419175833621",
+        "CIRCLE" : [
+            128,
+            128
+        ],
+        "FONT" : {
+            "NAME_FONT" : {
+                "PATH" : "data/userinfomod/fonts/UniSansHeavy.otf",
+                "SIZE" : {
+                    "MEDIUM" : 22,
+                    "NORMAL" : 30,
+                    "SMALL" : 18,
+                    "SMALLEST" : 12
+                }
+            },
+            "SERVER_FONT" : {
+                "PATH" : "data/userinfomod/fonts/UniSansHeavy.otf",
+                "SIZE" : 20
+            },
+            "USER_FONT" : {
+                "PATH" : "data/userinfomod/fonts/UniSansHeavy.otf",
+                "SIZE" : 50
+            }
+        },
+        "OUTLINE" : [
+            0,
+            0,
+            0,
+            255
+        ],
+        "SERVERTEXT" : [
+            255,
+            255,
+            255,
+            230
+        ],
+        "TEXT" : [
+            255,
+            255,
+            255,
+            230
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+2018-04-23 11:04:24 #commands @Jelly#9184: .help
+2018-04-23 11:07:38 #commands @Jelly#9184: .acr "Hello" olleH
+2018-04-23 11:07:38 #commands @Synapse#0692: 
+2018-04-23 11:07:38 #commands @Synapse#0692 edited message from 2018-04-23 11:07:38 () to read: 
+2018-04-23 11:07:43 #commands @Jelly#9184: hello
+2018-04-23 11:07:43 #commands @Synapse#0692: olleH
+2018-04-23 11:08:21 #commands @Jelly#9184: .acr "Hello" Hi %user%
+2018-04-23 11:08:21 #commands @Synapse#0692: 
+2018-04-23 11:08:25 #commands @Jelly#9184: hello
+2018-04-23 11:08:25 #commands @Synapse#0692: olleH
+2018-04-23 11:08:27 #commands @Synapse#0692 edited message from 2018-04-23 11:08:21 () to read: 
+2018-04-23 11:08:52 #commands @Jelly#9184: .dcr "hello"
+2018-04-23 11:09:05 #commands @Jelly#9184: hello
+2018-04-23 11:09:05 #commands @Synapse#0692: olleH
+2018-04-23 11:09:05 #commands @PassiveBOT#2492: 
+2018-04-23 11:09:11 #commands @PassiveBOT#2492 edited message from 2018-04-23 11:09:05 () to read: 
+2018-04-23 11:09:25 #commands @Jelly#9184: .p XP
+2018-04-23 11:09:26 #commands @PassiveBOT#2492: ​**COMMAND: **.p XP \n**ERROR: **Unknown command.
+2018-04-23 11:09:31 #commands @PassiveBOT#2492 deleted message from 2018-04-23 11:09:26 (​**COMMAND: **.p XP \n**ERROR: **Unknown command.)
+2018-04-23 11:09:31 #commands @Jelly#9184 deleted message from 2018-04-23 11:09:25 (.p XP)
+2018-04-23 11:09:38 #commands @Jelly#9184: .p Level
+2018-04-23 11:09:38 #commands @PassiveBOT#2492: ​**COMMAND: **.p Level \n**ERROR: **Unknown command.
+2018-04-23 11:09:43 #commands @Jelly#9184: .p help
+2018-04-23 11:09:43 #commands @PassiveBOT#2492 deleted message from 2018-04-23 11:09:38 (​**COMMAND: **.p Level \n**ERROR: **Unknown command.)
+2018-04-23 11:09:43 #commands @Jelly#9184 deleted message from 2018-04-23 11:09:38 (.p Level)
+2018-04-23 11:09:44 #commands @PassiveBOT#2492: 
+2018-04-23 11:09:44 #commands @PassiveBOT#2492 edited message from 2018-04-23 11:09:44 () to read: 
+2018-04-23 11:09:55 #commands @Jelly#9184: .p Level
+2018-04-23 11:09:55 #commands @PassiveBOT#2492: ​**COMMAND: **.p Level \n**ERROR: **Unknown command.
+2018-04-23 11:10:00 #commands @PassiveBOT#2492 deleted message from 2018-04-23 11:09:55 (​**COMMAND: **.p Level \n**ERROR: **Unknown command.)
+2018-04-23 11:10:00 #commands @Jelly#9184 deleted message from 2018-04-23 11:09:55 (.p Level)
+2018-04-23 11:10:00 #commands @Jelly#9184: .Level

@@ -1,0 +1,175 @@
+2018-04-25 04:42:50 #bot-spam @kitty#0461: !help
+2018-04-25 04:42:51 #bot-spam @Synapse#0692: Check your DM, @kitty! I have sent something for you :wink:
+2018-04-25 04:44:09 #bot-spam @kitty#0461: assign @neko
+2018-04-25 04:44:20 #bot-spam @kitty#0461 edited message from 2018-04-25 04:44:09 (assign @neko) to read: assign [@neko]
+2018-04-25 04:44:25 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:44:09 (assign [@neko])
+2018-04-25 04:45:10 #bot-spam @kitty#0461: .iam [@Female]
+2018-04-25 04:45:14 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:45:10 (.iam [@Female])
+2018-04-25 04:49:34 #bot-spam @kitty#0461: .iam [Human]
+2018-04-25 04:49:40 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:49:34 (.iam [Human])
+2018-04-25 04:50:14 #bot-spam @Your new meat bicycle#5814: !help
+2018-04-25 04:50:17 #bot-spam @Synapse#0692: Check your DM, @Pootis! I have sent something for you :wink:
+2018-04-25 04:51:24 #bot-spam @kitty#0461: allin
+2018-04-25 04:51:29 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:51:24 (allin)
+2018-04-25 04:51:33 #bot-spam @kitty#0461: !allin
+2018-04-25 04:51:33 #bot-spam @Synapse#0692: ```\n!allin <multiplier>\n\nIt's all or nothing. Bets everything you have.\n\n```
+2018-04-25 04:52:13 #bot-spam @kitty#0461: !bar
+2018-04-25 04:52:13 #bot-spam @Synapse#0692: ```\n!bar\n\nBar operations\n\nCommands:\n  buy      Buy a drink with currency from Red's economy\n  list     Lists what we serve at the bar.\n\nType !bar command for more info on a command.\nYou can also type !bar category for more info on a category.\n```
+2018-04-25 04:52:24 #bot-spam @kitty#0461: !list
+2018-04-25 04:52:33 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:52:24 (!list)
+2018-04-25 04:52:40 #bot-spam @kitty#0461: list
+2018-04-25 04:52:44 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:52:40 (list)
+2018-04-25 04:52:48 #bot-spam @kitty#0461: !list
+2018-04-25 04:52:54 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:52:48 (!list)
+2018-04-25 04:53:54 #bot-spam @kitty#0461: !bank
+2018-04-25 04:53:54 #bot-spam @Synapse#0692: ```\n!bank\n\nBank operations\n\nCommands:\n  balance  Shows balance of user.\n  transfer Transfer credits to other users\n  reset    Deletes all server's bank accounts\n  set      Sets credits of user's bank account. See help for more operations\n  register Registers an account at the Twentysix bank\n\nType !bank command for more info on a command.\nYou can also type !bank category for more info on a category.\n```
+2018-04-25 04:54:04 #bot-spam @kitty#0461: !balance
+2018-04-25 04:54:13 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:54:04 (!balance)
+2018-04-25 04:54:22 #bot-spam @kitty#0461: ! balance
+2018-04-25 04:54:26 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:54:22 (! balance)
+2018-04-25 04:54:41 #bot-spam @kitty#0461: !bank balance
+2018-04-25 04:54:41 #bot-spam @Synapse#0692: @kitty You don't have an account at the Twentysix bank. Type `!bank register` to open one.
+2018-04-25 04:54:53 #bot-spam @kitty#0461: !bank register
+2018-04-25 04:54:53 #bot-spam @Synapse#0692: @kitty Account opened. Current balance: 0
+2018-04-25 04:55:05 #bot-spam @kitty#0461: !bank set
+2018-04-25 04:55:05 #bot-spam @Synapse#0692: ```\n!bank set <user> <credits>\n\nSets credits of user's bank account. See help for more operations\n\nPassing positive and negative values will add/remove credits instead\n\nExamples:\n    bank set @Twentysix 26 - Sets 26 credits\n    bank set @Twentysix +2 - Adds 2 credits\n    bank set @Twentysix -6 - Removes 6 credits\n\n```
+2018-04-25 04:55:55 #bot-spam @kitty#0461: !bank set <@kitty> <26>
+2018-04-25 04:55:55 #bot-spam @Synapse#0692: ```\n!bank set <user> <credits>\n\nSets credits of user's bank account. See help for more operations\n\nPassing positive and negative values will add/remove credits instead\n\nExamples:\n    bank set @Twentysix 26 - Sets 26 credits\n    bank set @Twentysix +2 - Adds 2 credits\n    bank set @Twentysix -6 - Removes 6 credits\n\n```
+2018-04-25 04:56:16 #bot-spam @kitty#0461: !bank balance
+2018-04-25 04:56:17 #bot-spam @Synapse#0692: @kitty Your balance is: 0
+2018-04-25 04:56:40 #bot-spam @kitty#0461 edited message from 2018-04-25 04:55:55 (!bank set <@kitty> <26>) to read: !bank set <@kitty> < 26>
+2018-04-25 04:57:04 #bot-spam @kitty#0461: !bank set <@kitty> <26>
+2018-04-25 04:57:04 #bot-spam @Synapse#0692: ```\n!bank set <user> <credits>\n\nSets credits of user's bank account. See help for more operations\n\nPassing positive and negative values will add/remove credits instead\n\nExamples:\n    bank set @Twentysix 26 - Sets 26 credits\n    bank set @Twentysix +2 - Adds 2 credits\n    bank set @Twentysix -6 - Removes 6 credits\n\n```
+2018-04-25 04:57:34 #bot-spam @kitty#0461: !bank balance
+2018-04-25 04:57:34 #bot-spam @Synapse#0692: @kitty Your balance is: 0
+2018-04-25 04:57:59 #bot-spam @kitty#0461: !bank set @kitty 26
+2018-04-25 04:57:59 #bot-spam @Synapse#0692: kitty's credits have been set to 26
+2018-04-25 04:58:20 #bot-spam @kitty#0461: !bank set @kitty +50
+2018-04-25 04:58:20 #bot-spam @Synapse#0692: 50 credits have been added to kitty
+2018-04-25 04:58:39 #bot-spam @kitty#0461: !bank set @kitty +100000
+2018-04-25 04:58:39 #bot-spam @Synapse#0692: 100000 credits have been added to kitty
+2018-04-25 04:58:45 #bot-spam @Synapse#0692 deleted message from 2018-04-25 04:58:39 (100000 credits have been added to kitty)
+2018-04-25 04:58:49 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:58:39 (!bank set @kitty +100000)
+2018-04-25 04:58:52 #bot-spam @Synapse#0692 deleted message from 2018-04-25 04:58:20 (50 credits have been added to kitty)
+2018-04-25 04:58:56 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:58:20 (!bank set @kitty +50)
+2018-04-25 04:58:59 #bot-spam @Synapse#0692 deleted message from 2018-04-25 04:57:59 (kitty's credits have been set to 26)
+2018-04-25 04:59:03 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:57:59 (!bank set @kitty 26)
+2018-04-25 04:59:06 #bot-spam @Synapse#0692 deleted message from 2018-04-25 04:57:34 (@kitty Your balance is: 0)
+2018-04-25 04:59:09 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:57:34 (!bank balance)
+2018-04-25 04:59:14 #bot-spam @Synapse#0692 deleted message from 2018-04-25 04:57:04 (```\n!bank set <user> <credits>\n\nSets credits of user's bank account. See help for more operations\n\nPassing positive and negative values will add/remove credits instead\n\nExamples:\n    bank set @Twentysix 26 - Sets 26 credits\n    bank set @Twentysix +2 - Adds 2 credits\n    bank set @Twentysix -6 - Removes 6 credits\n\n```)
+2018-04-25 04:59:18 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:57:04 (!bank set <@kitty> <26>)
+2018-04-25 04:59:24 #bot-spam @Synapse#0692 deleted message from 2018-04-25 04:56:17 (@kitty Your balance is: 0)
+2018-04-25 04:59:28 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:56:16 (!bank balance)
+2018-04-25 04:59:31 #bot-spam @Synapse#0692 deleted message from 2018-04-25 04:55:55 (```\n!bank set <user> <credits>\n\nSets credits of user's bank account. See help for more operations\n\nPassing positive and negative values will add/remove credits instead\n\nExamples:\n    bank set @Twentysix 26 - Sets 26 credits\n    bank set @Twentysix +2 - Adds 2 credits\n    bank set @Twentysix -6 - Removes 6 credits\n\n```)
+2018-04-25 04:59:36 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:55:55 (!bank set <@kitty> < 26>)
+2018-04-25 04:59:39 #bot-spam @Synapse#0692 deleted message from 2018-04-25 04:55:05 (```\n!bank set <user> <credits>\n\nSets credits of user's bank account. See help for more operations\n\nPassing positive and negative values will add/remove credits instead\n\nExamples:\n    bank set @Twentysix 26 - Sets 26 credits\n    bank set @Twentysix +2 - Adds 2 credits\n    bank set @Twentysix -6 - Removes 6 credits\n\n```)
+2018-04-25 04:59:43 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:55:05 (!bank set)
+2018-04-25 04:59:47 #bot-spam @Synapse#0692 deleted message from 2018-04-25 04:54:53 (@kitty Account opened. Current balance: 0)
+2018-04-25 04:59:56 #bot-spam @Synapse#0692 deleted message from 2018-04-25 04:51:33 (```\n!allin <multiplier>\n\nIt's all or nothing. Bets everything you have.\n\n```)
+2018-04-25 05:00:00 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:52:13 (!bar)
+2018-04-25 05:00:05 #bot-spam @kitty#0461 deleted message from 2018-04-25 04:51:33 (!allin)
+2018-04-25 05:00:11 #bot-spam @Synapse#0692 deleted message from 2018-04-25 04:52:13 (```\n!bar\n\nBar operations\n\nCommands:\n  buy      Buy a drink with currency from Red's economy\n  list     Lists what we serve at the bar.\n\nType !bar command for more info on a command.\nYou can also type !bar category for more info on a category.\n```)
+2018-04-25 05:00:23 #bot-spam @kitty#0461: !bank balance
+2018-04-25 05:00:23 #bot-spam @Synapse#0692: @kitty Your balance is: 100076
+2018-04-25 05:00:43 #bot-spam @kitty#0461: !allin
+2018-04-25 05:00:43 #bot-spam @Synapse#0692: ```\n!allin <multiplier>\n\nIt's all or nothing. Bets everything you have.\n\n```
+2018-04-25 05:00:55 #bot-spam @kitty#0461: !bank balance
+2018-04-25 05:00:55 #bot-spam @Synapse#0692: @kitty Your balance is: 100076
+2018-04-25 05:01:02 #bot-spam @kitty#0461 deleted message from 2018-04-25 05:00:55 (!bank balance)
+2018-04-25 05:01:06 #bot-spam @Synapse#0692 deleted message from 2018-04-25 05:00:43 (```\n!allin <multiplier>\n\nIt's all or nothing. Bets everything you have.\n\n```)
+2018-04-25 05:01:09 #bot-spam @kitty#0461 deleted message from 2018-04-25 05:00:43 (!allin)
+2018-04-25 05:01:13 #bot-spam @Synapse#0692 deleted message from 2018-04-25 05:00:55 (@kitty Your balance is: 100076)
+2018-04-25 05:01:22 #bot-spam @kitty#0461: !allin 3
+2018-04-25 05:01:22 #bot-spam @Synapse#0692: You need to register. Type !casino join.
+2018-04-25 05:01:33 #bot-spam @kitty#0461: !casino join
+2018-04-25 05:01:33 #bot-spam @Synapse#0692: Your membership has been approved! Welcome to Cryptosino Casino!\nAs a first time member we have credited your account with 100 free chips.\nHave fun!
+2018-04-25 05:01:47 #bot-spam @kitty#0461: !all in 5
+2018-04-25 05:01:54 #bot-spam @kitty#0461 deleted message from 2018-04-25 05:01:47 (!all in 5)
+2018-04-25 05:02:01 #bot-spam @kitty#0461: !allin 5
+2018-04-25 05:02:01 #bot-spam @Synapse#0692: You put all your chips into the machine and pull the lever...
+2018-04-25 05:02:04 #bot-spam @Synapse#0692: Sorry! Your all or nothing gamble failed and you lost all your BTC chips.
+2018-04-25 05:02:13 #bot-spam @Synapse#0692 deleted message from 2018-04-25 05:02:04 (Sorry! Your all or nothing gamble failed and you lost all your BTC chips.)
+2018-04-25 05:02:16 #bot-spam @Synapse#0692 deleted message from 2018-04-25 05:02:01 (You put all your chips into the machine and pull the lever...)
+2018-04-25 05:02:20 #bot-spam @kitty#0461 deleted message from 2018-04-25 05:02:01 (!allin 5)
+2018-04-25 05:02:57 #bot-spam @kitty#0461: !slap @kitty
+2018-04-25 05:02:57 #bot-spam @Synapse#0692: -slaps kitty with Will's SquidBot-
+2018-04-25 05:05:10 #bot-spam @kitty#0461: ->mine
+2018-04-25 05:05:10 #bot-spam @Mantaro#4454: ⛏ You mined minerals worth **$76 credits!**
+2018-04-25 05:05:17 #bot-spam @kitty#0461: ->mine
+2018-04-25 05:05:17 #bot-spam @Mantaro#4454: ⏱ Y-You're calling me so fast that I'm getting dizzy... (Ratelimited)\n **You'll be able to use this command again in 5 minutes and 53 seconds.**
+2018-04-25 05:05:31 #bot-spam @kitty#0461: ->help
+2018-04-25 05:05:31 #bot-spam @Mantaro#4454: 
+2018-04-25 05:05:31 #bot-spam @Mantaro#4454 edited message from 2018-04-25 05:05:31 () to read: 
+2018-04-25 05:05:55 #bot-spam @kitty#0461: ->bloodsuck
+2018-04-25 05:05:55 #bot-spam @Mantaro#4454: ✖ You need to mention a user
+2018-04-25 05:06:12 #bot-spam @kitty#0461: ->bloodsuck @Pootis
+2018-04-25 05:06:13 #bot-spam @Mantaro#4454: 💬 **kitty** is sucking the blood of **Pootis**! (attachment url(s): https://cdn.discordapp.com/attachments/438546588609150976/438566380565037115/bloodsuck-.gif)
+2018-04-25 05:06:43 #bot-spam @kitty#0461: ->lewd
+2018-04-25 05:06:44 #bot-spam @Mantaro#4454: 💬 Y-You lewdie! (attachment url(s): https://cdn.discordapp.com/attachments/438546588609150976/438566510575878146/lewd-B1um6aOD-..png)
+2018-04-25 05:06:50 #bot-spam @Mantaro#4454 deleted message from 2018-04-25 05:06:44 (💬 Y-You lewdie!)
+2018-04-25 05:06:55 #bot-spam @kitty#0461 deleted message from 2018-04-25 05:06:43 (->lewd)
+2018-04-25 05:07:23 #bot-spam @Your new meat bicycle#5814: You’re going overboard with the bots
+2018-04-25 05:08:10 #bot-spam @kitty#0461: Lol
+2018-04-25 05:08:38 #bot-spam @kitty#0461: Some servers I'm in have 10 bots
+2018-04-25 05:08:55 #bot-spam @Your new meat bicycle#5814: How do you manage botspams
+2018-04-25 05:09:05 #bot-spam @kitty#0461: Also this channel is called  not **spam**
+2018-04-25 05:09:12 #bot-spam @kitty#0461 edited message from 2018-04-25 05:09:05 (Also this channel is called  not **spam**) to read: Also this channel is called bot **spam**
+2018-04-25 05:09:16 #bot-spam @kitty#0461: Idk
+2018-04-25 05:09:22 #bot-spam @kitty#0461: U Don't
+2018-04-25 05:09:34 #bot-spam @kitty#0461: U try something
+2018-04-25 05:09:52 #bot-spam @Your new meat bicycle#5814: Idk what to do
+2018-04-25 05:10:05 #bot-spam @kitty#0461: ->help
+2018-04-25 05:10:05 #bot-spam @Mantaro#4454: 
+2018-04-25 05:10:05 #bot-spam @Mantaro#4454 edited message from 2018-04-25 05:10:05 () to read: 
+2018-04-25 05:10:57 #bot-spam @Your new meat bicycle#5814: There should be a shoot action command
+2018-04-25 05:11:03 #bot-spam @Your new meat bicycle#5814: I wanna shoot something
+2018-04-25 05:12:23 #bot-spam @kitty#0461: Lol
+2018-04-25 05:12:41 #bot-spam @kitty#0461: U could slap
+2018-04-25 05:12:56 #bot-spam @kitty#0461: ->slap  @Your new meat bicycle
+2018-04-25 05:12:56 #bot-spam @Mantaro#4454: ✖ You need to mention a user
+2018-04-25 05:13:16 #bot-spam @kitty#0461: ->slap pootis
+2018-04-25 05:13:16 #bot-spam @Mantaro#4454: ✖ You need to mention a user
+2018-04-25 05:13:24 #bot-spam @kitty#0461 deleted message from 2018-04-25 05:13:16 (->slap pootis)
+2018-04-25 05:13:33 #bot-spam @kitty#0461: Welp
+2018-04-25 05:16:40 #bot-spam @Your new meat bicycle#5814: ->slap @Pootis
+2018-04-25 05:16:40 #bot-spam @Mantaro#4454: **Hmm, why do you want this? Uh, I guess... *slaps you*** (attachment url(s): https://cdn.discordapp.com/attachments/438546588609150976/438569012759101450/slap-ry_RQkYDb.gif)
+2018-04-25 05:16:50 #bot-spam @kitty#0461: !slap @Pootis
+2018-04-25 05:16:50 #bot-spam @Synapse#0692: -slaps Your new meat bicycle with Eslyium's Hentai Collection-
+2018-04-25 05:16:58 #bot-spam @kitty#0461: ............
+2018-04-25 05:16:59 #bot-spam @Your new meat bicycle#5814: Wut
+2018-04-25 05:17:00 #bot-spam @kitty#0461: errrrrrrrrrrrr
+2018-04-25 05:17:02 #bot-spam @Your new meat bicycle#5814: Umm
+2018-04-25 05:17:06 #bot-spam @kitty#0461: ummmmmmmm
+2018-04-25 05:17:09 #bot-spam @Your new meat bicycle#5814: Thatsssss
+2018-04-25 05:17:12 #bot-spam @kitty#0461: lol.........
+2018-04-25 05:17:14 #bot-spam @kitty#0461: ?
+2018-04-25 05:17:21 #bot-spam @kitty#0461: i guess
+2018-04-25 05:17:33 #bot-spam @Your new meat bicycle#5814: -slap @kitty
+2018-04-25 05:17:39 #bot-spam @Your new meat bicycle#5814: Fuc
+2018-04-25 05:17:46 #bot-spam @Your new meat bicycle#5814 edited message from 2018-04-25 05:17:33 (-slap @kitty) to read: !slap @kitty
+2018-04-25 05:17:51 #bot-spam @kitty#0461: ->slap @kitty
+2018-04-25 05:17:51 #bot-spam @Mantaro#4454: **Hmm, why do you want this? Uh, I guess... *slaps you*** (attachment url(s): https://cdn.discordapp.com/attachments/438546588609150976/438569310068146176/slap-r1lxO_QIf.gif)
+2018-04-25 05:17:52 #bot-spam @Your new meat bicycle#5814 deleted message from 2018-04-25 05:17:33 (!slap @kitty)
+2018-04-25 05:18:06 #bot-spam @kitty#0461: it's soul!!!!!!
+2018-04-25 05:18:46 #bot-spam @kitty#0461: And maka
+2018-04-25 05:18:49 #bot-spam @kitty#0461: ....
+2018-04-25 05:18:53 #bot-spam @kitty#0461: Slapping him
+2018-04-25 05:20:27 #bot-spam @kitty#0461: ->slap @Mantaro
+2018-04-25 05:20:28 #bot-spam @Mantaro#4454: 💬 **Mantaro** you have been slapped by **kitty**! (attachment url(s): https://cdn.discordapp.com/attachments/438546588609150976/438569966736769024/slap-Sk9mfCtY-.gif)
+2018-04-25 05:21:07 #bot-spam @kitty#0461: lol
+2018-04-25 05:21:18 #bot-spam @kitty#0461: ->slap @trump
+2018-04-25 05:21:18 #bot-spam @Mantaro#4454: ✖ You need to mention a user
+2018-04-25 05:21:24 #bot-spam @kitty#0461: no fair
+2018-04-25 05:22:16 #bot-spam @kitty#0461: ->loot
+2018-04-25 05:22:16 #bot-spam @Mantaro#4454: 🎉 Digging through messages, you found **$18 credits!**
+2018-04-25 05:22:24 #bot-spam @kitty#0461: ->bank
+2018-04-25 05:22:55 #bot-spam @kitty#0461 deleted message from 2018-04-25 05:22:24 (->bank)
+2018-04-25 05:28:07 #bot-spam @Your new meat bicycle#5814: Wait can i
+2018-04-25 05:28:21 #bot-spam @Your new meat bicycle#5814: ->slap @​everyone
+2018-04-25 05:28:23 #bot-spam @Mantaro#4454: ✖ You need to mention a user
+2018-04-25 05:28:26 #bot-spam @Your new meat bicycle#5814: Rip
+2018-04-25 05:28:27 #bot-spam @kitty#0461: ohh
+2018-04-25 05:28:40 #bot-spam @kitty#0461: well i wanted to slap trump
+2018-04-25 05:29:20 #bot-spam @kitty#0461: ima kick synapse? unless u wanna keep it
+2018-04-25 05:29:33 #bot-spam @Your new meat bicycle#5814: nah kick
+2018-04-25 05:29:38 #bot-spam @kitty#0461: k

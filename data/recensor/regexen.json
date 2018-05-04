@@ -1,0 +1,14 @@
+{
+    "427830207265767424" : {
+        "all" : {
+            "!bigmoji" : "incl",
+            "BTC" : "incl",
+            "BTc" : "incl",
+            "BtC" : "incl",
+            "Btc" : "incl",
+            "bTC" : "incl",
+            "bTc" : "incl",
+            "btc" : "incl"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+2018-04-27 17:53:58 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: @Viatra
+2018-04-27 17:54:47 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: write this: *mute [my tag] 1h [reason]
+2018-04-27 17:54:53 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: pls
+2018-04-27 17:55:12 #🇮🇹-italian_peeps_chat @Viatra#2018: *mute @AxelHeroShay 1h boi
+2018-04-27 17:55:21 #🇮🇹-italian_peeps_chat @Viatra#2018: ?mute @AxelHeroShay 1h boi
+2018-04-27 17:55:22 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: wait
+2018-04-27 17:55:54 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: @Viatra without reason
+2018-04-27 17:56:02 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: with *
+2018-04-27 17:56:05 #🇮🇹-italian_peeps_chat @Viatra#2018: ?mute @AxelHeroShay 1h
+2018-04-27 17:56:13 #🇮🇹-italian_peeps_chat @Viatra#2018: *mute @AxelHeroShay 1h
+2018-04-27 17:56:19 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: ok thx
+2018-04-27 17:56:24 #🇮🇹-italian_peeps_chat @Viatra#2018: lol np
+2018-04-27 17:56:35 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: this is true
+2018-04-27 17:56:41 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: try with Shiwase
+2018-04-27 17:56:52 #🇮🇹-italian_peeps_chat @Viatra#2018: *mute @Shiwase 1h
+2018-04-27 17:57:01 #🇮🇹-italian_peeps_chat @Viatra#2018: oof
+2018-04-27 17:57:12 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: ypu are not mod for this test
+2018-04-27 17:57:46 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: @Viatra one more time with shiwase
+2018-04-27 17:58:01 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: now you are mod
+2018-04-27 17:58:05 #🇮🇹-italian_peeps_chat @Viatra#2018: *mute @Shiwase 1h
+2018-04-27 17:58:06 #🇮🇹-italian_peeps_chat @Dyno#3861: <:dynoSuccess:314691591484866560> ***Shiwase#6759 was muted***
+2018-04-27 17:58:08 #🇮🇹-italian_peeps_chat @Viatra#2018: oof
+2018-04-27 17:58:11 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: ok
+2018-04-27 17:58:13 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: thx
+2018-04-27 17:58:17 #🇮🇹-italian_peeps_chat @Viatra#2018: *unmute @Shiwase
+2018-04-27 17:58:17 #🇮🇹-italian_peeps_chat @Dyno#3861: <:dynoSuccess:314691591484866560> ***Shiwase#6759 was unmuted***
+2018-04-27 17:58:17 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: 😂
+2018-04-27 17:58:20 #🇮🇹-italian_peeps_chat @Viatra#2018: <:ha:433279916860243969>
+2018-04-27 17:58:26 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: thx alot
+2018-04-27 17:58:30 #🇮🇹-italian_peeps_chat @Viatra#2018: np
+2018-04-27 17:59:42 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: ora devo solo settare il ban
+2018-04-27 18:20:14 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: !slowmode
+2018-04-27 18:20:14 #🇮🇹-italian_peeps_chat @MEE6#4876: Whoopsises, please provide a valid timeout in 'seconds'.
+2018-04-27 18:20:14 #🇮🇹-italian_peeps_chat @Dyno#3861: Welcome back @AxelHeroShay, I removed your AFK
+2018-04-27 18:20:16 #🇮🇹-italian_peeps_chat @Synapse#0692: **There is no slowmode in #🇮🇹-italian_peeps_chat.**
+2018-04-27 18:20:25 #🇮🇹-italian_peeps_chat @Dyno#3861 deleted message from 2018-04-27 18:20:14 (Welcome back @AxelHeroShay, I removed your AFK)
+2018-04-27 18:21:06 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: !slowmode 1m
+2018-04-27 18:21:07 #🇮🇹-italian_peeps_chat @MEE6#4876: Psst, if you want **slowmode** off here, just type `!slowmode off`
+2018-04-27 18:21:08 #🇮🇹-italian_peeps_chat @Synapse#0692: ```\n!slowmode [channel] [time] [messages] [max_time]\n\nSends the current slowmode of a channel. Default: Current channel\nIf `time` is specified, changes the slowmode time to the given one.\nIf `messages` is specified, changes the slowmode messages to the given one.\nIf `max_time` is specified, changes the slowmode maximum muted time to the given one.\nSets the slowmode for a `channel` to `time` seconds, `messages` messages, and `max_time` seconds maximum.\nIf the `time` is 0, `messages` is 0, and `max_time` is 0, it disables the slowmode in that channel.\n\n```
+2018-04-27 18:21:19 #🇮🇹-italian_peeps_chat @AxelHeroShay#4238: !slowmode off
+2018-04-27 18:21:19 #🇮🇹-italian_peeps_chat @MEE6#4876: **#🇮🇹-italian_peeps_chat** is no longer slowmoded, keep it calm guys!
+2018-04-27 18:21:20 #🇮🇹-italian_peeps_chat @Synapse#0692: ```\n!slowmode [channel] [time] [messages] [max_time]\n\nSends the current slowmode of a channel. Default: Current channel\nIf `time` is specified, changes the slowmode time to the given one.\nIf `messages` is specified, changes the slowmode messages to the given one.\nIf `max_time` is specified, changes the slowmode maximum muted time to the given one.\nSets the slowmode for a `channel` to `time` seconds, `messages` messages, and `max_time` seconds maximum.\nIf the `time` is 0, `messages` is 0, and `max_time` is 0, it disables the slowmode in that channel.\n\n```
+2018-04-28 09:48:07 #🇮🇹-italian_peeps_chat @paal27#8393: @[Known] ZarkyOG hai fatto in modo che chi non ha il ruolo **Italians** non posso vedere questo canale?
+2018-04-28 09:50:35 #🇮🇹-italian_peeps_chat @[Known] ZarkyOG#3931: si
+2018-04-28 09:50:40 #🇮🇹-italian_peeps_chat @[Known] ZarkyOG#3931: vuoi testare?
+2018-04-28 09:53:16 #🇮🇹-italian_peeps_chat @paal27#8393: Si
+2018-04-28 09:53:22 #🇮🇹-italian_peeps_chat @paal27#8393: Loggo con il mio secondo account
+2018-04-28 09:53:41 #🇮🇹-italian_peeps_chat @[Known] ZarkyOG#3931: oke
+2018-04-28 09:55:00 #🇮🇹-italian_peeps_chat @paal28#0035: Fail
+2018-04-28 09:55:04 #🇮🇹-italian_peeps_chat @paal28#0035: Riesco a vedere
+2018-04-28 09:55:51 #🇮🇹-italian_peeps_chat @[Known] ZarkyOG#3931: ah aspe perchè non ho messo il permesso con il ruolo everyone
+2018-04-28 09:56:23 #🇮🇹-italian_peeps_chat @[Known] ZarkyOG#3931: ora puoi scrivere?

@@ -1,0 +1,393 @@
+2018-04-19 16:42:18 #general @Synapse#0692: 
+2018-04-19 16:42:46 #general @Balmoung#0596: !help
+2018-04-19 16:42:47 #general @Synapse#0692: Check your DM, @Balmoung! I have sent something for you :wink:
+2018-04-19 16:43:29 #general @Balmoung#0596: !autorole
+2018-04-19 16:43:29 #general @Synapse#0692: ```\n!autorole\n\nChange settings for autorole\n\nRequires the manage roles permission\n\nCommands:\n  role      Set role for autorole to assign.\n  agreement Set the channel and message that will be used for accepting the r...\n  toggle    Enables/Disables autorole\n\nType !autorole command for more info on a command.\nYou can also type !autorole category for more info on a category.\n```
+2018-04-19 16:43:29 #general @Synapse#0692: ```Current autorole state: False```
+2018-04-19 16:44:25 #general @Balmoung#0596: !autorole toggle
+2018-04-19 16:44:26 #general @Synapse#0692: You haven't set a role to give to new users! Use `!autorole role "role"` to set it!
+2018-04-19 16:44:48 #general @Balmoung#0596: !autorole role Membru$$
+2018-04-19 16:44:48 #general @Synapse#0692: ```\n!autorole role <role>\n\nSet role for autorole to assign.\n\nUse quotation marks around the role if it contains spaces.\n\n```
+2018-04-19 16:45:08 #general @Balmoung#0596 edited message from 2018-04-19 16:44:48 (!autorole role Membru$$) to read: !autorole role Membru$$$
+2018-04-19 16:45:25 #general @Balmoung#0596: !autorole role Membru$$$
+2018-04-19 16:45:25 #general @Synapse#0692: Autorole set to Membru$$$
+2018-04-19 16:46:10 #general @Balmoung#0596: !buyrole
+2018-04-19 16:46:10 #general @Synapse#0692: This server doesn't have a shop yet
+2018-04-19 16:46:16 #general @Balmoung#0596: !colorme
+2018-04-19 16:46:16 #general @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  purge       Purge the server of roles that may have been created\n  listprotect Lists roles that are protected from color changes.\n  change      Change the color of your name.\n  clean       Clean colorme roles by removing all permissions.\n  unprotect   Remove a role from the list of protected roles.\n  protect     Add a role to the list of protected roles.\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```
+2018-04-19 16:46:35 #general @Balmoung#0596: !colorme change
+2018-04-19 16:46:36 #general @Synapse#0692: ```\n!colorme change <newcolor>\n\nChange the color of your name.\n\nNew color must be a valid hexidecimal color value.\n\n```
+2018-04-19 16:46:51 #general @Balmoung#0596: !colorme change 2
+2018-04-19 16:46:51 #general @Synapse#0692: @Balmoung, Your new color is set.
+2018-04-20 17:13:29 #general @Balmoung#0596: te aud
+2018-04-20 17:13:39 #general @Balmoung#0596: e p1ngu pe sv gamster
+2018-04-21 06:29:13 #general @Balmoung#0596: sall
+2018-04-21 06:29:15 #general @Balmoung#0596: /shop
+2018-04-21 06:29:15 #general @Dyno#3861: Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite
+2018-04-21 06:30:38 #general @ruben#3477: 
+2018-04-21 06:33:07 #general @ERA-RPG#4338: 
+2018-04-21 07:07:56 #general @Damian#5939: Mersi ca ati intrat
+2018-04-21 07:08:01 #general @Damian#5939: Welcone
+2018-04-21 07:08:10 #general @Damian#5939 edited message from 2018-04-21 07:08:01 (Welcone) to read: Welcome
+2018-04-21 07:08:54 #general @Damian#5939: Daca dati / o sa va apara niste commenzi
+2018-04-21 07:08:59 #general @Damian#5939: /shop
+2018-04-21 07:08:59 #general @Dyno#3861: Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite
+2018-04-21 07:09:06 #general @Damian#5939: t!daily
+2018-04-21 07:09:07 #general @Tatsumaki#8792: 🏧 | **Damian**, **you received your 💴 200 daily credits!**\n\n**Streak: <:b_:400807295363317760><:o_:400807295833079808><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-04-21 07:09:17 #general @Damian#5939: t!credits
+2018-04-21 07:09:18 #general @Tatsumaki#8792: 💳  |  **Damian**, **you have a balance of 💴 3363 credits!**
+2018-04-21 07:09:32 #general @Damian#5939: *profile
+2018-04-21 07:09:34 #general @Damian#5939: :)
+2018-04-21 07:09:45 #general @Damian#5939: /profile
+2018-04-21 07:09:48 #general @Damian#5939 deleted message from 2018-04-21 07:09:45 (/profile)
+2018-04-21 07:09:50 #general @Damian#5939 deleted message from 2018-04-21 07:09:32 (*profile)
+2018-04-21 07:09:52 #general @Damian#5939 deleted message from 2018-04-21 07:09:34 (:))
+2018-04-21 07:10:09 #general @Damian#5939: /pay
+2018-04-21 07:11:16 #general @Damian#5939: !buyrole
+2018-04-21 07:11:16 #general @Synapse#0692: This server doesn't have a shop yet
+2018-04-21 07:11:28 #general @Damian#5939: /buyrole
+2018-04-21 07:11:28 #general @MEE6#4876: GG @Damian, you just advanced to level 1!
+2018-04-21 07:30:04 #general @Balmoung#0596: sall
+2018-04-21 07:31:40 #general @Darius#3513: 
+2018-04-21 07:31:45 #general @Balmoung#0596: +purge
+2018-04-21 07:31:46 #general @MEE6#4876: GG @Balmoung, you just advanced to level 2!
+2018-04-21 07:31:46 #general @Damian#5939 deleted message from 2018-04-21 07:09:17 (t!credits)
+2018-04-21 07:31:46 #general @Tatsumaki#8792 deleted message from 2018-04-21 07:09:18 (💳  |  **Damian**, **you have a balance of 💴 3363 credits!**)
+2018-04-21 07:31:46 #general @Damian#5939 deleted message from 2018-04-21 07:10:09 (/pay)
+2018-04-21 07:31:46 #general @Damian#5939 deleted message from 2018-04-21 07:11:16 (!buyrole)
+2018-04-21 07:31:46 #general @Synapse#0692 deleted message from 2018-04-21 07:11:16 (This server doesn't have a shop yet)
+2018-04-21 07:31:46 #general @Damian#5939 deleted message from 2018-04-21 07:11:28 (/buyrole)
+2018-04-21 07:31:46 #general @MEE6#4876 deleted message from 2018-04-21 07:11:28 (GG @Damian, you just advanced to level 1!)
+2018-04-21 07:31:46 #general @Balmoung#0596 deleted message from 2018-04-21 07:30:04 (sall)
+2018-04-21 07:31:46 #general @Darius#3513 deleted message from 2018-04-21 07:31:40 ()
+2018-04-21 07:31:46 #general @Balmoung#0596 deleted message from 2018-04-21 07:31:45 (+purge)
+2018-04-21 07:31:46 #general @MEE6#4876 deleted message from 2018-04-21 07:31:46 (GG @Balmoung, you just advanced to level 2!)
+2018-04-21 07:31:46 #general @Vexera#8487: :white_check_mark:
+2018-04-21 07:31:51 #general @Vexera#8487 deleted message from 2018-04-21 07:31:46 (:white_check_mark:)
+2018-04-21 07:31:54 #general @Balmoung#0596: sall
+2018-04-21 07:31:57 #general @Balmoung#0596: +purge a;;
+2018-04-21 07:31:57 #general @Vexera#8487: 
+2018-04-21 07:31:57 #general @Vexera#8487 edited message from 2018-04-21 07:31:57 () to read: 
+2018-04-21 07:32:01 #general @Balmoung#0596: +purge all
+2018-04-21 07:32:01 #general @Vexera#8487: 
+2018-04-21 07:32:01 #general @Vexera#8487 edited message from 2018-04-21 07:32:01 () to read: 
+2018-04-21 07:32:06 #general @Balmoung#0596: +purge
+2018-04-21 07:32:06 #general @Damian#5939 deleted message from 2018-04-21 07:08:54 (Daca dati / o sa va apara niste commenzi)
+2018-04-21 07:32:06 #general @Damian#5939 deleted message from 2018-04-21 07:08:59 (/shop)
+2018-04-21 07:32:06 #general @Dyno#3861 deleted message from 2018-04-21 07:08:59 (Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite)
+2018-04-21 07:32:06 #general @Damian#5939 deleted message from 2018-04-21 07:09:06 (t!daily)
+2018-04-21 07:32:06 #general @Tatsumaki#8792 deleted message from 2018-04-21 07:09:07 (🏧 | **Damian**, **you received your 💴 200 daily credits!**\n\n**Streak: <:b_:400807295363317760><:o_:400807295833079808><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**)
+2018-04-21 07:32:06 #general @Balmoung#0596 deleted message from 2018-04-21 07:31:54 (sall)
+2018-04-21 07:32:06 #general @Balmoung#0596 deleted message from 2018-04-21 07:31:57 (+purge a;;)
+2018-04-21 07:32:06 #general @Vexera#8487 deleted message from 2018-04-21 07:31:57 ()
+2018-04-21 07:32:06 #general @Balmoung#0596 deleted message from 2018-04-21 07:32:01 (+purge all)
+2018-04-21 07:32:06 #general @Vexera#8487 deleted message from 2018-04-21 07:32:01 ()
+2018-04-21 07:32:06 #general @Balmoung#0596 deleted message from 2018-04-21 07:32:06 (+purge)
+2018-04-21 07:32:06 #general @Vexera#8487: :white_check_mark:
+2018-04-21 07:32:11 #general @Vexera#8487 deleted message from 2018-04-21 07:32:06 (:white_check_mark:)
+2018-04-21 07:32:12 #general @Balmoung#0596: sall @Darius
+2018-04-21 07:32:21 #general @Damian#5939: Balmoung fa gradu de Partener
+2018-04-21 07:33:00 #general @Balmoung#0596: acm
+2018-04-21 07:33:02 #general @Balmoung#0596: /shop
+2018-04-21 07:33:02 #general @Dyno#3861: Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite
+2018-04-21 07:33:06 #general @Balmoung#0596: /youtube
+2018-04-21 07:33:06 #general @Dyno#3861: https://www.youtube.com/channel/UCilc5R-xNhoTVenccD8MZNw SA DATI UN SUBSCRIBE !
+2018-04-21 07:33:06 #general @Dyno#3861: <:dynoError:314691684455809024> You should be in a voice channel first.
+2018-04-21 07:33:08 #general @Dyno#3861 edited message from 2018-04-21 07:33:06 (https://www.youtube.com/channel/UCilc5R-xNhoTVenccD8MZNw SA DATI UN SUBSCRIBE !) to read: https://www.youtube.com/channel/UCilc5R-xNhoTVenccD8MZNw SA DATI UN SUBSCRIBE !
+2018-04-21 07:33:08 #general @Balmoung#0596: xD
+2018-04-21 07:35:14 #general @Balmoung#0596: /shop
+2018-04-21 07:35:15 #general @Dyno#3861: Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite
+2018-04-21 07:35:34 #general @Balmoung#0596: /shop
+2018-04-21 07:35:34 #general @Dyno#3861: Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite
+2018-04-21 07:37:02 #general @Balmoung#0596: /shop
+2018-04-21 07:37:03 #general @Dyno#3861: Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite
+2018-04-21 07:39:46 #general @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: 
+2018-04-21 07:39:49 #general @[GW]♕๖̶̶ζ͜͡DΣŇ๖̶̶ζ͜͡Y♕#6563: 
+2018-04-21 07:40:09 #general @Balmoung#0596: salut
+2018-04-21 07:40:13 #general @Balmoung#0596: scrieti /shop
+2018-04-21 07:40:15 #general @Balmoung#0596: /shop
+2018-04-21 07:40:15 #general @Dyno#3861: Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite
+2018-04-21 07:40:17 #general @[GW]♕๖̶̶ζ͜͡DΣŇ๖̶̶ζ͜͡Y♕#6563: Jello
+2018-04-21 07:40:22 #general @[GW]♕๖̶̶ζ͜͡DΣŇ๖̶̶ζ͜͡Y♕#6563: Hello
+2018-04-21 07:40:23 #general @[GW]♕๖̶̶ζ͜͡DΣŇ๖̶̶ζ͜͡Y♕#6563 deleted message from 2018-04-21 07:40:17 (Jello)
+2018-04-21 07:40:25 #general @Balmoung#0596: hello
+2018-04-21 07:40:26 #general @Balmoung#0596: 😄
+2018-04-21 07:40:40 #general @Balmoung#0596: asa
+2018-04-21 07:40:52 #general @[GW]♕๖̶̶ζ͜͡DΣŇ๖̶̶ζ͜͡Y♕#6563: Ms
+2018-04-21 07:41:02 #general @Balmoung#0596: cine e in grupu lu @Darius  e partener cu noi
+2018-04-21 10:12:13 #general @Damian#5939: Nuuuu
+2018-04-21 10:12:32 #general @Damian#5939: Doar creatorul de la sv e partener
+2018-04-21 10:13:06 #general @Damian#5939: Creatori....
+2018-04-21 14:40:14 #general @Balmoung#0596: sall
+2018-04-21 14:56:54 #general @qEleTr0X#0926: 
+2018-04-21 14:57:06 #general @Balmoung#0596: /sho
+2018-04-21 14:57:08 #general @Balmoung#0596: /shop
+2018-04-21 14:57:13 #general @qEleTr0X#0926: /shop
+2018-04-21 14:57:18 #general @Dyno#3861: Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite
+2018-04-21 14:57:21 #general @Dyno#3861: Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite
+2018-04-21 18:58:41 #general @[ML]xShadowFTW#9081: 
+2018-04-21 19:01:15 #general @[ML]xShadowFTW#9081: @​everyone 💢Uite de ce află trebui să stai in serverul nostru\n💻 | Staff pregătit în ori ce ocazie\n🆘 | Ajutor în caz că ai nevoie\n💯 | Server la care s-a muncit la el\nNu uita sa vizitezi canalel#rules si #serverinfo\n👌🏼 Giveaway cu cont-uri de paypal\n🛡 Doar aici https://discord.gg/FYndFnU
+2018-04-21 19:01:15 #general @[ML]xShadowFTW#9081: @​everyone 💢Uite de ce află trebui să stai in serverul nostru\n💻 | Staff pregătit în ori ce ocazie\n🆘 | Ajutor în caz că ai nevoie\n💯 | Server la care s-a muncit la el\nNu uita sa vizitezi canalel#rules si #serverinfo\n👌🏼 Giveaway cu cont-uri de paypal\n🛡 Doar aici https://discord.gg/FYndFnU
+2018-04-21 19:01:16 #general @[ML]xShadowFTW#9081: @​everyone 💢Uite de ce află trebui să stai in serverul nostru\n💻 | Staff pregătit în ori ce ocazie\n🆘 | Ajutor în caz că ai nevoie\n💯 | Server la care s-a muncit la el\nNu uita sa vizitezi canalel#rules si #serverinfo\n👌🏼 Giveaway cu cont-uri de paypal\n🛡 Doar aici https://discord.gg/FYndFnU
+2018-04-21 19:21:59 #general @[GW]♕๖̶̶ζ͜͡DΣŇ๖̶̶ζ͜͡Y♕#6563: Ban
+2018-04-21 19:22:13 #general @[GW]♕๖̶̶ζ͜͡DΣŇ๖̶̶ζ͜͡Y♕#6563: Adică warn
+2018-04-21 19:22:22 #general @[GW]♕๖̶̶ζ͜͡DΣŇ๖̶̶ζ͜͡Y♕#6563: !warn @[ML]xShadowFTW
+2018-04-21 19:22:30 #general @[GW]♕๖̶̶ζ͜͡DΣŇ๖̶̶ζ͜͡Y♕#6563 deleted message from 2018-04-21 19:22:22 (!warn @[ML]xShadowFTW)
+2018-04-21 19:22:45 #general @[GW]♕๖̶̶ζ͜͡DΣŇ๖̶̶ζ͜͡Y♕#6563: Nu pot da..
+2018-04-21 19:22:48 #general @[GW]♕๖̶̶ζ͜͡DΣŇ๖̶̶ζ͜͡Y♕#6563: =]]
+2018-04-21 20:55:59 #general @[ML]xShadowFTW#9081 deleted message from 2018-04-21 19:01:15 (@​everyone 💢Uite de ce află trebui să stai in serverul nostru\n💻 | Staff pregătit în ori ce ocazie\n🆘 | Ajutor în caz că ai nevoie\n💯 | Server la care s-a muncit la el\nNu uita sa vizitezi canalel#rules si #serverinfo\n👌🏼 Giveaway cu cont-uri de paypal\n🛡 Doar aici https://discord.gg/FYndFnU)
+2018-04-21 20:56:02 #general @[ML]xShadowFTW#9081 deleted message from 2018-04-21 19:01:15 (@​everyone 💢Uite de ce află trebui să stai in serverul nostru\n💻 | Staff pregătit în ori ce ocazie\n🆘 | Ajutor în caz că ai nevoie\n💯 | Server la care s-a muncit la el\nNu uita sa vizitezi canalel#rules si #serverinfo\n👌🏼 Giveaway cu cont-uri de paypal\n🛡 Doar aici https://discord.gg/FYndFnU)
+2018-04-21 20:56:21 #general @[ML]xShadowFTW#9081 deleted message from 2018-04-21 18:58:41 ()
+2018-04-21 20:56:24 #general @[ML]xShadowFTW#9081 deleted message from 2018-04-21 19:01:16 (@​everyone 💢Uite de ce află trebui să stai in serverul nostru\n💻 | Staff pregătit în ori ce ocazie\n🆘 | Ajutor în caz că ai nevoie\n💯 | Server la care s-a muncit la el\nNu uita sa vizitezi canalel#rules si #serverinfo\n👌🏼 Giveaway cu cont-uri de paypal\n🛡 Doar aici https://discord.gg/FYndFnU)
+2018-04-22 05:38:45 #general @[ML]xShadowFTW#9081: 
+2018-04-22 05:38:51 #general @[ML]xShadowFTW#9081: t!slots
+2018-04-22 05:38:52 #general @Tatsumaki#8792: **[  🎰 l SLOTS ]**\n------------------\n🍉 : 🍌 : 🍈\n\n🍈 : 🍈 : 🍇 **<**\n\n🍌 : 🍐 : 🍌\n------------------
+2018-04-22 05:38:52 #general @[ML]xShadowFTW#9081: t!slots
+2018-04-22 05:38:52 #general @Tatsumaki#8792: **[ML]xShadowFTW**, please cool down! (**10** seconds left)
+2018-04-22 05:38:53 #general @Tatsumaki#8792 edited message from 2018-04-22 05:38:52 (**[  🎰 l SLOTS ]**\n------------------\n🍉 : 🍌 : 🍈\n\n🍈 : 🍈 : 🍇 **<**\n\n🍌 : 🍐 : 🍌\n------------------) to read: **[  🎰 l SLOTS ]**\n------------------\n🍊 : 🔔 : 🍐\n\n🍌 : 🍌 : 🍊 **<**\n\n🍒 : 🇱🇻 : 🍌\n------------------
+2018-04-22 05:38:53 #general @[ML]xShadowFTW#9081: t!slots
+2018-04-22 05:38:53 #general @Tatsumaki#8792: **[ML]xShadowFTW**, please cool down! (**9** seconds left)
+2018-04-22 05:38:54 #general @Tatsumaki#8792 edited message from 2018-04-22 05:38:52 (**[  🎰 l SLOTS ]**\n------------------\n🍊 : 🔔 : 🍐\n\n🍌 : 🍌 : 🍊 **<**\n\n🍒 : 🇱🇻 : 🍌\n------------------) to read: **[  🎰 l SLOTS ]**\n------------------\n🍌 : 🍊 : 🍐\n\n🍊 : 💎 : 🍇 **<**\n\n🍇 : 🇱🇻 : 🔔\n------------------\n| : : :  **LOST**  : : : |\n\n**[ML]xShadowFTW** used **1** credit(s) and lost everything.
+2018-04-22 05:38:56 #general @[ML]xShadowFTW#9081: t!slots
+2018-04-22 05:38:56 #general @Tatsumaki#8792: **[ML]xShadowFTW**, please cool down! (**6** seconds left)
+2018-04-22 05:38:57 #general @Tatsumaki#8792 deleted message from 2018-04-22 05:38:52 (**[ML]xShadowFTW**, please cool down! (**10** seconds left))
+2018-04-22 05:38:58 #general @Tatsumaki#8792 deleted message from 2018-04-22 05:38:53 (**[ML]xShadowFTW**, please cool down! (**9** seconds left))
+2018-04-22 05:39:01 #general @Tatsumaki#8792 deleted message from 2018-04-22 05:38:56 (**[ML]xShadowFTW**, please cool down! (**6** seconds left))
+2018-04-22 17:29:26 #general @Damian#5939: !shop
+2018-04-22 17:29:27 #general @Synapse#0692: ```\n!shop\n\nShop Commands. Use !help Shop for other command groups\n\nCommands:\n  blocktrades Toggles blocking trade requests.\n  give        Adds an item to a users inventory. Item must be in the shop.\n  buy         Purchase a shop item with credits.\n  clear       Wipes the entire shop list\n  trash       Throws away an item in your inventory.\n  gift        Send a number of items from your inventory to another user\n  list        Shows a list of all the shop items. Roles are blue.\n  redeem      Sends a request to redeem an item\n  addrole     Add a role token to shop list. Requires buyrole from refactored...\n  add         Adds items to the shop. Use 0 in quantity for infinite.\n  version     Shows the version of the shop cog you are running.\n  remove      Removes an item from the shop.\n  trade       Request a trade with another user\n\nType !shop command for more info on a command.\nYou can also type !shop category for more info on a category.\n```
+2018-04-22 17:29:32 #general @Damian#5939: /shop
+2018-04-22 17:29:41 #general @Dyno#3861: Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite
+2018-04-23 11:08:54 #general @Darius#3513: @Balmoung bine ca iti fac promovare la serverul tau. Dupa ce iti faci treaba pleci este? si mi-ai copiat cereri grad si mai multe. Ce baiat bun esti! se vede
+2018-04-23 11:09:28 #general @Balmoung#0596: primeam prea multe mesaje....
+2018-04-23 11:09:41 #general @Darius#3513: puteai sa dai mute la server
+2018-04-23 11:09:44 #general @Darius#3513: ca sa stii
+2018-04-23 11:09:48 #general @Balmoung#0596: de pe tel nu pot
+2018-04-23 11:10:10 #general @Balmoung#0596: daca reintru imi dai gradu laloc?
+2018-04-23 11:10:31 #general @Darius#3513: poate
+2018-04-23 11:10:35 #general @Balmoung#0596: xi
+2018-04-23 11:10:36 #general @Darius#3513: ti-l dau
+2018-04-23 11:10:43 #general @Balmoung#0596: și up cand iau
+2018-04-23 11:10:59 #general @Darius#3513: nu mai poti de la admin sa dai up
+2018-04-23 11:11:03 #general @Darius#3513: sau....
+2018-04-23 11:11:09 #general @Darius#3513: poti la operator
+2018-04-23 11:11:23 #general @Balmoung#0596: imi dai operator?
+2018-04-23 11:11:27 #general @Balmoung#0596: da link sv
+2018-04-23 14:58:38 #general @Balmoung#0596: +clean 100
+2018-04-23 14:58:38 #general @MEE6#4876: GG @Balmoung, you just advanced to level 3!
+2018-04-23 14:58:38 #general @Vexera#8487: :white_check_mark:
+2018-04-23 14:58:39 #general @Balmoung#0596 deleted message from 2018-04-23 14:58:38 (+clean 100)
+2018-04-23 14:58:39 #general @MEE6#4876 deleted message from 2018-04-23 14:58:38 (GG @Balmoung, you just advanced to level 3!)
+2018-04-23 14:58:44 #general @Vexera#8487 deleted message from 2018-04-23 14:58:38 (:white_check_mark:)
+2018-04-23 14:58:44 #general @Balmoung#0596: +clean all
+2018-04-23 14:58:44 #general @Vexera#8487: 
+2018-04-23 14:58:44 #general @Vexera#8487 edited message from 2018-04-23 14:58:44 () to read: 
+2018-04-23 14:58:48 #general @Balmoung#0596: +clean 400
+2018-04-23 14:58:49 #general @Vexera#8487: :white_check_mark:
+2018-04-23 14:58:49 #general @Balmoung#0596 deleted message from 2018-04-23 14:58:44 (+clean all)
+2018-04-23 14:58:49 #general @Vexera#8487 deleted message from 2018-04-23 14:58:44 ()
+2018-04-23 14:58:49 #general @Balmoung#0596 deleted message from 2018-04-23 14:58:48 (+clean 400)
+2018-04-23 14:58:54 #general @Vexera#8487 deleted message from 2018-04-23 14:58:49 (:white_check_mark:)
+2018-04-23 14:58:59 #general @Balmoung#0596: +clean 44
+2018-04-23 14:59:00 #general @Balmoung#0596 deleted message from 2018-04-23 14:58:59 (+clean 44)
+2018-04-23 14:59:00 #general @Vexera#8487: :white_check_mark:
+2018-04-23 14:59:02 #general @Balmoung#0596: asa
+2018-04-23 14:59:08 #general @Vexera#8487 deleted message from 2018-04-23 14:59:00 (:white_check_mark:)
+2018-04-23 22:59:51 #general @Damian#5939: @Balmoung te salut de pe 24 aprilie ora 2 dimineata
+2018-04-23 23:00:04 #general @Damian#5939: Am stat toata noaptea sa lucrez
+2018-04-24 10:08:20 #general @Balmoung#0596: sall
+2018-04-24 18:32:38 #general @Damian#5939: Balmoung baga giveway boy
+2018-04-24 18:32:40 #general @Damian#5939: Bot
+2018-04-24 18:33:25 #general @Balmoung#0596: k
+2018-04-24 18:34:18 #general @GiveawayBot#2381: 
+2018-04-24 18:39:12 #general @Damian#5939: Balmoung erai on aseara la 2 noaptea
+2018-04-24 18:39:14 #general @Damian#5939: ?
+2018-04-24 18:39:27 #general @Damian#5939: Ca imi arata ca erai on
+2018-04-24 18:39:33 #general @Balmoung#0596: @​everyone uitati.va la giveway
+2018-04-24 19:00:19 #💻⌨🖱general💻⌨🖱 @★ 👻  iamshaduu  👻★ (qNightBee)#8151: 
+2018-04-24 19:00:55 #💻⌨🖱general💻⌨🖱 @★ 👻  iamshaduu  👻★ (qNightBee)#8151: SALL
+2018-04-24 19:01:13 #💻⌨🖱general💻⌨🖱 @Balmoung#0596: scrie /shop
+2018-04-24 19:02:22 #💻⌨🖱general💻⌨🖱 @★ 👻  iamshaduu  👻★ (qNightBee)#8151: /shop
+2018-04-24 19:02:22 #💻⌨🖱general💻⌨🖱 @Dyno#3861: Donatiile se fac la **@Balmoung#0596**:\nOwner:5000 credite\nCo-Owner:4500 credite\nOperator:4000 credite\nAdmin:3500 credite\nModerator:3000 credite\nSupreme:2500 credite\nHelper:2000 credite\nVIP:1500 credite\nMVP:1000 credite\nMembru+:500 credite\nNume color:100 credite\nGrad personalizat:6000 credite\nChannel privat:3500 credite
+2018-04-24 19:02:32 #💻⌨🖱general💻⌨🖱 @Balmoung#0596: fain script?
+2018-04-24 19:03:09 #💻⌨🖱general💻⌨🖱 @★ 👻  iamshaduu  👻★ (qNightBee)#8151: da
+2018-04-24 19:03:23 #💻⌨🖱general💻⌨🖱 @Balmoung#0596: vr  sa iti fac si tie?
+2018-04-24 19:03:41 #💻⌨🖱general💻⌨🖱 @Balmoung#0596: zi
+2018-04-24 19:04:06 #💻⌨🖱general💻⌨🖱 @★ 👻  iamshaduu  👻★ (qNightBee)#8151: ok
+2018-04-24 20:24:29 #💻⌨🖱general💻⌨🖱 @Poll Bot#0082: 
+2018-04-24 20:27:23 #💻⌨🖱general💻⌨🖱 @Password Generator#8371: 
+2018-04-24 20:29:58 #💻⌨🖱general💻⌨🖱 @MemeBot#7578: 
+2018-04-24 20:32:40 #💻⌨🖱general💻⌨🖱 @jColour#2777: 
+2018-04-25 10:09:34 #💻⌨🖱general💻⌨🖱 @Text Edit#5396: 
+2018-04-25 10:10:44 #💻⌨🖱general💻⌨🖱 @Picbot#6621: 
+2018-04-25 10:13:28 #💻⌨🖱general💻⌨🖱 @MemeGenBot#7560: 
+2018-04-25 10:13:57 #💻⌨🖱general💻⌨🖱 @Donate#0710: 
+2018-04-25 10:16:40 #💻⌨🖱general💻⌨🖱 @EagleBot#3853: 
+2018-04-25 10:21:28 #💻⌨🖱general💻⌨🖱 @Balmoung#0596: sall
+2018-04-25 10:22:04 #💻⌨🖱general💻⌨🖱 @Balmoung#0596: yeee boy avem 25 membri pe sv
+2018-04-25 10:24:44 #💻⌨🖱general💻⌨🖱 @Balmoung#0596: -clear 25
+2018-04-25 10:24:44 #💻⌨🖱general💻⌨🖱 @Balmoung#0596 deleted message from 2018-04-25 10:24:44 (-clear 25)
+2018-04-25 10:24:44 #💻⌨🖱general💻⌨🖱 @Balmoung#0596 deleted message from 2018-04-25 10:22:04 (yeee boy avem 25 membri pe sv)
+2018-04-25 10:24:44 #💻⌨🖱general💻⌨🖱 @Balmoung#0596 deleted message from 2018-04-25 10:21:28 (sall)
+2018-04-25 10:24:44 #💻⌨🖱general💻⌨🖱 @EagleBot#3853 deleted message from 2018-04-25 10:16:40 ()
+2018-04-25 10:24:47 #💻⌨🖱general💻⌨🖱 @Donate#0710 deleted message from 2018-04-25 10:13:57 ()
+2018-04-25 10:24:47 #💻⌨🖱general💻⌨🖱 @MemeGenBot#7560 deleted message from 2018-04-25 10:13:28 ()
+2018-04-25 10:24:47 #💻⌨🖱general💻⌨🖱 @Picbot#6621 deleted message from 2018-04-25 10:10:44 ()
+2018-04-25 10:24:48 #💻⌨🖱general💻⌨🖱 @Text Edit#5396 deleted message from 2018-04-25 10:09:34 ()
+2018-04-25 10:25:03 #💻⌨🖱general💻⌨🖱 @Balmoung#0596: -clear all
+2018-04-25 10:25:04 #💻⌨🖱general💻⌨🖱 @Text Edit#5396: 
+2018-04-25 10:25:04 #💻⌨🖱general💻⌨🖱 @Text Edit#5396 edited message from 2018-04-25 10:25:04 () to read: 
+2018-04-25 10:25:09 #💻⌨🖱general💻⌨🖱 @Balmoung#0596: -clear 50
+2018-04-25 10:25:09 #💻⌨🖱general💻⌨🖱 @Balmoung#0596 deleted message from 2018-04-25 10:25:09 (-clear 50)
+2018-04-25 10:25:09 #💻⌨🖱general💻⌨🖱 @Text Edit#5396 deleted message from 2018-04-25 10:25:04 ()
+2018-04-25 10:25:10 #💻⌨🖱general💻⌨🖱 @Balmoung#0596 deleted message from 2018-04-25 10:25:03 (-clear all)
+2018-04-25 10:25:18 #💻⌨🖱general💻⌨🖱 @Balmoung#0596: sall
+2018-04-25 12:21:15 #💻⌨🖱general💻⌨🖱 @Balmoung#0596: sall
+2018-04-25 12:26:22 #💻⌨🖱general💻⌨🖱 @Dusty Uzumaki#3262: 
+2018-04-27 08:50:24 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:25 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:26 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:27 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:28 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:28 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:29 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:31 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJthttps://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:50:32 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:33 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:34 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:35 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:35 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:36 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:37 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:38 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:38 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:39 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:40 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:41 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:45 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:45 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:45 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:45 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:45 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:46 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:51 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: haideti si la noi
+2018-04-27 08:50:53 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:54 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: v
+2018-04-27 08:50:54 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:55 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:56 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:57 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:58 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:58 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:50:59 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:00 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:51:01 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:01 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:02 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:05 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:05 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:06 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:06 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:33 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:34 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:34 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:35 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:35 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:36 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:51:37 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:38 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:39 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:40 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:43 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:44 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:44 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:44 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:44 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:44 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:46 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:51:47 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:48 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:51:59 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:00 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:52:01 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:01 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:02 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:02 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:03 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:04 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:04 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:05 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:09 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:09 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:09 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:10 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:10 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:10 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:11 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:12 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:13 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:14 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:19 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:19 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:55 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:52:55 #💻⌨🖱general💻⌨🖱 @MEE6#4876: GG @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad, you just advanced to level 1!
+2018-04-27 08:52:57 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJthttps://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:52:59 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:52:59 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:00 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:01 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:02 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:53:03 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:03 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:04 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:05 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:05 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:06 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:07 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:08 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:38 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:39 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:42 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:53:42 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:44 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:53:45 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:45 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:46 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:47 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:48 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJthttps://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:53:49 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:51 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:51 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:52 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:53 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:53 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:53:54 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:54:05 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:54:06 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:54:52 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:54:54 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:55:03 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:04 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:04 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:05 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:06 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:06 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:08 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJthttps://discord.gg/JDHmJt
+2018-04-27 08:55:08 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:09 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:10 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:13 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:13 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:14 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:14 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:16 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:18 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:18 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:19 #💻⌨🖱general💻⌨🖱 @Darius#3513: vb
+2018-04-27 08:55:23 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:55:27 #💻⌨🖱general💻⌨🖱 @Darius#3513: https://discord.gg/JDHmJt
+2018-04-27 08:57:13 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:57:13 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:57:14 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:57:15 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:57:15 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt
+2018-04-27 08:57:56 #💻⌨🖱general💻⌨🖱 @۩͇̿๖ۣۜV͇̿I͇̿P͇̿๖ۣۜ۩๖Vlad#3713: https://discord.gg/JDHmJt

@@ -1,0 +1,4 @@
+2018-04-24 15:05:03 #bot @niffz#7391: .massm
+2018-04-24 15:05:06 #bot @niffz#7391: .massdm
+2018-04-24 15:05:18 #bot @niffz#7391: !massdm
+2018-04-24 15:05:18 #bot @Synapse#0692: ```\n![massdm|mdm] <role> <message>\n\nSends a DM to all Members with the given Role.\nAllows for the following customizations:\n{0} is the member being messaged.\n{1} is the role they are being message through.\n{2} is the person sending the message.\n\n```

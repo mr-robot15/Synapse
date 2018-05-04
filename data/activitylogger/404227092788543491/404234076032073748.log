@@ -1,0 +1,51 @@
+2018-04-24 00:15:53 #commandes-bot @Ezey_y#6174: t!daily
+2018-04-24 00:15:53 #commandes-bot @Tatsumaki#8792: 🏧 | **Ezey_y**, **you received your 💴 200 daily credits!**
+2018-04-24 00:16:13 #commandes-bot @Ezey_y#6174: t!language
+2018-04-24 00:16:26 #commandes-bot @Ezey_y#6174: t!help
+2018-04-24 00:16:26 #commandes-bot @Tatsumaki#8792: ```rb\n`Standard Commands List`\n```\nUse `t!help [command]` to get more info on a specific command, for example: `t!help rank`\n\n**1. Core - **`help` `invite` `leveledroles` `ping` `selfroles` `support` \n**2. Social - **`background` `badges` `dailies` `profile` `rank` `reputation` `setinfo` `settitle` `top` \n**3. Fun - **`8ball` `cah` `cat` `catfacts` `choose` `coin` `cookie` `dice` `dog` `dogfacts` `fishy` `fortune` `numberfacts` `psychopass` `ratewaifu` `reverse` `rps` `slots` `tags` `tatsugotchi` \n**4. Economy - **`credits` `points` \n**5. Utilities - **`color` `converter` `crypto` `google` `image` `lotto` `math` `remindme` `shorten` `stocks` `strawpoll` `todo` `urban` `vote` `weather` `wiki` `youtube` \n**6. Information - **`apikey` `avatar` `botlist` `changelog` `channel` `info` `role` `server` `shared` `usage` \n**7. Anime - **`anime` `manga` `osu` `sic` \n**8. Memes - **`beautiful` `hackerman` \n\n```pl\n# Don't include the example brackets when using commands!\n# To view mod commands, use t@help\n```
+2018-04-24 00:16:49 #commandes-bot @Ezey_y#6174: t@help
+2018-04-24 00:16:49 #commandes-bot @Tatsumaki#8792: ```fix\nModerator Commands List \n```\nUse `t@help [command]` to get more info on a specific command, for example: `t@help stats`\n\n**Configuration - **`autorole` `disable` `enable` `goodbye` `ignore` `language` `leveledroles` `notify` `nsfw` `persistence` `prefix` `selfroles` `timezone` `welcome` `whitelist` \n**Information - **`stats` \n**Information - **`twitch` \n**Server Management - **`ban` `blacklist` `deltag` `help` `kick` `points` `prune` `scores` \n\n```pl\n# Don't include the example brackets when using commands!\n# To view standard commands, use t!help\n```
+2018-04-24 00:17:02 #commandes-bot @Ezey_y#6174: t@language
+2018-04-24 00:17:02 #commandes-bot @Tatsumaki#8792: <:info:390511462361202688> | **Server Language Menu** - Page 1/4\n\n```rb\nChange the language of the bot for this server\n\nThe current language for this server is English (default)\n\n[1] # English (default)\n[2] # Polish (pl)\n[3] # German (de)\n[4] # Dutch (nl)\n[5] # Danish (da)\n[6] # Swedish (sv)\n[7] # Indonesian (id)\n[8] # Romanian (ro)\n[9] # Go to next page (➡️)\n\nType the appropriate number to access the menu.\nType 'exit' to leave the menu.\n```
+2018-04-24 00:17:10 #commandes-bot @Ezey_y#6174: 9
+2018-04-24 00:17:10 #commandes-bot @Tatsumaki#8792: <:info:390511462361202688> | **Server Language Menu** - Page 2/4\n\n```rb\nChange the language of the bot for this server\n\nThe current language for this server is English (default)\n\n[1] # Spanish (Latin America)\n[2] # Spanish (Mexico)\n[3] # Spanish (Spain)\n[4] # Spanish (United States)\n[5] # Portuguese (Brazil)\n[6] # Galician\n[7] # Russian (ru)\n[8] # French (fr)\n[9] # Go to previous page (⬅️)\n[10] # Go to next page (➡️)\n\nType the appropriate number to access the menu.\nType 'exit' to leave the menu.\n```
+2018-04-24 00:17:10 #commandes-bot @Tatsumaki#8792 deleted message from 2018-04-24 00:17:02 (<:info:390511462361202688> | **Server Language Menu** - Page 1/4\n\n```rb\nChange the language of the bot for this server\n\nThe current language for this server is English (default)\n\n[1] # English (default)\n[2] # Polish (pl)\n[3] # German (de)\n[4] # Dutch (nl)\n[5] # Danish (da)\n[6] # Swedish (sv)\n[7] # Indonesian (id)\n[8] # Romanian (ro)\n[9] # Go to next page (➡️)\n\nType the appropriate number to access the menu.\nType 'exit' to leave the menu.\n```)
+2018-04-24 00:17:15 #commandes-bot @Ezey_y#6174: 8
+2018-04-24 00:17:16 #commandes-bot @Tatsumaki#8792 deleted message from 2018-04-24 00:17:10 (<:info:390511462361202688> | **Server Language Menu** - Page 2/4\n\n```rb\nChange the language of the bot for this server\n\nThe current language for this server is English (default)\n\n[1] # Spanish (Latin America)\n[2] # Spanish (Mexico)\n[3] # Spanish (Spain)\n[4] # Spanish (United States)\n[5] # Portuguese (Brazil)\n[6] # Galician\n[7] # Russian (ru)\n[8] # French (fr)\n[9] # Go to previous page (⬅️)\n[10] # Go to next page (➡️)\n\nType the appropriate number to access the menu.\nType 'exit' to leave the menu.\n```)
+2018-04-24 00:17:16 #commandes-bot @Tatsumaki#8792: <:yes:390511463078428672>  |  **Ezey_y**, **Success!** La langue du serveur est désormais **French (fr)**
+2018-04-24 08:19:11 #commandes-bot @Lara Croft#4615: t!dailies
+2018-04-24 08:19:11 #commandes-bot @Tatsumaki#8792: 🏧 | **Lara Croft**, **vous avez reçu vos 💴 200 crédits quotidiens!**\n\n**Streak: <:b_:400807295363317760><:o_:400807295833079808><:n_:400807295648399362><:u_:400807295879217153><:su:400807295870697473>**
+2018-04-24 08:19:21 #commandes-bot @Lara Croft#4615: t!badges
+2018-04-24 08:19:21 #commandes-bot @Tatsumaki#8792: <:no:390511503238758400>  |  **Lara Croft**, l'utilisation correcte est :  `t!badges [redeem | equip]`\n▫  |  e.g. `t!badges redeem`\n▫  |  Plus d'aide avec `t!help badges`
+2018-04-24 08:20:22 #commandes-bot @Lara Croft#4615: t!points
+2018-04-24 08:20:22 #commandes-bot @Tatsumaki#8792: 🎫  |  **Lara Croft**, Vous avez 3778 points de guilde !
+2018-04-24 08:20:34 #commandes-bot @Lara Croft#4615: t!stats
+2018-04-24 08:20:54 #commandes-bot @Lara Croft#4615: t@stats
+2018-04-25 11:56:44 #commandes-bot @Lara Croft#4615: t!dailies
+2018-04-25 11:56:44 #commandes-bot @Tatsumaki#8792: 🏧 | **Lara Croft**, **vous avez reçu vos 💴 200 crédits quotidiens!**\n\n**Streak: <:b_:400807295363317760><:o_:400807295833079808><:n_:400807295648399362><:u_:400807295879217153><:s_:400807296122486784>**\n\n**You completed a streak and added an extra 💴 103 bonus credits (303 total)!**
+2018-04-25 11:56:59 #commandes-bot @Lara Croft#4615: C'est en francais ca connard
+2018-04-25 12:16:42 #commandes-bot @Lara Croft#4615: ^^trigerred
+2018-04-25 12:16:47 #commandes-bot @Lara Croft#4615: ^^triggered
+2018-04-25 12:16:49 #commandes-bot @Koya#1050:  (attachment url(s): https://cdn.discordapp.com/attachments/404234076032073748/438674746545012746/triggered.gif)
+2018-04-25 12:17:07 #commandes-bot @Lara Croft#4615: @🍟 | Un Képi ca veut dire qupi trigered
+2018-04-25 12:22:55 #commandes-bot @Ezey_y#6174: C'est dans un film ou un truc comme ça je crois
+2018-04-25 12:24:05 #commandes-bot @Lara Croft#4615: Aphk
+2018-04-25 12:24:14 #commandes-bot @Lara Croft#4615: Ah ok
+2018-04-25 23:02:02 #commandes-bot @Ezey_y#6174: rep
+2018-04-25 23:02:02 #commandes-bot @Synapse#0692: t!rep @🍟 | Un Képi
+2018-04-25 23:02:14 #commandes-bot @Ezey_y#6174: Snif
+2018-04-25 23:08:45 #commandes-bot @Lara Croft#4615: t!rep  @🍟 | Un Képi
+2018-04-25 23:08:46 #commandes-bot @Tatsumaki#8792: 🆙  |  **Lara Croft a donné un point de réputation à @🍟 | Un Képi!**
+2018-04-25 23:09:46 #commandes-bot @Lara Croft#4615: t!dailies
+2018-04-25 23:09:46 #commandes-bot @Tatsumaki#8792: 🏧 | **Lara Croft**, **vous avez reçu vos 💴 200 crédits quotidiens!**\n\n**Streak: <:b_:400807295363317760><:ou:400807295933743105><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-04-25 23:11:26 #commandes-bot @Ezey_y#6174: t!dailies
+2018-04-25 23:11:27 #commandes-bot @Tatsumaki#8792: 🏧 | **Ezey_y**, **vous avez reçu vos 💴 200 crédits quotidiens!**\n\n**Streak: <:b_:400807295363317760><:o_:400807295833079808><:nu:400807295845662721><:uu:400807296231538688><:su:400807295870697473>**
+2018-04-25 23:11:37 #commandes-bot @Ezey_y#6174: t!rep @⚜| Lara Croft
+2018-04-25 23:11:37 #commandes-bot @Tatsumaki#8792: 🆙  |  **Ezey_y a donné un point de réputation à @⚜| Lara Croft!**
+2018-04-25 23:11:43 #commandes-bot @Ezey_y#6174: <:GWchadThink:366999782348292108>
+2018-04-26 15:43:06 #commandes-bot @Lara Croft#4615: t!rep  @🍟 | Un Képi
+2018-04-26 15:43:07 #commandes-bot @Tatsumaki#8792: 🆙  |  **Lara Croft**, **Vous pourrez récompenser d'un point de réputation dans 7 heures, 16 minutes et 52 secondes.**
+2018-04-26 15:43:12 #commandes-bot @Lara Croft#4615: Connard
+2018-04-26 15:44:26 #commandes-bot @Ezey_y#6174: t!rep @⚜| Lara Croft
+2018-04-26 15:44:26 #commandes-bot @Tatsumaki#8792: 🆙  |  **Ezey_y**, **Vous pourrez récompenser d'un point de réputation dans 7 heures, 15 minutes et 33 secondes.**
+2018-04-26 15:44:31 #commandes-bot @Ezey_y#6174: <:vomjk:212682958161575936>

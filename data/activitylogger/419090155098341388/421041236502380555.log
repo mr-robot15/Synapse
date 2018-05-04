@@ -1,0 +1,158 @@
+2018-04-17 06:19:11 #bot @Mr. Robot#0007: !logset everything on
+2018-04-17 06:19:12 #bot @Klaus Ze Flammenwerfer#1942: Glitched
+2018-04-17 06:19:12 #bot @Klausad#0692: Global logging override is enabled.
+2018-04-17 06:19:17 #bot @Mr. Robot#0007: !logset
+2018-04-17 06:19:17 #bot @Klausad#0692: ```\n!logset\n\nChange activity logging settings\n\nCommands:\n  everything  Global override for all logging.\n  events      Sets logging on or off for server events.\n  server      Sets logging on or off for all channels and server events.\n  attachments Download message attachments?\n  channel     Sets channel logging on or off. Optional channel parameter.\n  dm          Log direct messages?\n  voice       Sets logging on or off for ALL voice channel events.\n  default     Sets whether logging is on or off where unset.\n\nType !logset command for more info on a command.\nYou can also type !logset category for more info on a category.\n```
+2018-04-17 06:19:27 #bot @Mr. Robot#0007: !logset events on
+2018-04-17 06:19:27 #bot @Klausad#0692: Logging enabled for server events in Mods and Hugs
+2018-04-17 06:19:38 #bot @Mr. Robot#0007: !logset enable server on
+2018-04-17 06:19:38 #bot @Klausad#0692: ```\n!logset\n\nChange activity logging settings\n\nCommands:\n  everything  Global override for all logging.\n  events      Sets logging on or off for server events.\n  server      Sets logging on or off for all channels and server events.\n  attachments Download message attachments?\n  channel     Sets channel logging on or off. Optional channel parameter.\n  dm          Log direct messages?\n  voice       Sets logging on or off for ALL voice channel events.\n  default     Sets whether logging is on or off where unset.\n\nType !logset command for more info on a command.\nYou can also type !logset category for more info on a category.\n```
+2018-04-17 06:19:40 #bot @Klaus Ze Flammenwerfer#1942: !economyset
+2018-04-17 06:19:41 #bot @Klausad#0692: ```\n!economyset\n\nChanges economy module settings\n\nCommands:\n  slotmin         Minimum slot machine bid\n  paydaytime      Seconds between each payday\n  slotmax         Maximum slot machine bid\n  registercredits Credits given on registering an account\n  paydaycredits   Credits earned each payday\n  slottime        Seconds between each slots use\n\nType !economyset command for more info on a command.\nYou can also type !economyset category for more info on a category.\n```
+2018-04-17 06:19:41 #bot @Klausad#0692: ```PAYDAY_CREDITS: 120\nREGISTER_CREDITS: 0\nPAYDAY_TIME: 300\nSLOT_MIN: 5\nSLOT_MAX: 100\nSLOT_TIME: 0\n```
+2018-04-17 06:19:59 #bot @Klaus Ze Flammenwerfer#1942: !economy paydaytime 21600
+2018-04-17 06:20:10 #bot @Klaus Ze Flammenwerfer#1942: !economyset paydaytime 21600
+2018-04-17 06:20:10 #bot @Klausad#0692: Value modified. At least 21600 seconds must pass between each payday.
+2018-04-17 06:20:28 #bot @Mr. Robot#0007: !load torrent
+2018-04-17 06:20:28 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:20:35 #bot @Mr. Robot#0007: !load trigger
+2018-04-17 06:20:35 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:20:39 #bot @Mr. Robot#0007: !trigger
+2018-04-17 06:20:39 #bot @Klausad#0692: ```\n!trigger\n\nTrigger creation commands\n\nCommands:\n  search Returns triggers matching the search terms\n  list   Lists local / global triggers\n  remove Lets you choose a response to remove\n  show   Shows all responses of a trigger\n  create Creates a trigger\n  delete Deletes a trigger\n  add    Adds a response to a trigger\n  info   Shows a trigger's info\n\nType !trigger command for more info on a command.\nYou can also type !trigger category for more info on a category.\n```
+2018-04-17 06:20:43 #bot @Klaus Ze Flammenwerfer#1942: !economyset paydaycredits 750
+2018-04-17 06:20:43 #bot @Klausad#0692: Every payday will now give 750 credits.
+2018-04-17 06:20:53 #bot @Klaus Ze Flammenwerfer#1942: Wtf is torrent for btw
+2018-04-17 06:20:54 #bot @Mr. Robot#0007: !load trivia
+2018-04-17 06:20:55 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:20:58 #bot @Mr. Robot#0007: idk
+2018-04-17 06:21:01 #bot @Klaus Ze Flammenwerfer#1942: lol
+2018-04-17 06:21:02 #bot @Klaus Ze Flammenwerfer#1942: nice
+2018-04-17 06:21:09 #bot @Mr. Robot#0007: !torrent gta 5 gfx mod
+2018-04-17 06:21:13 #bot @Mr. Robot#0007: !torrent
+2018-04-17 06:21:14 #bot @Klaus Ze Flammenwerfer#1942: !toreent
+2018-04-17 06:21:17 #bot @Klaus Ze Flammenwerfer#1942: !torrent
+2018-04-17 06:21:19 #bot @Klausad#0692: shrug
+2018-04-17 06:21:20 #bot @Klausad#0692: ```\n!torrent <text>\n\nSearch for various torrents\n\n```
+2018-04-17 06:21:20 #bot @Klausad#0692: ```\n!torrent <text>\n\nSearch for various torrents\n\n```
+2018-04-17 06:21:31 #bot @Klaus Ze Flammenwerfer#1942: !torrent far cry 5
+2018-04-17 06:21:39 #bot @Mr. Robot#0007: !torrent farcry
+2018-04-17 06:21:41 #bot @Klausad#0692: shrug
+2018-04-17 06:21:48 #bot @Klaus Ze Flammenwerfer#1942: perfect
+2018-04-17 06:21:49 #bot @Mr. Robot#0007: wtf
+2018-04-17 06:21:51 #bot @Klausad#0692: shrug
+2018-04-17 06:21:53 #bot @Mr. Robot#0007: !torrent
+2018-04-17 06:21:53 #bot @Klausad#0692: ```\n!torrent <text>\n\nSearch for various torrents\n\n```
+2018-04-17 06:21:53 #bot @Klaus Ze Flammenwerfer#1942: lol
+2018-04-17 06:22:02 #bot @Klaus Ze Flammenwerfer#1942: !torrent farcry
+2018-04-17 06:22:08 #bot @Mr. Robot#0007: @Klausad stop
+2018-04-17 06:22:12 #bot @Klaus Ze Flammenwerfer#1942: ok
+2018-04-17 06:22:13 #bot @Klausad#0692: shrug
+2018-04-17 06:22:14 #bot @Mr. Robot#0007: not u
+2018-04-17 06:22:18 #bot @Klaus Ze Flammenwerfer#1942: oh
+2018-04-17 06:22:19 #bot @Klaus Ze Flammenwerfer#1942: lol
+2018-04-17 06:22:24 #bot @Mr. Robot#0007: !unload torrent
+2018-04-17 06:22:24 #bot @Klausad#0692: The cog has been unloaded.
+2018-04-17 06:22:32 #bot @Mr. Robot#0007: doesnt work
+2018-04-17 06:22:32 #bot @Klausad#0692: doesn't*
+2018-04-17 06:22:37 #bot @Mr. Robot#0007: ya same shit
+2018-04-17 06:22:40 #bot @Klaus Ze Flammenwerfer#1942: Lol
+2018-04-17 06:22:50 #bot @Mr. Robot#0007: !load tweets
+2018-04-17 06:22:50 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:22:52 #bot @Mr. Robot#0007: !tweets
+2018-04-17 06:22:53 #bot @Klausad#0692: ```\n!tweets\n\nGets various information from Twitter's API\n\nCommands:\n  getuser   Get info about the specified user\n  gettweets Gets the specified number of tweets for the specified username\n\nType !tweets command for more info on a command.\nYou can also type !tweets category for more info on a category.\n```
+2018-04-17 06:23:16 #bot @Mr. Robot#0007: !tweets gettweets GTAOnline
+2018-04-17 06:23:16 #bot @Klausad#0692: ```\n!tweets gettweets <username> <count>\n\nGets the specified number of tweets for the specified username\n\n```
+2018-04-17 06:23:30 #bot @Mr. Robot#0007: !tweets gettweets GTAOnline 10
+2018-04-17 06:23:31 #bot @Klausad#0692: Whoops! Something went wrong here.                     The error code is Twitter error response: status code = 400
+2018-04-17 06:23:38 #bot @Mr. Robot#0007: wlll check
+2018-04-17 06:23:50 #bot @Mr. Robot#0007: !load warn
+2018-04-17 06:23:50 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:23:53 #bot @Mr. Robot#0007: !warn
+2018-04-17 06:23:53 #bot @Klausad#0692: ```\n!warn <user> [reason]\n\nWarns the user - At 3 warnings the user gets kicked\n\nThank you, 26, for the modlog\n\n```
+2018-04-17 06:24:05 #bot @Mr. Robot#0007: !warnlog
+2018-04-17 06:24:14 #bot @Mr. Robot#0007: !load watchdog
+2018-04-17 06:24:14 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:24:17 #bot @Mr. Robot#0007: !watchdog
+2018-04-17 06:24:22 #bot @Mr. Robot#0007: uhh
+2018-04-17 06:24:33 #bot @Mr. Robot#0007: !load weatherMs
+2018-04-17 06:24:33 #bot @Klausad#0692: Cog was found and possibly loaded but something went wrong. Check your console or logs for more information.
+2018-04-17 06:24:41 #bot @Mr. Robot#0007: !unload weatherMs
+2018-04-17 06:24:42 #bot @Klausad#0692: The cog has been unloaded.
+2018-04-17 06:24:49 #bot @Mr. Robot#0007: !welcome
+2018-04-17 06:24:55 #bot @Mr. Robot#0007: !load welcome
+2018-04-17 06:24:55 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:25:05 #bot @Mr. Robot#0007: !welcome
+2018-04-17 06:25:12 #bot @Mr. Robot#0007: !load welcomer
+2018-04-17 06:25:12 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:25:16 #bot @Mr. Robot#0007: !wecome
+2018-04-17 06:25:20 #bot @Mr. Robot#0007: !welcome
+2018-04-17 06:25:23 #bot @Mr. Robot#0007: ok
+2018-04-17 06:25:25 #bot @Mr. Robot#0007: lul
+2018-04-17 06:25:31 #bot @Mr. Robot#0007: !load whisper
+2018-04-17 06:25:31 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:25:35 #bot @Mr. Robot#0007: !whisper
+2018-04-17 06:25:35 #bot @Klausad#0692: ```\n!whisper <user_id> <msg>\n\nDm users.\n\n```
+2018-04-17 06:25:53 #bot @Mr. Robot#0007: !load whoplays
+2018-04-17 06:25:53 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:26:00 #bot @Mr. Robot#0007: !load wikipedia
+2018-04-17 06:26:00 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:26:05 #bot @Mr. Robot#0007: !wikipedia
+2018-04-17 06:26:05 #bot @Klausad#0692: ```\n![wikipedia|wiki|w] <query>\n\nGet information from Wikipedia\n\n```
+2018-04-17 06:26:11 #bot @Mr. Robot#0007: !w shrug
+2018-04-17 06:26:11 #bot @Klausad#0692: 
+2018-04-17 06:26:12 #bot @Klausad#0692 edited message from 2018-04-17 06:26:11 () to read: 
+2018-04-17 06:26:23 #bot @Mr. Robot#0007: !load wordcloud
+2018-04-17 06:26:23 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:26:28 #bot @Mr. Robot#0007: !wordcloud
+2018-04-17 06:26:28 #bot @Klausad#0692: Generating wordcloud for **Mods and Hugs/bot** using the last 4000 messages. (this might take a while)
+2018-04-17 06:26:42 #bot @Klausad#0692:  (attachment url(s): https://cdn.discordapp.com/attachments/421041236502380555/435687532844285952/421041236502380555.png)
+2018-04-17 06:26:58 #bot @Mr. Robot#0007: @Klaus Ze Flammenwerfer awesome right?
+2018-04-17 06:27:33 #bot @Mr. Robot#0007: !load xorole
+2018-04-17 06:27:33 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:27:36 #bot @Mr. Robot#0007: !xorole
+2018-04-17 06:27:36 #bot @Klausad#0692: ```\n!xorole [role]\n\nCommands:\n  list   Shows the available roles to in the server or a specific roleset.\n  add    Assigns a role to you, removing any others in the same roleset.\n  toggle Toggles a role in a single-role roleset on or off, or between two ro...\n  remove Removes a specific role or any in a roleset from you.\n\nType !xorole command for more info on a command.\nYou can also type !xorole category for more info on a category.\n```
+2018-04-17 06:27:46 #bot @Mr. Robot#0007: !load youtube
+2018-04-17 06:27:46 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:27:50 #bot @Mr. Robot#0007: !youtube
+2018-04-17 06:27:50 #bot @Klausad#0692: ```\n!youtube <query>\n\nSearch on Youtube\n\n```
+2018-04-17 06:27:56 #bot @Mr. Robot#0007: !youtube no u
+2018-04-17 06:27:57 #bot @Klausad#0692: https://www.youtube.com/watch?v=gYHoc7PqCMY
+2018-04-17 06:28:08 #bot @Mr. Robot#0007: !load zalgo
+2018-04-17 06:28:08 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:28:13 #bot @Mr. Robot#0007: !zalgo
+2018-04-17 06:28:14 #bot @Klausad#0692: ```\n!zalgo <text>\n\n```
+2018-04-17 06:28:20 #bot @Mr. Robot#0007: !zalgo hey
+2018-04-17 06:28:20 #bot @Klausad#0692: H̴̔̊Ë̸͊Y̓̄̊
+2018-04-17 06:28:37 #bot @Mr. Robot#0007: !zalgo Klaus
+2018-04-17 06:28:37 #bot @Klausad#0692: K̷̊͘L̶̿͘A̵̛͘U̵̓̕S̐̎̚
+2018-04-17 06:28:46 #bot @Mr. Robot#0007: !cogs
+2018-04-17 06:28:46 #bot @Klausad#0692: ```diff\n+ Loaded\naccount, activitylog, adventure, advgoogle, alias, alot, antilink, audio, autoeconomy, autoreact, autorole, avatar, away, banrole, bartender, bigmoji, botqueue, buyrole, capspam, casino, chatchart, colorme, comics, commandsearch, countdown, countrycode, coupon, coventry, customcom, customgcom, customroles, description, dicetable, discomegle, downloader, economy, embedhelp, embedwiz, emote, eventmaker, feed, forwarding, fuck, fun, galias, gallery, geico, general, goodreads, grammar, greet, grenzpolizei, helpless, horoscope, identicon, image, imdb, imgwelcome, insult, invoice, kill, lastfm, lib_calebj, location, lockdown, logtools, maolmao, massdm, massmove, mcsvr, membership, mentiontracker, messagepinner, mod, modlog, moji, mutechannel, newsannouncer, nomassmentions, oboobs, oweather, owner, penis, pepe, pick, picwelcome, ping, pingtime, points, pressf, punish, purgepins, radio, rainbow, rainbow6siege, react, reactpoll, recensor, reddit, redportal, remindme, repeat, requester, reviewemoji, rift, russianroulette, scheduler, schmeckles, seen, serverquotes, shop, sinfo, slap, srrecords, staffapp, stickyroles, strawpoll, survey, sysinfo, translated, trigger, trivia, tweets, warn, watchdog, weatherMs, welcome, welcomer, whisper, whoplays, wikipedia, wordcloud, xorole, youtube, zalgo\n\n- Unloaded\ncleverbot, datadog, dota, leveler, menu, riot, selfembed, streams, torrent\n```
+2018-04-17 06:28:55 #bot @Mr. Robot#0007: !load riot
+2018-04-17 06:28:55 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:29:05 #bot @Mr. Robot#0007: !load selfembe
+2018-04-17 06:29:05 #bot @Klausad#0692: That cog could not be found.
+2018-04-17 06:29:13 #bot @Mr. Robot#0007: !load selfembed
+2018-04-17 06:29:13 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:29:18 #bot @Mr. Robot#0007: !cogs
+2018-04-17 06:29:18 #bot @Klausad#0692: ```diff\n+ Loaded\naccount, activitylog, adventure, advgoogle, alias, alot, antilink, audio, autoeconomy, autoreact, autorole, avatar, away, banrole, bartender, bigmoji, botqueue, buyrole, capspam, casino, chatchart, colorme, comics, commandsearch, countdown, countrycode, coupon, coventry, customcom, customgcom, customroles, description, dicetable, discomegle, downloader, economy, embedhelp, embedwiz, emote, eventmaker, feed, forwarding, fuck, fun, galias, gallery, geico, general, goodreads, grammar, greet, grenzpolizei, helpless, horoscope, identicon, image, imdb, imgwelcome, insult, invoice, kill, lastfm, lib_calebj, location, lockdown, logtools, maolmao, massdm, massmove, mcsvr, membership, mentiontracker, messagepinner, mod, modlog, moji, mutechannel, newsannouncer, nomassmentions, oboobs, oweather, owner, penis, pepe, pick, picwelcome, ping, pingtime, points, pressf, punish, purgepins, radio, rainbow, rainbow6siege, react, reactpoll, recensor, reddit, redportal, remindme, repeat, requester, reviewemoji, rift, riot, russianroulette, scheduler, schmeckles, seen, serverquotes, shop, sinfo, slap, srrecords, staffapp, stickyroles, strawpoll, survey, sysinfo, translated, trigger, trivia, tweets, warn, watchdog, weatherMs, welcome, welcomer, whisper, whoplays, wikipedia, wordcloud, xorole, youtube, zalgo\n\n- Unloaded\ncleverbot, datadog, dota, leveler, menu, selfembed, streams, torrent\n```
+2018-04-17 06:29:25 #bot @Mr. Robot#0007: !load datadog
+2018-04-17 06:29:25 #bot @Klausad#0692: The cog has been loaded.
+2018-04-17 06:29:31 #bot @Mr. Robot#0007: !datadog
+2018-04-17 06:29:38 #bot @Mr. Robot#0007: !cogs
+2018-04-17 06:29:38 #bot @Klausad#0692: ```diff\n+ Loaded\naccount, activitylog, adventure, advgoogle, alias, alot, antilink, audio, autoeconomy, autoreact, autorole, avatar, away, banrole, bartender, bigmoji, botqueue, buyrole, capspam, casino, chatchart, colorme, comics, commandsearch, countdown, countrycode, coupon, coventry, customcom, customgcom, customroles, datadog, description, dicetable, discomegle, downloader, economy, embedhelp, embedwiz, emote, eventmaker, feed, forwarding, fuck, fun, galias, gallery, geico, general, goodreads, grammar, greet, grenzpolizei, helpless, horoscope, identicon, image, imdb, imgwelcome, insult, invoice, kill, lastfm, lib_calebj, location, lockdown, logtools, maolmao, massdm, massmove, mcsvr, membership, mentiontracker, messagepinner, mod, modlog, moji, mutechannel, newsannouncer, nomassmentions, oboobs, oweather, owner, penis, pepe, pick, picwelcome, ping, pingtime, points, pressf, punish, purgepins, radio, rainbow, rainbow6siege, react, reactpoll, recensor, reddit, redportal, remindme, repeat, requester, reviewemoji, rift, riot, russianroulette, scheduler, schmeckles, seen, serverquotes, shop, sinfo, slap, srrecords, staffapp, stickyroles, strawpoll, survey, sysinfo, translated, trigger, trivia, tweets, warn, watchdog, weatherMs, welcome, welcomer, whisper, whoplays, wikipedia, wordcloud, xorole, youtube, zalgo\n\n- Unloaded\ncleverbot, dota, leveler, menu, selfembed, streams, torrent\n```
+2018-04-17 06:30:38 #bot @Mr. Robot#0007: !purge
+2018-04-17 06:30:43 #bot @Mr. Robot#0007: !up
+2018-04-17 06:30:55 #bot @Mr. Robot#0007: !help
+2018-04-17 06:30:55 #bot @Klausad#0692: Help message is set to DM by default. use **!sethelp** to change it!
+2018-04-17 06:30:56 #bot @Klausad#0692: Hey there, @Mr. Robot! I sent you a list of commands through DM.
+2018-04-17 06:33:43 #bot @Mr. Robot#0007: !cleanup
+2018-04-17 06:33:43 #bot @Klausad#0692: ```\n!cleanup\n\nDeletes messages.\n\nCommands:\n  bot      Cleans up command messages and messages from the bot\n  after    Deletes all messages after specified message\n  user     Deletes last X messages from specified user.\n  messages Deletes last X messages.\n  text     Deletes last X messages matching the specified text.\n  self     Cleans up messages owned by the bot.\n\nType !cleanup command for more info on a command.\nYou can also type !cleanup category for more info on a category.\n```
+2018-04-17 06:33:57 #bot @Mr. Robot#0007: !about
+2018-04-17 06:34:04 #bot @Mr. Robot#0007: !botstats
+2018-04-17 06:34:10 #bot @Mr. Robot#0007: !serverinfo
+2018-04-17 06:34:10 #bot @Klausad#0692: 
+2018-04-17 06:34:10 #bot @Klausad#0692 edited message from 2018-04-17 06:34:10 () to read: 
+2018-04-17 06:35:54 #bot @Mr. Robot#0007: !customcom
+2018-04-17 06:35:54 #bot @Klausad#0692: ```\n![customcom|cc]\n\nCustom commands management\n\nCommands:\n  edit   Edits a custom command\n  delete Deletes a custom command\n  add    Adds a custom command\n  list   Shows custom commands list\n\nType !customcom command for more info on a command.\nYou can also type !customcom category for more info on a category.\n```
+2018-04-17 06:36:13 #bot @Mr. Robot#0007: !cc add
+2018-04-17 06:36:13 #bot @Klausad#0692: ```\n!customcom add <command> <text>\n\nAdds a custom command\n\nExample:\n[p]customcom add yourcommand Text you want\n\nCCs can be enhanced with arguments:\nhttps://twentysix26.github.io/Red-Docs/red_guide_command_args/\n\n```

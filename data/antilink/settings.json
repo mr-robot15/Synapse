@@ -1,0 +1,16 @@
+{
+    "414109406855430145" : {
+        "dm" : false,
+        "excluded_channels" : [],
+        "message" : "",
+        "strict" : false,
+        "toggle" : true
+    },
+    "440021065650012160" : {
+        "dm" : true,
+        "excluded_channels" : [],
+        "message" : "Do not even dare to do that again! First and last warning",
+        "strict" : false,
+        "toggle" : true
+    }
+}

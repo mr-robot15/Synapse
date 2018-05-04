@@ -1,0 +1,176 @@
+2018-04-30 14:59:50 Channel created: spam
+2018-04-30 14:59:54 Channel deleted: spam
+2018-04-30 15:59:01 Member join: @Yggdrasil#4195 (id 247283454440374274)
+2018-04-30 15:59:01 Role created: 'Yggdrasil' (id 440542601460973575)
+2018-04-30 15:59:01 Member role add: 'Yggdrasil' role was added to @Yggdrasil#4195
+2018-04-30 15:59:01 Member role add: 'Yggdrasil' role was added to @Yggdrasil#4195
+2018-04-30 15:59:01 Member role add: 'Guild Members' role was added to @Yggdrasil#4195
+2018-04-30 15:59:30 Member role remove: The 'Guild Members' role was removed from @Yggdrasil#4195
+2018-04-30 15:59:36 Member role add: 'BOTS' role was added to @Yggdrasil#4195
+2018-04-30 15:59:41 Member role remove: The 'BOTS' role was removed from @Yggdrasil#4195
+2018-04-30 15:59:53 Member role add: 'BOTS' role was added to @Yggdrasil#4195
+2018-04-30 22:10:45 Member role add: 'Guild Officers' role was added to @Dependancy#8922
+2018-04-30 22:10:52 Member role add: 'Guild Members' role was added to @Dependancy#8922
+2018-04-30 22:10:55 Member role remove: The 'Guild Members' role was removed from @Dependancy#8922
+2018-04-30 22:18:22 Member join: @poler Pancake#2857 (id 304282063614246913)
+2018-04-30 22:18:23 Member role add: 'Guild Members' role was added to @poler Pancake#2857
+2018-05-01 02:36:54 Channel overwrites: welcome (440242246030458895): role Guild Officers (440182208888832024) updated to values 1024, 2048 (was 268438544, 0)
+2018-05-01 02:37:07 Member role add: 'Guild Officers' role was added to @poler Pancake#2857
+2018-05-01 13:38:41 Channel overwrites: rules (440229236389707806): role Guild Members (440181516207915029) added with values 0, 0
+2018-05-01 23:36:49 Channel created: giveaway
+2018-05-01 23:44:49 Channel overwrites: giveaway (441020195679764491): role Guild Master (440182516935163917) added with values 0, 0
+2018-05-01 23:44:51 Channel overwrites: giveaway (441020195679764491): role Guild Discord Manager (440233940410695680) added with values 0, 0
+2018-05-01 23:44:53 Channel overwrites: giveaway (441020195679764491): role Guild Officers (440182208888832024) added with values 0, 0
+2018-05-01 23:44:58 Channel overwrites: giveaway (441020195679764491): role Guild Members (440181516207915029) added with values 0, 0
+2018-05-01 23:45:56 Channel overwrites: giveaway (441020195679764491): role Guild Officers (440182208888832024) updated to values 3136, 805826577 (was 0, 0)
+2018-05-01 23:45:56 Channel overwrites: giveaway (441020195679764491): role Guild Discord Manager (440233940410695680) updated to values 805829713, 0 (was 0, 0)
+2018-05-01 23:45:56 Channel overwrites: giveaway (441020195679764491): role Guild Master (440182516935163917) updated to values 805829713, 0 (was 0, 0)
+2018-05-01 23:45:56 Channel overwrites: giveaway (441020195679764491): role Guild Officers (440182208888832024) updated to values 3136, 805826577 (was 0, 0)
+2018-05-01 23:45:56 Channel overwrites: giveaway (441020195679764491): role Guild Discord Manager (440233940410695680) updated to values 805829713, 0 (was 0, 0)
+2018-05-01 23:45:56 Channel overwrites: giveaway (441020195679764491): role Guild Officers (440182208888832024) updated to values 3136, 805826577 (was 0, 0)
+2018-05-01 23:45:56 Channel overwrites: giveaway (441020195679764491): role Guild Members (440181516207915029) updated to values 1088, 805828625 (was 0, 0)
+2018-05-01 23:52:04 Channel created: rank-applications
+2018-05-02 00:01:39 Role position: 'YouTuber' changed from 1 to 2
+2018-05-02 00:01:39 Role position: '1st Warning' changed from 2 to 3
+2018-05-02 00:01:39 Role position: '2nd Warning' changed from 3 to 4
+2018-05-02 00:01:39 Role position: '3rd Warning' changed from 4 to 5
+2018-05-02 00:01:39 Role position: '4th Warning' changed from 5 to 6
+2018-05-02 00:01:39 Role position: '5th Warning' changed from 6 to 7
+2018-05-02 00:01:39 Role position: 'Guild Members' changed from 7 to 8
+2018-05-02 00:01:39 Role position: 'BOTS' changed from 8 to 9
+2018-05-02 00:01:39 Role mentionable: 'Guild Officers' is now mentionable
+2018-05-02 00:01:39 Role position: 'Guild Officers' changed from 9 to 10
+2018-05-02 00:01:39 Role position: 'Guild Discord Manager' changed from 10 to 11
+2018-05-02 00:01:39 Role position: 'Guild Master' changed from 11 to 12
+2018-05-02 00:01:39 Role position: 'Synapse' changed from 12 to 13
+2018-05-02 00:01:39 Role position: 'ErisBot' changed from 13 to 14
+2018-05-02 00:01:39 Role position: 'MEE6' changed from 14 to 15
+2018-05-02 00:01:39 Role position: 'Ghostplay R2' changed from 15 to 16
+2018-05-02 00:01:39 Role mentionable: 'Guild Officers' is now mentionable
+2018-05-02 00:03:22 Role created: 'new role' (id 441026882876735490)
+2018-05-02 00:04:22 Role position: 'new role' changed from 1 to 11
+2018-05-02 00:04:22 Role renamed: 'new role' to 'Helper'
+2018-05-02 00:04:22 Role color: 'new role' changed from #000000 to #206694
+2018-05-02 00:04:22 Role hoist: 'Helper' is now shown seperately
+2018-05-02 00:04:22 Role permissions: 'new role' changed from 104324161 to 133692487
+2018-05-02 00:04:36 Role mentionable: 'Helper' is now mentionable
+2018-05-02 00:05:45 Member role add: 'BOTS' role was added to @Zoom#7864
+2018-05-02 00:05:48 Member role add: 'Helper' role was added to @Zoom#7864
+2018-05-02 00:07:19 Member role add: 'Helper' role was added to @poler Pancake#2857
+2018-05-02 00:07:22 Member role remove: The 'Helper' role was removed from @poler Pancake#2857
+2018-05-02 00:07:36 Role created: 'new role' (id 441027944802942976)
+2018-05-02 00:08:40 Role position: 'new role' changed from 1 to 12
+2018-05-02 00:08:40 Role renamed: 'new role' to 'Admin'
+2018-05-02 00:08:40 Role color: 'new role' changed from #000000 to #ff0a00
+2018-05-02 00:08:40 Role mentionable: 'Admin' is now mentionable
+2018-05-02 00:08:40 Role hoist: 'Admin' is now shown seperately
+2018-05-02 00:08:40 Role permissions: 'new role' changed from 104324161 to 402119791
+2018-05-02 00:12:13 Member role add: 'Admin' role was added to @Zoom#7864
+2018-05-02 00:52:14 Member role add: 'Admin' role was added to @Dependancy#8922
+2018-05-02 00:52:16 Member role add: 'Helper' role was added to @Dependancy#8922
+2018-05-02 00:53:36 Member leave: @ding dong your opinion is wrong#8586 (id 294999612174106635)
+2018-05-02 01:24:44 Channel rename: general renamed to general-topics
+2018-05-02 01:24:44 Channel topic: general topic was set to ""
+2018-05-02 01:25:04 Member role remove: The 'Helper' role was removed from @Dependancy#8922
+2018-05-02 01:25:07 Member role remove: The 'Guild Officers' role was removed from @Dependancy#8922
+2018-05-02 02:20:06 Member role add: 'Helper' role was added to @Dependancy#8922
+2018-05-02 02:20:07 Member role add: 'Guild Officers' role was added to @Dependancy#8922
+2018-05-02 02:20:10 Member role add: 'Guild Members' role was added to @Dependancy#8922
+2018-05-02 02:37:50 Role color: 'Helper' changed from #206694 to #1500ff
+2018-05-02 02:37:50 Role position: 'Helper' changed from 12 to 11
+2018-05-02 02:54:54 Member role remove: The 'Admin' role was removed from @Zoom#7864
+2018-05-02 02:54:56 Member role remove: The 'Guild Officers' role was removed from @Zoom#7864
+2018-05-02 02:54:57 Member role remove: The 'Helper' role was removed from @Zoom#7864
+2018-05-02 02:54:59 Member role remove: The 'Guild Members' role was removed from @Zoom#7864
+2018-05-02 02:55:01 Member role remove: The 'BOTS' role was removed from @Zoom#7864
+2018-05-02 02:55:04 Member role remove: The 'Admin' role was removed from @Dependancy#8922
+2018-05-02 02:55:04 Member role remove: The 'Helper' role was removed from @Dependancy#8922
+2018-05-02 02:55:04 Member role remove: The 'Helper' role was removed from @Dependancy#8922
+2018-05-02 02:55:13 Member role remove: The 'Guild Members' role was removed from @Dependancy#8922
+2018-05-02 02:55:13 Member role remove: The 'Guild Officers' role was removed from @Dependancy#8922
+2018-05-02 02:55:13 Member role remove: The 'Guild Members' role was removed from @Dependancy#8922
+2018-05-02 16:36:03 Channel rename: general-topics renamed to general
+2018-05-02 16:45:22 Member role remove: The 'Guild Officers' role was removed from @poler Pancake#2857
+2018-05-02 16:45:26 Member role remove: The 'Guild Members' role was removed from @poler Pancake#2857
+2018-05-02 16:45:29 Member role add: 'Admin' role was added to @poler Pancake#2857
+2018-05-02 16:45:32 Member role add: 'Guild Officers' role was added to @poler Pancake#2857
+2018-05-02 16:45:35 Member role add: 'Guild Members' role was added to @poler Pancake#2857
+2018-05-02 16:48:21 Member role remove: The 'Admin' role was removed from @poler Pancake#2857
+2018-05-02 16:55:30 Role created: 'new role' (id 441281593206636554)
+2018-05-02 16:55:41 Role position: 'Yggdrasil' changed from 4 to 2
+2018-05-02 16:55:41 Role position: 'YouTuber' changed from 5 to 3
+2018-05-02 16:55:41 Role position: '1st Warning' changed from 6 to 4
+2018-05-02 16:55:41 Role position: '2nd Warning' changed from 7 to 5
+2018-05-02 16:55:41 Role position: '3rd Warning' changed from 8 to 6
+2018-05-02 16:55:41 Role position: '4th Warning' changed from 9 to 7
+2018-05-02 16:55:41 Role position: '5th Warning' changed from 10 to 8
+2018-05-02 16:55:41 Role position: 'Guild Members' changed from 11 to 9
+2018-05-02 16:55:41 Role position: 'BOTS' changed from 12 to 10
+2018-05-02 16:55:41 Role position: 'Guild Officers' changed from 13 to 11
+2018-05-02 16:55:41 Role renamed: 'new role' to 'Noob'
+2018-05-02 16:55:41 Role color: 'new role' changed from #000000 to #f1c40f
+2018-05-02 16:55:41 Role hoist: 'Noob' is now shown seperately
+2018-05-02 16:55:48 Role position: 'Yggdrasil' changed from 2 to 1
+2018-05-02 16:55:48 Role position: 'YouTuber' changed from 3 to 2
+2018-05-02 16:55:48 Role position: '1st Warning' changed from 4 to 3
+2018-05-02 16:55:48 Role position: '2nd Warning' changed from 5 to 4
+2018-05-02 16:55:48 Role position: '3rd Warning' changed from 6 to 5
+2018-05-02 16:55:48 Role position: '4th Warning' changed from 7 to 6
+2018-05-02 16:55:48 Role position: '5th Warning' changed from 8 to 7
+2018-05-02 16:55:48 Role position: 'Guild Members' changed from 9 to 8
+2018-05-02 16:55:48 Role position: 'Noob' changed from 1 to 9
+2018-05-02 16:56:21 Member role add: 'Noob' role was added to @Zoom#7864
+2018-05-02 17:01:41 Role mentionable: 'Noob' is now mentionable
+2018-05-02 17:03:42 Role color: 'Noob' changed from #f1c40f to #9b59b6
+2018-05-02 17:16:28 Member role add: 'Admin' role was added to @Zoom#7864
+2018-05-02 17:16:34 Member role add: 'Guild Officers' role was added to @Zoom#7864
+2018-05-02 17:16:42 Member role add: 'Noob' role was added to @LopNort#1598
+2018-05-02 17:18:38 Member join: @Plebian__King#2228 (id 316303906844049408)
+2018-05-02 17:22:32 Member role add: '1st Warning' role was added to @Plebian__King#2228
+2018-05-02 17:22:38 Member role add: 'Noob' role was added to @Plebian__King#2228
+2018-05-02 17:22:56 Member role remove: The '1st Warning' role was removed from @Plebian__King#2228
+2018-05-02 17:23:33 Member join: @Corginator#9068 (id 267110431934382080)
+2018-05-02 17:23:58 Member role add: 'Admin' role was added to @Dependancy#8922
+2018-05-02 17:24:25 Member role remove: The 'Noob' role was removed from @Plebian__King#2228
+2018-05-02 17:25:06 Member nickname: '@Plebian__King#2228' (id 316303906844049408) changed nickname from 'None' to 'dabbathlon'
+2018-05-02 17:26:58 Member join: @terra.pixel#7254 (id 375432172242206723)
+2018-05-02 17:27:44 Member leave: @Corginator#9068 (id 267110431934382080)
+2018-05-02 17:27:50 Member join: @Corginator#9068 (id 267110431934382080)
+2018-05-02 17:28:08 Member ban: @Corginator#9068 (id 267110431934382080)
+2018-05-02 17:28:08 Member leave: @Corginator#9068 (id 267110431934382080)
+2018-05-02 17:30:14 Member ban: @terra.pixel#7254 (id 375432172242206723)
+2018-05-02 17:30:14 Member leave: @terra.pixel#7254 (id 375432172242206723)
+2018-05-02 17:37:54 Channel overwrites: rank-applications (441024036919574528): role @everyone (440180819496009738) added with values 0, 2048
+2018-05-02 17:40:22 Member role add: '5th Warning' role was added to @Plebian__King#2228
+2018-05-02 17:40:31 Member role remove: The '5th Warning' role was removed from @Plebian__King#2228
+2018-05-02 17:40:31 Member role add: 'Guild Members' role was added to @Plebian__King#2228
+2018-05-02 21:05:25 Channel created: rage
+2018-05-02 21:11:46 Channel created: media
+2018-05-02 21:26:09 Member role add: 'Noob' role was added to @Plebian__King#2228
+2018-05-02 21:28:03 Member role add: 'Helper' role was added to @Plebian__King#2228
+2018-05-02 21:28:05 Member role remove: The 'Helper' role was removed from @Plebian__King#2228
+2018-05-02 21:28:31 Role color: 'Helper' changed from #1500ff to #3498db
+2018-05-02 21:29:10 Member role add: 'Helper' role was added to @Plebian__King#2228
+2018-05-02 21:29:13 Member role remove: The 'Helper' role was removed from @Plebian__King#2228
+2018-05-02 21:54:17 Member role add: 'Helper' role was added to @Zoom#7864
+2018-05-02 21:58:40 Member unban: @Corginator#9068 (id 267110431934382080)
+2018-05-02 21:58:47 Member join: @you're doing it wrong#5893 (id 373641761492303872)
+2018-05-02 21:58:55 Channel overwrites: rank-applications (441024036919574528): role Guild Master (440182516935163917) added with values 0, 0
+2018-05-02 21:58:58 Channel overwrites: rank-applications (441024036919574528): role Admin (441027944802942976) added with values 0, 0
+2018-05-02 21:59:02 Channel overwrites: rank-applications (441024036919574528): role Helper (441026882876735490) added with values 0, 0
+2018-05-02 21:59:06 Channel overwrites: rank-applications (441024036919574528): role Guild Discord Manager (440233940410695680) added with values 0, 0
+2018-05-02 21:59:07 Channel overwrites: rank-applications (441024036919574528): role Guild Officers (440182208888832024) added with values 0, 0
+2018-05-02 21:59:13 Channel overwrites: rank-applications (441024036919574528): role Guild Members (440181516207915029) added with values 0, 0
+2018-05-02 22:00:44 Channel overwrites: rank-applications (441024036919574528): role Guild Officers (440182208888832024) updated to values 1088, 805828625 (was 0, 0)
+2018-05-02 22:00:44 Channel overwrites: rank-applications (441024036919574528): role Guild Members (440181516207915029) updated to values 1088, 805828625 (was 0, 0)
+2018-05-02 22:00:44 Channel overwrites: rank-applications (441024036919574528): role Guild Members (440181516207915029) updated to values 1088, 805828625 (was 0, 0)
+2018-05-02 22:00:44 Channel overwrites: rank-applications (441024036919574528): role Admin (441027944802942976) updated to values 536886353, 268894208 (was 0, 0)
+2018-05-02 22:00:44 Channel overwrites: rank-applications (441024036919574528): role Helper (441026882876735490) updated to values 7232, 0 (was 0, 0)
+2018-05-02 22:00:44 Channel overwrites: rank-applications (441024036919574528): role Admin (441027944802942976) updated to values 536886353, 268894208 (was 0, 0)
+2018-05-02 22:00:44 Channel overwrites: rank-applications (441024036919574528): role Guild Discord Manager (440233940410695680) updated to values 805829713, 0 (was 0, 0)
+2018-05-02 22:00:44 Channel overwrites: rank-applications (441024036919574528): role Guild Master (440182516935163917) updated to values 805829713, 0 (was 0, 0)
+2018-05-02 22:01:04 Member role add: 'Guild Members' role was added to @you're doing it wrong#5893
+2018-05-02 22:10:09 Member role add: '1st Warning' role was added to @you're doing it wrong#5893
+2018-05-03 00:50:34 Member join: @Skelly#9023 (id 404079978171465728)
+2018-05-03 02:15:09 Server icon changed from  to https://cdn.discordapp.com/icons/440180819496009738/e3ebf4bb858c3ef28eb6203ae254dbb1.jpg
+2018-05-03 03:49:26 Member role add: 'Guild Members' role was added to @Skelly#9023

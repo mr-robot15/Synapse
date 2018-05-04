@@ -1,0 +1,12 @@
+2018-04-26 04:20:49 #announcements @Klaus Ze Flammenwerfer#9999: !riftopen
+2018-04-26 04:20:49 #announcements @Synapse#0692: ```\n!riftopen <channel>\n\nMakes you able to communicate with other channels through Red\n\nThis is cross-server. Type only the channel name or the ID.\n\n```
+2018-04-26 04:20:52 #announcements @Klaus Ze Flammenwerfer#9999: !up 2
+2018-04-26 04:20:52 #announcements @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-26 04:20:49 (!riftopen)
+2018-04-26 04:20:52 #announcements @Synapse#0692 deleted message from 2018-04-26 04:20:49 (```\n!riftopen <channel>\n\nMakes you able to communicate with other channels through Red\n\nThis is cross-server. Type only the channel name or the ID.\n\n```)
+2018-04-26 04:20:52 #announcements @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-26 04:20:52 (!up 2)
+2018-04-26 04:20:55 #announcements @Klaus Ze Flammenwerfer#9999: !riftopen 438389187419439135
+2018-04-26 04:20:56 #announcements @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-26 09:34:29 #announcements @Klaus Ze Flammenwerfer#9999: exit
+2018-04-26 09:34:29 #announcements @Synapse#0692: `Error in command 'riftopen'. Check your console or logs for details.`
+2018-04-26 09:38:46 #announcements @Klaus Ze Flammenwerfer#9999: !riftopen 438389187419439135
+2018-04-26 09:38:48 #announcements @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.

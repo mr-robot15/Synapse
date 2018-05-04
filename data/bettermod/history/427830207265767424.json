@@ -1,0 +1,15 @@
+{
+    "426234414255570959" : {
+        "ban-warn" : 0,
+        "case1" : {
+            "applied" : 1,
+            "deleted" : 0,
+            "level" : "Simple",
+            "reason" : "xd",
+            "timestamp" : "18 Apr 2018 07:56"
+        },
+        "kick-warn" : 0,
+        "simple-warn" : 1,
+        "total-warns" : 1
+    }
+}

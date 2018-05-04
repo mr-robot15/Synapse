@@ -1,0 +1,260 @@
+2018-04-25 22:40:21 this bot joined the server
+2018-04-25 22:40:21 Role created: 'Synapse' (id 438831660385959937)
+2018-04-25 22:40:21 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-25 22:42:11 Member role add: 'Owner' role was added to @Synapse#0692
+2018-04-25 22:42:13 Member role add: 'Gbot' role was added to @Synapse#0692
+2018-04-25 22:42:32 Member join: @Ghostplay R2#1298 (id 435829986772123658)
+2018-04-25 22:42:32 Role created: 'Ghostplay R2' (id 438832211341606933)
+2018-04-25 22:42:32 Member role add: 'Ghostplay R2' role was added to @Ghostplay R2#1298
+2018-04-25 22:42:43 Member role add: 'Gbot' role was added to @Ghostplay R2#1298
+2018-04-25 22:42:46 Member role add: 'Owner' role was added to @Ghostplay R2#1298
+2018-04-25 22:43:35 Role deleted: 'Ghostplay R2' (id 438832211341606933)
+2018-04-25 22:43:35 Member leave: @Ghostplay R2#1298 (id 435829986772123658)
+2018-04-25 22:46:31 Member join: @Nadeko#6685 (id 116275390695079945)
+2018-04-25 22:46:31 Role created: 'Nadeko' (id 438833215437013003)
+2018-04-25 22:46:31 Member role add: 'Nadeko' role was added to @Nadeko#6685
+2018-04-25 22:46:31 Member role add: 'Nadeko' role was added to @Nadeko#6685
+2018-04-25 22:46:45 Member role add: 'Owner' role was added to @Nadeko#6685
+2018-04-25 22:47:00 Member role remove: The 'Gbot' role was removed from @Nightbot#0001
+2018-04-25 22:47:00 Member role remove: The 'Gbot' role was removed from @Dank Memer#6539
+2018-04-25 22:47:00 Member role remove: The 'Gbot' role was removed from @Password Generator#8371
+2018-04-25 22:47:00 Member role remove: The 'Gbot' role was removed from @Anonymous Web Master#9579
+2018-04-25 22:47:00 Member role remove: The 'Gbot' role was removed from @Partner Bot#1001
+2018-04-25 22:47:00 Member role remove: The 'Gbot' role was removed from @PassiveBOT#2492
+2018-04-25 22:47:00 Member role remove: The 'Gbot' role was removed from @Synapse#0692
+2018-04-25 22:47:00 Role deleted: 'Gbot' (id 434163413455863808)
+2018-04-25 22:55:40 Channel created: nadeko-bot
+2018-04-25 22:55:57 Channel topic: nadeko-bot topic was set to ""
+2018-04-25 22:59:03 Channel created: logs
+2018-04-25 22:59:33 Channel deleted: logs
+2018-04-25 22:59:43 Channel created: logs-new
+2018-04-25 23:01:11 Channel deleted: logs-new
+2018-04-25 23:01:21 Channel created: logs
+2018-04-25 23:01:56 Channel deleted: logs
+2018-04-25 23:02:09 Channel created: logs
+2018-04-25 23:02:17 Channel deleted: logs
+2018-04-25 23:03:02 Role created: 'new role' (id 438837371669315599)
+2018-04-25 23:03:02 Role created: 'new role' (id 438837371509800963)
+2018-04-25 23:03:02 Role renamed: 'new role' to 'nadeko-mute'
+2018-04-25 23:03:02 Role permissions: 'new role' changed from 104324161 to 0
+2018-04-25 23:03:02 Role position: 'new role' changed from 2 to 1
+2018-04-25 23:03:02 Role renamed: 'new role' to 'nadeko-mute'
+2018-04-25 23:03:02 Role permissions: 'new role' changed from 104324161 to 0
+2018-04-25 23:03:03 Channel overwrites: leaked (421457588144570369): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:03 Channel overwrites: nitro_servers (421200460494405632): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:03 Channel overwrites: nitro_servers (421200460494405632): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:03 Channel overwrites: leaked (421457588144570369): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:03 Channel overwrites: partner (435635103465472021): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:03 Channel overwrites: partner (435635103465472021): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:03 Channel overwrites: logs (421195162656440320): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:04 Channel overwrites: logs (421195162656440320): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:04 Channel overwrites: new-log (427662041063489536): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:04 Channel overwrites: new-log (427662041063489536): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:04 Channel overwrites: dyno-log (421195234362523658): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:04 Channel overwrites: dyno-log (421195234362523658): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:05 Channel overwrites: rules (421736484664770570): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:05 Channel overwrites: rules (421736484664770570): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:05 Channel overwrites: twitch-channels (421197646602960896): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:05 Channel overwrites: twitch-channels (421197646602960896): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:05 Channel overwrites: nsfw-boob-bot (421912114194546688): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:05 Channel overwrites: nsfw-boob-bot (421912114194546688): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:06 Channel overwrites: general (436603020403539989): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:06 Channel overwrites: general (436603020403539989): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:06 Channel overwrites: instagram-snapchat (421197783429808128): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:06 Channel overwrites: instagram-snapchat (421197783429808128): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:06 Channel overwrites: lit-songs (424036085652389909): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:06 Channel overwrites: lit-songs (424036085652389909): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:07 Channel overwrites: gfx (421198373807456266): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:07 Channel overwrites: gfx (421198373807456266): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:07 Channel overwrites: modlog (421755976203632640): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:07 Channel overwrites: modlog (421755976203632640): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:07 Channel overwrites: modlog (421755976203632640): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:07 Channel overwrites: bots (431277835185815552): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:07 Channel overwrites: bots (431277835185815552): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:08 Channel overwrites: partnered_servers (421196681678422017): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:08 Channel overwrites: partnered_servers (421196681678422017): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:08 Channel overwrites: sith-code (438469938831687712): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:08 Channel overwrites: sith-code (438469938831687712): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:08 Channel overwrites: youtube-channels (421197485621641216): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:08 Channel overwrites: youtube-channels (421197485621641216): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:09 Channel overwrites: nadeko-bot (438835518319493130): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:09 Channel overwrites: nadeko-bot (438835518319493130): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:09 Channel overwrites: sports (421199925091500044): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:09 Channel overwrites: sports (421199925091500044): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:09 Channel overwrites: sports-cars (428625264289775618): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:10 Channel overwrites: sports-cars (428625264289775618): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:10 Channel overwrites: top-secret-to-owner (421734744615813121): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:10 Channel overwrites: top-secret-to-owner (421734744615813121): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:10 Channel overwrites: gf-comic (421200021585788928): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:10 Channel overwrites: gf-comic (421200021585788928): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:03:10 Channel overwrites: partnership_info (421196579119038464): role nadeko-mute (438837371509800963) added with values 0, 34880
+2018-04-25 23:03:11 Channel overwrites: partnership_info (421196579119038464): role nadeko-mute (438837371669315599) added with values 0, 34880
+2018-04-25 23:05:39 Member role add: 'nadeko-mute' role was added to @Anonymous Web Master#9579
+2018-04-25 23:05:45 Member role remove: The 'nadeko-mute' role was removed from @Anonymous Web Master#9579
+2018-04-25 23:05:49 Member role remove: The '[LR] Slave' role was removed from @Anonymous Web Master#9579
+2018-04-25 23:05:52 Member role remove: The '[LR] Initial' role was removed from @Anonymous Web Master#9579
+2018-04-25 23:06:01 Member role add: 'nadeko-mute' role was added to @Anonymous Web Master#9579
+2018-04-25 23:06:05 Member role add: 'nadeko-mute' role was added to @Anonymous Web Master#9579
+2018-04-25 23:06:20 Channel created: logs
+2018-04-25 23:06:50 Channel deleted: logs
+2018-04-25 23:17:21 Member join: @Security Bot#9835 (id 434096793618219011)
+2018-04-25 23:17:21 Role created: 'Security Bot' (id 438840974823653396)
+2018-04-25 23:17:21 Member role add: 'Security Bot' role was added to @Security Bot#9835
+2018-04-25 23:24:13 Member role remove: The 'Head admin' role was removed from @Anonymous Web Master#9579
+2018-04-25 23:24:14 Member role add: 'Head admin' role was added to @Anonymous Web Master#9579
+2018-04-25 23:24:19 Member role remove: The 'partners' role was removed from @Anonymous Web Master#9579
+2018-04-25 23:24:42 Member role remove: The 'verified' role was removed from @Anonymous Web Master#9579
+2018-04-25 23:24:51 Member role add: '[LR] Initial' role was added to @Anonymous Web Master#9579
+2018-04-25 23:24:51 Member role add: '[LR] Slave' role was added to @Anonymous Web Master#9579
+2018-04-25 23:25:02 Member role add: 'Owner' role was added to @Security Bot#9835
+2018-04-25 23:25:15 Member role add: 'verified' role was added to @Anonymous Web Master#9579
+2018-04-25 23:45:23 Channel created: my-bot-nsfw
+2018-04-25 23:45:34 Channel topic: my-bot-nsfw topic was set to ""
+2018-04-25 23:46:38 Channel created: log-my-bot
+2018-04-25 23:47:22 Channel deleted: log-my-bot
+2018-04-25 23:47:59 Channel created: anonymous-bot-logs
+2018-04-25 23:50:03 Channel deleted: my-bot-nsfw
+2018-04-25 23:50:24 Channel created: anonymous-nsfw
+2018-04-25 23:50:50 Channel topic: anonymous-nsfw topic was set to ""
+2018-04-25 23:55:49 Channel created: money
+2018-04-26 00:04:51 Channel deleted: nadeko-bot
+2018-04-26 00:05:24 Role deleted: 'Nadeko' (id 438833215437013003)
+2018-04-26 00:05:24 Member leave: @Nadeko#6685 (id 116275390695079945)
+2018-04-26 00:05:38 Role created: 'new role' (id 438853125395316777)
+2018-04-26 00:06:49 Role position: 'nadeko-mute' changed from 3 to 2
+2018-04-26 00:06:49 Role permissions: 'Synapse' changed from 8 to 262216
+2018-04-26 00:06:49 Role position: 'Synapse' changed from 5 to 4
+2018-04-26 00:06:49 Role position: '[LR] Slave' changed from 6 to 5
+2018-04-26 00:06:50 Role position: 'new role' changed from 1 to 43
+2018-04-26 00:06:51 Role renamed: 'new role' to 'Anonymous MY BOT'
+2018-04-26 00:06:51 Role mentionable: 'Anonymous MY BOT' is now mentionable
+2018-04-26 00:06:51 Role hoist: 'Anonymous MY BOT' is now shown seperately
+2018-04-26 00:06:51 Role permissions: 'new role' changed from 104324161 to 2146958591
+2018-04-26 00:06:59 Member role remove: The 'Owner' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:06 Member role remove: The 'Co-Owner' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:08 Member role remove: The 'Head admin' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:08 Member role remove: The 'admin' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:08 Member role remove: The 'mod' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:09 Member role remove: The 'BOTS' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:09 Member role remove: The 'pornhub' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:09 Member role remove: The 'verified' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:10 Member role remove: The '[HR] Sith Emperor' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:10 Member role remove: The '[HR] Power Base' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:10 Member role remove: The '[HR] Dark Council' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:10 Member role remove: The 'subscriber' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:10 Member role remove: The '[HR] Sith Emperor' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:10 Member role remove: The '[HR] Power Base' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:10 Member role remove: The '[HR] Dark Council' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:10 Member role remove: The '[HR] Power Base' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:10 Member role remove: The '[HR] Dark Council' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:10 Member role remove: The '[HR] Dark Council' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:11 Member role remove: The '[HR] Darth' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:19 Member role remove: The '[HR] Sith master' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:20 Member role add: '[HR] Sith master' role was added to @Anonymous Web Master#9579
+2018-04-26 00:07:20 Member role remove: The '[HR] Sith lord' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:24 Member role remove: The '[LR] Slave' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:26 Member role remove: The 'nadeko-mute' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:30 Member role remove: The '[LR] Initial' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:31 Member role remove: The 'nadeko-mute' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:34 Member role remove: The '[HR] Sith master' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:36 Member role remove: The '[HR] Sith overseer' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:40 Member role add: 'verified' role was added to @Anonymous Web Master#9579
+2018-04-26 00:07:40 Member role remove: The '[MR] Sith Crusader' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:40 Member role add: 'verified' role was added to @Anonymous Web Master#9579
+2018-04-26 00:07:40 Member role remove: The 'verified' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:41 Member role remove: The 'Head staff' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:43 Member role remove: The 'Role creater' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:43 Member role remove: The '[MR] Dark honor guards' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:43 Member role remove: The '[MR] Sith knight' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:44 Member role remove: The '[LR] Apprents' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:44 Member role remove: The '[LR] Acolyte' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:07:46 Member role add: 'Anonymous MY BOT' role was added to @Anonymous Web Master#9579
+2018-04-26 00:07:52 Member role add: 'Owner' role was added to @Anonymous Web Master#9579
+2018-04-26 00:07:56 Member role add: 'Role creater' role was added to @Anonymous Web Master#9579
+2018-04-26 00:07:59 Member role add: 'Head staff' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:02 Member role add: 'Head admin' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:06 Member role add: 'admin' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:10 Member role add: 'mod' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:15 Member role add: 'BOTS' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:18 Member role add: 'memebers' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:23 Member role add: 'pornhub' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:28 Member role add: 'verified' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:31 Member role add: 'subscriber' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:34 Member role add: '[HR] Sith Emperor' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:36 Member role add: '[HR] Power Base' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:39 Member role add: '[HR] Dark Council' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:42 Member role add: '[HR] Darth' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:48 Member role add: '[HR] Sith lord' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:51 Member role add: '[HR] Sith master' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:54 Member role add: '[HR] Sith overseer' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:56 Member role add: '[MR] Sith Crusader' role was added to @Anonymous Web Master#9579
+2018-04-26 00:08:59 Member role add: '[MR] Dark honor guards' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:01 Member role add: '[MR] Sith knight' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:05 Member role add: '[LR] Apprents' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:08 Member role add: '[LR] Acolyte' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:11 Member role remove: The 'memebers' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:09:17 Member role add: '[LR] Initial' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:24 Member role add: '[LR] Slave' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:24 Member role remove: The '[LR] Initial' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:09:27 Member role add: 'Co-Owner' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:27 Member role remove: The '[LR] Slave' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:09:30 Member role add: 'memebers' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:30 Member role remove: The 'Co-Owner' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:09:33 Member role add: 'Co-Owner' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:33 Member role remove: The 'memebers' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:09:39 Member role add: 'memebers' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:39 Member role remove: The 'Co-Owner' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:09:41 Member role add: 'Co-Owner' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:41 Member role remove: The 'memebers' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:09:44 Member role add: 'memebers' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:44 Member role remove: The 'Co-Owner' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:09:47 Member role add: 'Co-Owner' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:47 Member role remove: The 'memebers' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:09:50 Member role add: 'memebers' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:50 Member role remove: The 'Co-Owner' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:09:52 Member role add: 'Co-Owner' role was added to @Anonymous Web Master#9579
+2018-04-26 00:09:52 Member role remove: The 'memebers' role was removed from @Anonymous Web Master#9579
+2018-04-26 00:10:05 Member role add: 'memebers' role was added to @Anonymous Web Master#9579
+2018-04-26 00:10:10 Member role add: 'partners' role was added to @Anonymous Web Master#9579
+2018-04-26 00:10:11 Member role add: '[LR] Initial' role was added to @Anonymous Web Master#9579
+2018-04-26 00:10:19 Member role add: '[LR] Slave' role was added to @Anonymous Web Master#9579
+2018-04-26 00:12:39 Member role remove: The 'Owner' role was removed from @Security Bot#9835
+2018-04-26 00:12:46 Member role add: 'Anonymous MY BOT' role was added to @Security Bot#9835
+2018-04-26 00:12:49 Member role add: 'Owner' role was added to @Security Bot#9835
+2018-04-26 00:13:46 Role renamed: 'Anonymous MY BOT' to 'Anonymous MY BOT I MADE'
+2018-04-26 00:25:44 this bot left the server
+2018-04-26 02:20:11 this bot joined the server
+2018-04-26 02:20:11 Role created: 'Synapse' (id 438886979250290689)
+2018-04-26 02:20:11 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-26 02:21:08 Member role add: 'Anonymous MY BOT I MADE' role was added to @Synapse#0692
+2018-04-26 02:21:09 Member role add: 'Owner' role was added to @Synapse#0692
+2018-04-26 02:55:33 Member role remove: The 'Anonymous MY BOT I MADE' role was removed from @Synapse#0692
+2018-04-26 03:32:55 Channel created: nsfw
+2018-04-26 03:33:52 Role deleted: 'Bloxify' (id 429846754058436608)
+2018-04-26 03:33:52 Member leave: @Bloxify#5554 (id 395599668488175617)
+2018-04-26 03:35:16 Channel deleted: nsfw
+2018-04-26 20:12:59 Member ban: @Unnamed_Law#2584 (id 213460992628228098)
+2018-04-26 20:12:59 Member leave: @Unnamed_Law#2584 (id 213460992628228098)
+2018-04-27 15:16:55 Member username: '@Goryimo#1321' (id 286219652030398476) changed username from 'Goryimo' to 'Deleted user es829bh541'
+2018-04-27 15:17:41 Member username: '@Deleted user es829bh541#1321' (id 286219652030398476) changed username from 'Deleted user es829bh541' to 'Deleted user es8c29bh541'
+2018-04-27 16:36:32 Member username: '@Deleted user es8c29bh541#1321' (id 286219652030398476) changed username from 'Deleted user es8c29bh541' to 'Deleted User es8c29bh541'
+2018-04-27 17:11:11 Member username: '@Deleted User es8c29bh541#1321' (id 286219652030398476) changed username from 'Deleted User es8c29bh541' to 'A.D.A.M😂👌'
+2018-04-27 17:49:47 Member username: '@A.D.A.M😂👌#1321' (id 286219652030398476) changed username from 'A.D.A.M😂👌' to 'Goryimo'
+2018-04-27 21:56:33 Member leave: @UkrainianCheekiBreeki#9592 (id 265521344672825345)
+2018-04-28 01:20:42 Member unban: @Marvin#0441 (id 357891837656170507)
+2018-04-28 01:20:45 Member unban: @Unnamed_Law#2584 (id 213460992628228098)
+2018-04-28 01:20:50 Member unban: @AcctCrack#0333 (id 426032263403143189)
+2018-04-28 15:12:08 Server icon changed from https://cdn.discordapp.com/icons/421194756014604289/774558f25df67c99561ef32b97f5393e.jpg to https://cdn.discordapp.com/icons/421194756014604289/b6575263239c4ae5c34dda649fc68c12.jpg
+2018-04-28 15:12:41 Server name changed from Sith to Cracking General
+2018-04-28 15:16:30 Member role add: 'Anonymous MY BOT I MADE' role was added to @Synapse#0692
+2018-04-28 15:16:32 Member role remove: The 'Owner' role was removed from @Synapse#0692
+2018-04-28 15:16:33 Member role add: 'Owner' role was added to @Synapse#0692
+2018-04-28 15:17:37 Role created: 'new role' (id 439807410006261802)
+2018-04-28 15:17:45 Role color: 'new role' changed from #000000 to #843da4
+2018-04-28 15:17:47 Role hoist: 'new role' is now shown seperately
+2018-04-28 15:17:47 Role mentionable: 'new role' is now mentionable
+2018-04-28 15:17:48 Role renamed: 'new role' to 'Dj'
+2018-04-28 15:18:09 Member role add: 'Dj' role was added to @Anonymous Web Master#9579
+2018-04-28 16:15:07 Server icon changed from https://cdn.discordapp.com/icons/421194756014604289/b6575263239c4ae5c34dda649fc68c12.jpg to https://cdn.discordapp.com/icons/421194756014604289/217be6a1eaebb5699ed3d768c6153dfc.jpg
+2018-05-01 02:08:00 Role deleted: 'Security Bot' (id 438840974823653396)
+2018-05-01 02:08:00 Member leave: @Security Bot#9835 (id 434096793618219011)

@@ -1,0 +1,62 @@
+2018-04-24 18:21:03 #tesy-cmd @Lars✓verified#8115: *help
+2018-04-25 05:29:13 #tesy-cmd @villabouwer780 (Brandon)#1376: !help
+2018-04-25 05:29:13 #tesy-cmd @MEE6#4876: 
+2018-04-25 05:29:15 #tesy-cmd @MEE6#4876 edited message from 2018-04-25 05:29:13 () to read: 
+2018-04-25 05:29:15 #tesy-cmd @Synapse#0692: Check your DM, @villabouwer780 (Brandon)! I have sent something for you :wink:
+2018-04-25 05:30:18 #tesy-cmd @villabouwer780 (Brandon)#1376: !prefix .
+2018-04-25 05:30:29 #tesy-cmd @villabouwer780 (Brandon)#1376: !prefixset .
+2018-04-25 05:30:59 #tesy-cmd @villabouwer780 (Brandon)#1376: .help
+2018-04-25 05:31:08 #tesy-cmd @villabouwer780 (Brandon)#1376: !help
+2018-04-25 05:31:08 #tesy-cmd @MEE6#4876: 
+2018-04-25 05:31:10 #tesy-cmd @MEE6#4876 edited message from 2018-04-25 05:31:08 () to read: 
+2018-04-25 05:31:10 #tesy-cmd @Synapse#0692: Check your DM, @villabouwer780 (Brandon)! I have sent something for you :wink:
+2018-04-25 05:33:18 #tesy-cmd @villabouwer780 (Brandon)#1376: !autorole eend
+2018-04-25 05:33:18 #tesy-cmd @Synapse#0692: ```\n!autorole\n\nChange settings for autorole\n\nRequires the manage roles permission\n\nCommands:\n  role      Set role for autorole to assign.\n  agreement Set the channel and message that will be used for accepting the r...\n  toggle    Enables/Disables autorole\n\nType !autorole command for more info on a command.\nYou can also type !autorole category for more info on a category.\n```
+2018-04-25 05:33:18 #tesy-cmd @Synapse#0692: ```Current autorole state: False```
+2018-04-25 05:33:28 #tesy-cmd @villabouwer780 (Brandon)#1376: -autorole true
+2018-04-25 05:33:37 #tesy-cmd @villabouwer780 (Brandon)#1376: !autorole true
+2018-04-25 05:33:37 #tesy-cmd @Synapse#0692: ```\n!autorole\n\nChange settings for autorole\n\nRequires the manage roles permission\n\nCommands:\n  role      Set role for autorole to assign.\n  agreement Set the channel and message that will be used for accepting the r...\n  toggle    Enables/Disables autorole\n\nType !autorole command for more info on a command.\nYou can also type !autorole category for more info on a category.\n```
+2018-04-25 05:33:37 #tesy-cmd @Synapse#0692: ```Current autorole state: False```
+2018-04-25 05:33:44 #tesy-cmd @villabouwer780 (Brandon)#1376: !true
+2018-04-25 05:33:59 #tesy-cmd @villabouwer780 (Brandon)#1376: !role eend
+2018-04-25 05:34:00 #tesy-cmd @Synapse#0692: ```\n![customrole|role|cr]\n\nMods can add roles, users can apply or relieve roles. Roles created with this cog have no permissions, it only functions for fun.\n\nCommands:\n  remove  Remove role\n  relieve Relieve a role\n  add     Add a role\n  apply   Apply a role\n  list    List all available roles\n\nType !role command for more info on a command.\nYou can also type !role category for more info on a category.\n```
+2018-04-25 05:34:18 #tesy-cmd @villabouwer780 (Brandon)#1376: !toggle enable
+2018-04-25 05:34:23 #tesy-cmd @villabouwer780 (Brandon)#1376: !toggle
+2018-04-25 05:34:42 #tesy-cmd @villabouwer780 (Brandon)#1376: !role add eend
+2018-04-25 05:34:43 #tesy-cmd @Synapse#0692: ```\n!customrole [add|new] <color> <name>\n\nAdd a role\nExample: role add ff0000 Red Role\n\n```
+2018-04-25 05:35:11 #tesy-cmd @villabouwer780 (Brandon)#1376: !role toggle
+2018-04-25 05:35:11 #tesy-cmd @Synapse#0692: ```\n![customrole|role|cr]\n\nMods can add roles, users can apply or relieve roles. Roles created with this cog have no permissions, it only functions for fun.\n\nCommands:\n  remove  Remove role\n  relieve Relieve a role\n  add     Add a role\n  apply   Apply a role\n  list    List all available roles\n\nType !role command for more info on a command.\nYou can also type !role category for more info on a category.\n```
+2018-04-25 05:35:21 #tesy-cmd @villabouwer780 (Brandon)#1376: !role command
+2018-04-25 05:35:22 #tesy-cmd @Synapse#0692: ```\n![customrole|role|cr]\n\nMods can add roles, users can apply or relieve roles. Roles created with this cog have no permissions, it only functions for fun.\n\nCommands:\n  remove  Remove role\n  relieve Relieve a role\n  add     Add a role\n  apply   Apply a role\n  list    List all available roles\n\nType !role command for more info on a command.\nYou can also type !role category for more info on a category.\n```
+2018-04-25 05:35:49 #tesy-cmd @villabouwer780 (Brandon)#1376: !role category
+2018-04-25 05:35:49 #tesy-cmd @Synapse#0692: ```\n![customrole|role|cr]\n\nMods can add roles, users can apply or relieve roles. Roles created with this cog have no permissions, it only functions for fun.\n\nCommands:\n  remove  Remove role\n  relieve Relieve a role\n  add     Add a role\n  apply   Apply a role\n  list    List all available roles\n\nType !role command for more info on a command.\nYou can also type !role category for more info on a category.\n```
+2018-04-25 05:36:04 #tesy-cmd @villabouwer780 (Brandon)#1376: !role toggle
+2018-04-25 05:36:05 #tesy-cmd @Synapse#0692: ```\n![customrole|role|cr]\n\nMods can add roles, users can apply or relieve roles. Roles created with this cog have no permissions, it only functions for fun.\n\nCommands:\n  remove  Remove role\n  relieve Relieve a role\n  add     Add a role\n  apply   Apply a role\n  list    List all available roles\n\nType !role command for more info on a command.\nYou can also type !role category for more info on a category.\n```
+2018-04-25 05:36:12 #tesy-cmd @villabouwer780 (Brandon)#1376: !list
+2018-04-25 05:36:17 #tesy-cmd @villabouwer780 (Brandon)#1376: !role list
+2018-04-25 05:36:17 #tesy-cmd @Synapse#0692: ```All available roles on DuckSquad\n\n```
+2018-04-25 05:36:29 #tesy-cmd @villabouwer780 (Brandon)#1376: !role add eend
+2018-04-25 05:36:30 #tesy-cmd @Synapse#0692: ```\n!customrole [add|new] <color> <name>\n\nAdd a role\nExample: role add ff0000 Red Role\n\n```
+2018-04-25 05:36:41 #tesy-cmd @villabouwer780 (Brandon)#1376: !roleset eend
+2018-04-25 05:36:42 #tesy-cmd @Synapse#0692: ```\n!roleset\n\nSettings for role invite cog\n\nCommands:\n  remove Remove a link between an invite and a role\n  add    Add an invite trigger\n  list   List all of the invites assigned to a role on this server\n\nType !roleset command for more info on a command.\nYou can also type !roleset category for more info on a category.\n```
+2018-04-25 05:37:15 #tesy-cmd @villabouwer780 (Brandon)#1376: )
+2018-04-25 11:48:34 #tesy-cmd @Lars✓verified#8115: !help
+2018-04-25 11:48:34 #tesy-cmd @MEE6#4876: 
+2018-04-25 11:48:36 #tesy-cmd @MEE6#4876 edited message from 2018-04-25 11:48:34 () to read: 
+2018-04-25 11:48:36 #tesy-cmd @Synapse#0692: Check your DM, @Lars✓verified! I have sent something for you :wink:
+2018-04-25 17:04:47 #tesy-cmd @Lars#8115: *help
+2018-04-25 17:04:56 #tesy-cmd @Ghostplay R2#1298: Hey there, @Lars! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-04-25 17:06:14 #tesy-cmd @Lars#8115: *pingMe
+2018-04-25 17:06:41 #tesy-cmd @Lars#8115: *multicolor
+2018-04-25 17:06:49 #tesy-cmd @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-25 17:09:49 #tesy-cmd @Lars#8115: *multicolor  Opperzwaan
+2018-04-25 17:09:57 #tesy-cmd @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-25 17:10:41 #tesy-cmd @Lars#8115: *multicolor x opperzwaan
+2018-04-25 17:10:49 #tesy-cmd @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-25 17:12:11 #tesy-cmd @villabouwer780 (Brandon)#1376: *multicolor red opperzwaan
+2018-04-25 17:12:19 #tesy-cmd @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-25 17:16:11 #tesy-cmd @Lars#8115: *multicolour opperzwaan
+2018-04-25 17:16:27 #tesy-cmd @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-25 19:45:00 #tesy-cmd @Lars#8115: 🔰
+2018-04-25 19:45:31 #tesy-cmd @Lars#8115: 🚑🚑
+2018-04-25 19:45:40 #tesy-cmd @Lars#8115: ambulanceambulance

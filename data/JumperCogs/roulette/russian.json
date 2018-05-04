@@ -1,0 +1,64 @@
+{
+    "Servers" : {
+        "245581810724110338" : {
+            "Players" : {},
+            "System" : {
+                "Active" : false,
+                "Min Bet" : 50,
+                "Pot" : 0,
+                "Roulette Initial" : false,
+                "Start Bet" : 0
+            }
+        },
+        "404099816617148416" : {
+            "Players" : {},
+            "System" : {
+                "Active" : false,
+                "Min Bet" : 50,
+                "Pot" : 0,
+                "Roulette Initial" : false,
+                "Start Bet" : 0
+            }
+        },
+        "427830207265767424" : {
+            "Players" : {},
+            "System" : {
+                "Active" : false,
+                "Min Bet" : 50,
+                "Pot" : 0,
+                "Roulette Initial" : false,
+                "Start Bet" : 0
+            }
+        },
+        "431503585713586177" : {
+            "Players" : {},
+            "System" : {
+                "Active" : false,
+                "Min Bet" : 50,
+                "Pot" : 0,
+                "Roulette Initial" : false,
+                "Start Bet" : 0
+            }
+        },
+        "438379038994857985" : {
+            "Players" : {},
+            "System" : {
+                "Active" : false,
+                "Min Bet" : 50,
+                "Pot" : 0,
+                "Roulette Initial" : false,
+                "Start Bet" : 0
+            }
+        },
+        "438724919728013312" : {
+            "Players" : {},
+            "System" : {
+                "Active" : false,
+                "Min Bet" : 50,
+                "Pot" : 0,
+                "Roulette Initial" : false,
+                "Start Bet" : 0
+            }
+        }
+    }
+}

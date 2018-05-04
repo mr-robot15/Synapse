@@ -1,0 +1,36 @@
+2018-04-30 15:14:02 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play paradise by George Ezra
+2018-04-30 15:14:14 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:14:02 (.play paradise by George Ezra)
+2018-04-30 15:14:33 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: !disconnect
+2018-04-30 15:14:39 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: .disconnect
+2018-04-30 15:14:40 #music-commands @Some Dragon#9190: An error occured while processing the command: `Command raised an exception: AttributeError: 'NoneType' object has no attribute 'disconnect'`
+2018-04-30 15:14:53 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: .play paradise by George Ezra
+2018-04-30 15:15:06 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427 deleted message from 2018-04-30 15:14:53 (.play paradise by George Ezra)
+2018-04-30 15:15:09 #music-commands @Some Dragon#9190: Added **George Ezra - Paradise (Official Video)** `[00:03:55]` to the queue list
+2018-04-30 15:15:09 #music-commands @Some Dragon#9190: An error occured while processing the command: `Command raised an exception: TimeoutError: `
+2018-04-30 15:15:10 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play .play **WolfieRaps - Check the Statistics Feat. Ricegum (Official Music Video) (Big Shaq Diss Track)
+2018-04-30 15:15:10 #music-commands @Synapse#0692: Queued.
+2018-04-30 15:15:28 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: !resume
+2018-04-30 15:15:28 #music-commands @Synapse#0692: Nothing paused, nothing to resume.
+2018-04-30 15:15:34 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play
+2018-04-30 15:15:34 #music-commands @Synapse#0692: ```\n!play <url_or_search_terms>\n\nPlays a link / searches and play\n\n```
+2018-04-30 15:15:39 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: !skip
+2018-04-30 15:15:39 #music-commands @Synapse#0692: Skipping...
+2018-04-30 17:47:51 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play Aero Chord 4U
+2018-04-30 17:49:42 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: !volume 100
+2018-04-30 17:49:51 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: ;skip
+2018-04-30 17:49:54 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: !skip
+2018-04-30 17:49:55 #music-commands @Synapse#0692: Skipping...
+2018-04-30 17:49:58 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play Aero Chord 4U
+2018-04-30 17:51:40 #music-commands @I Lιкє Ɓιя∂ιєѕ#2427: !play Aero Chord 4U
+2018-04-30 18:00:46 #music-commands @Domus#0611: ;;join
+2018-04-30 18:00:46 #music-commands @FredBoat♪♪#7284: Joining General
+2018-04-30 18:00:53 #music-commands @Domus#0611: ;;play am am am alex
+2018-04-30 18:00:53 #music-commands @FredBoat♪♪#7284: Searching YouTube for `am am am alex`...
+2018-04-30 18:00:54 #music-commands @FredBoat♪♪#7284 edited message from 2018-04-30 18:00:53 (Searching YouTube for `am am am alex`...) to read: **Please select a track with the `;;play 1-5` command:**\n**1:** a l e x - am am am (01:23)\n**2:** ALEX - AM AM AM (01:22)\n**3:** 4 A.M. - Alex G Original (04:20)\n**4:** Alex Bugnon - Around 12:15 AM (04:53)\n**5:** ALEX'S CHANNEL IS MINE NOW!! (11:57)
+2018-04-30 18:00:57 #music-commands @Domus#0611: 1
+2018-04-30 18:01:00 #music-commands @Domus#0611: ;;1
+2018-04-30 18:01:00 #music-commands @FredBoat♪♪#7284 edited message from 2018-04-30 18:00:53 (**Please select a track with the `;;play 1-5` command:**\n**1:** a l e x - am am am (01:23)\n**2:** ALEX - AM AM AM (01:22)\n**3:** 4 A.M. - Alex G Original (04:20)\n**4:** Alex Bugnon - Around 12:15 AM (04:53)\n**5:** ALEX'S CHANNEL IS MINE NOW!! (11:57)) to read: Song **#1** has been selected: **a l e x - am am am** (01:23)
+2018-04-30 18:01:05 #music-commands @Domus#0611: ;;loop
+2018-04-30 18:01:05 #music-commands @FredBoat♪♪#7284: ĐØ₥Ʉ₴:  Proper usage:```md\n;;loop single|all|off\n#Toggle between repeat modes.\n```
+2018-04-30 18:01:12 #music-commands @Domus#0611: ;;loop single
+2018-04-30 18:01:12 #music-commands @FredBoat♪♪#7284: The player will now repeat the current track.

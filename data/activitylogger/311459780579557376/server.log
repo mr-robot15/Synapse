@@ -1,0 +1,125 @@
+2018-04-22 16:56:55 this bot joined the server
+2018-04-22 16:56:55 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-22 16:57:05 Member role add: 'BOT' role was added to @Synapse#0692
+2018-04-22 16:57:14 Role permissions: 'Dyno' changed from 2097176631 to 2097438839
+2018-04-22 16:57:14 Role position: 'Dyno' changed from 1 to 2
+2018-04-22 16:57:14 Role position: 'BOT' changed from 1 to 3
+2018-04-22 16:57:14 Role position: 'ROS Player' changed from 2 to 4
+2018-04-22 16:57:14 Role position: 'CS:GO Player' changed from 3 to 5
+2018-04-22 16:57:14 Role position: 'DotaPlayer' changed from 4 to 6
+2018-04-22 16:57:14 Role position: 'GamersAnalog' changed from 5 to 7
+2018-04-22 16:57:14 Role position: 'OWNER' changed from 6 to 8
+2018-04-22 16:57:14 Role position: 'Vexera' changed from 7 to 9
+2018-04-22 16:57:14 Role position: 'MEMBER' changed from 8 to 10
+2018-04-22 16:57:15 Role renamed: 'BOT' to 'BOTS'
+2018-04-22 16:57:40 Member nickname: '@Synapse#0692' (id 435538622293344266) changed nickname from 'None' to 'Nadeko'
+2018-04-23 01:56:50 Member role remove: The 'GamersAnalog' role was removed from @Voker!#2159
+2018-04-23 01:56:50 Member role remove: The 'DotaPlayer' role was removed from @Voker!#2159
+2018-04-23 01:56:51 Member role remove: The 'CS:GO Player' role was removed from @Voker!#2159
+2018-04-23 01:56:52 Member role add: 'CS:GO Player' role was added to @Voker!#2159
+2018-04-23 01:56:52 Member role add: 'DotaPlayer' role was added to @Voker!#2159
+2018-04-23 01:56:52 Member role add: 'GamersAnalog' role was added to @Voker!#2159
+2018-04-23 01:57:02 Role created: 'new role' (id 437793997017186305)
+2018-04-23 01:58:14 Role permissions: 'Synapse' changed from 8 to 262216
+2018-04-23 01:58:15 Role renamed: 'new role' to 'CO-OWNER'
+2018-04-23 01:58:15 Role color: 'new role' changed from #000000 to #577c1a
+2018-04-23 01:58:15 Role mentionable: 'CO-OWNER' is now mentionable
+2018-04-23 01:58:15 Role hoist: 'CO-OWNER' is now shown seperately
+2018-04-23 01:58:15 Role permissions: 'new role' changed from 104324161 to 267910227
+2018-04-23 01:58:21 Member role add: 'CO-OWNER' role was added to @Voker!#2159
+2018-04-23 01:58:24 Member role remove: The 'CS:GO Player' role was removed from @Voker!#2159
+2018-04-23 01:58:24 Member role remove: The 'DotaPlayer' role was removed from @Voker!#2159
+2018-04-23 01:58:24 Member role remove: The 'GamersAnalog' role was removed from @Voker!#2159
+2018-04-23 01:58:58 Channel created: chit-chat
+2018-04-23 02:08:07 Channel created: FreeForAll
+2018-04-23 02:08:10 Channel position: FreeForAll moved from 5 to 1
+2018-04-23 02:08:10 Channel position: Mobile Legend moved from 1 to 2
+2018-04-23 02:08:10 Channel position: Dota 2 moved from 2 to 3
+2018-04-23 02:08:10 Channel position: CS:GO moved from 3 to 4
+2018-04-23 02:08:10 Channel position: RulesOfSurvival moved from 4 to 5
+2018-04-23 02:08:43 Channel overwrites: Mobile Legend (402474734044053513): role @everyone (311459780579557376) updated to values 3146752, 0 (was 0, 1048576)
+2018-04-23 02:08:56 Channel overwrites: Dota 2 (437652894184112129): role @everyone (311459780579557376) updated to values 3146752, 0 (was 0, 1048576)
+2018-04-23 02:09:18 Channel overwrites: CS:GO (437653347286253580): role @everyone (311459780579557376) updated to values 3146752, 0 (was 0, 1048576)
+2018-04-23 02:09:28 Channel overwrites: RulesOfSurvival (437655074236399619): role @everyone (311459780579557376) updated to values 3146752, 0 (was 0, 1048576)
+2018-04-23 02:11:04 Channel created: TextChannel
+2018-04-23 02:11:13 Channel position: chit-chat moved from 2 to 1
+2018-04-23 02:11:13 Channel position: rules moved from 1 to 2
+2018-04-23 02:11:13 Channel overwrites: rules (437649875145064458): role OWNER (437648122123124756) removed (was 1024, 0)
+2018-04-23 02:11:13 Channel overwrites: rules (437649875145064458): role @everyone (311459780579557376) removed (was 1024, 805308433)
+2018-04-23 02:11:13 Channel overwrites: rules (437649875145064458): role MEMBER (402474331579613186) removed (was 0, 805320721)
+2018-04-23 02:11:15 Channel position: rules moved from 2 to 1
+2018-04-23 02:11:15 Channel position: chit-chat moved from 1 to 2
+2018-04-23 02:11:18 Channel position: rules moved from 1 to 0
+2018-04-23 02:11:18 Channel position: chit-chat moved from 2 to 1
+2018-04-23 02:11:18 Channel position: general moved from 0 to 2
+2018-04-23 02:11:29 Channel created: Voice Channel
+2018-04-23 02:11:36 Channel position: Mobile Legend moved from 2 to 1
+2018-04-23 02:11:36 Channel position: Dota 2 moved from 3 to 2
+2018-04-23 02:11:36 Channel position: CS:GO moved from 4 to 3
+2018-04-23 02:11:36 Channel position: RulesOfSurvival moved from 5 to 4
+2018-04-23 02:11:36 Channel position: FreeForAll moved from 1 to 5
+2018-04-23 02:11:39 Channel position: Dota 2 moved from 2 to 1
+2018-04-23 02:11:39 Channel position: CS:GO moved from 3 to 2
+2018-04-23 02:11:39 Channel position: RulesOfSurvival moved from 4 to 3
+2018-04-23 02:11:39 Channel position: FreeForAll moved from 5 to 4
+2018-04-23 02:11:39 Channel position: Mobile Legend moved from 1 to 5
+2018-04-23 02:11:39 Channel overwrites: Mobile Legend (402474734044053513): role @everyone (311459780579557376) removed (was 3146752, 0)
+2018-04-23 02:11:39 Channel overwrites: Mobile Legend (402474734044053513): role MEMBER (402474331579613186) removed (was 1048576, 0)
+2018-04-23 02:11:39 Channel overwrites: Mobile Legend (402474734044053513): role GamersAnalog (437651008924024842) removed (was 3145728, 805306385)
+2018-04-23 02:11:43 Channel position: CS:GO moved from 2 to 1
+2018-04-23 02:11:43 Channel position: RulesOfSurvival moved from 3 to 2
+2018-04-23 02:11:43 Channel position: FreeForAll moved from 4 to 3
+2018-04-23 02:11:43 Channel position: Mobile Legend moved from 5 to 4
+2018-04-23 02:11:43 Channel position: Dota 2 moved from 1 to 5
+2018-04-23 02:11:43 Channel overwrites: Dota 2 (437652894184112129): role @everyone (311459780579557376) removed (was 3146752, 0)
+2018-04-23 02:11:43 Channel overwrites: Dota 2 (437652894184112129): role DotaPlayer (437651692809355275) removed (was 1048576, 0)
+2018-04-23 02:11:45 Channel position: RulesOfSurvival moved from 2 to 1
+2018-04-23 02:11:45 Channel position: FreeForAll moved from 3 to 2
+2018-04-23 02:11:45 Channel position: Mobile Legend moved from 4 to 3
+2018-04-23 02:11:45 Channel position: Dota 2 moved from 5 to 4
+2018-04-23 02:11:46 Channel position: CS:GO moved from 1 to 5
+2018-04-23 02:11:46 Channel overwrites: CS:GO (437653347286253580): role @everyone (311459780579557376) removed (was 3146752, 0)
+2018-04-23 02:11:46 Channel overwrites: CS:GO (437653347286253580): role CS:GO Player (437653087235211275) removed (was 1048576, 0)
+2018-04-23 02:11:49 Channel position: FreeForAll moved from 2 to 1
+2018-04-23 02:11:49 Channel position: Mobile Legend moved from 3 to 2
+2018-04-23 02:11:49 Channel position: Dota 2 moved from 4 to 3
+2018-04-23 02:11:49 Channel position: CS:GO moved from 5 to 4
+2018-04-23 02:11:49 Channel position: RulesOfSurvival moved from 1 to 5
+2018-04-23 02:11:49 Channel overwrites: RulesOfSurvival (437655074236399619): role ROS Player (437654910193106964) removed (was 1048576, 0)
+2018-04-23 02:11:49 Channel overwrites: RulesOfSurvival (437655074236399619): role @everyone (311459780579557376) removed (was 3146752, 0)
+2018-04-23 02:12:40 Channel rename: Voice Channel renamed to MabarRoom
+2018-04-23 02:12:52 Channel rename: MabarRoom renamed to Mabar Room
+2018-04-23 08:00:14 Member username: '@GGWP COK#9372' (id 309998898309758976) changed username from 'GGWP COK' to 'Ice Frog'
+2018-04-23 08:13:42 Channel rename: Mabar Room renamed to Voice Chat
+2018-04-23 11:30:37 Member join: @MEE6#4876 (id 159985870458322944)
+2018-04-23 11:30:37 Role created: 'MEE6' (id 437938341774753792)
+2018-04-23 11:30:37 Member role add: 'MEE6' role was added to @MEE6#4876
+2018-04-23 11:31:23 Member nickname: '@MEE6#4876' (id 159985870458322944) changed nickname from 'None' to 'Bot Private'
+2018-04-23 11:31:26 Member role add: 'BOTS' role was added to @MEE6#4876
+2018-04-23 11:36:09 Role created: 'new role' (id 437939736158535680)
+2018-04-23 11:36:32 Role permissions: 'MEE6' changed from 66321471 to 66583679
+2018-04-23 11:36:33 Role renamed: 'new role' to 'Moderator'
+2018-04-23 11:36:33 Role color: 'new role' changed from #000000 to #206694
+2018-04-23 11:36:33 Role hoist: 'Moderator' is now shown seperately
+2018-04-23 11:36:33 Role permissions: 'new role' changed from 104324161 to 238541889
+2018-04-23 11:36:41 Role created: 'new role' (id 437939871311724544)
+2018-04-23 13:33:10 Member join: @akhmad // dignity#9700 (id 269632862506975242)
+2018-04-23 13:33:19 Member leave: @akhmad // dignity#9700 (id 269632862506975242)
+2018-04-23 15:21:04 Member nickname: '@Ice Frog#9372' (id 309998898309758976) changed nickname from 'Gondes Mambu Wana' to 'ICEFROG'
+2018-04-23 15:21:14 Member nickname: '@Ice Frog#9372' (id 309998898309758976) changed nickname from 'ICEFROG' to 'GABE NOWELL'
+2018-04-25 03:32:52 Member join: @SazShineS#6345 (id 297964978722308096)
+2018-04-25 03:46:27 Member join: @Baharizki#6989 (id 395804346048315392)
+2018-04-25 04:29:30 Channel created: PUBG
+2018-04-25 04:29:40 Role created: 'new role' (id 438557181810573312)
+2018-04-25 04:30:30 Role renamed: 'new role' to 'PUBG Player'
+2018-04-25 04:30:30 Role color: 'new role' changed from #000000 to #15443d
+2018-04-25 04:30:30 Role mentionable: 'PUBG Player' is now mentionable
+2018-04-25 04:30:30 Role hoist: 'PUBG Player' is now shown seperately
+2018-04-25 04:31:02 Member role add: 'PUBG Player' role was added to @Baharizki#6989
+2018-04-25 04:31:14 Member role add: 'MEMBER' role was added to @Baharizki#6989
+2018-04-25 05:43:37 Member role add: 'MEMBER' role was added to @SazShineS#6345
+2018-04-25 06:57:27 Member username: '@LOL#6090' (id 311448799333580801) changed username from 'LOL' to 'Ariana'
+2018-04-25 07:51:26 Member nickname: '@ilin#3496' (id 364404073757278208) changed nickname from 'Minion' to 'Iline'
+2018-04-25 15:51:54 Member username: '@Ariana#6090' (id 311448799333580801) changed username from 'Ariana' to 'Gajah'
+2018-04-25 15:53:37 Member username: '@Gajah#6090' (id 311448799333580801) changed username from 'Gajah' to 'Ninja'
+2018-04-27 09:01:33 Member role add: 'PUBG Player' role was added to @APASIHCIL BAWEL#2931

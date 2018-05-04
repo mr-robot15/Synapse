@@ -1,0 +1,151 @@
+2018-04-27 15:01:17 #spam @MI3HI#4130: !help
+2018-04-27 15:01:18 #spam @Rythm#3722: ✅ **Check <https://rythmbot.co/features#list> for a list of commands**
+2018-04-27 15:01:18 #spam @Tatsumaki#8792: 🆙  |  **MI3HI leveled up!** (attachment url(s): https://cdn.discordapp.com/attachments/439354224971743232/439440914969264128/levelup.png)
+2018-04-27 15:01:20 #spam @Synapse#0692: Check your DM, @MI3HI! I have sent something for you :wink:
+2018-04-27 15:04:28 #spam @MI3HI#4130: t@help
+2018-04-27 15:04:29 #spam @Tatsumaki#8792: ```fix\nModerator Commands List \n```\nUse `t@help [command]` to get more info on a specific command, for example: `t@help stats`\n\n**Configuration - **`autorole` `disable` `enable` `goodbye` `ignore` `language` `leveledroles` `notify` `nsfw` `persistence` `prefix` `selfroles` `timezone` `welcome` `whitelist` \n**Information - **`stats` \n**Information - **`twitch` \n**Server Management - **`ban` `blacklist` `deltag` `help` `kick` `points` `prune` `scores` \n\n```pl\n# Don't include the example brackets when using commands!\n# To view standard commands, use t!help\n```
+2018-04-27 15:05:06 #spam @MI3HI#4130: stats
+2018-04-27 15:05:11 #spam @MI3HI#4130: !stats
+2018-04-27 15:05:11 #spam @Rythm#3722: 
+2018-04-27 15:05:11 #spam @Rythm#3722 edited message from 2018-04-27 15:05:11 () to read: 
+2018-04-27 15:06:54 #spam @MI3HI#4130: t@help stats
+2018-04-27 15:06:54 #spam @Tatsumaki#8792: **`t@stats`** __`Displays Tatsumaki's statistics`__\n\n**Usage**: t@stats \n\n**Examples:**\n**`t@stats `**  shows you statistics about Tatsumaki
+2018-04-27 15:07:10 #spam @MI3HI#4130: !points
+2018-04-27 15:07:12 #spam @Synapse#0692: ```\n!points\n\nPoints settings\n\nCommands:\n  remove  Takes away points from a member or multiple members. Defaults to au...\n  balance Allows to show the balance of a user. Defaults to author.\n  add     Adds points to a member or multiple members. Defaults to author.\n  member  Member settings\n  list    Allows to show the balance of all the registered users.\n\nType !points command for more info on a command.\nYou can also type !points category for more info on a category.\n```
+2018-04-27 15:11:40 #spam @ClaytheRavenclaw#9408: twitch
+2018-04-27 15:34:52 #spam @MI3HI#4130: !settings prefix
+2018-04-27 15:34:52 #spam @Rythm#3722: 
+2018-04-27 15:34:52 #spam @Rythm#3722 edited message from 2018-04-27 15:34:52 () to read: 
+2018-04-27 15:35:14 #spam @MI3HI#4130: !settings prefix !!
+2018-04-27 15:35:14 #spam @Rythm#3722: 👍 **Prefix set to ** `!!`
+2018-04-27 15:35:28 #spam @MI3HI#4130: !clear 3
+2018-04-27 15:36:22 #spam @MI3HI#4130: !Clear 5
+2018-04-27 15:36:37 #spam @MI3HI#4130: !clear xx
+2018-04-27 16:30:20 #spam @MI3HI#4130: !!!play https://www.youtube.com/playlist?list=PLpejpqFGh4PefL_duLakQqsefzfUnD8VL
+2018-04-27 16:30:20 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Slow Farewell'' by Extreme Music (Dark Country 5)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:04]`
+2018-04-27 16:30:21 #spam @dabBot#0563: Added **16 songs** to the queue!
+2018-04-27 16:30:48 #spam @MI3HI#4130: !!!play https://www.youtube.com/playlist?list=PLpejpqFGh4PefL_duLakQqsefzfUnD8VL
+2018-04-27 16:30:49 #spam @dabBot#0563: Added **16 songs** to the queue!
+2018-04-27 16:32:09 #spam @MI3HI#4130: !!!play https://www.youtube.com/playlist?list=PLpejpqFGh4PefL_duLakQqsefzfUnD8VL
+2018-04-27 16:32:10 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Slow Farewell'' by Extreme Music (Dark Country 5)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:04]`
+2018-04-27 16:32:10 #spam @dabBot#0563: Added **16 songs** to the queue!
+2018-04-27 16:32:26 #spam @MI3HI#4130: !!!loop
+2018-04-27 16:32:26 #spam @dabBot#0563: **Enabled** queue looping!
+2018-04-27 16:36:16 #spam @dabBot#0563: Now playing **EPIC ROCK | ''For The Glory'' by All Good Things (2017)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:47]`
+2018-04-27 16:41:06 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Born Ready'' by All Good Things (2017)** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:48]`
+2018-04-27 16:45:00 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Hero'' by Mountains vs. Machines** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:16]`
+2018-04-27 16:48:20 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Can't Go To Hell'' by Sin Shake Sin** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:32]`
+2018-04-27 16:51:56 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Don't Stop The Devil'' by Dead Posey** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:09]`
+2018-04-27 16:55:10 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Get Up'' by All Good Things (Extreme Music)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:22]`
+2018-04-27 16:59:36 #spam @dabBot#0563: Now playing **Fall Out Boy - THE PHOENIX (Kinetic Typography Lyrics)** by **Kerry Paulazzo** `[04:09]`
+2018-04-27 17:03:48 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Man On Fire'' by Oh The Larceny** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:20]`
+2018-04-27 17:07:12 #spam @dabBot#0563: Now playing **UNRAVEL (FULL version - Tokyo Ghoul OP) - English opening cover by Jonathan Young** by **Jonathan Young** `[03:57]`
+2018-04-27 17:11:14 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Boogeyman'' by Dead Posey** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:33]`
+2018-04-27 17:14:50 #spam @dabBot#0563: Now playing **Cult To Follow - Leave It All Behind [HD]** by **MontageRock** `[03:44]`
+2018-04-27 17:18:36 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Legendary'' by Welshly Arms** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:52]`
+2018-04-27 17:22:36 #spam @dabBot#0563: Now playing **My Demons - Starset - (fan lyric video)** by **GoldenWolf** `[04:00]`
+2018-04-27 17:26:42 #spam @dabBot#0563: Now playing **Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO] | Worlds 2017 - League of Legends** by **League of Legends** `[03:56]`
+2018-04-27 17:30:43 #spam @dabBot#0563: Now playing **Centuries - Fall Out Boy Lyrics** by **Jordan0134** `[03:49]`
+2018-04-27 17:34:39 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Slow Farewell'' by Extreme Music (Dark Country 5)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:04]`
+2018-04-27 17:38:52 #spam @dabBot#0563: Now playing **EPIC ROCK | ''For The Glory'' by All Good Things (2017)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:47]`
+2018-04-27 17:43:51 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Born Ready'' by All Good Things (2017)** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:48]`
+2018-04-27 17:47:43 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Hero'' by Mountains vs. Machines** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:16]`
+2018-04-27 17:51:05 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Can't Go To Hell'' by Sin Shake Sin** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:32]`
+2018-04-27 17:54:47 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Don't Stop The Devil'' by Dead Posey** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:09]`
+2018-04-27 17:55:31 #spam @Lezaris/Tomi#6922: https://www.youtube.com/watch?v=uKF3nWssCoE&t=7411s
+2018-04-27 17:55:31 #spam @Lezaris/Tomi#6922 edited message from 2018-04-27 17:55:31 (https://www.youtube.com/watch?v=uKF3nWssCoE&t=7411s) to read: https://www.youtube.com/watch?v=uKF3nWssCoE&t=7411s
+2018-04-27 17:55:36 #spam @Lezaris/Tomi#6922: ;;play https://www.youtube.com/watch?v=uKF3nWssCoE&t=7411s
+2018-04-27 17:55:36 #spam @Lezaris/Tomi#6922 deleted message from 2018-04-27 17:55:36 (;;play https://www.youtube.com/watch?v=uKF3nWssCoE&t=7411s)
+2018-04-27 17:55:37 #spam @FredBoat♪♪#7284: **New Year Mix 2017 | Trap Nation & Indie Nation** has been added to the queue.
+2018-04-27 17:55:51 #spam @Lezaris/Tomi#6922: ;;skip
+2018-04-27 17:55:51 #spam @FredBoat♪♪#7284: Skipped track #1: **New Year Mix 2017 | Trap Nation & Indie Nation**
+2018-04-27 17:58:02 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Get Up'' by All Good Things (Extreme Music)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:22]`
+2018-04-27 18:02:30 #spam @dabBot#0563: Now playing **Fall Out Boy - THE PHOENIX (Kinetic Typography Lyrics)** by **Kerry Paulazzo** `[04:09]`
+2018-04-27 18:06:42 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Man On Fire'' by Oh The Larceny** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:20]`
+2018-04-27 18:10:04 #spam @dabBot#0563: Now playing **UNRAVEL (FULL version - Tokyo Ghoul OP) - English opening cover by Jonathan Young** by **Jonathan Young** `[03:57]`
+2018-04-27 18:14:05 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Boogeyman'' by Dead Posey** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:33]`
+2018-04-27 18:17:41 #spam @dabBot#0563: Now playing **Cult To Follow - Leave It All Behind [HD]** by **MontageRock** `[03:44]`
+2018-04-27 18:21:29 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Legendary'' by Welshly Arms** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:52]`
+2018-04-27 18:25:28 #spam @dabBot#0563: Now playing **My Demons - Starset - (fan lyric video)** by **GoldenWolf** `[04:00]`
+2018-04-27 18:29:34 #spam @dabBot#0563: Now playing **Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO] | Worlds 2017 - League of Legends** by **League of Legends** `[03:56]`
+2018-04-27 18:33:34 #spam @dabBot#0563: Now playing **Centuries - Fall Out Boy Lyrics** by **Jordan0134** `[03:49]`
+2018-04-27 18:37:25 #spam @dabBot#0563: Now playing **EPIC ROCK | ''For The Glory'' by All Good Things (2017)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:47]`
+2018-04-27 18:42:18 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Born Ready'' by All Good Things (2017)** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:48]`
+2018-04-27 18:46:10 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Hero'' by Mountains vs. Machines** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:16]`
+2018-04-27 18:49:30 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Can't Go To Hell'' by Sin Shake Sin** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:32]`
+2018-04-27 18:53:09 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Don't Stop The Devil'' by Dead Posey** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:09]`
+2018-04-27 18:56:21 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Get Up'' by All Good Things (Extreme Music)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:22]`
+2018-04-27 19:00:47 #spam @dabBot#0563: Now playing **Fall Out Boy - THE PHOENIX (Kinetic Typography Lyrics)** by **Kerry Paulazzo** `[04:09]`
+2018-04-27 19:05:02 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Man On Fire'' by Oh The Larceny** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:20]`
+2018-04-27 19:08:27 #spam @dabBot#0563: Now playing **UNRAVEL (FULL version - Tokyo Ghoul OP) - English opening cover by Jonathan Young** by **Jonathan Young** `[03:57]`
+2018-04-27 19:12:38 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Boogeyman'' by Dead Posey** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:33]`
+2018-04-27 19:16:15 #spam @dabBot#0563: Now playing **Cult To Follow - Leave It All Behind [HD]** by **MontageRock** `[03:44]`
+2018-04-27 19:20:05 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Legendary'' by Welshly Arms** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:52]`
+2018-04-27 19:20:41 #spam @Lezaris/Tomi#6922: ;;play https://www.youtube.com/watch?v=uKF3nWssCoE&t=7411s
+2018-04-27 19:20:44 #spam @Lezaris/Tomi#6922 deleted message from 2018-04-27 19:20:41 (;;play https://www.youtube.com/watch?v=uKF3nWssCoE&t=7411s)
+2018-04-27 19:20:42 #spam @FredBoat♪♪#7284: **New Year Mix 2017 | Trap Nation & Indie Nation** has been added to the queue.
+2018-04-27 19:20:48 #spam @Lezaris/Tomi#6922: ;;skip
+2018-04-27 19:20:48 #spam @FredBoat♪♪#7284: Skipped track #1: **New Year Mix 2017 | Trap Nation & Indie Nation**
+2018-04-27 19:24:02 #spam @dabBot#0563: Now playing **My Demons - Starset - (fan lyric video)** by **GoldenWolf** `[04:00]`
+2018-04-27 19:25:35 #spam @FredBoat♪♪#7284: All users have left the voice channel. The player has been paused.
+2018-04-27 19:28:06 #spam @dabBot#0563: Now playing **Legends Never Die (ft. Against The Current) [OFFICIAL AUDIO] | Worlds 2017 - League of Legends** by **League of Legends** `[03:56]`
+2018-04-27 19:32:05 #spam @dabBot#0563: Now playing **Centuries - Fall Out Boy Lyrics** by **Jordan0134** `[03:49]`
+2018-04-27 19:35:58 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Slow Farewell'' by Extreme Music (Dark Country 5)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:04]`
+2018-04-27 19:40:06 #spam @dabBot#0563: Now playing **EPIC ROCK | ''For The Glory'' by All Good Things (2017)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:47]`
+2018-04-27 19:44:58 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Born Ready'' by All Good Things (2017)** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:48]`
+2018-04-27 19:48:50 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Hero'' by Mountains vs. Machines** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:16]`
+2018-04-27 19:52:08 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Can't Go To Hell'' by Sin Shake Sin** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:32]`
+2018-04-27 19:55:41 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Don't Stop The Devil'' by Dead Posey** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:09]`
+2018-04-27 19:58:52 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Get Up'' by All Good Things (Extreme Music)** by **Jennyni20 (Epic Rock / Epic Pop)** `[04:22]`
+2018-04-27 20:03:19 #spam @dabBot#0563: Now playing **Fall Out Boy - THE PHOENIX (Kinetic Typography Lyrics)** by **Kerry Paulazzo** `[04:09]`
+2018-04-27 20:03:27 #spam @Lezaris/Tomi#6922: ;;play https://www.youtube.com/watch?v=uKF3nWssCoE&t=7411s
+2018-04-27 20:03:29 #spam @Lezaris/Tomi#6922 deleted message from 2018-04-27 20:03:27 (;;play https://www.youtube.com/watch?v=uKF3nWssCoE&t=7411s)
+2018-04-27 20:03:27 #spam @FredBoat♪♪#7284: **New Year Mix 2017 | Trap Nation & Indie Nation** has been added to the queue.
+2018-04-27 20:04:11 #spam @MI3HI#4130: !!!play https://www.youtube.com/playlist?list=PLpejpqFGh4PefL_duLakQqsefzfUnD8VL
+2018-04-27 20:04:13 #spam @MI3HI#4130 edited message from 2018-04-27 20:04:11 (!!!play https://www.youtube.com/playlist?list=PLpejpqFGh4PefL_duLakQqsefzfUnD8VL) to read: !!!play https://www.youtube.com/playlist?list=PLpejpqFGh4PefL_duLakQqsefzfUnD8VL
+2018-04-27 20:04:12 #spam @dabBot#0563: Added **16 songs** to the queue!
+2018-04-27 20:04:19 #spam @MI3HI#4130: !!!loop
+2018-04-27 20:04:19 #spam @dabBot#0563: **Disabled** queue looping!
+2018-04-27 20:05:28 #spam @MI3HI#4130: ;;play https://www.youtube.com/playlist?list=PLpejpqFGh4PefL_duLakQqsefzfUnD8VL
+2018-04-27 20:05:28 #spam @MI3HI#4130 deleted message from 2018-04-27 20:05:28 (;;play https://www.youtube.com/playlist?list=PLpejpqFGh4PefL_duLakQqsefzfUnD8VL)
+2018-04-27 20:05:28 #spam @FredBoat♪♪#7284: Found and added `16` songs from playlist **Epic rock**.
+2018-04-27 20:06:10 #spam @MI3HI#4130: ;;play https://www.youtube.com/watch?v=IcrbM1l_BoI
+2018-04-27 20:06:10 #spam @MI3HI#4130 deleted message from 2018-04-27 20:06:10 (;;play https://www.youtube.com/watch?v=IcrbM1l_BoI)
+2018-04-27 20:06:11 #spam @FredBoat♪♪#7284: **Avicii - Wake Me Up (Official Video)** has been added to the queue.
+2018-04-27 20:06:48 #spam @MI3HI#4130: ;;skip
+2018-04-27 20:06:48 #spam @FredBoat♪♪#7284: Skipped track #1: **New Year Mix 2017 | Trap Nation & Indie Nation**
+2018-04-27 20:06:51 #spam @MI3HI#4130: ;;skip
+2018-04-27 20:06:51 #spam @FredBoat♪♪#7284: Skipped track #1: **New Year Mix 2017 | Trap Nation & Indie Nation**
+2018-04-27 20:06:52 #spam @MI3HI#4130: ;;skip
+2018-04-27 20:06:55 #spam @FredBoat♪♪#7284: Skipped track #1: **EPIC ROCK | ''Slow Farewell'' by Extreme Music (Dark Country 5)**
+2018-04-27 20:06:57 #spam @MI3HI#4130: ;;skip
+2018-04-27 20:06:57 #spam @FredBoat♪♪#7284: Skipped track #1: **EPIC ROCK | ''For The Glory'' by All Good Things (2017)**
+2018-04-27 20:06:58 #spam @MI3HI#4130: ;;skip
+2018-04-27 20:06:58 #spam @FredBoat♪♪#7284: Skipped track #1: **EPIC ROCK | ''Born Ready'' by All Good Things (2017)**
+2018-04-27 20:07:00 #spam @MI3HI#4130: ;;skip
+2018-04-27 20:07:00 #spam @FredBoat♪♪#7284: @MI3HI:  You are sending commands too fast! Please slow down.\nYou can skip more than one song by using this command: `;;skip n-m`
+2018-04-27 20:07:04 #spam @Lezaris/Tomi#6922: lasst es dich
+2018-04-27 20:07:09 #spam @MI3HI#4130: ;;skip
+2018-04-27 20:07:14 #spam @FredBoat♪♪#7284: Skipped track #1: **EPIC ROCK | ''Hero'' by Mountains vs. Machines**
+2018-04-27 20:07:17 #spam @MI3HI#4130: ;;skip
+2018-04-27 20:07:17 #spam @FredBoat♪♪#7284: Skipped track #1: **EPIC ROCK | ''Can't Go To Hell'' by Sin Shake Sin**
+2018-04-27 20:07:23 #spam @Lezaris/Tomi#6922: ;;stop
+2018-04-27 20:07:23 #spam @MI3HI#4130: ;;skip
+2018-04-27 20:07:23 #spam @FredBoat♪♪#7284: The queue has been emptied, `12` tracks have been removed.
+2018-04-27 20:07:23 #spam @FredBoat♪♪#7284: The queue is empty!
+2018-04-27 20:07:28 #spam @Lezaris/Tomi#6922: ;;play https://www.youtube.com/watch?v=uKF3nWssCoE&t=7411s
+2018-04-27 20:07:30 #spam @Lezaris/Tomi#6922 deleted message from 2018-04-27 20:07:28 (;;play https://www.youtube.com/watch?v=uKF3nWssCoE&t=7411s)
+2018-04-27 20:07:29 #spam @FredBoat♪♪#7284: **New Year Mix 2017 | Trap Nation & Indie Nation** will now play.
+2018-04-27 20:07:34 #spam @dabBot#0563: Now playing **EPIC ROCK | ''Man On Fire'' by Oh The Larceny** by **Jennyni20 (Epic Rock / Epic Pop)** `[03:20]`
+2018-04-27 20:07:41 #spam @MI3HI#4130: ;;play https://www.youtube.com/watch?v=IcrbM1l_BoI
+2018-04-27 20:07:42 #spam @MI3HI#4130 deleted message from 2018-04-27 20:07:41 (;;play https://www.youtube.com/watch?v=IcrbM1l_BoI)
+2018-04-27 20:07:42 #spam @FredBoat♪♪#7284: **Avicii - Wake Me Up (Official Video)** has been added to the queue.
+2018-04-27 20:08:25 #spam @MI3HI#4130: ;;play https://www.youtube.com/watch?v=IcrbM1l_BoI
+2018-04-27 20:08:25 #spam @MI3HI#4130 deleted message from 2018-04-27 20:08:25 (;;play https://www.youtube.com/watch?v=IcrbM1l_BoI)
+2018-04-27 20:08:26 #spam @FredBoat♪♪#7284: **Avicii - Wake Me Up (Official Video)** has been added to the queue.
+2018-04-27 20:08:56 #spam @MI3HI#4130: !!!help
+2018-04-27 20:08:56 #spam @dabBot#0563: **Commands:**\n`about` Information about the bot\n`choose` Picks from a selection menu\n`discordfm` Plays music from discord.fm playlists\n`dump` Outputs the music queue as a json string\n`help` Shows command help\n`invite` Adds the bot to your server\n`jump` Skips to a time in the current song\n`load` Loads in a queue dump\n`loop` Repeats the whole song queue\n`nowplaying` Shows the current song\n`pause` Pauses & resumes the song\n`play` Adds a song to the queue and begins playing\n`providers` Lists all the available sources to play music from\n`queue` Shows the song queue\n`radio` Streams radio stations\n`remove` Removes a song from the queue\n`reorder` Changes the position of a song in the queue\n`repeat` Loops the current song\n`restart` Plays a song from the beginning\n`search` Searches for a song on youtube\n`shuffle` Shuffles the song queue\n`skip` Plays the next song in the queue\n`soundcloud` Searches for a song from soundcloud\n`stop` Stops playing and leaves the voice channel\n`volume` Changes the music volume\n\n**Quick start:** Use `!!!play <link>` to start playing a song, use the same command to add another song, `!!!skip` to go to the next song and `!!!stop` to stop playing and leave.
+2018-04-27 20:09:34 #spam @MI3HI#4130: !!!play ;;play https://www.youtube.com/watch?v=IcrbM1l_BoI
+2018-04-27 20:09:35 #spam @dabBot#0563: `1` Avicii - Wake Me Up (Official Video) by Avicii `[04:33]`\n`2` Avicii - Wake Me Up (Lyric Video) by Avicii `[04:12]`\n`3` Avicii - Wake Me Up (Lyrics) by AER Network `[04:08]`\n`4` ♪ DayZ Song - "Wake Me Up" Parody by samueljfw `[02:14]`\n`5` Drake - God's Plan by Drake `[05:57]`\n\n**To choose**, use `!!!choose <number>`\nExample: `!!!choose 2` would pick the second option.\n**To cancel**, use `!!!cancel`.
+2018-04-27 20:10:57 #spam @dabBot#0563: Now playing **UNRAVEL (FULL version - Tokyo Ghoul OP) - English opening cover by Jonathan Young** by **Jonathan Young** `[03:57]`
+2018-04-27 20:11:28 #spam @MI3HI#4130: !play ;;play https://www.youtube.com/watch?v=IcrbM1l_BoI

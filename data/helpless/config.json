@@ -1,0 +1,14 @@
+{
+    "bot" : {
+        "filter" : false,
+        "msg" : "Bot help has been disabled."
+    },
+    "dm" : {
+        "filter" : false,
+        "msg" : "Help via DM has been disabled."
+    },
+    "permission" : {
+        "filter" : true,
+        "msg" : "This command has been disabled."
+    }
+}

@@ -1,0 +1,523 @@
+2018-04-18 11:07:33 #Testing Server self-mute: Mr.Legend#3846 (id 420241052637855765)
+2018-04-18 11:07:37 #Testing Server self-unmute: Mr.Legend#3846 (id 420241052637855765)
+2018-04-18 11:07:39 #Testing Server self-deafen: Mr.Legend#3846 (id 420241052637855765)
+2018-04-18 11:07:41 #Testing Server self-undeafen: Mr.Legend#3846 (id 420241052637855765)
+2018-04-18 11:07:43 #Testing Voice channel leave: Mr.Legend#3846 (id 420241052637855765)
+2018-04-18 11:45:14 #Testing Voice channel join: Oxylibrium#7680 (id 181353804266995713), flags: self_mute
+2018-04-18 11:45:21 #Testing Voice channel leave: Oxylibrium#7680 (id 181353804266995713)
+2018-04-18 12:34:48 #Testing Voice channel join: SionRusher#5901 (id 364108438864658463)
+2018-04-18 12:34:53 #Testing Voice channel leave: SionRusher#5901 (id 364108438864658463)
+2018-04-18 15:45:48 #Testing Voice channel join: Haso_YT#6047 (id 434716318415978507)
+2018-04-18 15:48:40 #Testing Voice channel leave: Haso_YT#6047 (id 434716318415978507)
+2018-04-18 17:56:08 #Testing Voice channel join: eKe_God#7607 (id 298815944065679361)
+2018-04-18 17:56:13 #Testing Voice channel leave: eKe_God#7607 (id 298815944065679361)
+2018-04-18 20:53:41 #Testing Voice channel join: Erisa#9999 (id 228574821590499329), flags: self_mute
+2018-04-18 20:53:44 #Testing Voice channel leave: Erisa#9999 (id 228574821590499329)
+2018-04-18 20:55:43 #Testing Voice channel join: jagrosh#4824 (id 113156185389092864), flags: self_mute
+2018-04-18 20:55:46 #Testing Voice channel leave: jagrosh#4824 (id 113156185389092864)
+2018-04-18 22:09:23 #Testing Voice channel join: delineate#6464 (id 128044950024617984), moved from Testing 2
+2018-04-18 22:09:29 #Testing Voice channel join: Abal the Loli Breathing Bot#2172 (id 414706059148525569)
+2018-04-18 22:09:49 #Testing Server self-mute: delineate#6464 (id 128044950024617984)
+2018-04-18 22:15:51 #Testing Voice channel leave: delineate#6464 (id 128044950024617984)
+2018-04-18 22:38:22 #Testing Voice channel join: Teodoro#9753 (id 351794344002453515)
+2018-04-18 22:38:57 #Testing Voice channel leave: Teodoro#9753 (id 351794344002453515)
+2018-04-18 23:37:10 #Testing Voice channel leave: Abal the Loli Breathing Bot#2172 (id 414706059148525569)
+2018-04-19 03:16:29 #Testing Voice channel join: MaxineKotodama#7561 (id 404200275465732097)
+2018-04-19 03:16:35 #Testing Voice channel leave: MaxineKotodama#7561 (id 404200275465732097)
+2018-04-19 09:21:41 #Testing Voice channel join: 패드#6730 (id 279946523624603648)
+2018-04-19 09:21:44 #Testing Voice channel leave: 패드#6730 (id 279946523624603648)
+2018-04-19 11:11:28 #Testing Voice channel join: Luke#6723 (id 116930717241311236)
+2018-04-19 11:11:29 #Testing Voice channel leave: Luke#6723 (id 116930717241311236)
+2018-04-19 11:28:20 #Testing Voice channel join: 마이쿠#5651 (id 379775547838038028), moved from Music, flags: self_mute
+2018-04-19 11:28:22 #Testing Server self-unmute: 마이쿠#5651 (id 379775547838038028)
+2018-04-19 11:28:22 #Testing Server self-mute: 마이쿠#5651 (id 379775547838038028)
+2018-04-19 11:28:26 #Testing Voice channel leave: 마이쿠#5651 (id 379775547838038028)
+2018-04-19 14:20:38 #Testing Voice channel join: Swit#2997 (id 434645555327664130)
+2018-04-19 14:26:52 #Testing Voice channel join: ikheetchris#5989 (id 406364584044265474)
+2018-04-19 14:27:13 #Testing Voice channel leave: ikheetchris#5989 (id 406364584044265474)
+2018-04-19 15:55:51 #Testing Voice channel join: ! BaşkaN !#2775 (id 408597160477720576)
+2018-04-19 15:58:22 #Testing Voice channel join: 1024x2#1337 (id 288755577218138113)
+2018-04-19 15:58:23 #Testing Voice channel leave: 1024x2#1337 (id 288755577218138113) moving to Testing 2
+2018-04-19 16:10:24 #Testing Voice channel join: ITzTomi-A ||ITTA||#4835 (id 309054434506309643), flags: self_mute
+2018-04-19 16:10:28 #Testing Server self-unmute: ITzTomi-A ||ITTA||#4835 (id 309054434506309643)
+2018-04-19 16:10:38 #Testing Voice channel leave: ITzTomi-A ||ITTA||#4835 (id 309054434506309643) moving to Testing 2
+2018-04-19 16:18:20 #Testing Voice channel join: Scoobydoo#6301 (id 227037002967547904)
+2018-04-19 16:18:43 #Testing Voice channel leave: Scoobydoo#6301 (id 227037002967547904)
+2018-04-19 16:36:51 #Testing Voice channel join: Pitas220#5501 (id 262299206184599553), flags: self_mute
+2018-04-19 16:36:53 #Testing Voice channel leave: Pitas220#5501 (id 262299206184599553)
+2018-04-19 16:51:09 #Testing Voice channel join: Cosmic_Force#4168 (id 407113706229596160), flags: self_mute
+2018-04-19 16:51:11 #Testing Server self-unmute: Cosmic_Force#4168 (id 407113706229596160)
+2018-04-19 16:51:12 #Testing Voice channel leave: Cosmic_Force#4168 (id 407113706229596160)
+2018-04-19 16:51:13 #Testing Voice channel join: Cosmic_Force#4168 (id 407113706229596160)
+2018-04-19 16:51:28 #Testing Voice channel leave: Cosmic_Force#4168 (id 407113706229596160)
+2018-04-19 17:15:38 #Testing Voice channel join: jakobe0965#2776 (id 419820071905656844)
+2018-04-19 17:16:01 #Testing Voice channel leave: Swit#2997 (id 434645555327664130)
+2018-04-19 17:16:05 #Testing Voice channel leave: jakobe0965#2776 (id 419820071905656844)
+2018-04-19 21:02:20 #Testing Voice channel join: ZhanXD#8259 (id 105072895780212736)
+2018-04-19 21:02:27 #Testing Voice channel leave: ZhanXD#8259 (id 105072895780212736)
+2018-04-19 21:35:19 #Testing Voice channel join: PRE#5927 (id 198492405740077057)
+2018-04-19 21:35:21 #Testing Voice channel leave: PRE#5927 (id 198492405740077057)
+2018-04-19 22:29:31 #Testing Voice channel join: 🎮Dav3🎮#5216 (id 332953008071639041)
+2018-04-19 22:29:36 #Testing Voice channel leave: 🎮Dav3🎮#5216 (id 332953008071639041)
+2018-04-19 23:58:55 #Testing Voice channel join: KaanoyundaTR/17#5305 (id 331578589545889804)
+2018-04-19 23:58:57 #Testing Voice channel leave: KaanoyundaTR/17#5305 (id 331578589545889804)
+2018-04-20 07:59:38 #Testing Voice channel join: Pawky#3299 (id 245419467843174401)
+2018-04-20 07:59:41 #Testing Voice channel leave: Pawky#3299 (id 245419467843174401) moving to Music
+2018-04-20 19:16:29 #Testing Voice channel join: Даниил#1105 (id 287116998238928896)
+2018-04-20 19:16:33 #Testing Voice channel leave: Даниил#1105 (id 287116998238928896)
+2018-04-20 20:43:58 #Testing Voice channel join: luks#8652 (id 428236103464779808)
+2018-04-20 20:44:05 #Testing Voice channel leave: luks#8652 (id 428236103464779808) moving to Testing 3
+2018-04-20 21:32:29 #Testing Voice channel join: MomoAlfa01#7324 (id 353142803850854400), flags: self_mute
+2018-04-20 21:32:31 #Testing Voice channel leave: MomoAlfa01#7324 (id 353142803850854400)
+2018-04-20 21:33:05 #Testing Voice channel join: MomoAlfa01#7324 (id 353142803850854400), flags: self_mute
+2018-04-20 21:33:07 #Testing Voice channel leave: MomoAlfa01#7324 (id 353142803850854400)
+2018-04-20 21:46:33 #Testing Voice channel join: horseman#4780 (id 280844369769267200), flags: self_mute
+2018-04-20 21:46:42 #Testing Voice channel leave: horseman#4780 (id 280844369769267200)
+2018-04-20 22:03:31 #Testing Voice channel join: Cutiefruity#8216 (id 181302403738370048)
+2018-04-20 22:03:32 #Testing Voice channel leave: Cutiefruity#8216 (id 181302403738370048)
+2018-04-20 23:29:24 #Testing Voice channel join: Eldredge#3764 (id 300348308596064257), flags: self_deaf,self_mute
+2018-04-20 23:29:27 #Testing Voice channel leave: Eldredge#3764 (id 300348308596064257)
+2018-04-21 13:33:43 #Testing Voice channel join: suushii#4628 (id 101852812962443264)
+2018-04-21 13:33:52 #Testing Voice channel join: Akane#1166 (id 429307263040356363)
+2018-04-21 13:34:47 #Testing Voice channel leave: Akane#1166 (id 429307263040356363)
+2018-04-21 13:35:03 #Testing Voice channel join: Fennix#1150 (id 197540770306195456), flags: self_mute
+2018-04-21 13:35:08 #Testing Voice channel join: Akane#1166 (id 429307263040356363)
+2018-04-21 13:35:17 #Testing Voice channel leave: Akane#1166 (id 429307263040356363)
+2018-04-21 13:35:36 #Testing Voice channel leave: Fennix#1150 (id 197540770306195456)
+2018-04-21 13:36:26 #Testing Voice channel leave: suushii#4628 (id 101852812962443264) moving to Testing 2
+2018-04-21 16:28:36 #Testing Voice channel join: suushii#4628 (id 101852812962443264)
+2018-04-21 16:28:59 #Testing Voice channel leave: suushii#4628 (id 101852812962443264)
+2018-04-21 16:42:46 #Testing Voice channel join: FACTORY#3815 (id 246692044569837568)
+2018-04-21 16:44:48 #Testing Voice channel leave: FACTORY#3815 (id 246692044569837568)
+2018-04-21 17:57:57 #Testing Voice channel join: TannerGamero3o#3127 (id 395755443621986317)
+2018-04-21 17:58:00 #Testing Voice channel leave: TannerGamero3o#3127 (id 395755443621986317) moving to Music
+2018-04-21 18:04:16 #Testing Voice channel join: ❥ღVingador👑Solitario👑ღ#3358 (id 414543774585192449)
+2018-04-21 18:04:25 #Testing Voice channel leave: ❥ღVingador👑Solitario👑ღ#3358 (id 414543774585192449)
+2018-04-21 18:04:51 #Testing Voice channel join: DannyRomanul#6216 (id 385385880925503490), flags: self_mute
+2018-04-21 18:05:23 #Testing Voice channel join: suushii#4628 (id 101852812962443264)
+2018-04-21 18:05:29 #Testing Voice channel leave: suushii#4628 (id 101852812962443264)
+2018-04-21 18:05:36 #Testing Voice channel join: ❥ღVingador👑Solitario👑ღ#3358 (id 414543774585192449), moved from Testing 4
+2018-04-21 18:05:39 #Testing Voice channel leave: DannyRomanul#6216 (id 385385880925503490)
+2018-04-21 18:16:27 #Testing Voice channel leave: ❥ღVingador👑Solitario👑ღ#3358 (id 414543774585192449)
+2018-04-22 00:07:59 #Testing Voice channel join: stupid cat#8160 (id 103347843934212096), flags: self_mute
+2018-04-22 00:08:01 #Testing Voice channel leave: stupid cat#8160 (id 103347843934212096)
+2018-04-22 09:27:12 #Testing Voice channel join: Kitsune#7847 (id 405406954454908939), moved from Testing 3
+2018-04-22 09:28:57 #Testing Voice channel leave: Kitsune#7847 (id 405406954454908939)
+2018-04-22 09:53:16 #Testing Voice channel join: Luís#4033 (id 413076000449101836), flags: self_mute
+2018-04-22 09:53:18 #Testing Voice channel leave: Luís#4033 (id 413076000449101836)
+2018-04-22 11:42:50 #Testing Voice channel join: андрей#2265 (id 423125348801183754)
+2018-04-22 11:42:55 #Testing Voice channel leave: андрей#2265 (id 423125348801183754)
+2018-04-22 12:48:45 #Testing Voice channel join: Gangsta#7867 (id 172410339667869696)
+2018-04-22 12:48:46 #Testing Voice channel leave: Gangsta#7867 (id 172410339667869696)
+2018-04-22 12:48:46 #Testing Voice channel leave: Canino#2600 (id 138334517550120960)
+2018-04-22 14:29:24 #Testing Voice channel join: Бот  Боб#0877 (id 401727504752181249)
+2018-04-22 14:29:26 #Testing Voice channel leave: Бот  Боб#0877 (id 401727504752181249) moving to Music
+2018-04-22 15:39:42 #Testing Voice channel join: xeon#5988 (id 419243103254478868), flags: self_mute
+2018-04-22 15:39:48 #Testing Voice channel leave: xeon#5988 (id 419243103254478868)
+2018-04-22 18:56:29 #Testing Voice channel join: k33per13013#3944 (id 224927837461676032)
+2018-04-22 18:56:34 #Testing Voice channel leave: k33per13013#3944 (id 224927837461676032)
+2018-04-22 21:07:31 #Testing Voice channel join: Nate#1234 (id 328680177066442752), moved from Testing 3
+2018-04-22 21:07:35 #Testing Voice channel leave: Nate#1234 (id 328680177066442752) moving to Music 2
+2018-04-22 22:06:20 #Testing Voice channel join: 亗Ɇ₲Ɏ✹₥₳Ɽ₴Ⱨ₳Ⱡ✹#8483 (id 432184142298349577), flags: self_mute
+2018-04-22 22:06:22 #Testing Voice channel join: Cyl#9466 (id 364156070475726851)
+2018-04-22 22:06:24 #Testing Server self-mute: Cyl#9466 (id 364156070475726851)
+2018-04-22 22:10:14 #Testing Voice channel leave: 亗Ɇ₲Ɏ✹₥₳Ɽ₴Ⱨ₳Ⱡ✹#8483 (id 432184142298349577)
+2018-04-22 22:10:30 #Testing Voice channel leave: Cyl#9466 (id 364156070475726851)
+2018-04-22 22:57:21 #Testing Voice channel join: Taylor Dutch#4402 (id 379212829741416448)
+2018-04-22 22:57:26 #Testing Voice channel leave: Taylor Dutch#4402 (id 379212829741416448)
+2018-04-23 01:42:00 #Testing Voice channel join: norac#9654 (id 259037874786271242)
+2018-04-23 01:42:02 #Testing Voice channel leave: norac#9654 (id 259037874786271242) moving to Music
+2018-04-23 04:17:27 #Testing Voice channel join: Cyl#9466 (id 364156070475726851)
+2018-04-23 04:17:33 #Testing Voice channel join: Kyoko#6125 (id 375750637540868107), moved from Music 2
+2018-04-23 04:17:39 #Testing Voice channel leave: Cyl#9466 (id 364156070475726851) moving to Testing 2
+2018-04-23 04:17:50 #Testing Voice channel leave: Kyoko#6125 (id 375750637540868107) moving to Testing 2
+2018-04-23 10:01:07 #Testing Voice channel join: Kia_The_Fox#7509 (id 403082667509415946), flags: self_deaf,self_mute
+2018-04-23 10:01:10 #Testing Voice channel leave: Kia_The_Fox#7509 (id 403082667509415946) moving to Testing 2
+2018-04-23 10:06:38 #Testing Voice channel join: Kia_The_Fox#7509 (id 403082667509415946), moved from Testing 3, flags: self_deaf,self_mute
+2018-04-23 10:11:46 #Testing Voice channel leave: Kia_The_Fox#7509 (id 403082667509415946)
+2018-04-23 13:12:28 #Testing Voice channel join: Kamil997#3753 (id 377872353633501185)
+2018-04-23 13:12:40 #Testing Voice channel leave: Kamil997#3753 (id 377872353633501185)
+2018-04-23 13:17:59 #Testing Voice channel join: андрей#2265 (id 423125348801183754), moved from Testing 3
+2018-04-23 13:18:00 #Testing Voice channel leave: андрей#2265 (id 423125348801183754) moving to Testing 2
+2018-04-23 13:59:57 #Testing Voice channel join: ry00001#3487 (id 190544080164487168)
+2018-04-23 14:00:18 #Testing Voice channel leave: ry00001#3487 (id 190544080164487168)
+2018-04-23 14:01:51 #Testing Voice channel join: Saya#0113 (id 325231623262044162), flags: self_mute
+2018-04-23 14:01:57 #Testing Voice channel join: NotDeadYet#2782 (id 398115154832654346)
+2018-04-23 14:01:58 #Testing Voice channel join: nelsonmanbot#9278 (id 246644444747661312)
+2018-04-23 14:01:58 #Testing Voice channel join: Abide#9601 (id 267030669627097089)
+2018-04-23 14:01:58 #Testing Voice channel join: Z-Bot#6779 (id 405365319901904899)
+2018-04-23 14:02:03 #Testing Voice channel leave: Saya#0113 (id 325231623262044162)
+2018-04-23 14:06:58 #Testing Voice channel leave: Abide#9601 (id 267030669627097089)
+2018-04-23 14:08:55 #Testing Voice channel join: pke6Bot#7311 (id 330806069137768458)
+2018-04-23 14:09:21 #Testing Voice channel leave: pke6Bot#7311 (id 330806069137768458)
+2018-04-23 14:11:08 #Testing Voice channel join: ton#9705 (id 401736327793606667)
+2018-04-23 14:11:13 #Testing Voice channel leave: ton#9705 (id 401736327793606667)
+2018-04-23 14:22:38 #Testing Voice channel join: андрей#2265 (id 423125348801183754)
+2018-04-23 14:22:44 #Testing Voice channel leave: андрей#2265 (id 423125348801183754)
+2018-04-23 14:29:23 #Testing Voice channel join: adam sälgström#6254 (id 254581774514913280)
+2018-04-23 14:29:25 #Testing Voice channel leave: adam sälgström#6254 (id 254581774514913280)
+2018-04-23 14:33:31 #Testing Voice channel join: Isac#6393 (id 215186659585556481)
+2018-04-23 14:33:43 #Testing Voice channel leave: Isac#6393 (id 215186659585556481)
+2018-04-23 15:08:03 #Testing Voice channel join: BoysOfHear#7505 (id 341497643949883392), flags: self_mute
+2018-04-23 15:08:07 #Testing Voice channel leave: BoysOfHear#7505 (id 341497643949883392)
+2018-04-23 15:11:32 #Testing Voice channel leave: NotDeadYet#2782 (id 398115154832654346) moving to Testing 2
+2018-04-23 15:12:17 #Testing Voice channel join: سكايبر#2593 (id 437988694503194625)
+2018-04-23 15:12:27 #Testing Voice channel leave: سكايبر#2593 (id 437988694503194625) moving to Testing 2
+2018-04-23 15:13:57 #Testing Voice channel join: Oxylibrium#7680 (id 181353804266995713), moved from Testing 2
+2018-04-23 15:14:42 #Testing Voice channel leave: Oxylibrium#7680 (id 181353804266995713) moving to Testing 2
+2018-04-23 15:14:50 #Testing Voice channel join: Oxylibrium#7680 (id 181353804266995713), moved from Testing 2
+2018-04-23 15:15:25 #Testing Voice channel join: risa#4220 (id 378844751136292865)
+2018-04-23 15:15:46 #Testing Voice channel leave: risa#4220 (id 378844751136292865)
+2018-04-23 15:16:05 #Testing Voice channel join: GeorgeKillerTop#2638 (id 421760890908704778)
+2018-04-23 15:18:17 #Testing Voice channel join: The tank Flo#2192 (id 247040823399546880), moved from Testing 4
+2018-04-23 15:18:24 #Testing Voice channel leave: Oxylibrium#7680 (id 181353804266995713)
+2018-04-23 15:18:31 #Testing Voice channel leave: The tank Flo#2192 (id 247040823399546880)
+2018-04-23 15:18:34 #Testing Voice channel leave: GeorgeKillerTop#2638 (id 421760890908704778) moving to Testing 2
+2018-04-23 15:22:50 #Testing Voice channel join: I Radu#5443 (id 429914489429950474)
+2018-04-23 15:23:30 #Testing Voice channel leave: I Radu#5443 (id 429914489429950474)
+2018-04-23 15:23:48 #Testing Voice channel join: I Radu#5443 (id 429914489429950474)
+2018-04-23 15:24:18 #Testing Voice channel leave: I Radu#5443 (id 429914489429950474) moving to Testing 4
+2018-04-23 15:32:17 #Testing Voice channel join: رٱئد ٱلُـ‘ـُحُـ‘ـُربُـ‘ـُيُـ‘ـُ#4563 (id 430379038788419594)
+2018-04-23 15:32:32 #Testing Voice channel leave: رٱئد ٱلُـ‘ـُحُـ‘ـُربُـ‘ـُيُـ‘ـُ#4563 (id 430379038788419594) moving to Testing 3
+2018-04-23 15:34:22 #Testing Voice channel join: {Air-H} Hopeless#3882 (id 220217382524813312)
+2018-04-23 15:34:37 #Testing Voice channel leave: {Air-H} Hopeless#3882 (id 220217382524813312) moving to Testing 2
+2018-04-23 15:35:19 #Testing Voice channel join: {Air-H} Hopeless#3882 (id 220217382524813312), moved from Testing 4
+2018-04-23 15:35:50 #Testing Voice channel join: Sheepbot#2537 (id 244423082045997057), flags: mute
+2018-04-23 15:35:50 #Testing Voice channel join: [!!] Bot2illa#3305 (id 397149515192205324)
+2018-04-23 15:36:25 #Testing Voice channel leave: [!!] Bot2illa#3305 (id 397149515192205324)
+2018-04-23 15:38:10 #Testing Voice channel join: AutoWoW#3058 (id 394933292673007627)
+2018-04-23 15:38:10 #Testing Voice channel join: Synapse#0692 (id 435538622293344266)
+2018-04-23 15:38:10 #Testing Voice channel join: Pink Bean#0971 (id 265299552834289664)
+2018-04-23 15:38:10 #Testing Voice channel join: Nøøtra#4037 (id 416275248153886720)
+2018-04-23 15:38:10 #Testing Voice channel join: AvaIre#9124 (id 275270122082533378)
+2018-04-23 15:40:16 #Testing Voice channel leave: Sheepbot#2537 (id 244423082045997057)
+2018-04-23 17:21:28 #Testing Voice channel join: sillyfro123#7909 (id 360715858638667776)
+2018-04-23 17:21:41 #Testing Voice channel leave: sillyfro123#7909 (id 360715858638667776) moving to Testing 2
+2018-04-23 17:47:32 #Testing Voice channel join: Niotix#1922 (id 271659687714357249), flags: self_mute
+2018-04-23 17:48:06 #Testing Voice channel leave: Niotix#1922 (id 271659687714357249) moving to General (no bots)
+2018-04-23 18:04:26 #Testing Voice channel join: 🌹 Ɗ.M.ƛ 🌹★ ŶÚŚÚŦ#6577 (id 401465914941374464), flags: self_mute
+2018-04-23 18:04:30 #Testing Voice channel leave: 🌹 Ɗ.M.ƛ 🌹★ ŶÚŚÚŦ#6577 (id 401465914941374464) moving to Testing 3
+2018-04-23 18:15:56 #Testing Voice channel leave: nelsonmanbot#9278 (id 246644444747661312) moving to Music 2
+2018-04-23 21:40:35 #Testing Voice channel join: Silver#3705 (id 401065042663047169), flags: self_mute
+2018-04-23 21:40:58 #Testing Voice channel leave: Silver#3705 (id 401065042663047169)
+2018-04-23 23:36:19 #Testing Voice channel join: imderoy#0812 (id 392772489379315713), moved from Music 2, flags: self_mute
+2018-04-23 23:36:20 #Testing Server self-unmute: imderoy#0812 (id 392772489379315713)
+2018-04-23 23:36:24 #Testing Voice channel leave: imderoy#0812 (id 392772489379315713)
+2018-04-24 01:11:34 #Testing Voice channel join: Box Of Fox#1418 (id 280541943178723330), flags: self_mute
+2018-04-24 01:11:35 #Testing Server self-unmute: Box Of Fox#1418 (id 280541943178723330)
+2018-04-24 01:11:38 #Testing Voice channel leave: Box Of Fox#1418 (id 280541943178723330)
+2018-04-24 04:54:56 #Testing Voice channel join: 亗Ɇ₲Ɏ✹₥₳Ɽ₴Ⱨ₳Ⱡ✹#8483 (id 432184142298349577), flags: self_mute
+2018-04-24 04:54:58 #Testing Voice channel leave: 亗Ɇ₲Ɏ✹₥₳Ɽ₴Ⱨ₳Ⱡ✹#8483 (id 432184142298349577)
+2018-04-24 06:56:56 #Testing Voice channel join: LIL#9056 (id 167937339006386176), flags: self_mute
+2018-04-24 06:57:07 #Testing Voice channel leave: LIL#9056 (id 167937339006386176)
+2018-04-24 19:09:11 #Testing Voice channel join: LewisTehMinerz#1337 (id 96269247411400704), moved from Music
+2018-04-24 19:09:24 #Testing Voice channel leave: LewisTehMinerz#1337 (id 96269247411400704)
+2018-04-24 19:12:16 #Testing Voice channel join: LewisTehMinerz#1337 (id 96269247411400704)
+2018-04-24 19:12:23 #Testing Voice channel leave: LewisTehMinerz#1337 (id 96269247411400704)
+2018-04-24 19:12:59 #Testing Voice channel join: LewisTehMinerz#1337 (id 96269247411400704), moved from General (no bots)
+2018-04-24 19:13:02 #Testing Voice channel join: Abal the Loli Breathing Bot#2172 (id 414706059148525569)
+2018-04-24 19:13:06 #Testing Voice channel leave: Abal the Loli Breathing Bot#2172 (id 414706059148525569)
+2018-04-24 19:13:07 #Testing Voice channel leave: LewisTehMinerz#1337 (id 96269247411400704) moving to General (no bots)
+2018-04-24 19:16:50 #Testing Voice channel join: LewisTehMinerz#1337 (id 96269247411400704), moved from General (no bots), flags: self_mute
+2018-04-24 19:16:53 #Testing Voice channel join: Abal the Loli Breathing Bot#2172 (id 414706059148525569)
+2018-04-24 19:16:56 #Testing Voice channel leave: LewisTehMinerz#1337 (id 96269247411400704) moving to Testing 2
+2018-04-24 19:16:59 #Testing Voice channel leave: Abal the Loli Breathing Bot#2172 (id 414706059148525569)
+2018-04-24 19:17:01 #Testing Voice channel join: LewisTehMinerz#1337 (id 96269247411400704), moved from Testing 2, flags: self_mute
+2018-04-24 19:18:02 #Testing Voice channel join: yosi1234#8218 (id 378529998354776064), moved from Music 2
+2018-04-24 19:18:08 #Testing Voice channel leave: LewisTehMinerz#1337 (id 96269247411400704)
+2018-04-24 19:18:10 #Testing Voice channel join: LewisTehMinerz#1337 (id 96269247411400704), flags: self_mute
+2018-04-24 19:18:17 #Testing Voice channel leave: yosi1234#8218 (id 378529998354776064) moving to Testing 3
+2018-04-24 19:18:32 #Testing Voice channel join: yosi1234#8218 (id 378529998354776064), moved from Testing 3
+2018-04-24 19:19:15 #Testing Voice channel join: Abal the Loli Breathing Bot#2172 (id 414706059148525569)
+2018-04-24 19:19:20 #Testing Voice channel leave: Abal the Loli Breathing Bot#2172 (id 414706059148525569)
+2018-04-24 19:19:24 #Testing Voice channel leave: LewisTehMinerz#1337 (id 96269247411400704) moving to Testing 2
+2018-04-24 19:19:29 #Testing Voice channel leave: yosi1234#8218 (id 378529998354776064) moving to Testing 3
+2018-04-24 20:28:59 #Testing Voice channel join: steamedhams#5640 (id 384267923948306433)
+2018-04-24 20:29:18 #Testing Voice channel join: ◆ Purple Atom ◆#7993 (id 348068694703734785)
+2018-04-24 20:29:23 #Testing Voice channel join: Kryptos#9143 (id 388493374438637569)
+2018-04-24 20:30:47 #Testing Voice channel leave: ◆ Purple Atom ◆#7993 (id 348068694703734785)
+2018-04-24 20:30:51 #Testing Voice channel leave: steamedhams#5640 (id 384267923948306433)
+2018-04-24 20:32:03 #Testing Voice channel join: xima8787#4727 (id 324524796702359552)
+2018-04-24 20:32:09 #Testing Voice channel leave: xima8787#4727 (id 324524796702359552) moving to Music
+2018-04-24 22:19:38 #Testing Voice channel join: Samcool236#4344 (id 290751998322671617)
+2018-04-24 22:19:42 #Testing Voice channel leave: Samcool236#4344 (id 290751998322671617) moving to Testing 3
+2018-04-24 23:52:18 #Testing Voice channel join: ! craftxbox#4738 (id 153353572711530496)
+2018-04-24 23:52:24 #Testing Voice channel leave: ! craftxbox#4738 (id 153353572711530496)
+2018-04-25 03:38:52 #Testing Voice channel join: z7z7z7#2385 (id 404408549825839104)
+2018-04-25 03:38:58 #Testing Voice channel leave: z7z7z7#2385 (id 404408549825839104) moving to Testing 3
+2018-04-25 04:33:56 #Testing Voice channel join: Sammy Prince#1896 (id 240932743133790208)
+2018-04-25 04:34:02 #Testing Voice channel leave: Sammy Prince#1896 (id 240932743133790208)
+2018-04-25 04:45:45 #Testing Voice channel join: 😜𝒟𝒶𝓃𝒾𝑒𝓁😜#4221 (id 393957287649214487), moved from Testing 3
+2018-04-25 04:46:03 #Testing Voice channel leave: 😜𝒟𝒶𝓃𝒾𝑒𝓁😜#4221 (id 393957287649214487) moving to Testing 3
+2018-04-25 04:47:34 #Testing Voice channel join: WarRobotsKing#7213 (id 409327767826464769), flags: self_mute
+2018-04-25 04:47:37 #Testing Voice channel join: 😜𝒟𝒶𝓃𝒾𝑒𝓁😜#4221 (id 393957287649214487), moved from Testing 3
+2018-04-25 04:47:43 #Testing Voice channel leave: WarRobotsKing#7213 (id 409327767826464769)
+2018-04-25 04:47:58 #Testing Voice channel leave: 😜𝒟𝒶𝓃𝒾𝑒𝓁😜#4221 (id 393957287649214487) moving to Music 2
+2018-04-25 04:55:54 #Testing Voice channel join: Box Of Fox#1418 (id 280541943178723330), flags: self_mute
+2018-04-25 04:55:55 #Testing Server self-unmute: Box Of Fox#1418 (id 280541943178723330)
+2018-04-25 04:55:57 #Testing Voice channel leave: Box Of Fox#1418 (id 280541943178723330)
+2018-04-25 05:40:45 #Testing Voice channel leave: Kryptos#9143 (id 388493374438637569)
+2018-04-25 06:11:12 #Testing Voice channel join: SHARK#8993 (id 364226311381581836)
+2018-04-25 06:11:17 #Testing Voice channel leave: SHARK#8993 (id 364226311381581836)
+2018-04-25 09:50:07 #Testing Voice channel join: Ryslan#2725 (id 438629622079291392), moved from Testing 2
+2018-04-25 09:50:09 #Testing Voice channel leave: Ryslan#2725 (id 438629622079291392) moving to Testing 2
+2018-04-25 10:59:03 #Testing Voice channel join: Saya#0113 (id 325231623262044162), moved from Music, flags: self_mute
+2018-04-25 10:59:13 #Testing Voice channel join: Kashima#4514 (id 424137718961012737)
+2018-04-25 10:59:58 #Testing Voice channel join: Oxylibrium#7680 (id 181353804266995713), flags: self_mute
+2018-04-25 11:07:49 #Testing Voice channel join: damur123#8105 (id 368219878315786241)
+2018-04-25 11:08:18 #Testing Voice channel leave: damur123#8105 (id 368219878315786241)
+2018-04-25 11:09:53 #Testing Voice channel leave: Kashima#4514 (id 424137718961012737)
+2018-04-25 11:10:00 #Testing Voice channel join: Kashima#4514 (id 424137718961012737)
+2018-04-25 11:29:31 #Testing Voice channel join: CNCaster#7420 (id 414248303002386453), flags: self_mute
+2018-04-25 11:31:32 #Testing Voice channel leave: CNCaster#7420 (id 414248303002386453)
+2018-04-25 11:33:26 #Testing Voice channel join: MüPtEzEl SaMeT /13#5716 (id 435434539087560734), flags: self_mute
+2018-04-25 11:33:29 #Testing Voice channel leave: MüPtEzEl SaMeT /13#5716 (id 435434539087560734)
+2018-04-25 11:48:47 #Testing Voice channel join: doomfish#0671 (id 265176209212702721), flags: self_mute
+2018-04-25 11:48:50 #Testing Voice channel leave: doomfish#0671 (id 265176209212702721)
+2018-04-25 11:57:30 #Testing Voice channel join: ICeCrEaM_ChRiS#2211 (id 389428200565899264), flags: self_mute
+2018-04-25 11:59:57 #Testing Voice channel leave: ICeCrEaM_ChRiS#2211 (id 389428200565899264)
+2018-04-25 12:02:52 #Testing Voice channel join: Yusuf - Kun#2641 (id 403151481320112129)
+2018-04-25 12:03:05 #Testing Voice channel leave: Yusuf - Kun#2641 (id 403151481320112129)
+2018-04-25 12:08:16 #Testing Voice channel join: 👌👌#1706 (id 438334719172804619)
+2018-04-25 12:08:36 #Testing Voice channel leave: 👌👌#1706 (id 438334719172804619)
+2018-04-25 12:08:51 #Testing Voice channel join: jiw254777#0481 (id 416592780689670155), flags: self_mute
+2018-04-25 12:08:51 #Testing Server self-unmute: jiw254777#0481 (id 416592780689670155)
+2018-04-25 12:08:54 #Testing Voice channel leave: jiw254777#0481 (id 416592780689670155)
+2018-04-25 12:18:29 #Testing Voice channel join: 하늘이#3892 (id 364271068216557568), flags: self_mute
+2018-04-25 12:18:39 #Testing Voice channel leave: 하늘이#3892 (id 364271068216557568)
+2018-04-25 12:23:17 #Testing Voice channel leave: Oxylibrium#7680 (id 181353804266995713)
+2018-04-25 12:26:29 #Testing Voice channel leave: Kashima#4514 (id 424137718961012737)
+2018-04-25 12:26:50 #Testing Voice channel leave: Saya#0113 (id 325231623262044162)
+2018-04-25 16:05:07 #Testing Voice channel join: jerobevacqua#2653 (id 438495144615084034), moved from Music 2
+2018-04-25 16:05:15 #Testing Voice channel leave: jerobevacqua#2653 (id 438495144615084034) moving to Testing 3
+2018-04-25 16:06:35 #Testing Voice channel join: jerobevacqua#2653 (id 438495144615084034), moved from Testing 3
+2018-04-25 16:09:03 #Testing Voice channel join: Sondrx#8443 (id 161485308494479361), flags: self_mute
+2018-04-25 16:09:07 #Testing Voice channel leave: Sondrx#8443 (id 161485308494479361)
+2018-04-25 16:10:57 #Testing Voice channel join: pke6Bot#7311 (id 330806069137768458)
+2018-04-25 16:10:58 #Testing Voice channel leave: pke6Bot#7311 (id 330806069137768458)
+2018-04-25 16:14:38 #Testing Voice channel join: pke6Bot#7311 (id 330806069137768458)
+2018-04-25 16:14:39 #Testing Voice channel leave: pke6Bot#7311 (id 330806069137768458)
+2018-04-25 16:41:28 #Testing Voice channel join: get_right#3950 (id 418855637385216002)
+2018-04-25 17:23:58 #Testing Voice channel join: SuStalker#9789 (id 150356133469487104)
+2018-04-25 17:24:00 #Testing Voice channel leave: SuStalker#9789 (id 150356133469487104)
+2018-04-25 20:05:10 #Testing Voice channel join: Shizoo#6872 (id 285041800077639680), flags: self_mute
+2018-04-25 20:05:13 #Testing Server self-deafen: Shizoo#6872 (id 285041800077639680)
+2018-04-25 20:05:13 #Testing Server self-undeafen: Shizoo#6872 (id 285041800077639680)
+2018-04-25 20:05:16 #Testing Voice channel leave: Shizoo#6872 (id 285041800077639680)
+2018-04-25 20:07:00 #Testing Voice channel join: Kromatic#0420 (id 180093157554388993), flags: self_mute
+2018-04-25 20:07:02 #Testing Voice channel leave: Kromatic#0420 (id 180093157554388993)
+2018-04-25 20:07:11 #Testing Voice channel join: LewisTehMinerz#1337 (id 96269247411400704), moved from Testing 2
+2018-04-25 20:07:14 #Testing Voice channel join: Abal the Loli Breathing Bot#2172 (id 414706059148525569), moved from Testing 2
+2018-04-25 20:07:18 #Testing Voice channel leave: LewisTehMinerz#1337 (id 96269247411400704) moving to Testing 2
+2018-04-25 20:07:20 #Testing Voice channel leave: Abal the Loli Breathing Bot#2172 (id 414706059148525569) moving to Testing 2
+2018-04-25 23:06:18 #Testing Voice channel join: TheBossPlaysMC#5454 (id 287985501074358273)
+2018-04-25 23:06:21 #Testing Voice channel leave: TheBossPlaysMC#5454 (id 287985501074358273)
+2018-04-26 02:48:02 #Testing Voice channel join: BroManDudeGuyPhD#1337 (id 150074847546966017)
+2018-04-26 02:48:06 #Testing Voice channel leave: BroManDudeGuyPhD#1337 (id 150074847546966017)
+2018-04-26 07:12:08 #Testing Voice channel join: MrVodix#8001 (id 224446479152971777)
+2018-04-26 07:12:11 #Testing Voice channel leave: MrVodix#8001 (id 224446479152971777)
+2018-04-26 08:05:45 #Testing Voice channel join: sιмση ℓεcℓεяε#5169 (id 347278705606918154), moved from General (no bots), flags: self_deaf,self_mute
+2018-04-26 08:05:47 #Testing Voice channel leave: sιмση ℓεcℓεяε#5169 (id 347278705606918154) moving to Testing 3
+2018-04-26 11:35:42 #Testing Voice channel join: ry00001#3487 (id 190544080164487168)
+2018-04-26 11:35:45 #Testing Voice channel join: Farid#4101 (id 326493176632442880)
+2018-04-26 11:35:45 #Testing Voice channel join: LMAOBot#9120 (id 398413630149885952)
+2018-04-26 11:35:48 #Testing Server self-mute: ry00001#3487 (id 190544080164487168)
+2018-04-26 11:35:48 #Testing Voice channel leave: LMAOBot#9120 (id 398413630149885952)
+2018-04-26 11:35:51 #Testing Voice channel leave: Farid#4101 (id 326493176632442880)
+2018-04-26 11:36:30 #Testing Voice channel join: LMAOBot#9120 (id 398413630149885952)
+2018-04-26 11:36:35 #Testing Voice channel leave: LMAOBot#9120 (id 398413630149885952)
+2018-04-26 11:36:43 #Testing Voice channel join: LMAOBot#9120 (id 398413630149885952)
+2018-04-26 11:36:47 #Testing Voice channel leave: LMAOBot#9120 (id 398413630149885952)
+2018-04-26 11:36:55 #Testing Voice channel join: LMAOBot#9120 (id 398413630149885952)
+2018-04-26 11:37:28 #Testing Voice channel leave: LMAOBot#9120 (id 398413630149885952)
+2018-04-26 11:42:30 #Testing Voice channel leave: ry00001#3487 (id 190544080164487168)
+2018-04-26 13:35:10 #Testing Voice channel join: Φφ#8606 (id 439056197803311107), flags: self_mute
+2018-04-26 13:35:12 #Testing Voice channel leave: Φφ#8606 (id 439056197803311107) moving to Testing 2
+2018-04-26 15:11:53 #Testing Voice channel join: jarnokaptein#4098 (id 401059062550233090), moved from General (no bots)
+2018-04-26 15:11:57 #Testing Voice channel join: Tony Bamanaboni#3926 (id 284035252408680448), moved from Music
+2018-04-26 15:11:57 #Testing Voice channel join: GyllieBot#2052 (id 246050814173511681), moved from Music, flags: self_deaf
+2018-04-26 15:11:57 #Testing Voice channel join: Astra#1131 (id 303646783886852097), moved from Music
+2018-04-26 15:12:17 #Testing Voice channel join: Nøøtra#4037 (id 416275248153886720)
+2018-04-26 15:12:17 #Testing Voice channel join: Synapse#0692 (id 435538622293344266), moved from Music
+2018-04-26 15:12:55 #Testing Voice channel join: Pink Bean#0971 (id 265299552834289664)
+2018-04-26 15:12:55 #Testing Voice channel join: Neko Chan#1849 (id 333388886732701696)
+2018-04-26 15:13:01 #Testing Voice channel leave: Pink Bean#0971 (id 265299552834289664)
+2018-04-26 15:13:01 #Testing Voice channel leave: Tony Bamanaboni#3926 (id 284035252408680448)
+2018-04-26 15:13:05 #Testing Voice channel join: t69420#4089 (id 144989510965526528), flags: self_deaf,self_mute
+2018-04-26 15:13:06 #Testing Voice channel join: Alex Jones#0777 (id 359913727425773569)
+2018-04-26 15:13:08 #Testing Voice channel leave: Astra#1131 (id 303646783886852097)
+2018-04-26 15:13:08 #Testing Voice channel leave: Alex Jones#0777 (id 359913727425773569)
+2018-04-26 15:13:08 #Testing Voice channel join: Tony Bamanaboni#3926 (id 284035252408680448)
+2018-04-26 15:13:08 #Testing Voice channel join: Pink Bean#0971 (id 265299552834289664)
+2018-04-26 15:13:08 #Testing Voice channel join: AvaIre#9124 (id 275270122082533378)
+2018-04-26 15:13:16 #Testing Voice channel join: Alex Jones#0777 (id 359913727425773569)
+2018-04-26 15:13:17 #Testing Voice channel leave: Pink Bean#0971 (id 265299552834289664)
+2018-04-26 15:13:17 #Testing Voice channel leave: Alex Jones#0777 (id 359913727425773569)
+2018-04-26 15:13:17 #Testing Voice channel leave: Tony Bamanaboni#3926 (id 284035252408680448)
+2018-04-26 15:13:31 #Testing Voice channel join: Tony Bamanaboni#3926 (id 284035252408680448)
+2018-04-26 15:13:31 #Testing Voice channel join: Pink Bean#0971 (id 265299552834289664)
+2018-04-26 15:13:36 #Testing Voice channel join: Bungus Chungus#9016 (id 185124264091844608)
+2018-04-26 15:13:53 #Testing Server self-undeafen: t69420#4089 (id 144989510965526528)
+2018-04-26 15:13:58 #Testing Voice channel leave: Nøøtra#4037 (id 416275248153886720)
+2018-04-26 15:14:05 #Testing Voice channel leave: Bungus Chungus#9016 (id 185124264091844608)
+2018-04-26 15:14:05 #Testing Voice channel join: Alex Jones#0777 (id 359913727425773569)
+2018-04-26 15:14:16 #Testing Voice channel leave: jarnokaptein#4098 (id 401059062550233090) moving to Music
+2018-04-26 15:14:17 #Testing Voice channel leave: Pink Bean#0971 (id 265299552834289664) moving to Music
+2018-04-26 15:14:17 #Testing Voice channel leave: Tony Bamanaboni#3926 (id 284035252408680448) moving to Music
+2018-04-26 15:14:17 #Testing Voice channel leave: GyllieBot#2052 (id 246050814173511681) moving to Music
+2018-04-26 15:14:26 #Testing Voice channel join: TomBot#6419 (id 346577085155901451)
+2018-04-26 15:14:31 #Testing Voice channel leave: TomBot#6419 (id 346577085155901451)
+2018-04-26 15:14:31 #Testing Voice channel leave: AvaIre#9124 (id 275270122082533378) moving to Music
+2018-04-26 15:14:41 #Testing Voice channel leave: Alex Jones#0777 (id 359913727425773569) moving to Music
+2018-04-26 15:14:42 #Testing Voice channel leave: t69420#4089 (id 144989510965526528) moving to Music
+2018-04-26 15:14:53 #Testing Voice channel leave: Neko Chan#1849 (id 333388886732701696)
+2018-04-26 16:27:14 #Testing Voice channel join: Reudiger#4388 (id 292305454107721730)
+2018-04-26 16:27:14 #Testing Voice channel leave: Reudiger#4388 (id 292305454107721730)
+2018-04-26 16:57:51 #Testing Voice channel join: WTF? Raided? No way!?!#5274 (id 414271477123383299), moved from Testing 2
+2018-04-26 16:58:04 #Testing Voice channel leave: WTF? Raided? No way!?!#5274 (id 414271477123383299)
+2018-04-26 17:02:55 #Testing Voice channel join: Dream#4507 (id 274860445419175937), flags: self_mute
+2018-04-26 17:18:48 #Testing Voice channel leave: Dream#4507 (id 274860445419175937)
+2018-04-26 17:19:43 #Testing Voice channel join: ! - ⚡ hidayet#9327 (id 375717927443365888), moved from Music
+2018-04-26 17:20:06 #Testing Voice channel leave: ! - ⚡ hidayet#9327 (id 375717927443365888) moving to Music
+2018-04-26 17:24:15 #Testing Voice channel join: Renkli Kravat#3748 (id 363922753146847235)
+2018-04-26 17:24:29 #Testing Voice channel leave: Renkli Kravat#3748 (id 363922753146847235)
+2018-04-26 18:01:35 #Testing Voice channel leave: Synapse#0692 (id 435538622293344266) moving to Music
+2018-04-26 18:17:52 #Testing Voice channel join: 🅸🆂🅺🅰🆁🅸 ™#6955 (id 334086251080843264)
+2018-04-26 18:17:55 #Testing Voice channel leave: 🅸🆂🅺🅰🆁🅸 ™#6955 (id 334086251080843264)
+2018-04-26 18:28:43 #Testing Voice channel join: sheetsbook#7496 (id 265193812572372993), flags: self_mute
+2018-04-26 18:28:44 #Testing Voice channel leave: sheetsbook#7496 (id 265193812572372993)
+2018-04-26 18:40:15 #Testing Voice channel join: Ibaez#8426 (id 439130436732452868), moved from Testing 2, flags: self_mute
+2018-04-26 18:40:18 #Testing Voice channel leave: Ibaez#8426 (id 439130436732452868) moving to Testing 4
+2018-04-27 00:55:09 #Testing Voice channel join: PikaDude#0001 (id 151916651988647936)
+2018-04-27 00:55:30 #Testing Voice channel join: Blerp#4364 (id 421504209997791232)
+2018-04-27 00:59:31 #Testing Voice channel leave: PikaDude#0001 (id 151916651988647936)
+2018-04-27 01:10:40 #Testing Voice channel join: PikaDude#0001 (id 151916651988647936)
+2018-04-27 01:11:22 #Testing Voice channel join: MinimalBot#7605 (id 384070970857619458)
+2018-04-27 01:18:41 #Testing Voice channel leave: PikaDude#0001 (id 151916651988647936)
+2018-04-27 01:39:45 #Testing Voice channel join: 牛3YT#7998 (id 305003908290314240)
+2018-04-27 01:39:51 #Testing Voice channel leave: 牛3YT#7998 (id 305003908290314240)
+2018-04-27 05:10:17 #Testing Voice channel leave: Blerp#4364 (id 421504209997791232)
+2018-04-27 05:26:13 #Testing Voice channel join: noteambean#5986 (id 320581275977252866), moved from Music 2, flags: self_mute
+2018-04-27 05:26:20 #Testing Server self-unmute: noteambean#5986 (id 320581275977252866)
+2018-04-27 05:26:38 #Testing Voice channel leave: noteambean#5986 (id 320581275977252866) moving to Music
+2018-04-27 06:57:38 #Testing Voice channel join: zi죤짱#9625 (id 270887247878815744), flags: self_mute
+2018-04-27 06:57:42 #Testing Voice channel leave: zi죤짱#9625 (id 270887247878815744)
+2018-04-27 08:09:33 #Testing Voice channel join: FoxFlyTH#2079 (id 333213151606603776), flags: self_mute
+2018-04-27 08:09:35 #Testing Server self-unmute: FoxFlyTH#2079 (id 333213151606603776)
+2018-04-27 08:09:40 #Testing Voice channel leave: FoxFlyTH#2079 (id 333213151606603776) moving to Music
+2018-04-27 08:09:48 #Testing Voice channel join: FoxFlyTH#2079 (id 333213151606603776), moved from Music
+2018-04-27 08:09:55 #Testing Voice channel leave: FoxFlyTH#2079 (id 333213151606603776)
+2018-04-27 08:10:45 #Testing Voice channel join: 루나#2896 (id 328441212388245515), moved from Music
+2018-04-27 08:10:52 #Testing Voice channel leave: 루나#2896 (id 328441212388245515)
+2018-04-27 08:17:36 #Testing Voice channel join: Penguin_HZ#1013 (id 418280778611556364)
+2018-04-27 08:17:39 #Testing Voice channel leave: Penguin_HZ#1013 (id 418280778611556364)
+2018-04-27 08:37:31 #Testing Voice channel join: Mr_Saybork#7332 (id 435835911876378645)
+2018-04-27 08:37:38 #Testing Voice channel leave: Mr_Saybork#7332 (id 435835911876378645) moving to Music
+2018-04-27 08:47:47 #Testing Voice channel join: Akomax#3816 (id 328297193997991955)
+2018-04-27 08:47:51 #Testing Voice channel leave: Akomax#3816 (id 328297193997991955) moving to Music
+2018-04-27 08:54:51 #Testing Voice channel join: laurits8898#6934 (id 377371660153782273), flags: self_mute
+2018-04-27 08:54:55 #Testing Voice channel leave: laurits8898#6934 (id 377371660153782273)
+2018-04-27 10:17:17 #Testing Voice channel join: Samcool236#4344 (id 290751998322671617), moved from Music, flags: self_mute
+2018-04-27 10:17:20 #Testing Voice channel leave: Samcool236#4344 (id 290751998322671617)
+2018-04-27 11:02:04 #Testing Voice channel join: Lui#5838 (id 364811310715764746), flags: self_mute
+2018-04-27 11:02:05 #Testing Voice channel leave: Lui#5838 (id 364811310715764746)
+2018-04-27 11:28:06 #Testing Voice channel join: Samcool236#4344 (id 290751998322671617), flags: self_mute
+2018-04-27 11:28:10 #Testing Voice channel leave: Samcool236#4344 (id 290751998322671617)
+2018-04-27 12:01:11 #Testing Voice channel join: Hiper Türk | Coder#9348 (id 318312027548549120), flags: self_mute
+2018-04-27 12:01:12 #Testing Voice channel leave: Hiper Türk | Coder#9348 (id 318312027548549120)
+2018-04-27 12:02:24 #Testing Voice channel join: 식혜먹는아저씨#6515 (id 267208906047094784)
+2018-04-27 12:02:28 #Testing Voice channel leave: 식혜먹는아저씨#6515 (id 267208906047094784) moving to Music
+2018-04-27 13:03:28 #Testing Voice channel join: Hiper Türk | Coder#9348 (id 318312027548549120), flags: self_mute
+2018-04-27 13:03:28 #Testing Server self-unmute: Hiper Türk | Coder#9348 (id 318312027548549120)
+2018-04-27 13:03:38 #Testing Voice channel leave: Hiper Türk | Coder#9348 (id 318312027548549120)
+2018-04-27 13:11:48 #Testing Voice channel join: Faze Oli#1697 (id 436881642179526657)
+2018-04-27 13:11:51 #Testing Voice channel leave: Faze Oli#1697 (id 436881642179526657) moving to Music
+2018-04-27 13:25:43 #Testing Voice channel join: 임혁준#8442 (id 380187933757538307), moved from Music
+2018-04-27 13:25:52 #Testing Voice channel leave: 임혁준#8442 (id 380187933757538307)
+2018-04-27 13:28:55 #Testing Voice channel join: Karabatak35#9147 (id 355351562211819521), flags: self_mute
+2018-04-27 13:43:33 #Testing Voice channel join: apple_Lp#1577 (id 287920590130642944), flags: self_mute
+2018-04-27 13:43:38 #Testing Server self-unmute: apple_Lp#1577 (id 287920590130642944)
+2018-04-27 13:43:53 #Testing Voice channel leave: apple_Lp#1577 (id 287920590130642944) moving to Music
+2018-04-27 15:09:43 #Testing Voice channel leave: MinimalBot#7605 (id 384070970857619458)
+2018-04-27 15:46:29 #Testing Voice channel join: ๖ۣۜ╲⎝⧹⎝๖ۣۜℜ𝓪𝓢𝒽𝓵๖ۣۜ𝕯⎠⧸⎠╱๖ۣۜ#6978 (id 420222664557330453)
+2018-04-27 15:46:32 #Testing Server self-mute: ๖ۣۜ╲⎝⧹⎝๖ۣۜℜ𝓪𝓢𝒽𝓵๖ۣۜ𝕯⎠⧸⎠╱๖ۣۜ#6978 (id 420222664557330453)
+2018-04-27 15:46:32 #Testing Server self-unmute: ๖ۣۜ╲⎝⧹⎝๖ۣۜℜ𝓪𝓢𝒽𝓵๖ۣۜ𝕯⎠⧸⎠╱๖ۣۜ#6978 (id 420222664557330453)
+2018-04-27 15:46:57 #Testing Server self-mute: ๖ۣۜ╲⎝⧹⎝๖ۣۜℜ𝓪𝓢𝒽𝓵๖ۣۜ𝕯⎠⧸⎠╱๖ۣۜ#6978 (id 420222664557330453)
+2018-04-27 15:49:59 #Testing Voice channel leave: ๖ۣۜ╲⎝⧹⎝๖ۣۜℜ𝓪𝓢𝒽𝓵๖ۣۜ𝕯⎠⧸⎠╱๖ۣۜ#6978 (id 420222664557330453)
+2018-04-27 16:10:50 #Testing Voice channel join: - ƬƠƦƝƛƊƠ -#6283 (id 330273222316654602), moved from Music, flags: self_mute
+2018-04-27 16:10:53 #Testing Voice channel leave: - ƬƠƦƝƛƊƠ -#6283 (id 330273222316654602)
+2018-04-27 17:17:50 #Testing Voice channel join: R.BeastBrook#7462 (id 105069106008481792), moved from Music
+2018-04-27 17:30:01 #Testing Voice channel leave: R.BeastBrook#7462 (id 105069106008481792) moving to General (no bots)
+2018-04-27 17:31:21 #Testing Voice channel join: R.BeastBrook#7462 (id 105069106008481792)
+2018-04-27 17:31:25 #Testing Voice channel leave: R.BeastBrook#7462 (id 105069106008481792)
+2018-04-27 18:49:49 #Testing Voice channel join: Illumi nati#9468 (id 221238006240116737)
+2018-04-27 18:49:49 #Testing Voice channel leave: Illumi nati#9468 (id 221238006240116737)
+2018-04-27 19:39:29 #Testing Voice channel join: Sai Chinna#6718 (id 398288522160635905), flags: self_mute
+2018-04-27 19:39:46 #Testing Voice channel join: Musika#1414 (id 431311040463110166)
+2018-04-27 19:39:46 #Testing Voice channel join: Dyno#3861 (id 155149108183695360)
+2018-04-27 19:39:46 #Testing Voice channel join: Clarity#0735 (id 174202555981758464)
+2018-04-27 19:39:48 #Testing Voice channel join: Astolfo#0628 (id 326750725084282881)
+2018-04-27 19:40:52 #Testing Voice channel leave: Sai Chinna#6718 (id 398288522160635905)
+2018-04-27 19:40:52 #Testing Voice channel join: Sai Chinna#6718 (id 398288522160635905), flags: self_mute
+2018-04-27 19:40:59 #Testing Voice channel leave: Astolfo#0628 (id 326750725084282881)
+2018-04-27 19:42:02 #Testing Voice channel leave: Musika#1414 (id 431311040463110166)
+2018-04-27 19:42:18 #Testing Voice channel leave: Clarity#0735 (id 174202555981758464)
+2018-04-27 19:42:45 #Testing Voice channel leave: Dyno#3861 (id 155149108183695360)
+2018-04-27 19:42:49 #Testing Voice channel leave: Sai Chinna#6718 (id 398288522160635905)
+2018-04-28 00:41:24 #Testing Voice channel join: AssumedQui#3808 (id 154440828608184322), moved from General (no bots)
+2018-04-28 00:41:24 #Testing Server self-unmute: AssumedQui#3808 (id 154440828608184322)
+2018-04-28 00:41:28 #Testing Voice channel join: Wil#0420 (id 95645231248048128), moved from General (no bots)
+2018-04-28 00:41:36 #Testing Voice channel leave: Wil#0420 (id 95645231248048128) moving to General (no bots)
+2018-04-28 00:41:37 #Testing Voice channel leave: AssumedQui#3808 (id 154440828608184322) moving to General (no bots)
+2018-04-28 00:41:47 #Testing Voice channel join: Wil#0420 (id 95645231248048128), moved from General (no bots)
+2018-04-28 00:41:50 #Testing Voice channel join: AssumedQui#3808 (id 154440828608184322), moved from General (no bots)
+2018-04-28 00:41:50 #Testing Server self-unmute: AssumedQui#3808 (id 154440828608184322)
+2018-04-28 00:41:58 #Testing Voice channel join: 𝘸𝘪𝘴𝘩 𝘪 𝘥𝘪𝘥𝘯𝘵 𝘤𝘢𝘳𝘦 𝘢𝘭𝘭 𝘵𝘩𝘦 𝘵𝘪𝘮𝘦♡#4913 (id 422073048108367892), flags: self_mute
+2018-04-28 00:42:14 #Testing Voice channel leave: Wil#0420 (id 95645231248048128)
+2018-04-28 00:42:20 #Testing Voice channel leave: AssumedQui#3808 (id 154440828608184322)
+2018-04-28 00:42:37 #Testing Voice channel leave: 𝘸𝘪𝘴𝘩 𝘪 𝘥𝘪𝘥𝘯𝘵 𝘤𝘢𝘳𝘦 𝘢𝘭𝘭 𝘵𝘩𝘦 𝘵𝘪𝘮𝘦♡#4913 (id 422073048108367892)
+2018-04-28 00:49:57 #Testing Voice channel join: Fennix#1150 (id 197540770306195456), flags: self_mute
+2018-04-28 00:49:58 #Testing Voice channel leave: Fennix#1150 (id 197540770306195456)
+2018-04-28 01:04:50 #Testing Voice channel join: Ember#9421 (id 426161380979113986), moved from Testing 2
+2018-04-28 01:04:53 #Testing Voice channel leave: Ember#9421 (id 426161380979113986)
+2018-04-28 02:00:01 #Testing Voice channel join: MundoDeJogos {Oficial}#0161 (id 345703851141365781), moved from General (no bots), flags: self_mute
+2018-04-28 02:00:01 #Testing Server self-unmute: MundoDeJogos {Oficial}#0161 (id 345703851141365781)
+2018-04-28 02:00:05 #Testing Voice channel leave: MundoDeJogos {Oficial}#0161 (id 345703851141365781)
+2018-04-28 03:08:55 #Testing Voice channel join: Demo Gaming#0001 (id 246134386322309122), flags: self_deaf,self_mute
+2018-04-28 03:08:58 #Testing Voice channel leave: Demo Gaming#0001 (id 246134386322309122)
+2018-04-28 03:22:15 #Testing Voice channel join: OdaKakashiS300#2269 (id 418908406842130475), moved from General (no bots), flags: self_mute
+2018-04-28 03:22:20 #Testing Voice channel leave: OdaKakashiS300#2269 (id 418908406842130475)
+2018-04-28 05:41:48 #Testing Voice channel join: cerealkiller1918#1787 (id 268113624843681792), moved from Testing 2
+2018-04-28 05:41:52 #Testing Voice channel leave: cerealkiller1918#1787 (id 268113624843681792) moving to Testing 4
+2018-04-28 09:36:52 #Testing Voice channel join: 🔱Sunlight🔱#8295 (id 377132580450992130)
+2018-04-28 09:43:52 #Testing Server self-mute: 🔱Sunlight🔱#8295 (id 377132580450992130)
+2018-04-28 09:43:59 #Testing Voice channel leave: 🔱Sunlight🔱#8295 (id 377132580450992130)
+2018-04-28 10:40:29 #Testing Voice channel join: Jono99#9105 (id 420492132466294784), moved from Testing 2, flags: self_mute
+2018-04-28 10:40:38 #Testing Voice channel leave: Jono99#9105 (id 420492132466294784)
+2018-04-28 14:57:29 #Testing Voice channel join: julian 2017#6497 (id 291199906260058113)
+2018-04-28 14:57:40 #Testing Voice channel leave: julian 2017#6497 (id 291199906260058113) moving to Music
+2018-04-28 15:51:47 #Testing Voice channel join: 🎄KnockPunch™🎅#3659 (id 297660548781441024), moved from General (no bots), flags: self_mute
+2018-04-28 15:51:47 #Testing Server self-unmute: 🎄KnockPunch™🎅#3659 (id 297660548781441024)
+2018-04-28 15:52:12 #Testing Voice channel leave: 🎄KnockPunch™🎅#3659 (id 297660548781441024) moving to Music 2
+2018-04-28 16:03:53 #Testing Voice channel join: Mr Skeleton#9037 (id 420198227749634050), flags: self_mute
+2018-04-28 16:10:48 #Testing Voice channel join: Favian#4033 (id 323313839233826818), flags: self_mute
+2018-04-28 16:10:49 #Testing Server self-unmute: Favian#4033 (id 323313839233826818)
+2018-04-28 16:10:54 #Testing Server self-mute: Favian#4033 (id 323313839233826818)
+2018-04-28 16:11:10 #Testing Server self-unmute: Favian#4033 (id 323313839233826818)
+2018-04-28 16:11:11 #Testing Voice channel leave: Favian#4033 (id 323313839233826818)
+2018-04-28 16:21:13 #Testing Voice channel join: MOYA#0308 (id 233319650480488448), flags: self_deaf,self_mute
+2018-04-28 16:40:01 #Testing Voice channel leave: Mr Skeleton#9037 (id 420198227749634050)
+2018-04-28 16:46:21 #Testing Voice channel join: FALK !√#2306 (id 329584818100633610), flags: self_mute
+2018-04-28 16:46:37 #Testing Voice channel leave: FALK !√#2306 (id 329584818100633610)
+2018-04-28 17:19:53 #Testing Voice channel leave: MOYA#0308 (id 233319650480488448)
+2018-04-28 17:48:58 #Testing Voice channel join: zockerfelix2006#1332 (id 417052954915241984), moved from General (no bots), flags: self_mute
+2018-04-28 17:48:58 #Testing Server self-unmute: zockerfelix2006#1332 (id 417052954915241984)
+2018-04-28 17:49:05 #Testing Voice channel leave: zockerfelix2006#1332 (id 417052954915241984) moving to Music
+2018-04-28 18:27:17 #Testing Voice channel join: zockerfelix2006#1332 (id 417052954915241984), moved from General (no bots)
+2018-04-28 18:27:17 #Testing Server self-unmute: zockerfelix2006#1332 (id 417052954915241984)
+2018-04-28 18:27:19 #Testing Voice channel leave: zockerfelix2006#1332 (id 417052954915241984) moving to Music
+2018-04-28 18:50:10 #Testing Voice channel join: Fluffy#5980 (id 396587863526998017)
+2018-04-28 19:06:27 #Testing Voice channel join: Zack#1105 (id 173656340223229952)
+2018-04-28 19:06:32 #Testing Server self-mute: Zack#1105 (id 173656340223229952)
+2018-04-28 19:06:38 #Testing Voice channel leave: Zack#1105 (id 173656340223229952) moving to Music
+2018-04-28 19:06:45 #Testing Voice channel leave: Fluffy#5980 (id 396587863526998017)

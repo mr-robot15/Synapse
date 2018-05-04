@@ -1,0 +1,40 @@
+2018-04-22 10:07:54 this bot joined the server
+2018-04-22 10:07:54 Role created: 'Synapse' (id 437555139713171456)
+2018-04-22 10:07:54 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-22 10:14:19 Channel created: rule
+2018-04-22 10:14:29 Channel overwrites: rule (437556754088329226): role @everyone (437538353311645696) updated to values 1024, 1050624 (was 0, 1049600)
+2018-04-22 10:14:33 Channel overwrites: rule (437556754088329226): role @everyone (437538353311645696) updated to values 0, 1051648 (was 1024, 1050624)
+2018-04-22 10:14:38 Channel overwrites: rule (437556754088329226): role Contestant (437538471133970434) updated to values 1049600, 2048 (was 1049600, 0)
+2018-04-22 10:17:39 Channel position: rule moved from 10 to 6
+2018-04-22 10:17:39 Channel position: challenge moved from 6 to 7
+2018-04-22 10:17:39 Channel position: result moved from 7 to 8
+2018-04-22 10:17:39 Channel position: spectator-talk moved from 8 to 9
+2018-04-22 10:17:39 Channel position: strike-count moved from 9 to 10
+2018-04-22 10:21:36 Channel created: elimation
+2018-04-22 10:22:03 Channel rename: elimation renamed to elimination
+2018-04-22 10:22:03 Channel topic: elimation topic was set to ""
+2018-04-22 10:22:30 Member role add: 'Bot' role was added to @Synapse#0692
+2018-04-22 10:22:45 Channel position: spectator-talk moved from 9 to 6
+2018-04-22 10:22:45 Channel position: rule moved from 6 to 7
+2018-04-22 10:22:45 Channel position: challenge moved from 7 to 8
+2018-04-22 10:22:45 Channel position: result moved from 8 to 9
+2018-04-22 10:23:14 Channel rename: spectator-talk renamed to contestant-chat
+2018-04-22 10:23:14 Channel topic: spectator-talk topic was set to ""
+2018-04-22 10:30:34 Channel created: spaming
+2018-04-22 10:30:48 Channel deleted: spaming
+2018-04-22 10:37:02 Channel topic: sign-up topic was set to "Sign up here"
+2018-04-22 10:37:21 Channel topic: bot-chat topic was set to "Bot chat here"
+2018-04-22 11:22:59 Member role add: 'Contestant' role was added to @Blue The Marble Racer#6827
+2018-04-22 11:52:41 Member join: @Its Me ZeeTaa#4041 (id 373086863369699328)
+2018-04-22 12:06:16 Member role add: 'Spectator' role was added to @Its Me ZeeTaa#4041
+2018-04-22 12:06:18 Member role remove: The 'Spectator' role was removed from @Its Me ZeeTaa#4041
+2018-04-22 12:06:22 Member role add: 'Contestant' role was added to @Its Me ZeeTaa#4041
+2018-04-22 13:35:20 Role position: 'Spectator' changed from 1 to 2
+2018-04-22 13:35:20 Role position: 'Tatsumaki' changed from 2 to 3
+2018-04-22 13:35:20 Role position: 'MEE6' changed from 3 to 4
+2018-04-22 13:35:20 Role position: 'Bot' changed from 4 to 5
+2018-04-22 13:35:20 Role position: 'Host' changed from 5 to 6
+2018-04-22 13:35:20 Role position: 'Contestant' changed from 6 to 7
+2018-04-22 13:35:20 Role color: 'Bot' changed from #1abc9c to #206694
+2018-04-22 13:36:05 Role mentionable: 'Spectator' is now mentionable
+2018-04-22 13:36:05 Role mentionable: 'Contestant' is now mentionable

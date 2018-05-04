@@ -1,0 +1,103 @@
+{
+    "Servers" : {
+        "315421226942070784" : {
+            "Config" : {
+                "Active" : false,
+                "Creator" : "",
+                "Current Loadout" : null,
+                "Default Loadout" : "0",
+                "Lottery ID" : 0,
+                "Role" : "@everyone",
+                "Tracker" : 0,
+                "Version" : 3.07
+            },
+            "Loadouts" : {
+                "0" : {
+                    "DOS" : 30,
+                    "End Message" : "Congratulations to {Winners}. You have won {Prize} credits! This has been brought to you by {Creator}.",
+                    "Limit" : 0,
+                    "Prize" : "500",
+                    "Role" : "None",
+                    "Start Message" : "A lottery has been started! The prize has been set to {Prize} credits. There can be only {Winners} winner. The only requirement is that you must have at least {DOS} days on the server. There will be a timer of {Timer}, so enter before it ends!",
+                    "Timer" : 30,
+                    "Winners" : 1
+                },
+                "1" : {},
+                "2" : {},
+                "3" : {},
+                "4" : {},
+                "5" : {}
+            },
+            "Members" : {
+                "299957830729990146" : {
+                    "Entries" : 0,
+                    "Name" : "Modestas",
+                    "Won" : 0
+                }
+            },
+            "Players" : {}
+        },
+        "366563966266114049" : {
+            "Config" : {
+                "Active" : false,
+                "Creator" : "",
+                "Current Loadout" : null,
+                "Default Loadout" : "0",
+                "Lottery ID" : 0,
+                "Role" : "@everyone",
+                "Tracker" : 0,
+                "Version" : 3.07
+            },
+            "Loadouts" : {
+                "0" : {
+                    "DOS" : 30,
+                    "End Message" : "Congratulations to {Winners}. You have won {Prize} credits! This has been brought to you by {Creator}.",
+                    "Limit" : 0,
+                    "Prize" : "500",
+                    "Role" : "None",
+                    "Start Message" : "A lottery has been started! The prize has been set to {Prize} credits. There can be only {Winners} winner. The only requirement is that you must have at least {DOS} days on the server. There will be a timer of {Timer}, so enter before it ends!",
+                    "Timer" : 30,
+                    "Winners" : 1
+                },
+                "1" : {},
+                "2" : {},
+                "3" : {},
+                "4" : {},
+                "5" : {}
+            },
+            "Members" : {},
+            "Players" : {}
+        },
+        "404445124001660928" : {
+            "Config" : {
+                "Active" : false,
+                "Creator" : "",
+                "Current Loadout" : null,
+                "Default Loadout" : "0",
+                "Lottery ID" : 0,
+                "Role" : "@everyone",
+                "Tracker" : 0,
+                "Version" : 3.07
+            },
+            "Loadouts" : {
+                "0" : {
+                    "DOS" : 30,
+                    "End Message" : "Congratulations to {Winners}. You have won {Prize} credits! This has been brought to you by {Creator}.",
+                    "Limit" : 0,
+                    "Prize" : "500",
+                    "Role" : "None",
+                    "Start Message" : "A lottery has been started! The prize has been set to {Prize} credits. There can be only {Winners} winner. The only requirement is that you must have at least {DOS} days on the server. There will be a timer of {Timer}, so enter before it ends!",
+                    "Timer" : 30,
+                    "Winners" : 1
+                },
+                "1" : {},
+                "2" : {},
+                "3" : {},
+                "4" : {},
+                "5" : {}
+            },
+            "Members" : {},
+            "Players" : {}
+        }
+    }
+}

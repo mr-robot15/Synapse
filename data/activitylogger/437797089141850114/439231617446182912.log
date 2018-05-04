@@ -1,0 +1,214 @@
+2018-04-27 09:49:17 #bot-commands @Cheese#9429: *help
+2018-04-27 09:49:25 #bot-commands @Cheese#9429: .help
+2018-04-28 07:28:58 #bot-commands @Cheese#9429: *help
+2018-04-28 07:29:07 #bot-commands @Ghostplay R2#1298: Hey there, @🚨Cheese🚨! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-04-28 07:30:01 #bot-commands @Cheese#9429: *multicolor
+2018-04-28 07:30:28 #bot-commands @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-28 07:31:09 #bot-commands @Cheese#9429: *multicolor 20s ✅Authorized✅
+2018-04-28 07:31:27 #bot-commands @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-28 07:32:21 #bot-commands @Cheese#9429: *multicolor 10 @Members
+2018-04-28 07:32:30 #bot-commands @Ghostplay R2#1298: 
+2018-04-28 07:32:31 #bot-commands @Ghostplay R2#1298 edited message from 2018-04-28 07:32:30 () to read: 
+2018-04-28 08:12:21 #bot-commands @Cheese#9429: *multicolor 10 @Members
+2018-04-28 08:12:30 #bot-commands @Ghostplay R2#1298: 
+2018-04-28 08:12:31 #bot-commands @Ghostplay R2#1298 edited message from 2018-04-28 08:12:30 () to read: 
+2018-04-28 08:13:54 #bot-commands @Cheese#9429: *multicolor 10 Members
+2018-04-28 08:15:46 #bot-commands @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`
+2018-04-28 08:16:36 #bot-commands @Cheese#9429: Lol
+2018-04-28 13:26:10 #bot-commands @Cheese#9429: *multicolor 20 Colourful
+2018-04-28 13:26:30 #bot-commands @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`
+2018-04-28 13:26:38 #bot-commands @Cheese#9429: *about
+2018-04-28 13:26:42 #bot-commands @Cheese#9429: *stats
+2018-04-28 13:26:48 #bot-commands @Ghostplay R2#1298: 
+2018-04-28 13:26:48 #bot-commands @Ghostplay R2#1298 edited message from 2018-04-28 13:26:48 () to read: 
+2018-05-01 03:46:47 #🤖bot-commands @Cheese#9429: Lhelp
+2018-05-01 03:47:35 #🤖bot-commands @Cheese#9429: Laway
+2018-05-01 03:47:35 #🤖bot-commands @Link#7233: You're now set as away.
+2018-05-01 03:47:40 #🤖bot-commands @Cheese#9429: Ltoggleaway
+2018-05-01 03:47:40 #🤖bot-commands @Link#7233: Ignoring this server.
+2018-05-01 03:47:48 #🤖bot-commands @Cheese#9429: Ltoggleaway
+2018-05-01 03:47:48 #🤖bot-commands @Link#7233: Not ignoring this server anymore.
+2018-05-01 03:47:53 #🤖bot-commands @Cheese#9429: Laway
+2018-05-01 03:47:53 #🤖bot-commands @Link#7233: You're now back.
+2018-05-01 03:48:06 #🤖bot-commands @Cheese#9429: Laway Uni workshop
+2018-05-01 03:48:06 #🤖bot-commands @Link#7233: You're now set as away.
+2018-05-01 03:48:10 #🤖bot-commands @Cheese#9429: Laway
+2018-05-01 03:48:10 #🤖bot-commands @Link#7233: You're now back.
+2018-05-01 03:51:22 #🤖bot-commands @Cheese#9429: Lbuyrole
+2018-05-01 03:51:22 #🤖bot-commands @Link#7233: This server doesn't have a shop yet
+2018-05-01 03:51:26 #🤖bot-commands @Cheese#9429: Lshop
+2018-05-01 03:51:26 #🤖bot-commands @Link#7233: ```\nLshop\n\nShop Commands. Use !help Shop for other command groups\n\nCommands:\n  add         Adds items to the shop. Use 0 in quantity for infinite.\n  addrole     Add a role token to shop list. Requires buyrole from refactored...\n  blocktrades Toggles blocking trade requests.\n  buy         Purchase a shop item with credits.\n  clear       Wipes the entire shop list\n  gift        Send a number of items from your inventory to another user\n  give        Adds an item to a users inventory. Item must be in the shop.\n  list        Shows a list of all the shop items. Roles are blue.\n  redeem      Sends a request to redeem an item\n  remove      Removes an item from the shop.\n  trade       Request a trade with another user\n  trash       Throws away an item in your inventory.\n  version     Shows the version of the shop cog you are running.\n\nType Lshop command for more info on a command.\nYou can also type Lshop category for more info on a category.\n```
+2018-05-01 03:51:48 #🤖bot-commands @Cheese#9429: Lshop addrole
+2018-05-01 03:51:48 #🤖bot-commands @Link#7233: ```\nLshop addrole <quantity> <cost> <role>\n\nAdd a role token to shop list. Requires buyrole from refactored cogs\n\n```
+2018-05-01 03:52:05 #🤖bot-commands @Cheese#9429: Lshop addrole 1 100 @Colourful
+2018-05-01 03:52:05 #🤖bot-commands @Link#7233: ```1 Colourful have been added to Jumpman's shop.\n1 item(s) available for purchase in the store.```
+2018-05-01 03:52:11 #🤖bot-commands @Cheese#9429: Lshop
+2018-05-01 03:52:12 #🤖bot-commands @Link#7233: ```\nLshop\n\nShop Commands. Use !help Shop for other command groups\n\nCommands:\n  add         Adds items to the shop. Use 0 in quantity for infinite.\n  addrole     Add a role token to shop list. Requires buyrole from refactored...\n  blocktrades Toggles blocking trade requests.\n  buy         Purchase a shop item with credits.\n  clear       Wipes the entire shop list\n  gift        Send a number of items from your inventory to another user\n  give        Adds an item to a users inventory. Item must be in the shop.\n  list        Shows a list of all the shop items. Roles are blue.\n  redeem      Sends a request to redeem an item\n  remove      Removes an item from the shop.\n  trade       Request a trade with another user\n  trash       Throws away an item in your inventory.\n  version     Shows the version of the shop cog you are running.\n\nType Lshop command for more info on a command.\nYou can also type Lshop category for more info on a category.\n```
+2018-05-01 03:52:17 #🤖bot-commands @Cheese#9429: Lbuyrole
+2018-05-01 03:52:17 #🤖bot-commands @Link#7233: This server doesn't have a shop yet
+2018-05-01 03:52:24 #🤖bot-commands @Cheese#9429: Lshop add
+2018-05-01 03:52:24 #🤖bot-commands @Link#7233: ```\nLshop add <quantity> <cost> <itemname>\n\nAdds items to the shop. Use 0 in quantity for infinite.\n\n```
+2018-05-01 03:52:44 #🤖bot-commands @Cheese#9429: Lversion
+2018-05-01 03:52:44 #🤖bot-commands @Link#7233: That command is disabled.
+2018-05-01 03:52:54 #🤖bot-commands @Cheese#9429: Ltrash
+2018-05-01 04:42:23 #🤖bot-commands @Cheese#9429: Lsetshop
+2018-05-01 04:42:23 #🤖bot-commands @Link#7233: ```\nLsetshop\n\nShop configuration settings\n\nCommands:\n  buymsg   Set a msg for item redemption. \n  discount Discounts an item in the shop by a percentage. 0-99\n  name     Renames the shop\n  notify   Turn on shop pending notifications.\n  output   Sets the output to chat/whisper for inventory or shop\n  ptype    Change the pending method to automatic.\n  role     Set the server role that will receive pending notifications\n  sorting  Changes the sorting method for shop listings. Alphabetical, Lowest...\n  toggle   Opens and closes the shop\n  tradecd  Sets the cooldown timer for trading, in seconds.\n\nType Lsetshop command for more info on a command.\nYou can also type Lsetshop category for more info on a category.\n```
+2018-05-01 04:42:48 #🤖bot-commands @Cheese#9429: Lsetshop name Cheesy Shop
+2018-05-01 04:42:48 #🤖bot-commands @Link#7233: I have renamed the shop to Cheesy Shop.
+2018-05-01 04:43:05 #🤖bot-commands @Cheese#9429: Lsetshop name **Cheese Shop**
+2018-05-01 04:43:06 #🤖bot-commands @Link#7233: I have renamed the shop to **Cheese Shop**.
+2018-05-01 04:43:28 #🤖bot-commands @Cheese#9429: Lsetshop toggle
+2018-05-01 04:43:28 #🤖bot-commands @Link#7233: The **Cheese Shop** shop is now closed.
+2018-05-01 04:43:39 #🤖bot-commands @Cheese#9429: Lsetshop toggle
+2018-05-01 04:43:39 #🤖bot-commands @Link#7233: **Cheese Shop** shop is now open for business!
+2018-05-01 04:46:22 #🤖bot-commands @Cheese#9429: Lshop
+2018-05-01 04:46:22 #🤖bot-commands @Link#7233: ```\nLshop\n\nShop Commands. Use !help Shop for other command groups\n\nCommands:\n  add         Adds items to the shop. Use 0 in quantity for infinite.\n  addrole     Add a role token to shop list. Requires buyrole from refactored...\n  blocktrades Toggles blocking trade requests.\n  buy         Purchase a shop item with credits.\n  clear       Wipes the entire shop list\n  gift        Send a number of items from your inventory to another user\n  give        Adds an item to a users inventory. Item must be in the shop.\n  list        Shows a list of all the shop items. Roles are blue.\n  redeem      Sends a request to redeem an item\n  remove      Removes an item from the shop.\n  trade       Request a trade with another user\n  trash       Throws away an item in your inventory.\n  version     Shows the version of the shop cog you are running.\n\nType Lshop command for more info on a command.\nYou can also type Lshop category for more info on a category.\n```
+2018-05-01 04:46:30 #🤖bot-commands @Cheese#9429: Lshop buy
+2018-05-01 04:46:30 #🤖bot-commands @Link#7233: ```\nLshop buy <quantity> <itemname>\n\nPurchase a shop item with credits.\n\n```
+2018-05-01 04:47:47 #🤖bot-commands @Cheese#9429: Lshop buy 1 @Colourful
+2018-05-01 04:47:47 #🤖bot-commands @Link#7233: This item is not in the shop.
+2018-05-01 04:48:03 #🤖bot-commands @Cheese#9429: Lshop buyrole
+2018-05-01 04:48:04 #🤖bot-commands @Link#7233: ```\nLshop\n\nShop Commands. Use !help Shop for other command groups\n\nCommands:\n  add         Adds items to the shop. Use 0 in quantity for infinite.\n  addrole     Add a role token to shop list. Requires buyrole from refactored...\n  blocktrades Toggles blocking trade requests.\n  buy         Purchase a shop item with credits.\n  clear       Wipes the entire shop list\n  gift        Send a number of items from your inventory to another user\n  give        Adds an item to a users inventory. Item must be in the shop.\n  list        Shows a list of all the shop items. Roles are blue.\n  redeem      Sends a request to redeem an item\n  remove      Removes an item from the shop.\n  trade       Request a trade with another user\n  trash       Throws away an item in your inventory.\n  version     Shows the version of the shop cog you are running.\n\nType Lshop command for more info on a command.\nYou can also type Lshop category for more info on a category.\n```
+2018-05-01 04:48:28 #🤖bot-commands @Cheese#9429: Lshop add 1 @Colourful
+2018-05-01 04:48:28 #🤖bot-commands @Link#7233: ```\nLshop add <quantity> <cost> <itemname>\n\nAdds items to the shop. Use 0 in quantity for infinite.\n\n```
+2018-05-01 04:48:39 #🤖bot-commands @Cheese#9429: Lshop add 1 100 @Colourful
+2018-05-01 04:48:39 #🤖bot-commands @Link#7233: ```1 <@&439701108617773056> have been added to **Cheese Shop** shop.\n1 items available for purchase in the store.```
+2018-05-01 04:48:53 #🤖bot-commands @Cheese#9429: Lshop buy 1 @Colourful
+2018-05-01 04:48:53 #🤖bot-commands @Link#7233: You do not have a bank account.
+2018-05-01 04:48:58 #🤖bot-commands @Cheese#9429: Lbank
+2018-05-01 04:48:58 #🤖bot-commands @Link#7233: ```\nLbank\n\nBank operations\n\nCommands:\n  balance  Shows balance of user.\n  register Registers an account at the Twentysix bank\n  reset    Deletes all server's bank accounts\n  set      Sets credits of user's bank account. See help for more operations\n  transfer Transfer credits to other users\n\nType Lbank command for more info on a command.\nYou can also type Lbank category for more info on a category.\n```
+2018-05-01 04:49:09 #🤖bot-commands @Cheese#9429: Lbank register
+2018-05-01 04:49:09 #🤖bot-commands @Link#7233: @🚨Cheese🚨 Account opened. Current balance: 0
+2018-05-01 04:49:18 #🤖bot-commands @Cheese#9429: Lpayday
+2018-05-01 04:49:19 #🤖bot-commands @Link#7233: @🚨Cheese🚨 Here, take some credits. Enjoy! (+120 credits!)
+2018-05-01 04:49:26 #🤖bot-commands @Cheese#9429: Lpayday
+2018-05-01 04:49:26 #🤖bot-commands @Link#7233: @🚨Cheese🚨 Too soon. For your next payday you have to wait 4 minutes, 53 seconds.
+2018-05-01 04:49:49 #🤖bot-commands @Cheese#9429: Lshop buy 1 @Colourful
+2018-05-01 04:49:49 #🤖bot-commands @Link#7233: ```You have purchased 1 <@&439701108617773056>(s) for 100 credits.\n<@&439701108617773056> has been added to your inventory.```
+2018-05-01 04:50:23 #🤖bot-commands @Cheese#9429: Lshop list
+2018-05-01 04:50:23 #🤖bot-commands @Link#7233: ```+---------------------------------------+\n│**Cheese Shop** Store Listings         │\n+---------------------------------------+```\n```ini\n Item Name    Item Quantity    Item Cost    Discount\n-----------  ---------------  -----------  ----------\n[Colourful]         1             100         None``````Python\nYou are viewing page 1 of 1. There are 1 items available.```
+2018-05-01 04:50:49 #🤖bot-commands @Cheese#9429: Lshop add 1 500 Supporter
+2018-05-01 04:50:49 #🤖bot-commands @Link#7233: ```1 Supporter have been added to **Cheese Shop** shop.\n1 items available for purchase in the store.```
+2018-05-01 04:51:06 #🤖bot-commands @Cheese#9429: Lshop list
+2018-05-01 04:51:06 #🤖bot-commands @Link#7233: ```+---------------------------------------+\n│**Cheese Shop** Store Listings         │\n+---------------------------------------+```\n```ini\n Item Name    Item Quantity    Item Cost    Discount\n-----------  ---------------  -----------  ----------\n Supporter          1             500         None\n[Colourful]         1             100         None``````Python\nYou are viewing page 1 of 1. There are 2 items available.```
+2018-05-01 05:08:33 #🤖bot-commands @Cheese#9429: Lpayday
+2018-05-01 05:08:33 #🤖bot-commands @Link#7233: @🚨Cheese🚨 Here, take some credits. Enjoy! (+120 credits!)
+2018-05-01 05:08:43 #🤖bot-commands @Cheese#9429: Lshop buy 1 @Colourful
+2018-05-01 05:08:43 #🤖bot-commands @Link#7233: This item is not in the shop.
+2018-05-01 05:08:57 #🤖bot-commands @Cheese#9429: Lshop add 1 100 @Colourful
+2018-05-01 05:08:57 #🤖bot-commands @Link#7233: ```1 <@&439701108617773056> have been added to **Cheese Shop** shop.\n2 items available for purchase in the store.```
+2018-05-01 05:09:06 #🤖bot-commands @Cheese#9429: Lshop buy 1 @Colourful
+2018-05-01 05:09:06 #🤖bot-commands @Link#7233: ```You have purchased 1 <@&439701108617773056>(s) for 100 credits.\n<@&439701108617773056> has been added to your inventory.```
+2018-05-01 05:09:18 #🤖bot-commands @Cheese#9429: Lshop addrole
+2018-05-01 05:09:18 #🤖bot-commands @Link#7233: ```\nLshop addrole <quantity> <cost> <role>\n\nAdd a role token to shop list. Requires buyrole from refactored cogs\n\n```
+2018-05-01 05:09:42 #🤖bot-commands @Cheese#9429: Lshop addrole 0 500 @Colourful
+2018-05-01 05:09:42 #🤖bot-commands @Link#7233: ```0 Colourful have been added to **Cheese Shop** shop.\n2 item(s) available for purchase in the store.```
+2018-05-01 05:10:00 #🤖bot-commands @Cheese#9429: Lshop buy 1 @Colourful
+2018-05-01 05:10:00 #🤖bot-commands @Link#7233: This item is not in the shop.
+2018-05-01 05:10:11 #🤖bot-commands @Cheese#9429: Lshop buyrole 1 @Colourful
+2018-05-01 05:10:11 #🤖bot-commands @Link#7233: ```\nLshop\n\nShop Commands. Use !help Shop for other command groups\n\nCommands:\n  add         Adds items to the shop. Use 0 in quantity for infinite.\n  addrole     Add a role token to shop list. Requires buyrole from refactored...\n  blocktrades Toggles blocking trade requests.\n  buy         Purchase a shop item with credits.\n  clear       Wipes the entire shop list\n  gift        Send a number of items from your inventory to another user\n  give        Adds an item to a users inventory. Item must be in the shop.\n  list        Shows a list of all the shop items. Roles are blue.\n  redeem      Sends a request to redeem an item\n  remove      Removes an item from the shop.\n  trade       Request a trade with another user\n  trash       Throws away an item in your inventory.\n  version     Shows the version of the shop cog you are running.\n\nType Lshop command for more info on a command.\nYou can also type Lshop category for more info on a category.\n```
+2018-05-01 05:10:23 #🤖bot-commands @Cheese#9429: Lhuyrole
+2018-05-01 05:10:27 #🤖bot-commands @Cheese#9429: Lbuyrole
+2018-05-01 05:10:27 #🤖bot-commands @Link#7233: This server doesn't have a shop yet
+2018-05-01 05:17:37 #🤖bot-commands @Cheese#9429: Lroleshop
+2018-05-01 05:17:40 #🤖bot-commands @Cheese#9429: Lshop
+2018-05-01 05:17:40 #🤖bot-commands @Link#7233: ```\nLshop\n\nShop Commands. Use !help Shop for other command groups\n\nCommands:\n  add         Adds items to the shop. Use 0 in quantity for infinite.\n  addrole     Add a role token to shop list. Requires buyrole from refactored...\n  blocktrades Toggles blocking trade requests.\n  buy         Purchase a shop item with credits.\n  clear       Wipes the entire shop list\n  gift        Send a number of items from your inventory to another user\n  give        Adds an item to a users inventory. Item must be in the shop.\n  list        Shows a list of all the shop items. Roles are blue.\n  redeem      Sends a request to redeem an item\n  remove      Removes an item from the shop.\n  trade       Request a trade with another user\n  trash       Throws away an item in your inventory.\n  version     Shows the version of the shop cog you are running.\n\nType Lshop command for more info on a command.\nYou can also type Lshop category for more info on a category.\n```
+2018-05-01 05:17:46 #🤖bot-commands @Cheese#9429: Lsetshop
+2018-05-01 05:17:46 #🤖bot-commands @Link#7233: ```\nLsetshop\n\nShop configuration settings\n\nCommands:\n  buymsg   Set a msg for item redemption. \n  discount Discounts an item in the shop by a percentage. 0-99\n  name     Renames the shop\n  notify   Turn on shop pending notifications.\n  output   Sets the output to chat/whisper for inventory or shop\n  ptype    Change the pending method to automatic.\n  role     Set the server role that will receive pending notifications\n  sorting  Changes the sorting method for shop listings. Alphabetical, Lowest...\n  toggle   Opens and closes the shop\n  tradecd  Sets the cooldown timer for trading, in seconds.\n\nType Lsetshop command for more info on a command.\nYou can also type Lsetshop category for more info on a category.\n```
+2018-05-01 05:22:36 #🤖bot-commands @Cheese#9429: Leconomyset
+2018-05-01 05:22:36 #🤖bot-commands @Link#7233: ```\nLeconomyset\n\nChanges economy module settings\n\nCommands:\n  paydaycredits   Credits earned each payday\n  paydaytime      Seconds between each payday\n  registercredits Credits given on registering an account\n  slotmax         Maximum slot machine bid\n  slotmin         Minimum slot machine bid\n  slottime        Seconds between each slots use\n\nType Leconomyset command for more info on a command.\nYou can also type Leconomyset category for more info on a category.\n```
+2018-05-01 05:22:36 #🤖bot-commands @Link#7233: ```PAYDAY_TIME: 300\nPAYDAY_CREDITS: 120\nSLOT_MIN: 5\nSLOT_MAX: 100\nSLOT_TIME: 0\nREGISTER_CREDITS: 0\n```
+2018-05-01 05:23:03 #🤖bot-commands @Cheese#9429: Leconomyset paydaycedits 150
+2018-05-01 05:23:03 #🤖bot-commands @Link#7233: ```\nLeconomyset\n\nChanges economy module settings\n\nCommands:\n  paydaycredits   Credits earned each payday\n  paydaytime      Seconds between each payday\n  registercredits Credits given on registering an account\n  slotmax         Maximum slot machine bid\n  slotmin         Minimum slot machine bid\n  slottime        Seconds between each slots use\n\nType Leconomyset command for more info on a command.\nYou can also type Leconomyset category for more info on a category.\n```
+2018-05-01 05:23:03 #🤖bot-commands @Link#7233: ```PAYDAY_TIME: 300\nPAYDAY_CREDITS: 120\nSLOT_MIN: 5\nSLOT_MAX: 100\nSLOT_TIME: 0\nREGISTER_CREDITS: 0\n```
+2018-05-01 05:23:25 #🤖bot-commands @Cheese#9429: Lpaydaycredits 150
+2018-05-01 05:23:34 #🤖bot-commands @Cheese#9429: Leconomyset paydaycedits
+2018-05-01 05:23:34 #🤖bot-commands @Link#7233: ```\nLeconomyset\n\nChanges economy module settings\n\nCommands:\n  paydaycredits   Credits earned each payday\n  paydaytime      Seconds between each payday\n  registercredits Credits given on registering an account\n  slotmax         Maximum slot machine bid\n  slotmin         Minimum slot machine bid\n  slottime        Seconds between each slots use\n\nType Leconomyset command for more info on a command.\nYou can also type Leconomyset category for more info on a category.\n```
+2018-05-01 05:23:34 #🤖bot-commands @Link#7233: ```PAYDAY_TIME: 300\nPAYDAY_CREDITS: 120\nSLOT_MIN: 5\nSLOT_MAX: 100\nSLOT_TIME: 0\nREGISTER_CREDITS: 0\n```
+2018-05-01 05:24:01 #🤖bot-commands @Cheese#9429: Leconomyset paydaycredits
+2018-05-01 05:24:01 #🤖bot-commands @Link#7233: ```\nLeconomyset paydaycredits <credits>\n\nCredits earned each payday\n\n```
+2018-05-01 05:24:23 #🤖bot-commands @Cheese#9429: Leconomyset paydaycredits 150
+2018-05-01 05:24:23 #🤖bot-commands @Link#7233: Every payday will now give 150 credits.
+2018-05-01 05:30:14 #🤖bot-commands @Cheese#9429: Leconomyset registercredits 200
+2018-05-01 05:30:14 #🤖bot-commands @Link#7233: Registering an account will now give 200 credits.
+2018-05-01 05:33:10 #🤖bot-commands @Cheese#9429: Lcogs
+2018-05-01 05:34:26 #🤖bot-commands @Cheese#9429: Lseen @🚦Potato🚦
+2018-05-01 05:34:26 #🤖bot-commands @Link#7233: 
+2018-05-01 05:34:26 #🤖bot-commands @Link#7233 edited message from 2018-05-01 05:34:26 () to read: 
+2018-05-01 05:34:53 #🤖bot-commands @Cheese#9429: Lseen @Ghostplay R2
+2018-05-01 05:34:53 #🤖bot-commands @Link#7233: 
+2018-05-01 05:34:54 #🤖bot-commands @Link#7233 edited message from 2018-05-01 05:34:53 () to read: 
+2018-05-01 05:36:29 #🤖bot-commands @Cheese#9429: Lseen @🚨Cheese🚨
+2018-05-01 05:36:29 #🤖bot-commands @Link#7233: 
+2018-05-01 05:36:30 #🤖bot-commands @Link#7233 edited message from 2018-05-01 05:36:29 () to read: 
+2018-05-01 05:37:40 #🤖bot-commands @Cheese#9429: Lnickometer
+2018-05-01 05:37:41 #🤖bot-commands @Link#7233: The "lame nick-o-meter" reading for "🚨Cheese🚨" is 25.0%.
+2018-05-01 05:37:50 #🤖bot-commands @Cheese#9429: Lnickometer
+2018-05-01 05:37:51 #🤖bot-commands @Link#7233: The "lame nick-o-meter" reading for "🚨Cheese🚨" is 25.0%.
+2018-05-01 05:37:55 #🤖bot-commands @Cheese#9429: Lnickometer @🚦Potato🚦
+2018-05-01 05:37:55 #🤖bot-commands @Link#7233: The "lame nick-o-meter" reading for "@🚦Potato🚦" is 99.0%.
+2018-05-01 05:38:09 #🤖bot-commands @Cheese#9429: Lnickometer @🚨Cheese🚨
+2018-05-01 05:38:09 #🤖bot-commands @Link#7233: The "lame nick-o-meter" reading for "@🚨Cheese🚨" is 99.0%.
+2018-05-01 05:38:20 #🤖bot-commands @Cheese#9429: Lnickometer Cheese
+2018-05-01 05:38:20 #🤖bot-commands @Link#7233: The "lame nick-o-meter" reading for "Cheese" is 0.0%.
+2018-05-01 05:38:27 #🤖bot-commands @Cheese#9429: Lnickometer aksdlaksdnalskdj!@ESD@#
+2018-05-01 05:38:27 #🤖bot-commands @Link#7233: The "lame nick-o-meter" reading for "aksdlaksdnalskdj!@ESD@#" is 99.0%.
+2018-05-01 12:21:35 #🤖bot-commands @Cheese#9429: Lpayday
+2018-05-01 12:21:35 #🤖bot-commands @Link#7233: @🚨Cheese🚨 Here, take some credits. Enjoy! (+150 credits!)
+2018-05-01 12:21:44 #🤖bot-commands @Cheese#9429: dlm!bump
+2018-05-01 12:21:45 #🤖bot-commands @DLM#4306: Server bumped!
+2018-05-01 12:21:49 #🤖bot-commands @Cheese#9429: ;;bump
+2018-05-01 12:21:49 #🤖bot-commands @DiscordServ.com#5750: Server successfully bumped!
+2018-05-01 12:21:54 #🤖bot-commands @Cheese#9429: !clear 100
+2018-05-01 12:21:54 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-01 12:21:54 (!clear 100)
+2018-05-01 12:21:55 #🤖bot-commands @MEE6#4876: I have deleted `100 messages` for ya! <:SMILE6:403540172433522689>
+2018-05-01 12:21:56 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-01 12:21:35 (Lpayday)
+2018-05-01 12:21:56 #🤖bot-commands @Link#7233 deleted message from 2018-05-01 12:21:35 (@🚨Cheese🚨 Here, take some credits. Enjoy! (+150 credits!))
+2018-05-01 12:21:56 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-01 12:21:44 (dlm!bump)
+2018-05-01 12:21:56 #🤖bot-commands @DLM#4306 deleted message from 2018-05-01 12:21:45 (Server bumped!)
+2018-05-01 12:21:56 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-01 12:21:49 (;;bump)
+2018-05-01 12:21:56 #🤖bot-commands @DiscordServ.com#5750 deleted message from 2018-05-01 12:21:49 (Server successfully bumped!)
+2018-05-01 12:21:58 #🤖bot-commands @MEE6#4876 deleted message from 2018-05-01 12:21:55 (I have deleted `100 messages` for ya! <:SMILE6:403540172433522689>)
+2018-05-01 12:22:05 #🤖bot-commands @Cheese#9429: !clear 100
+2018-05-01 12:22:05 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-01 12:22:05 (!clear 100)
+2018-05-01 12:22:06 #🤖bot-commands @MEE6#4876: I have deleted `37 messages` for ya! <:SMILE6:403540172433522689>
+2018-05-01 12:22:13 #🤖bot-commands @MEE6#4876 deleted message from 2018-05-01 12:22:06 (I have deleted `37 messages` for ya! <:SMILE6:403540172433522689>)
+2018-05-02 11:29:14 #🤖bot-commands @Cheese#9429: *help
+2018-05-02 11:29:16 #🤖bot-commands @Ghostplay R2#1298: Hey there, @🚨**Cheese**🚨! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-05-02 11:29:32 #🤖bot-commands @Cheese#9429: *multicolor
+2018-05-02 11:29:33 #🤖bot-commands @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-05-02 11:29:43 #🤖bot-commands @Cheese#9429: *multicolor 10 @Colourful
+2018-05-02 11:29:44 #🤖bot-commands @Ghostplay R2#1298: 
+2018-05-02 11:29:45 #🤖bot-commands @Ghostplay R2#1298 edited message from 2018-05-02 11:29:44 () to read: 
+2018-05-02 11:29:56 #🤖bot-commands @Cheese#9429: *multicolor 10 441199606475390978
+2018-05-02 11:30:01 #🤖bot-commands @Ghostplay R2#1298: 
+2018-05-02 11:30:01 #🤖bot-commands @Ghostplay R2#1298 edited message from 2018-05-02 11:30:01 () to read: 
+2018-05-02 11:30:20 #🤖bot-commands @Cheese#9429: *multcolor Colourful
+2018-05-02 11:30:29 #🤖bot-commands @Cheese#9429: *multcolor 10 Colourful
+2018-05-02 11:31:24 #🤖bot-commands @Cheese#9429: *multcolor 10 Colourful
+2018-05-02 11:31:25 #🤖bot-commands @Cheese#9429: *multcolor 10 Colourful
+2018-05-02 11:31:26 #🤖bot-commands @Cheese#9429: *multcolor 10 Colourful
+2018-05-02 11:31:27 #🤖bot-commands @Cheese#9429: *multcolor 10 Colourful
+2018-05-02 11:31:32 #🤖bot-commands @Cheese#9429: *multicolor 10 Colourful
+2018-05-02 11:31:46 #🤖bot-commands @Cheese#9429: *multicolor 5 Colourful
+2018-05-02 11:32:11 #🤖bot-commands @Cheese#9429: !clear 100
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:32:11 (!clear 100)
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:29:14 (*help)
+2018-05-02 11:32:12 #🤖bot-commands @Ghostplay R2#1298 deleted message from 2018-05-02 11:29:16 (Hey there, @🚨**Cheese**🚨! I sent you the list of commands in a private message.\nCheck your direct messages)
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:29:32 (*multicolor)
+2018-05-02 11:32:12 #🤖bot-commands @Ghostplay R2#1298 deleted message from 2018-05-02 11:29:33 (```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```)
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:29:43 (*multicolor 10 @Colourful)
+2018-05-02 11:32:12 #🤖bot-commands @Ghostplay R2#1298 deleted message from 2018-05-02 11:29:44 ()
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:29:56 (*multicolor 10 441199606475390978)
+2018-05-02 11:32:12 #🤖bot-commands @Ghostplay R2#1298 deleted message from 2018-05-02 11:30:01 ()
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:30:20 (*multcolor Colourful)
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:30:29 (*multcolor 10 Colourful)
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:31:24 (*multcolor 10 Colourful)
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:31:25 (*multcolor 10 Colourful)
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:31:26 (*multcolor 10 Colourful)
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:31:27 (*multcolor 10 Colourful)
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:31:32 (*multicolor 10 Colourful)
+2018-05-02 11:32:12 #🤖bot-commands @Cheese#9429 deleted message from 2018-05-02 11:31:46 (*multicolor 5 Colourful)
+2018-05-02 11:32:12 #🤖bot-commands @MEE6#4876: I have deleted `16 messages` for ya! <:SMILE6:403540172433522689>
+2018-05-02 11:32:16 #🤖bot-commands @MEE6#4876 deleted message from 2018-05-02 11:32:12 (I have deleted `16 messages` for ya! <:SMILE6:403540172433522689>)
+2018-05-02 12:12:54 #🤖bot-commands @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`

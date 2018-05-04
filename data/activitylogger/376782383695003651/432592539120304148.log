@@ -1,0 +1,10 @@
+2018-04-21 17:57:35 #bot-text @Valid#0503: -help
+2018-04-21 17:57:36 #bot-text @Parallax#6192: ```\nConfiguration:\n  config     Configure server-specific settings \nMisc:\n  avatar     Links your (or another user's) avatar \n  invite     Displays Parallax's invite \n  server     Displays server information \n  stats      Displays Parallax's statistics \n  userinfo   Returns information about a user\nModeration:\n  assign     Assign yourself a (public) role\n  ban        Bans a user from the server\n  clean      Deletes messages in a channel\n  clearwarns Clears a user's warnings \n  kick       Kicks a user from the server \n  lock       Locks the current channel \n  mute       Mutes the specified user\n  snipe      View the last deleted message in the channel \n  unban      Unbans a member from the server by their Discord ID\n  unlock     Unlocks the current channel \n  unmute     Unmutes the specified user \n  voicekick  Kicks the target users from their voicechannels \n  warn       Issues a warning to the given user \n\nType -help command for more info on a command.\nYou can also type -help category for more info on a category.\n```
+2018-04-21 17:57:42 #bot-text @Valid#0503: .help
+2018-04-21 17:57:42 #bot-text @MedalBot#1237: Hey @vTm Valid, I've PM'd you with a list of commands you can use!
+2018-04-21 17:58:25 #bot-text @Valid#0503: .multicolor 2 ☁️Founder
+2018-04-21 17:59:22 #bot-text @Valid#0503: .commandsadmin
+2018-04-21 17:59:30 #bot-text @Valid#0503: ?purge 2
+2018-04-21 17:59:40 #bot-text @Valid#0503 deleted message from 2018-04-21 17:58:25 (.multicolor 2 ☁️Founder)
+2018-04-21 17:59:40 #bot-text @Valid#0503 deleted message from 2018-04-21 17:59:22 (.commandsadmin)
+2018-04-21 17:59:46 #bot-text @Valid#0503 deleted message from 2018-04-21 17:59:30 (?purge 2)

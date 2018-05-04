@@ -1,0 +1,286 @@
+{
+    "427830207265767424" : {
+        "1" : {
+            "answers" : {
+                "no" : [],
+                "yes" : [
+                    "291226226608308224"
+                ]
+            },
+            "asked" : [],
+            "channel" : "431825444053057537",
+            "deadline" : "04/19/2018 12:00PM UTC",
+            "messages" : {
+                "results" : "436029622480666634",
+                "waiting" : null
+            },
+            "options" : {
+                "no" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                },
+                "yes" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                }
+            },
+            "prefix" : "!",
+            "question" : "\u201cquestion\u201d"
+        },
+        "2" : {
+            "answers" : {
+                "lol" : [
+                    "291226226608308224"
+                ],
+                "yes" : []
+            },
+            "asked" : [],
+            "channel" : "431825444053057537",
+            "deadline" : "04/19/2018 12:00PM UTC",
+            "messages" : {
+                "results" : "436031517182001164",
+                "waiting" : null
+            },
+            "options" : {
+                "lol" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                },
+                "yes" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                }
+            },
+            "prefix" : "!",
+            "question" : "\u201ctest\u201d"
+        },
+        "3" : {
+            "answers" : {
+                "no" : [],
+                "options enclosed with double quotes too, if contain spaces" : [],
+                "yes" : [
+                    "291226226608308224"
+                ]
+            },
+            "asked" : [],
+            "channel" : "431825444053057537",
+            "deadline" : "04/19/2018 12:00PM UTC",
+            "messages" : {
+                "results" : "436032382576099329",
+                "waiting" : null
+            },
+            "options" : {
+                "no" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                },
+                "options enclosed with double quotes too, if contain spaces" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                },
+                "yes" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                }
+            },
+            "prefix" : "!",
+            "question" : "Question here. Which should be enclosed in double quotes because it includes SPACES"
+        },
+        "4" : {
+            "answers" : {
+                "lol yes" : [
+                    "291226226608308224"
+                ],
+                "yes" : []
+            },
+            "asked" : [],
+            "channel" : "431825444053057537",
+            "deadline" : "04/19/2018 12:00PM UTC",
+            "messages" : {
+                "results" : "436032813058228234",
+                "waiting" : null
+            },
+            "options" : {
+                "lol yes" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                },
+                "yes" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                }
+            },
+            "prefix" : "!",
+            "question" : "Is exo gay?"
+        },
+        "5" : {
+            "answers" : {
+                "lol yes" : [],
+                "yes" : []
+            },
+            "asked" : [
+                "291226226608308224"
+            ],
+            "channel" : "431825444053057537",
+            "deadline" : "04/19/2018 12:00PM UTC",
+            "messages" : {
+                "results" : "436034719881363457",
+                "waiting" : "436034720246136832"
+            },
+            "options" : {
+                "lol yes" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                },
+                "yes" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                }
+            },
+            "prefix" : "!",
+            "question" : "Is exo gay?"
+        },
+        "6" : {
+            "answers" : {
+                "no" : [],
+                "yes" : []
+            },
+            "asked" : [
+                "291226226608308224"
+            ],
+            "channel" : "431825444053057537",
+            "deadline" : "04/19/2018 12:00PM UTC",
+            "messages" : {
+                "results" : "436035002762002432",
+                "waiting" : "436035003252604928"
+            },
+            "options" : {
+                "no" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                },
+                "yes" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                }
+            },
+            "prefix" : "!",
+            "question" : "Are you here for free drop lobbies?"
+        },
+        "7" : {
+            "answers" : {
+                "no" : [],
+                "yes" : []
+            },
+            "asked" : [
+                "291226226608308224"
+            ],
+            "channel" : "435801299993231370",
+            "deadline" : "04/19/2018 12:00PM UTC",
+            "messages" : {
+                "results" : "436035562718232576",
+                "waiting" : "436035563536252938"
+            },
+            "options" : {
+                "no" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                },
+                "yes" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                }
+            },
+            "prefix" : "!",
+            "question" : "Are you here for free drop lobbies?"
+        },
+        "8" : {
+            "answers" : {
+                "no" : [
+                    "391606357788327954",
+                    "255736979650510848",
+                    "300754440045068289",
+                    "354289683523698689",
+                    "201387886023671808",
+                    "398834520440307715",
+                    "197486903279222785"
+                ],
+                "yes" : [
+                    "333234236364554242",
+                    "342471532427083780",
+                    "425311535087353857",
+                    "278056548369170438"
+                ]
+            },
+            "asked" : [
+                "399839279574155264",
+                "430519049408217089",
+                "435967998327652352",
+                "415923465141616643",
+                "198157596941615104",
+                "428043328781811714",
+                "249174367991365632",
+                "314398488462884869",
+                "397086210738225153",
+                "109077744821751808",
+                "199952184740151296",
+                "435942452822671380",
+                "220953441407729667",
+                "369793034373562370",
+                "435995455521030145",
+                "435872145344692226",
+                "236992172858015744",
+                "374033702738591744",
+                "435921768096727040",
+                "304733894383763456",
+                "402145019919597568"
+            ],
+            "channel" : "435801299993231370",
+            "deadline" : "04/19/2018 12:00PM UTC",
+            "messages" : {
+                "results" : "436045854298734593",
+                "waiting" : "436045855536185349"
+            },
+            "options" : {
+                "no" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                },
+                "yes" : {
+                    "limit" : null,
+                    "link" : null,
+                    "reprompt" : null
+                }
+            },
+            "prefix" : "!",
+            "question" : "Are you here for free drop lobbies?"
+        }
+    },
+    "closed" : [
+        "4",
+        "1",
+        "2",
+        "3",
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "next_id" : 9
+}

@@ -1,0 +1,4186 @@
+{
+    "110373943822540800" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "110373943822540800",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "117788347044200448" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "143711367344422912" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "180437928923627523" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "180895053202456577" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "180895053202456577",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "191716900772904961" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "191716900772904961",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "208076136171700224" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "214510398144118784" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "214510398144118784",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "223263134339694603" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "223263134339694603",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "224815989542354945" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "224815989542354945",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "224906119821262848" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "224906119821262848",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "231146163057721344" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "231146163057721344",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "231961398555443201" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "239163942822346752" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "239163942822346752",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "242169591202054144" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "242169591202054144",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "243361217475903488" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "243361217475903488",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "245581810724110338" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "245581810724110338",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "246697043127566350" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "246697043127566350",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "253728413578166282" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "254710639719743499" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "254710639719743499",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "255690777127026689" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "256867455488491521" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "256867455488491521",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "257124692501069825" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "257124692501069825",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "259693958290997249" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "259693958290997249",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "270293250982543360" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "270293250982543360",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "273311920692527105" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "273311920692527105",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "276070877798334465" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "276070877798334465",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "284956625511514112" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "285424709019893761" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "285424709019893761",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "290600339760087052" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "290600339760087052",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "292755633369776139" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "292755633369776139",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "297513310478270476" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "299233215141511169" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "299233215141511169",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "301400632357552138" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "301400632357552138",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "301758020814372874" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "301758020814372874",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "302619674263420939" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "302619674263420939",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "303608266561290260" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "305450747569504258" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "305450747569504258",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "306809319892975627" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "306809319892975627",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "307158391858659330" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "307158391858659330",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "307817740671123457" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "309226667816255488" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "309226667816255488",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "310180889772425219" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "310180889772425219",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "310784870626492416" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "311459780579557376" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "311459780579557376",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "312238895494332416" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "312238895494332416",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "312308100290052097" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "312844985290457088" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "313966213850202113" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "313966213850202113",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "314470939976794113" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "314810297590480897" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "314810297590480897",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "315421226942070784" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "316997368455102464" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "316997368455102464",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "317277714950258690" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "318436917597437954" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "320788851058540544" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "320788851058540544",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "323259726588542979" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "323259726588542979",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "323326728326086666" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "323326728326086666",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "324129488592044033" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "324129488592044033",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "324265517135167488" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "326843021737984004" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "326843021737984004",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "329427756926500865" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "329427756926500865",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "329961230028767234" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "329961230028767234",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "330953913673187339" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "331870370808201237" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "331870370808201237",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "333659527083720707" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "333659527083720707",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "333949691962195969" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "333949691962195969",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "333996561300193280" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "334340200194899968" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "334362123293425676" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "334362123293425676",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "334845975837409282" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "334845975837409282",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "335525076705214474" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "335525076705214474",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "336176097911635968" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "336176097911635968",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "337097504812171265" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "338540839707869184" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "338768060309831682" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "338768060309831682",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "339814090719363072" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "339814090719363072",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "340527989827829762" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "340527989827829762",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "341522759454687232" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "341918789425954816" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "341918789425954816",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "342336268325224468" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "342710864274653184" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "342710864274653184",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "343454620712042500" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "343454620712042500",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "343696927130517505" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "343696927130517505",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "343889515414552577" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : "343889515414552577",
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "343915679143034880" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "344541052008661014" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "348012867062202369" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "348596166738575360" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "348949184755400705" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "350689484532350978" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "351396474380353537" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "353024327769128961" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "353313048645206027" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "353513232687693834" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "354254126365802496" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "354599762969755648" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "354653166014431234" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "355742992692150276" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "356004835046457344" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "356152539709833216" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "356352562645041153" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "356369682275631104" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "357249897596190721" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "357623315269025794" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "358190566758023180" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "359748448657866752" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "361595917910147082" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "362348813031178250" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "363302441829138433" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "363506967509204995" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "364800663647158272" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "366429354160291853" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "366501259353784321" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "366563966266114049" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "366592155139047426" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "367166806105784320" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "367290711315447808" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "367606015329304576" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "367685184893747200" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "368263983066644482" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "368357781742288906" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "369189292569919488" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "369588358906773507" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "370090578580471808" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "371330349088636938" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "371591859132432384" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "372479073361854474" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "372896089327796224" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "373223082476961802" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "373947696333062146" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "374462686236377089" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "374492316162981888" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "376466312895135747" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "376498526793760770" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "376782099254083585" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "376782383695003651" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "377181711655632900" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "381531219357204480" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "381666236410626050" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "381806626157494272" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "382180651358617623" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "382564223538167808" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "384279851168694272" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "384592773812060162" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "385054520591253505" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "386328874470080513" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "386583733064433664" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "386700781363003394" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "389354485195210753" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "389446928510746635" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "389682776858820613" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "390207947252301825" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "390375486485823499" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "390656358162235403" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "390950438179962880" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "391333455545499648" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "391750746137165824" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "393863229933092867" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "394589299011616768" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "394803408072343553" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "395313530284408853" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "396242810367639562" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "396473100381978625" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "397502762209902612" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "397697666814836736" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "397811832997281802" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "397964095392972814" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "398204349341237267" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "398324692877836288" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "399611727341289474" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "401169725733994496" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "401356881920262144" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "401545819762720779" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "403251210741743626" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "403355541478572062" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "403608827531886595" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "403651569272225793" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "403910799934095389" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "404099816617148416" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "404227092788543491" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "404246682616725504" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "404445124001660928" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "404594813674061825" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "404935157846507520" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "405088644873977859" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "405170040363810816" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "405531407650390027" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "405702023905017856" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "406070307020079105" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "406091277071810582" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "406190695431274496" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "406832918451716097" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "407103192434868224" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "407580721935548416" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "407807340541378561" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "407965993717989387" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "408021751834869772" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "408252729962528770" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "408335712325468161" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "408464876994822154" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "408543304859516931" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "408572982869491712" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "408586805643051009" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "408651374214119435" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "408959687275446272" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "409392082336350209" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "409711223878189066" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "410446696753922048" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "410463362720333844" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "410581431207854091" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "410940547952541719" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "411394781294624768" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "411565808674668547" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "411892508046524417" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "411986788857675786" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "412653659558641684" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "413332244321665024" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "413400459861295104" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "414109406855430145" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "414235217973346315" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "414289335622565898" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "414352064613842955" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "414421878745202688" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "414686788398088204" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "415263962842529802" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "415694277914656768" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "415707774140284928" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "415892030498275328" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "415983763885916162" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "416254256643964939" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "416270656674463744" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "416296812249612288" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "416565558587293696" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "416764269481295872" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "416814252297420801" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "417030680292360222" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "417079016046985217" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "417283021998129154" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "417534838224977931" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "417659926647799808" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "418500759772987393" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "418693500595470338" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "419184801455669250" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "419237891869376512" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "419372108997591061" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "419596142930821120" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "419623517563387915" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "419677482955046912" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "419727480107040788" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "419794979708469249" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "420175720757723137" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "420455656907210772" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "420651030909550613" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "420657342095556638" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "420832348498821141" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "420937579655987200" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "420980735839567872" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "421194756014604289" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "421582523169243137" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "421756717131366410" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "421825613398278164" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "421949123185475604" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "422077007245869067" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "422115569580638220" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "422192097844789269" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "422270700892454914" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "422427755997560843" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "422428598121660416" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "422778877715283969" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "423414039553769472" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "423643113446440962" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "423859481718423552" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "424411393794768906" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "424426504219525120" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "424648890323566592" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "424659028413513750" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "424730023711211526" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "425163522788425728" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "425303702233153547" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "425758653258268710" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "426080918126592023" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "426121448197849088" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "426229954146205716" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "426449062745604096" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "426746764956008448" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "427062710895771651" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "427275242889674754" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "427441028140892180" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "427449978596753408" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "427496285658939392" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "427554075924496394" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "427622678933929984" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "427785753666256896" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "427830207265767424" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "427865465243566080" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "427884537763069953" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "428587612115042314" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "428603114862673940" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "428813190143541248" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "428879523552165899" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "428911759571812353" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "429014112194789386" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "429047383838425088" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "429371209784754177" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "429418533026529281" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "429435714799796225" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "429715214301265923" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "429729012911177734" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "429795948118540289" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "429805592555814914" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "429919114203758603" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "430098657518288896" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "430100725541109780" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "430148010769383424" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "430159409314791424" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "430511370660741122" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "430557362336694282" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "430652192240828416" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "430796416785448970" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "430847589018107904" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "430855207396835328" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "431049597335502859" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "431065676187435009" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "431235051154440202" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "431291914969546756" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "431478037276524554" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "431483472453042186" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "431503585713586177" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "431517195315576851" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "431532273150722049" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "432009768572551169" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "432058868722434061" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "432121905156456448" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "432356735458607114" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "432368618487939078" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "432713112559550465" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "432790928395075584" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "432948023748722699" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "433353862892617729" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "433367163256963073" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "433369133099515924" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "433377468804497442" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "433609851302838283" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "433720828740239371" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "433745906228264980" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "433959766767828992" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "433978105028280320" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "433994689809743882" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "434096224237256705" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "434258580083048449" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "434445296651468820" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "434599487437012994" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "434656009986899977" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "434720669561913344" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "434794518039101445" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "434805937375805460" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "434844059115192321" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435060813787561996" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435117940975861760" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435129317513494529" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435168082479022081" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435169473985511424" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435190620546531328" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435276045189513217" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435702373701255174" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435737708145410048" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435809908667973632" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435814223600287785" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435823315039551488" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435827864391254027" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435853661827104770" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435854258919833610" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435879027912474634" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435896599693230090" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435931927833346048" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435954762085564418" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435964016150577173" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "435988491470503938" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436058496455409664" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436119908443750400" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436135733154283520" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436245804093800448" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436274500338712627" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436306894655586325" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436311416895569921" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436321907957170177" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436473057691828234" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436581483898208256" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436603861445115914" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436620867875766272" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436823178799742976" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436843412982071296" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436870975376588801" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436931242576052234" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436951640365596672" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436964416752320514" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436973224345993217" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436988834928918528" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "436991291788886016" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437010809340690441" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437022576154378260" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437050796123619328" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437056544387891210" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437059122341478401" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437065880099094528" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437079238668058626" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437185872887283742" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437204540903784448" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437229188500684805" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437234896747102238" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437254930101829653" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437276024665800744" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437298772008239114" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437328938574807041" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437342147646062593" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437355592693055489" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437362168741101568" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437392111466446858" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437405654622142466" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437407652000169984" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437418931553304589" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437477314213838848" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437616883961823233" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437631449760530432" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437646383399567362" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437657186769043456" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437658275685728256" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437676407624040462" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437689375816417280" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437711386890731529" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437714250769760258" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437721716093878273" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437760434150309908" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437822638723825665" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437865410805628939" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437872307604815873" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437918726797525002" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437919348309360650" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437935380885667840" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437940387475226624" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437948474546192394" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437968108666224651" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437981651075727383" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "437999076827594752" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438006675769917450" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438031112351121408" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438035282651119626" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438064195607461899" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438064904985903105" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438087432139964437" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438110731901206558" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438140909649920011" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438155003081785363" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438310739921469471" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438342320790962176" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438348069050777601" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438354029681049620" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438361127886520331" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438378280077230139" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438379038994857985" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438379664793272322" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438403818510745600" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438419032132157442" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438421399917428736" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438434432479789056" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438446003109101578" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438461768486879232" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438518031417737217" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438520414835179522" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438520811528257546" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438647156518420480" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438654038549069824" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438663002112393216" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438666942144970752" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438677019551596545" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438723161467518988" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438724919728013312" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438734714770161694" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438762900904214539" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438765914981138432" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438783995946467360" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438786819895853058" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438792399200714752" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438804106774183947" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438863461678579713" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438865862032752642" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438880449662550037" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438884142709473282" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438921585081188362" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "438944129649606666" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439044701656449025" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439056639639814145" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439067136653000725" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439073790387814401" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439104525328973825" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439132464602939413" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439136009079226378" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439158716965715970" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439184474933297152" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439225420039323658" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439296832355565580" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439330299474739200" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439393140219183105" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439406024521416714" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439455573235466240" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439464209093230594" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439558544229138443" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "439865273713950720" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440021065650012160" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440180819496009738" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440230304184008734" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440264202242752522" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440547758328250368" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440602516191838208" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440617833769074718" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440677024927973376" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440852701660839936" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440853860630790155" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440868524404113416" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440886050911682572" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440950213138579456" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    },
+    "440962358773284865" : {
+        "ban_message" : "{0.display_name} has been banned.",
+        "channel" : null,
+        "join_message" : "{0.mention} has joined the server.",
+        "leave_message" : "{0.display_name} has left the server.",
+        "on" : false,
+        "unban_message" : "{0.display_name} has been unbanned."
+    }
+}

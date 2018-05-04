@@ -1,0 +1,10 @@
+{
+    "MULTI_MSG_PAGING" : false,
+    "OPEN_CMD" : null,
+    "OUTPUT_REDIRECT" : "pages",
+    "PAGES_LENGTH" : 1500,
+    "PM_PAGES" : 20,
+    "REPL_PREFIX" : [
+        "`"
+    ]
+}

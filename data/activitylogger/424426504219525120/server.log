@@ -1,0 +1,52 @@
+2018-04-22 02:14:06 this bot joined the server
+2018-04-22 02:14:07 Role created: 'Synapse' (id 437435905150812160)
+2018-04-22 02:14:07 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-22 02:14:32 Member role add: 'Bots' role was added to @Synapse#0692
+2018-04-22 02:18:30 Channel created: memes
+2018-04-22 02:18:42 Channel deleted: vip-chat
+2018-04-22 02:19:13 Channel created: vip-chat
+2018-04-22 02:19:48 Channel created: chat1
+2018-04-22 02:19:54 Channel created: chat2
+2018-04-22 02:20:03 Channel created: chat3
+2018-04-22 02:20:10 Channel position: welcome moved from 3 to 0
+2018-04-22 02:20:10 Channel position: rules moved from 4 to 1
+2018-04-22 02:20:10 Channel position: announcements moved from 5 to 2
+2018-04-22 02:20:10 Channel position: memes moved from 6 to 3
+2018-04-22 02:20:10 Channel position: vip-chat moved from 7 to 4
+2018-04-22 02:20:10 Channel position: chat1 moved from 8 to 5
+2018-04-22 02:20:10 Channel position: chat2 moved from 9 to 6
+2018-04-22 02:20:10 Channel position: chat3 moved from 10 to 7
+2018-04-22 02:20:11 Channel position: main-chat moved from 0 to 8
+2018-04-22 02:20:11 Channel position: bot_commands moved from 1 to 9
+2018-04-22 02:20:24 Channel overwrites: vip-chat (437437189434114048): role Co - Owners (437426085735432193) removed (was 1024, 0)
+2018-04-22 02:20:24 Channel overwrites: vip-chat (437437189434114048): role @everyone (424426504219525120) removed (was 0, 1024)
+2018-04-22 02:20:33 Channel position: AFK moved from 1 to 0
+2018-04-22 02:20:33 Channel position: General moved from 0 to 1
+2018-04-22 02:24:48 Member join: @Discord Pizza#7564 (id 394812811630477315)
+2018-04-22 02:24:48 Role created: 'Discord Pizza' (id 437438593837826048)
+2018-04-22 02:24:48 Member role add: 'Discord Pizza' role was added to @Discord Pizza#7564
+2018-04-22 02:24:48 Member role add: 'Discord Pizza' role was added to @Discord Pizza#7564
+2018-04-22 02:24:59 Member role add: 'Bots' role was added to @Discord Pizza#7564
+2018-04-22 02:25:17 Role created: 'new role' (id 437438719046189056)
+2018-04-22 02:25:40 Role permissions: 'Synapse' changed from 8 to 262216
+2018-04-22 02:25:40 Role renamed: 'new role' to 'Fans'
+2018-04-22 02:25:40 Role color: 'new role' changed from #000000 to #f1c40f
+2018-04-22 02:26:07 Channel position: chat1 moved from 5 to 4
+2018-04-22 02:26:07 Channel position: chat2 moved from 6 to 5
+2018-04-22 02:26:07 Channel position: chat3 moved from 7 to 6
+2018-04-22 02:26:07 Channel position: main-chat moved from 8 to 7
+2018-04-22 02:26:07 Channel position: bot_commands moved from 9 to 8
+2018-04-22 02:26:07 Channel position: vip-chat moved from 4 to 9
+2018-04-22 02:26:12 Channel deleted: vip-chat
+2018-04-22 02:26:38 Role created: 'new role' (id 437439058520571934)
+2018-04-22 02:27:35 Channel created: vip-chat
+2018-04-22 02:27:49 Role renamed: 'new role' to 'V.I.P'
+2018-04-22 02:33:15 Role deleted: 'Fans' (id 437438719046189056)
+2018-04-22 02:33:27 Role color: 'V.I.P' changed from #000000 to #f1c40f
+2018-04-22 02:33:36 Role color: 'Moderator' changed from #e91e63 to #ff0000
+2018-04-22 02:33:56 Channel position: main-chat moved from 7 to 3
+2018-04-22 02:33:56 Channel position: memes moved from 3 to 4
+2018-04-22 02:33:56 Channel position: chat1 moved from 4 to 5
+2018-04-22 02:33:57 Channel position: chat2 moved from 5 to 6
+2018-04-22 02:33:57 Channel position: chat3 moved from 6 to 7
+2018-04-26 01:09:27 Channel created: botcommandtest

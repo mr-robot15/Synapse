@@ -1,0 +1,26 @@
+{
+    "427830207265767424" : {
+        "channels" : {
+            "ban-warn" : null,
+            "general" : "435841470667292672",
+            "kick-warn" : null,
+            "report" : null,
+            "simple-warn" : null
+        },
+        "colour" : {
+            "report_embed" : null,
+            "warning_embed_ban" : null,
+            "warning_embed_kick" : null,
+            "warning_embed_simple" : null
+        },
+        "proof" : false,
+        "role" : null,
+        "thumbnail" : {
+            "report_embed" : "https://i.imgur.com/Bl62rGd.png",
+            "warning_embed_ban" : "https://i.imgur.com/DfBvmic.png",
+            "warning_embed_kick" : "https://i.imgur.com/uhrYzyt.png",
+            "warning_embed_simple" : "https://i.imgur.com/Bl62rGd.png"
+        }
+    },
+    "version" : "1.4"
+}

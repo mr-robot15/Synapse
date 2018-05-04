@@ -1,0 +1,364 @@
+2018-04-19 10:16:27 #chat📝 @Synapse#0692: 
+2018-04-19 10:16:40 #chat📝 @MrGence#3962: !help
+2018-04-19 10:16:41 #chat📝 @Rythm#3722: ✅ **Check <https://rythmbot.co/features#list> for a list of commands**
+2018-04-19 10:16:42 #chat📝 @Synapse#0692: Hey there, @🎩MrGence♛! I sent you a list of commands through DM.
+2018-04-19 10:16:42 #chat📝 @RoberJoe#2839: а это кто
+2018-04-19 10:18:16 #chat📝 @MrGence#3962: !cleanup
+2018-04-19 10:18:16 #chat📝 @Synapse#0692: ```\n!cleanup\n\nDeletes messages.\n\nCommands:\n  messages Deletes last X messages.\n  self     Cleans up messages owned by the bot.\n  text     Deletes last X messages matching the specified text.\n  user     Deletes last X messages from specified user.\n  after    Deletes all messages after specified message\n  bot      Cleans up command messages and messages from the bot\n\nType !cleanup command for more info on a command.\nYou can also type !cleanup category for more info on a category.\n```
+2018-04-19 10:18:22 #chat📝 @MrGence#3962: !cleanup 100
+2018-04-19 10:18:22 #chat📝 @Synapse#0692: ```\n!cleanup\n\nDeletes messages.\n\nCommands:\n  messages Deletes last X messages.\n  self     Cleans up messages owned by the bot.\n  text     Deletes last X messages matching the specified text.\n  user     Deletes last X messages from specified user.\n  after    Deletes all messages after specified message\n  bot      Cleans up command messages and messages from the bot\n\nType !cleanup command for more info on a command.\nYou can also type !cleanup category for more info on a category.\n```
+2018-04-19 10:18:31 #chat📝 @MrGence#3962: !cleanup100
+2018-04-19 10:18:45 #chat📝 @MrGence#3962: !cleanup messages 100
+2018-04-19 10:18:46 #chat📝 @Synapse#0692 deleted message from 2018-04-19 10:16:27 ()
+2018-04-19 10:18:46 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:16:40 (!help)
+2018-04-19 10:18:46 #chat📝 @Rythm#3722 deleted message from 2018-04-19 10:16:41 (✅ **Check <https://rythmbot.co/features#list> for a list of commands**)
+2018-04-19 10:18:46 #chat📝 @Synapse#0692 deleted message from 2018-04-19 10:16:42 (Hey there, @🎩MrGence♛! I sent you a list of commands through DM.)
+2018-04-19 10:18:46 #chat📝 @RoberJoe#2839 deleted message from 2018-04-19 10:16:42 (а это кто)
+2018-04-19 10:18:46 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:18:16 (!cleanup)
+2018-04-19 10:18:46 #chat📝 @Synapse#0692 deleted message from 2018-04-19 10:18:16 (```\n!cleanup\n\nDeletes messages.\n\nCommands:\n  messages Deletes last X messages.\n  self     Cleans up messages owned by the bot.\n  text     Deletes last X messages matching the specified text.\n  user     Deletes last X messages from specified user.\n  after    Deletes all messages after specified message\n  bot      Cleans up command messages and messages from the bot\n\nType !cleanup command for more info on a command.\nYou can also type !cleanup category for more info on a category.\n```)
+2018-04-19 10:18:46 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:18:22 (!cleanup 100)
+2018-04-19 10:18:46 #chat📝 @Synapse#0692 deleted message from 2018-04-19 10:18:22 (```\n!cleanup\n\nDeletes messages.\n\nCommands:\n  messages Deletes last X messages.\n  self     Cleans up messages owned by the bot.\n  text     Deletes last X messages matching the specified text.\n  user     Deletes last X messages from specified user.\n  after    Deletes all messages after specified message\n  bot      Cleans up command messages and messages from the bot\n\nType !cleanup command for more info on a command.\nYou can also type !cleanup category for more info on a category.\n```)
+2018-04-19 10:18:46 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:18:31 (!cleanup100)
+2018-04-19 10:18:46 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:18:45 (!cleanup messages 100)
+2018-04-19 10:19:06 #chat📝 @MrGence#3962: ребят ваш ник стал разноцветным опять!
+2018-04-19 10:19:15 #chat📝 @RoberJoe#2839: тофиг
+2018-04-19 10:19:19 #chat📝 @MrGence#3962: чего
+2018-04-19 10:19:30 #chat📝 @RoberJoe#2839: обьясни как жека тему дискорда изменить
+2018-04-19 10:19:37 #chat📝 @RoberJoe#2839: жеке*
+2018-04-19 10:19:57 #chat📝 @MrGence#3962: блять нужно тогда вечером все разом изменить
+2018-04-19 10:20:04 #chat📝 @RoberJoe#2839 deleted message from 2018-04-19 10:19:30 (обьясни как жека тему дискорда изменить)
+2018-04-19 10:20:08 #chat📝 @RoberJoe#2839 deleted message from 2018-04-19 10:19:37 (жеке*)
+2018-04-19 10:20:08 #chat📝 @MrGence#3962: мага тож хочет
+2018-04-19 10:20:11 #chat📝 @RoberJoe#2839 deleted message from 2018-04-19 10:19:15 (тофиг)
+2018-04-19 10:20:23 #chat📝 @RoberJoe#2839: тоесть все?
+2018-04-19 10:20:32 #chat📝 @RoberJoe#2839: тролинг закончился?
+2018-04-19 10:20:36 #chat📝 @MrGence#3962: да
+2018-04-19 10:20:39 #chat📝 @RoberJoe#2839: ок
+2018-04-19 10:20:41 #chat📝 @MrGence#3962: )
+2018-04-19 10:21:07 #chat📝 @MrGence#3962: !radio
+2018-04-19 10:21:07 #chat📝 @Synapse#0692: Please unload the audio cog before using this cog.
+2018-04-19 10:21:24 #chat📝 @MrGence#3962: !cleanupp messages 1000
+2018-04-19 10:21:34 #chat📝 @MrGence#3962: !cleanup messages 1000
+2018-04-19 10:21:35 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:19:06 (ребят ваш ник стал разноцветным опять!)
+2018-04-19 10:21:35 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:19:19 (чего)
+2018-04-19 10:21:35 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:19:57 (блять нужно тогда вечером все разом изменить)
+2018-04-19 10:21:35 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:20:08 (мага тож хочет)
+2018-04-19 10:21:35 #chat📝 @RoberJoe#2839 deleted message from 2018-04-19 10:20:23 (тоесть все?)
+2018-04-19 10:21:35 #chat📝 @RoberJoe#2839 deleted message from 2018-04-19 10:20:32 (тролинг закончился?)
+2018-04-19 10:21:35 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:20:36 (да)
+2018-04-19 10:21:35 #chat📝 @RoberJoe#2839 deleted message from 2018-04-19 10:20:39 (ок)
+2018-04-19 10:21:35 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:20:41 ())
+2018-04-19 10:21:35 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:21:07 (!radio)
+2018-04-19 10:21:35 #chat📝 @Synapse#0692 deleted message from 2018-04-19 10:21:07 (Please unload the audio cog before using this cog.)
+2018-04-19 10:21:35 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:21:24 (!cleanupp messages 1000)
+2018-04-19 10:21:35 #chat📝 @MrGence#3962 deleted message from 2018-04-19 10:21:34 (!cleanup messages 1000)
+2018-04-19 10:22:09 #chat📝 @MrGence#3962: *multicolor 2 Bot
+2018-04-19 10:22:10 #chat📝 @Ghostplay R2#1298: 
+2018-04-19 10:22:10 #chat📝 @Ghostplay R2#1298 edited message from 2018-04-19 10:22:10 () to read: 
+2018-04-19 10:22:16 #chat📝 @ツМагаツ#0473: чаво
+2018-04-19 10:22:29 #chat📝 @MrGence#3962: *multicolor 4 Bot
+2018-04-19 10:22:29 #chat📝 @Ghostplay R2#1298: 
+2018-04-19 10:22:29 #chat📝 @Ghostplay R2#1298 edited message from 2018-04-19 10:22:29 () to read: 
+2018-04-19 10:22:32 #chat📝 @ツМагаツ#0473: бля тофиг ты мне звонил по домаш?
+2018-04-19 10:22:38 #chat📝 @MrGence#3962: noo
+2018-04-19 10:22:42 #chat📝 @MrGence#3962: нет
+2018-04-19 10:22:46 #chat📝 @ツМагаツ#0473: я в туалете сидел ктото звонил
+2018-04-19 10:22:51 #chat📝 @MrGence#3962: азазазазза
+2018-04-19 10:23:01 #chat📝 @ツМагаツ#0473: шо за бот
+2018-04-19 10:23:03 #chat📝 @RoberJoe#2839: прив маг
+2018-04-19 10:23:06 #chat📝 @ツМагаツ#0473: прив
+2018-04-19 10:23:08 #chat📝 @MrGence#3962: какой блт
+2018-04-19 10:23:11 #chat📝 @MrGence#3962: бот
+2018-04-19 10:23:14 #chat📝 @ツМагаツ#0473: синапс
+2018-04-19 10:23:29 #chat📝 @MrGence#3962: место чат бота его выключили я его добавил
+2018-04-19 10:23:54 #chat📝 @ツМагаツ#0473: ерханоид спит и спит
+2018-04-19 10:23:58 #chat📝 @ツМагаツ#0473: зачем он нам
+2018-04-19 10:24:19 #chat📝 @ツМагаツ#0473: тофиг перевод сделаешь мне
+2018-04-19 10:24:30 #chat📝 @ツМагаツ#0473: ли = (
+2018-04-19 10:24:47 #chat📝 @MrGence#3962: ok шяс скину
+2018-04-19 10:25:00 #chat📝 @MrGence#3962: давай
+2018-04-19 10:25:01 #chat📝 @MrGence#3962: скажи
+2018-04-19 10:25:06 #chat📝 @ツМагаツ#0473: шо сказать
+2018-04-19 10:25:19 #chat📝 @RoberJoe#2839: маг прими
+2018-04-19 10:25:37 #chat📝 @RoberJoe#2839: мага
+2018-04-19 10:25:56 #chat📝 @RoberJoe#2839: помнишь мы с тофигом говорили что тему в дискорде изменили?
+2018-04-19 10:25:57 #chat📝 @ツМагаツ#0473: телефон звонил
+2018-04-19 10:26:00 #chat📝 @ツМагаツ#0473: кто мне звонил
+2018-04-19 10:26:02 #chat📝 @RoberJoe#2839: я
+2018-04-19 10:26:05 #chat📝 @ツМагаツ#0473: давай
+2018-04-19 10:32:07 #chat📝 @RoberJoe#2839: https://www.youtube.com/watch?v=MTI-BJ7rQ_0
+2018-04-19 10:32:09 #chat📝 @RoberJoe#2839 edited message from 2018-04-19 10:32:07 (https://www.youtube.com/watch?v=MTI-BJ7rQ_0) to read: https://www.youtube.com/watch?v=MTI-BJ7rQ_0
+2018-04-19 10:33:56 #chat📝 @RoberJoe#2839: пока всем
+2018-04-19 11:02:54 #chat📝 @ツМагаツ#0473: интернет ахуел
+2018-04-19 11:25:05 #chat📝 @MrGence#3962: мага у мнея минус инет был
+2018-04-19 11:27:02 #chat📝 @MrGence#3962: мага завтра не будет слованрый диктант
+2018-04-19 11:30:09 #chat📝 @ツМагаツ#0473: https://www.youtube.com/watch?v=MqsTVPeiTvY
+2018-04-19 11:30:10 #chat📝 @ツМагаツ#0473 edited message from 2018-04-19 11:30:09 (https://www.youtube.com/watch?v=MqsTVPeiTvY) to read: https://www.youtube.com/watch?v=MqsTVPeiTvY
+2018-04-19 11:30:15 #chat📝 @ツМагаツ#0473: почему тофигэ
+2018-04-19 11:30:17 #chat📝 @ツМагаツ#0473: не будет
+2018-04-19 11:36:23 #chat📝 @ツМагаツ#0473: !play 55х555 гучи
+2018-04-19 11:36:23 #chat📝 @Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `55х555 гучи`
+2018-04-19 11:36:23 #chat📝 @Rythm#3722: **Playing** 🎶 `55x55 and BORCH671GAMES – ГУЧЧИ (feat. Morgenshtern)` - Now!
+2018-04-19 11:36:34 #chat📝 @MrGence#3962: !disconnect
+2018-04-19 11:36:34 #chat📝 @Rythm#3722: 📭 **Successfully disconnected**
+2018-04-19 11:37:26 #chat📝 @MEE6#4876: **Rythm#3722** Вышел  из Сервера **Геймеры**. До Свидания**Rythm#3722**...
+2018-04-19 11:37:42 #chat📝 @ツМагаツ#0473: нееееееееееееееееееееееееет
+2018-04-19 11:37:43 #chat📝 @ツМагаツ#0473: ритм
+2018-04-19 11:37:49 #chat📝 @MrGence#3962: cmplay
+2018-04-19 11:37:49 #chat📝 @Candy Music#1571: @🎩MrGence♛, **there is currently no song in the queue, please provide search terms to start playing.**
+2018-04-19 11:37:58 #chat📝 @MrGence#3962: cmplay evreday logic
+2018-04-19 11:37:59 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `evreday logic`, this might take a while.
+2018-04-19 11:38:00 #chat📝 @Candy Music#1571 edited message from 2018-04-19 11:37:59 (<a:loading1:400998249223290891> Searching `evreday logic`, this might take a while.) to read: 
+2018-04-19 11:38:00 #chat📝 @Candy Music#1571 edited message from 2018-04-19 11:37:59 () to read: 
+2018-04-19 11:38:25 #chat📝 @MrGence#3962: cmdisconnect
+2018-04-19 11:38:25 #chat📝 @Candy Music#1571: :white_check_mark: **Disconnected from the voice channel successfully.**
+2018-04-19 11:38:38 #chat📝 @MrGence#3962: cmplay logic marshmello everyday
+2018-04-19 11:38:39 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `logic marshmello everyday`, this might take a while.
+2018-04-19 11:38:39 #chat📝 @Candy Music#1571 edited message from 2018-04-19 11:38:39 (<a:loading1:400998249223290891> Searching `logic marshmello everyday`, this might take a while.) to read: 
+2018-04-19 11:38:39 #chat📝 @Candy Music#1571 edited message from 2018-04-19 11:38:39 () to read: 
+2018-04-19 11:38:43 #chat📝 @ツМагаツ#0473: хуй бля у
+2018-04-19 11:38:45 #chat📝 @MrGence#3962: cmdisconnect
+2018-04-19 11:38:45 #chat📝 @Candy Music#1571: :white_check_mark: **Disconnected from the voice channel successfully.**
+2018-04-19 11:38:51 #chat📝 @MrGence#3962: cmplay everday
+2018-04-19 11:38:51 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `everday`, this might take a while.
+2018-04-19 11:38:52 #chat📝 @Candy Music#1571 edited message from 2018-04-19 11:38:51 (<a:loading1:400998249223290891> Searching `everday`, this might take a while.) to read: 
+2018-04-19 11:38:52 #chat📝 @Candy Music#1571 edited message from 2018-04-19 11:38:51 () to read: 
+2018-04-19 11:38:58 #chat📝 @MrGence#3962: cmdisconnect
+2018-04-19 11:38:59 #chat📝 @Candy Music#1571: :white_check_mark: **Disconnected from the voice channel successfully.**
+2018-04-19 11:39:09 #chat📝 @ツМагаツ#0473: 5 лямоввввввввввввввввввв
+2018-04-19 11:39:10 #chat📝 @ツМагаツ#0473: тофиг
+2018-04-19 11:39:11 #chat📝 @MrGence#3962: cmplay marshmello everday
+2018-04-19 11:39:11 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `marshmello everday`, this might take a while.
+2018-04-19 11:39:12 #chat📝 @Candy Music#1571 edited message from 2018-04-19 11:39:11 (<a:loading1:400998249223290891> Searching `marshmello everday`, this might take a while.) to read: 
+2018-04-19 11:39:12 #chat📝 @Candy Music#1571 edited message from 2018-04-19 11:39:11 () to read: 
+2018-04-19 11:42:39 #chat📝 @Candy Music#1571: 
+2018-04-19 11:42:39 #chat📝 @Candy Music#1571 edited message from 2018-04-19 11:42:39 () to read: 
+2018-04-19 11:43:01 #chat📝 @ツМагаツ#0473: сукаа
+2018-04-19 11:43:06 #chat📝 @ツМагаツ#0473: гуччи
+2018-04-19 11:52:21 #chat📝 @ツМагаツ#0473: !play i have my all fingers
+2018-04-19 11:53:47 #chat📝 @ツМагаツ#0473: !play у меня 5 пальцев
+2018-04-19 11:59:48 #chat📝 @ツМагаツ#0473: ебанутый блять вайфай
+2018-04-19 11:59:57 #chat📝 @ツМагаツ#0473: всё я уроки
+2018-04-19 12:00:11 #chat📝 @ツМагаツ#0473: ща пирожок принессу
+2018-04-19 12:01:15 #chat📝 @ツМагаツ#0473: вкусно
+2018-04-19 12:01:20 #chat📝 @ツМагаツ#0473: просто шедевр
+2018-04-19 12:02:14 #chat📝 @MrGence#3962: cmplay marshmello everday
+2018-04-19 12:02:14 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `marshmello everday`, this might take a while.
+2018-04-19 12:02:16 #chat📝 @Candy Music#1571 edited message from 2018-04-19 12:02:14 (<a:loading1:400998249223290891> Searching `marshmello everday`, this might take a while.) to read: 
+2018-04-19 12:02:16 #chat📝 @Candy Music#1571 edited message from 2018-04-19 12:02:14 () to read: 
+2018-04-19 12:05:43 #chat📝 @Candy Music#1571: 
+2018-04-19 12:05:43 #chat📝 @Candy Music#1571 edited message from 2018-04-19 12:05:43 () to read: 
+2018-04-19 12:18:29 #chat📝 @ツМагаツ#0473: капелька
+2018-04-19 13:06:27 #chat📝 @MrGence#3962: *multocolour 1 ГЛАВА
+2018-04-19 13:06:49 #chat📝 @MrGence#3962: *multicolor 2 Глава
+2018-04-19 13:07:40 #chat📝 @MrGence#3962: *muticolor 1 соруководитель
+2018-04-19 13:08:13 #chat📝 @MrGence#3962: *multicolor 1 соруководитель
+2018-04-19 13:08:13 #chat📝 @Ghostplay R2#1298: 
+2018-04-19 13:08:14 #chat📝 @Ghostplay R2#1298 edited message from 2018-04-19 13:08:13 () to read: 
+2018-04-19 13:09:09 #chat📝 @ツМагаツ#0473: *multicolor 2 Соруководитель
+2018-04-19 13:09:16 #chat📝 @MrGence#3962: *multicolor 2 соркуводитель
+2018-04-19 13:09:17 #chat📝 @Ghostplay R2#1298: 
+2018-04-19 13:09:17 #chat📝 @Ghostplay R2#1298 edited message from 2018-04-19 13:09:17 () to read: 
+2018-04-19 13:09:34 #chat📝 @MrGence#3962: !cleanup 100
+2018-04-19 13:09:34 #chat📝 @Synapse#0692: ```\n!cleanup\n\nDeletes messages.\n\nCommands:\n  bot      Cleans up command messages and messages from the bot\n  text     Deletes last X messages matching the specified text.\n  user     Deletes last X messages from specified user.\n  self     Cleans up messages owned by the bot.\n  messages Deletes last X messages.\n  after    Deletes all messages after specified message\n\nType !cleanup command for more info on a command.\nYou can also type !cleanup category for more info on a category.\n```
+2018-04-19 13:09:55 #chat📝 @MrGence#3962: !clear 100
+2018-04-19 13:09:55 #chat📝 @MrGence#3962 deleted message from 2018-04-19 13:09:55 (!clear 100)
+2018-04-19 13:09:56 #chat📝 @MEE6#4876: I have deleted `91 messages` for ya! <:SMILE6:403540172433522689>
+2018-04-19 13:09:57 #chat📝 @MrGence#3962 deleted message from 2018-04-19 13:06:27 (*multocolour 1 ГЛАВА)
+2018-04-19 13:09:57 #chat📝 @MrGence#3962 deleted message from 2018-04-19 13:06:49 (*multicolor 2 Глава)
+2018-04-19 13:09:57 #chat📝 @MrGence#3962 deleted message from 2018-04-19 13:07:40 (*muticolor 1 соруководитель)
+2018-04-19 13:09:57 #chat📝 @MrGence#3962 deleted message from 2018-04-19 13:08:13 (*multicolor 1 соруководитель)
+2018-04-19 13:09:57 #chat📝 @Ghostplay R2#1298 deleted message from 2018-04-19 13:08:13 ()
+2018-04-19 13:09:57 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-19 13:09:09 (*multicolor 2 Соруководитель)
+2018-04-19 13:09:57 #chat📝 @MrGence#3962 deleted message from 2018-04-19 13:09:16 (*multicolor 2 соркуводитель)
+2018-04-19 13:09:57 #chat📝 @Ghostplay R2#1298 deleted message from 2018-04-19 13:09:17 ()
+2018-04-19 13:09:57 #chat📝 @MrGence#3962 deleted message from 2018-04-19 13:09:34 (!cleanup 100)
+2018-04-19 13:09:57 #chat📝 @Synapse#0692 deleted message from 2018-04-19 13:09:34 (```\n!cleanup\n\nDeletes messages.\n\nCommands:\n  bot      Cleans up command messages and messages from the bot\n  text     Deletes last X messages matching the specified text.\n  user     Deletes last X messages from specified user.\n  self     Cleans up messages owned by the bot.\n  messages Deletes last X messages.\n  after    Deletes all messages after specified message\n\nType !cleanup command for more info on a command.\nYou can also type !cleanup category for more info on a category.\n```)
+2018-04-19 13:09:59 #chat📝 @MEE6#4876 deleted message from 2018-04-19 13:09:56 (I have deleted `91 messages` for ya! <:SMILE6:403540172433522689>)
+2018-04-19 13:20:36 #chat📝 @ツМагаツ#0473: !play да ну на хуй каха
+2018-04-19 13:20:47 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-19 13:20:36 (!play да ну на хуй каха)
+2018-04-19 15:53:13 #chat📝 @ツМагаツ#0473: бессПОРНО
+2018-04-19 15:53:19 #chat📝 @ツМагаツ#0473: употреБЛЯТЬ
+2018-04-19 16:11:50 #chat📝 @ツМагаツ#0473: я играю
+2018-04-19 16:13:52 #chat📝 @ツМагаツ#0473: !play 55х55 сценарист
+2018-04-19 16:14:47 #chat📝 @ツМагаツ#0473: !disconnect
+2018-04-19 16:14:54 #chat📝 @ツМагаツ#0473: !disconnect
+2018-04-19 16:44:49 #chat📝 @ツМагаツ#0473: !play 55х55
+2018-04-19 16:57:54 #chat📝 @ツМагаツ#0473: !play ты как меня нашол каха
+2018-04-19 16:57:59 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-19 16:57:54 (!play ты как меня нашол каха)
+2018-04-19 16:58:02 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-19 16:44:49 (!play 55х55)
+2018-04-19 17:04:08 #chat📝 @RoberJoe#2839: !play чценарист 55х55
+2018-04-19 17:05:34 #chat📝 @RoberJoe#2839: !disconnect
+2018-04-19 17:05:44 #chat📝 @RoberJoe#2839: !disconnect
+2018-04-19 17:07:38 #chat📝 @MrGence#3962: !event create
+2018-04-19 17:35:52 #chat📝 @RoberJoe#2839: тофик го майн
+2018-04-19 17:41:22 #chat📝 @ツМагаツ#0473: тофиг проходи без меня
+2018-04-19 17:41:28 #chat📝 @ツМагаツ#0473: у меня долбаная зарядка
+2018-04-19 17:41:39 #chat📝 @RoberJoe#2839: кто в майн
+2018-04-19 17:44:00 #chat📝 @RoberJoe#2839: почему саня с нами не играет
+2018-04-19 17:47:15 #chat📝 @ツМагаツ#0473: totu
+2018-04-19 17:54:22 #chat📝 @ツМагаツ#0473: мне не везет и не будет
+2018-04-19 17:55:44 #chat📝 @RoberJoe#2839: жека
+2018-04-19 17:55:50 #chat📝 @RoberJoe#2839: го играть
+2018-04-19 18:33:51 #chat📝 @RoberJoe#2839: жека пощли играть
+2018-04-20 02:15:35 #chat📝 @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`
+2018-04-20 02:33:27 #chat📝 @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`
+2018-04-20 02:36:24 #chat📝 @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`
+2018-04-20 10:10:36 #chat📝 @MrGence#3962: *multicolor 3 Глава
+2018-04-20 10:10:54 #chat📝 @MrGence#3962: !clear 100
+2018-04-20 10:10:54 #chat📝 @MrGence#3962 deleted message from 2018-04-20 10:10:54 (!clear 100)
+2018-04-20 10:10:55 #chat📝 @MEE6#4876: I have deleted `24 messages` for ya! <:SMILE6:403540172433522689>
+2018-04-20 10:10:55 #chat📝 @MrGence#3962 deleted message from 2018-04-20 10:10:36 (*multicolor 3 Глава)
+2018-04-20 10:10:58 #chat📝 @MEE6#4876 deleted message from 2018-04-20 10:10:55 (I have deleted `24 messages` for ya! <:SMILE6:403540172433522689>)
+2018-04-20 10:40:42 #chat📝 @MrGence#3962: cmplay пустите меня на танцпол
+2018-04-20 10:40:42 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `пустите меня на танцпол`, this might take a while.
+2018-04-20 10:40:43 #chat📝 @Candy Music#1571 edited message from 2018-04-20 10:40:42 (<a:loading1:400998249223290891> Searching `пустите меня на танцпол`, this might take a while.) to read: 
+2018-04-20 10:40:43 #chat📝 @Candy Music#1571 edited message from 2018-04-20 10:40:42 () to read: 
+2018-04-20 10:45:01 #chat📝 @Candy Music#1571: 
+2018-04-20 10:45:02 #chat📝 @Candy Music#1571 edited message from 2018-04-20 10:45:01 () to read: 
+2018-04-20 10:58:37 #chat📝 @ツМагаツ#0473: тофиг
+2018-04-20 10:58:45 #chat📝 @ツМагаツ#0473: назим всё рассказал своей маме
+2018-04-20 10:58:54 #chat📝 @ツМагаツ#0473: драку нашу
+2018-04-20 10:59:09 #chat📝 @ツМагаツ#0473: бля
+2018-04-20 10:59:14 #chat📝 @ツМагаツ#0473: !clear 1000
+2018-04-20 10:59:14 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 10:59:14 (!clear 1000)
+2018-04-20 10:59:14 #chat📝 @MEE6#4876: I have deleted `7 messages` for ya! <:SMILE6:403540172433522689>
+2018-04-20 10:59:18 #chat📝 @MEE6#4876 deleted message from 2018-04-20 10:59:14 (I have deleted `7 messages` for ya! <:SMILE6:403540172433522689>)
+2018-04-20 10:59:19 #chat📝 @ツМагаツ#0473: я не про это
+2018-04-20 10:59:26 #chat📝 @ツМагаツ#0473: он каждый день мою сумку дергает
+2018-04-20 10:59:39 #chat📝 @ツМагаツ#0473: бля ну ты ахуенный друг
+2018-04-20 10:59:42 #chat📝 @ツМагаツ#0473: удали это я не могу
+2018-04-20 10:59:52 #chat📝 @MrGence#3962: !clear 100
+2018-04-20 10:59:52 #chat📝 @MrGence#3962 deleted message from 2018-04-20 10:59:52 (!clear 100)
+2018-04-20 10:59:52 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 10:59:19 (я не про это)
+2018-04-20 10:59:52 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 10:59:26 (он каждый день мою сумку дергает)
+2018-04-20 10:59:52 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 10:59:39 (бля ну ты ахуенный друг)
+2018-04-20 10:59:52 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 10:59:42 (удали это я не могу)
+2018-04-20 10:59:52 #chat📝 @MEE6#4876: I have deleted `4 messages` for ya! <:SMILE6:403540172433522689>
+2018-04-20 10:59:55 #chat📝 @MEE6#4876 deleted message from 2018-04-20 10:59:52 (I have deleted `4 messages` for ya! <:SMILE6:403540172433522689>)
+2018-04-20 10:59:56 #chat📝 @MrGence#3962 deleted message from 2018-04-20 10:40:42 (cmplay пустите меня на танцпол)
+2018-04-20 10:59:56 #chat📝 @Candy Music#1571 deleted message from 2018-04-20 10:40:42 ()
+2018-04-20 10:59:56 #chat📝 @Candy Music#1571 deleted message from 2018-04-20 10:45:01 ()
+2018-04-20 10:59:56 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 10:58:37 (тофиг)
+2018-04-20 10:59:56 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 10:58:45 (назим всё рассказал своей маме)
+2018-04-20 10:59:56 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 10:58:54 (драку нашу)
+2018-04-20 10:59:56 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 10:59:09 (бля)
+2018-04-20 11:00:06 #chat📝 @ツМагаツ#0473: +_
+2018-04-20 11:00:26 #chat📝 @ツМагаツ#0473: у него шея красная я сам незнаю когда сделал
+2018-04-20 11:00:33 #chat📝 @ツМагаツ#0473: покраснела
+2018-04-20 11:00:36 #chat📝 @ツМагаツ#0473: хуй его знает
+2018-04-20 11:00:40 #chat📝 @ツМагаツ#0473: !clera 100
+2018-04-20 11:00:42 #chat📝 @ツМагаツ#0473: бля
+2018-04-20 11:00:44 #chat📝 @ツМагаツ#0473: напиши ты
+2018-04-20 11:00:53 #chat📝 @ツМагаツ#0473: удали
+2018-04-20 11:00:58 #chat📝 @MrGence#3962: !clear 100
+2018-04-20 11:00:58 #chat📝 @MrGence#3962 deleted message from 2018-04-20 11:00:58 (!clear 100)
+2018-04-20 11:00:58 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 11:00:06 (+_)
+2018-04-20 11:00:58 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 11:00:26 (у него шея красная я сам незнаю когда сделал)
+2018-04-20 11:00:58 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 11:00:33 (покраснела)
+2018-04-20 11:00:58 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 11:00:36 (хуй его знает)
+2018-04-20 11:00:58 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 11:00:40 (!clera 100)
+2018-04-20 11:00:58 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 11:00:42 (бля)
+2018-04-20 11:00:58 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 11:00:44 (напиши ты)
+2018-04-20 11:00:58 #chat📝 @ツМагаツ#0473 deleted message from 2018-04-20 11:00:53 (удали)
+2018-04-20 11:00:58 #chat📝 @MEE6#4876: I have deleted `8 messages` for ya! <:SMILE6:403540172433522689>
+2018-04-20 11:01:02 #chat📝 @MEE6#4876 deleted message from 2018-04-20 11:00:58 (I have deleted `8 messages` for ya! <:SMILE6:403540172433522689>)
+2018-04-20 11:02:17 #chat📝 @MrGence#3962: cmplay идем на анцпол
+2018-04-20 11:02:18 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `идем на анцпол`, this might take a while.
+2018-04-20 11:02:19 #chat📝 @Candy Music#1571 edited message from 2018-04-20 11:02:18 (<a:loading1:400998249223290891> Searching `идем на анцпол`, this might take a while.) to read: 
+2018-04-20 11:02:19 #chat📝 @Candy Music#1571 edited message from 2018-04-20 11:02:18 () to read: 
+2018-04-20 11:02:28 #chat📝 @MrGence#3962: cmdisconnect
+2018-04-20 11:02:28 #chat📝 @Candy Music#1571: :white_check_mark: **Disconnected from the voice channel successfully.**
+2018-04-20 11:02:40 #chat📝 @MrGence#3962: cmplay идем мы на танцпол
+2018-04-20 11:02:40 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `идем мы на танцпол`, this might take a while.
+2018-04-20 11:02:41 #chat📝 @Candy Music#1571 edited message from 2018-04-20 11:02:40 (<a:loading1:400998249223290891> Searching `идем мы на танцпол`, this might take a while.) to read: 
+2018-04-20 11:02:41 #chat📝 @Candy Music#1571 edited message from 2018-04-20 11:02:40 () to read: 
+2018-04-20 11:02:49 #chat📝 @MrGence#3962: cmdisocnnect
+2018-04-20 11:02:54 #chat📝 @MrGence#3962: cmdisconnect
+2018-04-20 11:02:54 #chat📝 @Candy Music#1571: :white_check_mark: **Disconnected from the voice channel successfully.**
+2018-04-20 11:03:29 #chat📝 @MrGence#3962: cmplay пустите меня на танцпол
+2018-04-20 11:03:29 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `пустите меня на танцпол`, this might take a while.
+2018-04-20 11:03:30 #chat📝 @Candy Music#1571 edited message from 2018-04-20 11:03:29 (<a:loading1:400998249223290891> Searching `пустите меня на танцпол`, this might take a while.) to read: 
+2018-04-20 11:03:30 #chat📝 @Candy Music#1571 edited message from 2018-04-20 11:03:29 () to read: 
+2018-04-20 11:05:06 #chat📝 @MrGence#3962 deleted message from 2018-04-20 11:02:49 (cmdisocnnect)
+2018-04-20 11:05:10 #chat📝 @MrGence#3962 deleted message from 2018-04-20 11:02:54 (cmdisconnect)
+2018-04-20 11:07:11 #chat📝 @MrGence#3962: cmplay everyday marshmello
+2018-04-20 11:07:12 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `everyday marshmello`, this might take a while.
+2018-04-20 11:07:13 #chat📝 @Candy Music#1571 edited message from 2018-04-20 11:07:12 (<a:loading1:400998249223290891> Searching `everyday marshmello`, this might take a while.) to read: 
+2018-04-20 11:07:13 #chat📝 @Candy Music#1571 edited message from 2018-04-20 11:07:12 () to read: 
+2018-04-20 11:08:52 #chat📝 @ツМагаツ#0473: ты глухой
+2018-04-20 11:09:43 #chat📝 @MrGence#3962: f
+2018-04-20 11:09:49 #chat📝 @MrGence#3962: f
+2018-04-20 11:09:54 #chat📝 @MrGence#3962: f
+2018-04-20 11:09:58 #chat📝 @MrGence#3962: f
+2018-04-20 11:10:02 #chat📝 @MrGence#3962: FFFFFFFF
+2018-04-20 11:10:07 #chat📝 @MrGence#3962: FFFFF
+2018-04-20 11:10:07 #chat📝 @MrGence#3962: F
+2018-04-20 11:10:08 #chat📝 @MrGence#3962: F
+2018-04-20 11:10:08 #chat📝 @MrGence#3962: F
+2018-04-20 11:10:09 #chat📝 @MrGence#3962: F
+2018-04-20 11:10:09 #chat📝 @MrGence#3962: F
+2018-04-20 11:10:09 #chat📝 @MrGence#3962: F
+2018-04-20 11:10:10 #chat📝 @MrGence#3962: F
+2018-04-20 11:10:10 #chat📝 @MrGence#3962: F
+2018-04-20 11:10:11 #chat📝 @MrGence#3962: F
+2018-04-20 11:10:17 #chat📝 @MrGence#3962: FF
+2018-04-20 11:11:15 #chat📝 @Candy Music#1571: 
+2018-04-20 11:11:15 #chat📝 @Candy Music#1571 edited message from 2018-04-20 11:11:15 () to read: 
+2018-04-20 11:11:40 #chat📝 @MrGence#3962: CMPLAY miyagi endspil nirvanna
+2018-04-20 11:11:54 #chat📝 @MrGence#3962: cmplay miyagi endspil nirvanna
+2018-04-20 11:11:55 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `miyagi endspil nirvanna`, this might take a while.
+2018-04-20 11:11:55 #chat📝 @Candy Music#1571 edited message from 2018-04-20 11:11:55 (<a:loading1:400998249223290891> Searching `miyagi endspil nirvanna`, this might take a while.) to read: 
+2018-04-20 11:11:55 #chat📝 @Candy Music#1571 edited message from 2018-04-20 11:11:55 () to read: 
+2018-04-20 11:13:12 #chat📝 @MrGence#3962: cmdisconnect
+2018-04-20 11:13:13 #chat📝 @Candy Music#1571: :white_check_mark: **Disconnected from the voice channel successfully.**
+2018-04-20 11:55:57 #chat📝 @ツМагаツ#0473: https://www.youtube.com/watch?v=JYSZI6gmVvY
+2018-04-20 12:08:09 #chat📝 @MrGence#3962: cmplay rozovoe vino
+2018-04-20 12:08:09 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `rozovoe vino`, this might take a while.
+2018-04-20 12:08:10 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:08:09 (<a:loading1:400998249223290891> Searching `rozovoe vino`, this might take a while.) to read: 
+2018-04-20 12:08:10 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:08:09 () to read: 
+2018-04-20 12:12:19 #chat📝 @Candy Music#1571: 
+2018-04-20 12:12:19 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:12:19 () to read: 
+2018-04-20 12:12:47 #chat📝 @MrGence#3962: cmplay everyday marshmello
+2018-04-20 12:12:47 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `everyday marshmello`, this might take a while.
+2018-04-20 12:12:48 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:12:47 (<a:loading1:400998249223290891> Searching `everyday marshmello`, this might take a while.) to read: 
+2018-04-20 12:12:48 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:12:47 () to read: 
+2018-04-20 12:13:04 #chat📝 @MrGence#3962: cmplay пустите меня на танцпол
+2018-04-20 12:13:05 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `пустите меня на танцпол`, this might take a while.
+2018-04-20 12:13:06 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:13:05 (<a:loading1:400998249223290891> Searching `пустите меня на танцпол`, this might take a while.) to read: 
+2018-04-20 12:13:06 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:13:05 () to read: 
+2018-04-20 12:20:11 #chat📝 @MrGence#3962: cmplay exile мияги эндшпиль нирванна
+2018-04-20 12:20:11 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `exile мияги эндшпиль нирванна`, this might take a while.
+2018-04-20 12:20:11 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:20:11 (<a:loading1:400998249223290891> Searching `exile мияги эндшпиль нирванна`, this might take a while.) to read: @🎩MrGence♛, **the song cannot be found, please try again with more detailed information.**
+2018-04-20 12:20:30 #chat📝 @MrGence#3962: cmp;ay мияги эндшпиль нирванна
+2018-04-20 12:20:33 #chat📝 @Candy Music#1571: 
+2018-04-20 12:20:33 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:20:33 () to read: 
+2018-04-20 12:20:39 #chat📝 @MrGence#3962: cmplay мияги эндшпиль нирванна
+2018-04-20 12:20:39 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `мияги эндшпиль нирванна`, this might take a while.
+2018-04-20 12:20:40 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:20:39 (<a:loading1:400998249223290891> Searching `мияги эндшпиль нирванна`, this might take a while.) to read: 
+2018-04-20 12:20:40 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:20:39 () to read: 
+2018-04-20 12:25:15 #chat📝 @Candy Music#1571: 
+2018-04-20 12:25:16 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:25:15 () to read: 
+2018-04-20 12:25:23 #chat📝 @MrGence#3962: !help
+2018-04-20 12:25:23 #chat📝 @MEE6#4876: 
+2018-04-20 12:25:24 #chat📝 @MEE6#4876 edited message from 2018-04-20 12:25:23 () to read: 
+2018-04-20 12:25:24 #chat📝 @MEE6#4876: 
+2018-04-20 12:25:24 #chat📝 @MEE6#4876 edited message from 2018-04-20 12:25:24 () to read: 
+2018-04-20 12:25:24 #chat📝 @MEE6#4876: 
+2018-04-20 12:25:25 #chat📝 @MEE6#4876 edited message from 2018-04-20 12:25:24 () to read: 
+2018-04-20 12:25:24 #chat📝 @MEE6#4876: 
+2018-04-20 12:25:25 #chat📝 @Synapse#0692: Check your DM, @🎩MrGence♛! I have sent something for you :wink:
+2018-04-20 12:25:25 #chat📝 @MEE6#4876 edited message from 2018-04-20 12:25:24 () to read: 
+2018-04-20 12:26:15 #chat📝 @MrGence#3962: !adventure
+2018-04-20 12:26:15 #chat📝 @Synapse#0692: ```\n![adventure|campsite]\n\nGreetings adventurer. What is it that you plan on doing today?\n\nCommands:\n  quit   \n  embark Start/Continue an adventure.\n  join   Your team has embarked on an adventure without you?!\n  load   loads current team's save. defaults to most recent\n  info   Information about your current adventure in this channel\n\nType !adventure command for more info on a command.\nYou can also type !adventure category for more info on a category.\n```
+2018-04-20 12:26:26 #chat📝 @MrGence#3962: !adventure join
+2018-04-20 12:26:26 #chat📝 @Synapse#0692: @🎩MrGence♛, You are not in a team yet. Find a team to recruit you or type `!team new <team_name>` to start a new one.
+2018-04-20 12:26:43 #chat📝 @MrGence#3962: !team Mafia
+2018-04-20 12:26:43 #chat📝 @Synapse#0692: ```\n!team\n\nCommands:\n  list    \n  leave   \n  recruit \n  new     \n\nType !team command for more info on a command.\nYou can also type !team category for more info on a category.\n```
+2018-04-20 12:38:10 #chat📝 @ツМагаツ#0473: cmplay 55х55 гучи
+2018-04-20 12:38:10 #chat📝 @Candy Music#1571: <a:loading1:400998249223290891> Searching `55х55 гучи`, this might take a while.
+2018-04-20 12:38:11 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:38:10 (<a:loading1:400998249223290891> Searching `55х55 гучи`, this might take a while.) to read: 
+2018-04-20 12:38:11 #chat📝 @Candy Music#1571 edited message from 2018-04-20 12:38:10 () to read: 
+2018-04-20 12:38:50 #chat📝 @MrGence#3962: !play розовое вино
+2018-04-20 12:39:08 #chat📝 @MrGence#3962: !stop
+2018-04-20 12:39:08 #chat📝 @Synapse#0692: Stopping...

@@ -1,0 +1,10 @@
+2018-04-24 01:50:34 #general @Synapse#0692: 
+2018-04-24 01:51:09 #general @Ghostplay R2#1298: 
+2018-04-24 01:51:56 #general @slayer49#9609: !help
+2018-04-24 01:51:58 #general @Synapse#0692: Check your DM, @slayer49! I have sent something for you :wink:
+2018-04-24 01:56:13 #general @slayer49#9609: !addrole Leader
+2018-04-24 01:56:13 #general @Synapse#0692: That role cannot be found.
+2018-04-24 01:56:24 #general @slayer49#9609: !addrole
+2018-04-24 01:56:24 #general @Synapse#0692: ```\n!addrole <rolename> [user]\n\nAdds a role to a user, defaults to author\n\nRole name must be in quotes if there are spaces.\n\n```
+2018-04-24 01:57:31 #general @slayer49#9609: !addrole "Leader" slayer49
+2018-04-24 01:57:31 #general @Synapse#0692: That role cannot be found.

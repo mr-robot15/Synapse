@@ -1,0 +1,128 @@
+2018-04-30 19:25:34 #bot @Klaus Ze Flammenwerfer#9999: !trigger create leader supreme
+2018-04-30 19:25:34 #bot @Synapse#0692: A trigger with that name already exists.
+2018-04-30 19:25:39 #bot @Klaus Ze Flammenwerfer#9999: stop
+2018-04-30 19:25:40 #bot @MEE6#4876: GG @Klaus Ze Flammenwerfer, Kardeş metin mi kestin naptın **level 2** !
+2018-04-30 19:25:41 #bot @Klaus Ze Flammenwerfer#9999: exit
+2018-04-30 19:25:58 #bot @Klaus Ze Flammenwerfer#9999: !trigger list
+2018-04-30 19:25:58 #bot @Synapse#0692: I couldn't find any trigger of that type.
+2018-04-30 19:26:01 #bot @Klaus Ze Flammenwerfer#9999: !trigger
+2018-04-30 19:26:01 #bot @Synapse#0692: ```\n!trigger\n\nTrigger creation commands\n\nCommands:\n  info   Shows a trigger's info\n  create Creates a trigger\n  show   Shows all responses of a trigger\n  delete Deletes a trigger\n  search Returns triggers matching the search terms\n  remove Lets you choose a response to remove\n  add    Adds a response to a trigger\n  list   Lists local / global triggers\n\nType !trigger command for more info on a command.\nYou can also type !trigger category for more info on a category.\n```
+2018-04-30 19:26:08 #bot @Klaus Ze Flammenwerfer#9999: !trigger list
+2018-04-30 19:26:12 #bot @Synapse#0692: I couldn't find any trigger of that type.
+2018-04-30 19:26:13 #bot @Klaus Ze Flammenwerfer#9999: !trigger show
+2018-04-30 19:26:13 #bot @Synapse#0692: ```\n!trigger show <trigger_name>\n\nShows all responses of a trigger\n\n```
+2018-04-30 19:26:15 #bot @Klaus Ze Flammenwerfer#9999: !trigger ingfo
+2018-04-30 19:26:15 #bot @Synapse#0692: ```\n!trigger\n\nTrigger creation commands\n\nCommands:\n  info   Shows a trigger's info\n  create Creates a trigger\n  show   Shows all responses of a trigger\n  delete Deletes a trigger\n  search Returns triggers matching the search terms\n  remove Lets you choose a response to remove\n  add    Adds a response to a trigger\n  list   Lists local / global triggers\n\nType !trigger command for more info on a command.\nYou can also type !trigger category for more info on a category.\n```
+2018-04-30 19:26:18 #bot @Klaus Ze Flammenwerfer#9999: !trigger info
+2018-04-30 19:26:19 #bot @Synapse#0692: ```\n!trigger info <trigger_name>\n\nShows a trigger's info\n\n```
+2018-04-30 19:26:23 #bot @Klaus Ze Flammenwerfer#9999: !trigger info supreme
+2018-04-30 19:26:23 #bot @Synapse#0692: There is no trigger with that name.
+2018-04-30 19:26:26 #bot @Klaus Ze Flammenwerfer#9999: !trigger create supreme
+2018-04-30 19:26:27 #bot @Synapse#0692: ```\n!trigger create <trigger_name> <triggered_by>\n\nCreates a trigger\n\n```
+2018-04-30 19:26:33 #bot @Klaus Ze Flammenwerfer#9999: !trigger create supreme supremee
+2018-04-30 19:26:33 #bot @Synapse#0692: Trigger created. Entering interactive add mode...
+2018-04-30 19:26:33 #bot @Synapse#0692: Everything you type will be added as response to the trigger. Type 'exit' to quit.
+2018-04-30 19:26:35 #bot @Klaus Ze Flammenwerfer#9999: exit
+2018-04-30 19:26:35 #bot @Synapse#0692: Your changes have been saved.
+2018-04-30 19:26:41 #bot @Klaus Ze Flammenwerfer#9999: !trigger info
+2018-04-30 19:26:41 #bot @Synapse#0692: ```\n!trigger info <trigger_name>\n\nShows a trigger's info\n\n```
+2018-04-30 19:26:53 #bot @Klaus Ze Flammenwerfer#9999: !trigger
+2018-04-30 19:26:54 #bot @Synapse#0692: ```\n!trigger\n\nTrigger creation commands\n\nCommands:\n  info   Shows a trigger's info\n  create Creates a trigger\n  show   Shows all responses of a trigger\n  delete Deletes a trigger\n  search Returns triggers matching the search terms\n  remove Lets you choose a response to remove\n  add    Adds a response to a trigger\n  list   Lists local / global triggers\n\nType !trigger command for more info on a command.\nYou can also type !trigger category for more info on a category.\n```
+2018-04-30 19:27:00 #bot @Klaus Ze Flammenwerfer#9999: !trigger create supreme supreme
+2018-04-30 19:27:00 #bot @Synapse#0692: A trigger with that name already exists.
+2018-04-30 19:27:10 #bot @Klaus Ze Flammenwerfer#9999: !trigger delete supreme
+2018-04-30 19:27:10 #bot @Synapse#0692: Trigger deleted.
+2018-04-30 19:27:18 #bot @Klaus Ze Flammenwerfer#9999: !trigger create supreme supreme
+2018-04-30 19:27:18 #bot @Synapse#0692: Trigger created. Entering interactive add mode...
+2018-04-30 19:27:19 #bot @Synapse#0692: Everything you type will be added as response to the trigger. Type 'exit' to quit.
+2018-04-30 19:27:20 #bot @Klaus Ze Flammenwerfer#9999: Here you can find more about our supreme leader:\n\nhttps://en.m.wikipedia.org/wiki/Adolf_Hitler
+2018-04-30 19:27:23 #bot @Klaus Ze Flammenwerfer#9999: exit
+2018-04-30 19:27:23 #bot @Synapse#0692: Your changes have been saved.
+2018-04-30 19:27:24 #bot @Klaus Ze Flammenwerfer#9999: !up 3
+2018-04-30 19:27:28 #bot @Klaus Ze Flammenwerfer#9999: !cleanup messages 2
+2018-04-30 19:27:29 #bot @Synapse#0692 deleted message from 2018-04-30 19:27:23 (Your changes have been saved.)
+2018-04-30 19:27:29 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:27:24 (!up 3)
+2018-04-30 19:27:29 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:27:28 (!cleanup messages 2)
+2018-04-30 19:27:32 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:27:20 (Here you can find more about our supreme leader:\n\nhttps://en.m.wikipedia.org/wiki/Adolf_Hitler)
+2018-04-30 19:27:49 #bot @Klaus Ze Flammenwerfer#9999: !trigger create mistakes
+2018-04-30 19:27:49 #bot @Synapse#0692: ```\n!trigger create <trigger_name> <triggered_by>\n\nCreates a trigger\n\n```
+2018-04-30 19:28:03 #bot @Klaus Ze Flammenwerfer#9999: !trigger create mistakes hitlers mistakes
+2018-04-30 19:28:03 #bot @Synapse#0692: A trigger with that name already exists.
+2018-04-30 19:28:08 #bot @Klaus Ze Flammenwerfer#9999: !trigger list
+2018-04-30 19:28:08 #bot @Synapse#0692: ```\nsupreme\n```
+2018-04-30 19:28:14 #bot @Klaus Ze Flammenwerfer#9999: !trigger create mistakes hitlers mistakes
+2018-04-30 19:28:14 #bot @Synapse#0692: A trigger with that name already exists.
+2018-04-30 19:28:21 #bot @Klaus Ze Flammenwerfer#9999: !trigger create mistakes1 hitlers mistakes
+2018-04-30 19:28:23 #bot @Synapse#0692: Trigger created. Entering interactive add mode...
+2018-04-30 19:28:23 #bot @Synapse#0692: Everything you type will be added as response to the trigger. Type 'exit' to quit.
+2018-04-30 19:28:32 #bot @Klaus Ze Flammenwerfer#9999: Hitler Mistake Counter: 0
+2018-04-30 19:28:34 #bot @Klaus Ze Flammenwerfer#9999: exit
+2018-04-30 19:28:34 #bot @Synapse#0692: Your changes have been saved.
+2018-04-30 19:28:45 #bot @Klaus Ze Flammenwerfer#9999: !trigger create mistakes2 hitler's mistakes
+2018-04-30 19:28:45 #bot @Synapse#0692: Trigger created. Entering interactive add mode...
+2018-04-30 19:28:46 #bot @Synapse#0692: Everything you type will be added as response to the trigger. Type 'exit' to quit.
+2018-04-30 19:28:52 #bot @Klaus Ze Flammenwerfer#9999: Hitler Mistake Counter: 0
+2018-04-30 19:28:55 #bot @Klaus Ze Flammenwerfer#9999: exit
+2018-04-30 19:28:55 #bot @Synapse#0692: Your changes have been saved.
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999: !cleanup messages 20
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:27:49 (!trigger create mistakes)
+2018-04-30 19:29:04 #bot @Synapse#0692 deleted message from 2018-04-30 19:27:49 (```\n!trigger create <trigger_name> <triggered_by>\n\nCreates a trigger\n\n```)
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:28:03 (!trigger create mistakes hitlers mistakes)
+2018-04-30 19:29:04 #bot @Synapse#0692 deleted message from 2018-04-30 19:28:03 (A trigger with that name already exists.)
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:28:08 (!trigger list)
+2018-04-30 19:29:04 #bot @Synapse#0692 deleted message from 2018-04-30 19:28:08 (```\nsupreme\n```)
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:28:14 (!trigger create mistakes hitlers mistakes)
+2018-04-30 19:29:04 #bot @Synapse#0692 deleted message from 2018-04-30 19:28:14 (A trigger with that name already exists.)
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:28:21 (!trigger create mistakes1 hitlers mistakes)
+2018-04-30 19:29:04 #bot @Synapse#0692 deleted message from 2018-04-30 19:28:23 (Trigger created. Entering interactive add mode...)
+2018-04-30 19:29:04 #bot @Synapse#0692 deleted message from 2018-04-30 19:28:23 (Everything you type will be added as response to the trigger. Type 'exit' to quit.)
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:28:32 (Hitler Mistake Counter: 0)
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:28:34 (exit)
+2018-04-30 19:29:04 #bot @Synapse#0692 deleted message from 2018-04-30 19:28:34 (Your changes have been saved.)
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:28:45 (!trigger create mistakes2 hitler's mistakes)
+2018-04-30 19:29:04 #bot @Synapse#0692 deleted message from 2018-04-30 19:28:45 (Trigger created. Entering interactive add mode...)
+2018-04-30 19:29:04 #bot @Synapse#0692 deleted message from 2018-04-30 19:28:46 (Everything you type will be added as response to the trigger. Type 'exit' to quit.)
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:28:52 (Hitler Mistake Counter: 0)
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:28:55 (exit)
+2018-04-30 19:29:04 #bot @Synapse#0692 deleted message from 2018-04-30 19:28:55 (Your changes have been saved.)
+2018-04-30 19:29:04 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:29:04 (!cleanup messages 20)
+2018-04-30 19:29:11 #bot @Klaus Ze Flammenwerfer#9999: !cleanup messages 50
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:25:34 (!trigger create leader supreme)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:25:34 (A trigger with that name already exists.)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:25:39 (stop)
+2018-04-30 19:29:14 #bot @MEE6#4876 deleted message from 2018-04-30 19:25:40 (GG @Klaus Ze Flammenwerfer, Kardeş metin mi kestin naptın **level 2** !)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:25:41 (exit)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:25:58 (!trigger list)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:25:58 (I couldn't find any trigger of that type.)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:26:01 (!trigger)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:01 (```\n!trigger\n\nTrigger creation commands\n\nCommands:\n  info   Shows a trigger's info\n  create Creates a trigger\n  show   Shows all responses of a trigger\n  delete Deletes a trigger\n  search Returns triggers matching the search terms\n  remove Lets you choose a response to remove\n  add    Adds a response to a trigger\n  list   Lists local / global triggers\n\nType !trigger command for more info on a command.\nYou can also type !trigger category for more info on a category.\n```)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:26:08 (!trigger list)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:12 (I couldn't find any trigger of that type.)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:26:13 (!trigger show)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:13 (```\n!trigger show <trigger_name>\n\nShows all responses of a trigger\n\n```)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:26:15 (!trigger ingfo)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:15 (```\n!trigger\n\nTrigger creation commands\n\nCommands:\n  info   Shows a trigger's info\n  create Creates a trigger\n  show   Shows all responses of a trigger\n  delete Deletes a trigger\n  search Returns triggers matching the search terms\n  remove Lets you choose a response to remove\n  add    Adds a response to a trigger\n  list   Lists local / global triggers\n\nType !trigger command for more info on a command.\nYou can also type !trigger category for more info on a category.\n```)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:26:18 (!trigger info)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:19 (```\n!trigger info <trigger_name>\n\nShows a trigger's info\n\n```)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:26:23 (!trigger info supreme)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:23 (There is no trigger with that name.)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:26:26 (!trigger create supreme)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:27 (```\n!trigger create <trigger_name> <triggered_by>\n\nCreates a trigger\n\n```)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:26:33 (!trigger create supreme supremee)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:33 (Trigger created. Entering interactive add mode...)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:33 (Everything you type will be added as response to the trigger. Type 'exit' to quit.)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:26:35 (exit)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:35 (Your changes have been saved.)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:26:41 (!trigger info)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:41 (```\n!trigger info <trigger_name>\n\nShows a trigger's info\n\n```)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:26:53 (!trigger)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:26:54 (```\n!trigger\n\nTrigger creation commands\n\nCommands:\n  info   Shows a trigger's info\n  create Creates a trigger\n  show   Shows all responses of a trigger\n  delete Deletes a trigger\n  search Returns triggers matching the search terms\n  remove Lets you choose a response to remove\n  add    Adds a response to a trigger\n  list   Lists local / global triggers\n\nType !trigger command for more info on a command.\nYou can also type !trigger category for more info on a category.\n```)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:27:00 (!trigger create supreme supreme)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:27:00 (A trigger with that name already exists.)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:27:10 (!trigger delete supreme)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:27:10 (Trigger deleted.)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:27:18 (!trigger create supreme supreme)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:27:18 (Trigger created. Entering interactive add mode...)
+2018-04-30 19:29:14 #bot @Synapse#0692 deleted message from 2018-04-30 19:27:19 (Everything you type will be added as response to the trigger. Type 'exit' to quit.)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:27:23 (exit)
+2018-04-30 19:29:14 #bot @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-30 19:29:11 (!cleanup messages 50)

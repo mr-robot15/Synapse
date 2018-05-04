@@ -1,0 +1,14 @@
+2018-04-19 11:43:02 #test-bot @MyHustlaCrips. Big D here#7501: .multicolor 2 Manager
+2018-04-19 11:49:15 #test-bot @MyHustlaCrips. Big D here#7501: !welcomeset
+2018-04-19 11:49:15 #test-bot @Synapse#0692: `Error in command 'welcomeset'. Check your console or logs for details.`
+2018-04-19 11:49:34 #test-bot @MyHustlaCrips. Big D here#7501: !welcome
+2018-04-19 11:52:55 #test-bot @MyHustlaCrips. Big D here#7501: !youtube
+2018-04-19 11:52:56 #test-bot @Dyno#3861: <:dynoError:314691684455809024> You should be in a voice channel first.
+2018-04-19 11:52:56 #test-bot @Synapse#0692: ```\n!youtube <query>\n\nSearch on Youtube\n\n```
+2018-04-19 11:54:19 #test-bot @MyHustlaCrips. Big D here#7501: !autorole
+2018-04-19 11:54:19 #test-bot @Synapse#0692: ```\n!autorole\n\nChange settings for autorole\n\nRequires the manage roles permission\n\nCommands:\n  agreement Set the channel and message that will be used for accepting the r...\n  toggle    Enables/Disables autorole\n  role      Set role for autorole to assign.\n\nType !autorole command for more info on a command.\nYou can also type !autorole category for more info on a category.\n```
+2018-04-19 11:54:19 #test-bot @Synapse#0692: ```Current autorole state: False```
+2018-04-19 11:55:07 #test-bot @MyHustlaCrips. Big D here#7501: !role
+2018-04-19 11:55:07 #test-bot @Synapse#0692: ```\n![customrole|role|cr]\n\nMods can add roles, users can apply or relieve roles. Roles created with this cog have no permissions, it only functions for fun.\n\nCommands:\n  relieve Relieve a role\n  add     Add a role\n  apply   Apply a role\n  list    List all available roles\n  remove  Remove role\n\nType !role command for more info on a command.\nYou can also type !role category for more info on a category.\n```
+2018-04-19 11:55:07 #test-bot @Dyno#3861: 
+2018-04-19 11:55:07 #test-bot @Dyno#3861 edited message from 2018-04-19 11:55:07 () to read: 

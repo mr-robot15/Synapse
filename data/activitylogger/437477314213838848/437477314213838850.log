@@ -1,0 +1,391 @@
+2018-04-22 05:07:42 #general-test @Synapse#0692: 
+2018-04-22 05:08:11 #general-test @࿌R.AnoNIM㈽#0060: !help
+2018-04-22 05:08:13 #general-test @Synapse#0692: Check your DM, @࿌R.AnoNIM㈽! I have sent something for you :wink:
+2018-04-22 05:08:21 #general-test @࿌R.AnoNIM㈽#0060: .help
+2018-04-22 05:09:33 #general-test @࿌R.AnoNIM㈽#0060: !fuckyou
+2018-04-22 05:09:33 #general-test @Synapse#0692: 
+2018-04-22 05:09:33 #general-test @Synapse#0692 edited message from 2018-04-22 05:09:33 () to read: 
+2018-04-22 05:09:41 #general-test @࿌R.AnoNIM㈽#0060: !fuckyou @Synapse
+2018-04-22 05:09:41 #general-test @Synapse#0692: 
+2018-04-22 05:09:41 #general-test @Synapse#0692 edited message from 2018-04-22 05:09:41 () to read: 
+2018-04-22 05:09:50 #general-test @࿌R.AnoNIM㈽#0060: !fun
+2018-04-22 05:09:50 #general-test @Synapse#0692: ```\n!fun <on_off>\n\nToggle counting for fun-based commands\n\n```
+2018-04-22 05:09:57 #general-test @࿌R.AnoNIM㈽#0060: !fun on
+2018-04-22 05:09:57 #general-test @Synapse#0692: Counting counter is now ON.
+2018-04-22 05:10:01 #general-test @࿌R.AnoNIM㈽#0060: !fun
+2018-04-22 05:10:01 #general-test @Synapse#0692: ```\n!fun <on_off>\n\nToggle counting for fun-based commands\n\n```
+2018-04-22 05:10:09 #general-test @࿌R.AnoNIM㈽#0060: !fun cat
+2018-04-22 05:10:09 #general-test @Synapse#0692: ```\n!fun <on_off>\n\nToggle counting for fun-based commands\n\n```
+2018-04-22 05:10:14 #general-test @࿌R.AnoNIM㈽#0060: !fun on
+2018-04-22 05:10:14 #general-test @Synapse#0692: Counting counter is now ON.
+2018-04-22 05:10:52 #general-test @࿌R.AnoNIM㈽#0060: !trigger @࿌R.AnoNIM㈽
+2018-04-22 05:10:53 #general-test @Synapse#0692: ```\n!trigger\n\nTrigger creation commands\n\nCommands:\n  delete Deletes a trigger\n  show   Shows all responses of a trigger\n  remove Lets you choose a response to remove\n  info   Shows a trigger's info\n  list   Lists local / global triggers\n  search Returns triggers matching the search terms\n  create Creates a trigger\n  add    Adds a response to a trigger\n\nType !trigger command for more info on a command.\nYou can also type !trigger category for more info on a category.\n```
+2018-04-22 05:11:07 #general-test @࿌R.AnoNIM㈽#0060: !trigger
+2018-04-22 05:11:07 #general-test @Synapse#0692: ```\n!trigger\n\nTrigger creation commands\n\nCommands:\n  delete Deletes a trigger\n  show   Shows all responses of a trigger\n  remove Lets you choose a response to remove\n  info   Shows a trigger's info\n  list   Lists local / global triggers\n  search Returns triggers matching the search terms\n  create Creates a trigger\n  add    Adds a response to a trigger\n\nType !trigger command for more info on a command.\nYou can also type !trigger category for more info on a category.\n```
+2018-04-22 05:11:12 #general-test @࿌R.AnoNIM㈽#0060: !trigger add
+2018-04-22 05:11:12 #general-test @Synapse#0692: ```\n!trigger add <trigger_name> [response]\n\nAdds a response to a trigger\n\nLeaving the response argument empty will enable interactive mode\n\nOwner only:\nAdding a response as 'file: filename.jpg' will send that file as\nresponse if present in data/trigger/files\n\n```
+2018-04-22 05:11:27 #general-test @࿌R.AnoNIM㈽#0060: !trigger add Bitch ass no
+2018-04-22 05:11:27 #general-test @Synapse#0692: That trigger doesn't exist.
+2018-04-22 05:12:26 #general-test @࿌R.AnoNIM㈽#0060: !sporify
+2018-04-22 05:12:29 #general-test @࿌R.AnoNIM㈽#0060: !spotify
+2018-04-22 05:12:29 #general-test @Synapse#0692: ```\n!spotify <query>\n\nSearch for a song on Spotify\n\n```
+2018-04-22 05:12:39 #general-test @࿌R.AnoNIM㈽#0060: !spotify lil pump esketit
+2018-04-22 05:12:39 #general-test @Synapse#0692: **You haven't set-up your api yet. Please visit https://developer.spotify.com/my-applications/ to get your api credentials. Then use `!spotifyapi` to set up this cog.**
+2018-04-22 05:12:39 #general-test @Synapse#0692 edited message from 2018-04-22 05:12:39 (**You haven't set-up your api yet. Please visit https://developer.spotify.com/my-applications/ to get your api credentials. Then use `!spotifyapi` to set up this cog.**) to read: **You haven't set-up your api yet. Please visit https://developer.spotify.com/my-applications/ to get your api credentials. Then use `!spotifyapi` to set up this cog.**
+2018-04-22 05:16:54 #general-test @࿌R.AnoNIM㈽#0060: *multicolor 0.01 TEST
+2018-04-22 08:03:22 #general-test @Mr. Robot#0007: 
+2018-04-22 10:50:32 #general-test @࿌R.AnoNIM㈽#0060: @Mr. Robot
+2018-04-22 10:51:02 #general-test @Mr. Robot#0007: <:poggers:431472355777183757>
+2018-04-22 10:51:11 #general-test @࿌R.AnoNIM㈽#0060: Who are u?
+2018-04-22 10:51:30 #general-test @Mr. Robot#0007: !info
+2018-04-22 10:51:31 #general-test @Synapse#0692: 
+2018-04-22 10:51:31 #general-test @Synapse#0692 edited message from 2018-04-22 10:51:31 () to read: 
+2018-04-22 10:51:48 #general-test @࿌R.AnoNIM㈽#0060: O so u are a bot
+2018-04-22 10:51:54 #general-test @࿌R.AnoNIM㈽#0060: Cool:) @Mr. Robot
+2018-04-22 10:52:03 #general-test @Mr. Robot#0007: Great
+2018-04-22 10:52:15 #general-test @࿌R.AnoNIM㈽#0060: What u do
+2018-04-22 10:52:30 #general-test @Mr. Robot#0007: I do what
+2018-04-22 10:52:59 #general-test @࿌R.AnoNIM㈽#0060: What donu have* @Mr. Robot
+2018-04-22 10:53:07 #general-test @࿌R.AnoNIM㈽#0060 edited message from 2018-04-22 10:52:59 (What donu have* @Mr. Robot) to read: What do u have* @Mr. Robot
+2018-04-22 10:54:45 #general-test @Mr. Robot#0007: !rename @Mr. Robot Mr. Robot <:botTag:230105988211015680>
+2018-04-22 10:54:53 #general-test @Mr. Robot#0007: <:ThinkSweat:433925061590908929>
+2018-04-22 11:00:12 #general-test @♕Florin ソ#7533: 
+2018-04-22 11:02:37 #general-test @࿌R.AnoNIM㈽#0060: Rip @Mr. Robot
+2018-04-22 11:19:50 #general-test @Mr. Robot#0007: @࿌R.AnoNIM㈽ here?
+2018-04-22 11:20:59 #general-test @࿌R.AnoNIM㈽#0060: @Mr. Robot yes
+2018-04-22 11:21:23 #general-test @Mr. Robot#0007: !partycrash
+2018-04-22 11:21:23 #general-test @Synapse#0692: ```\n1: 420\n2: :3\n3: ? ?\n4: A Kittah Server\n5: Ayee Its iiSure Fan Group\n6: Bass Night\n7: CHBY錩者社群\n8: CS:GO\n9: CS:GO | Friends for the game\n10: CSGO/Minecraft\n11: Chinkboy2018\n12: Collin's Christian Server\n13: Corentin server !\n14: CrableCraft\n15: DU tapai\n16: Dark Productions\n17: Darkis\n18: Derp Gamerek\n19: Din mor\n20: Dis'Run ✔\n21: Discord Bots\n22: Don't forget to feed your neopets\n23: Dusk eSports\n24: Dvärgen's Discord\n25: Emote Servers\n26: FAS XZ\n27: FREE FIRE Indonesia\n28: Fortnite\n29: Fortnite\n30: GalacticPVP\n31: Game of chance camp\n32: Game4everGoldy Literally"Fans"\n33: Gaming Nation\n34: Gaymers\n35: Grayscale\n36: Here Come Dat Boi <3\n37: Impossible Country\n38: KAMILOT\n39: KaSTeTa's Official Server\n40: KÄÄÄÅÅTEEN\n41: Les BFF\n42: MianBlox\n43: Modern RolePlay\n44: Mods & Hugs\n45: Nexus Server Comunity\n46: Niggers are white (Christian server)\n47: No Name\n48: Normie Cult\n49: OGLE winter megacollab\n50: PUBG\n51: Pepe's Playhouse\n52: PrinceMc. Community\n53: RERERERE\n54: Randomness\n55: Robo\n56: SS1\n57: Servidor Noob\n58: SpeckyYT's Server\n59: SpeedzArmy\n60: Synapse Support\n61: TMP [TIEMPO]😎\n62: TestingBot "MysticTeam"\n63: The Fluffy Gang\n64: TreeZy___ #TzY___\n65: Vio's children\n66: Viper's House\n67: Xiomara\n68: Xxx_KingDoge_xxX FanClub\n69: Yaya\n70: ZibranArtz's Team  - Thx For Clicking The Link To Join :D\n71: [#*StyleSquad*#]\n72: asd\n73: buhamood_hideout\n74: chat room of doom!!!\n75: coba\n76: de hack boys\n77: dhvcg\n78: dragon Ball-z fan club\n79: films ß gratos\n80: kluci z našeho středního odborného učiliště\n81: mehhhhh\n82: memes\n83: ne\n84: private channel\n85: salemgaming\n86: shadowgangFTW\n87: shigetora\n88: srtShyzo\n89: tesadfsertaw\n90: test\n91: vip\n92: wadawwww\n93: why\n94: yee haw\n95: ауц\n96: ღ Official ღ\n97: ⎣ ❄ Lucky 7 ❄ ⎦\n98: ☯Hangout Time☯\n99: ♛ Art ♛ Craft ♛\n100: ♛ 𝒜𝓁𝓂𝒶𝓈 𝓅𝑒𝓇𝒹𝒾𝒹𝒶𝓈 ♛\n101: ⚡LobbyPentHouse✨\n102: ✏Les p'tits dessinateurs\n103: ✯ 𝑺𝒖𝒏𝑹𝒊𝒔𝒆 ✯\n104: 〖 Ghost GAMES 〗\n105: Ａｒｃｈｉｔｅｃｔｕｒｅ\n106: 🎧 [[NIGHTCORE CLUB ]🔴\n107: 💚 SeezClan💚\n\n```
+2018-04-22 11:21:25 #general-test @Synapse#0692: ```\n\nTo post an invite for a server just type its number.\n```
+2018-04-22 11:21:28 #general-test @Mr. Robot#0007: see this
+2018-04-22 11:21:28 #general-test @Synapse#0692: You must enter a number.
+2018-04-22 11:21:44 #general-test @Mr. Robot#0007: 62
+2018-04-22 11:22:02 #general-test @Mr. Robot#0007: !cleanup messages 2
+2018-04-22 11:22:02 #general-test @Synapse#0692 deleted message from 2018-04-22 11:21:28 (You must enter a number.)
+2018-04-22 11:22:02 #general-test @Mr. Robot#0007 deleted message from 2018-04-22 11:21:44 (62)
+2018-04-22 11:22:02 #general-test @Mr. Robot#0007 deleted message from 2018-04-22 11:22:02 (!cleanup messages 2)
+2018-04-22 11:22:08 #general-test @Mr. Robot#0007: number 62 see
+2018-04-22 11:27:12 #general-test @࿌R.AnoNIM㈽#0060: O
+2018-04-22 11:37:13 #general-test @࿌Razvan.AnoNIM㈽#4745: 
+2018-04-22 11:38:26 #general-test @࿌Razvan.AnoNIM㈽#4745: O
+2018-04-22 11:39:14 #general-test @࿌Razvan.AnoNIM㈽#4745: @Mr. Robothow can I create a bot like yours?
+2018-04-22 11:39:41 #general-test @Mr. Robot#0007: u cant
+2018-04-22 11:39:48 #general-test @࿌Razvan.AnoNIM㈽#4745: Y?
+2018-04-22 11:39:50 #general-test @Mr. Robot#0007: cuz see
+2018-04-22 11:39:59 #general-test @Mr. Robot#0007: .modules
+2018-04-22 11:40:00 #general-test @Synapse#0692: 
+2018-04-22 11:40:00 #general-test @Synapse#0692 edited message from 2018-04-22 11:40:00 () to read: 
+2018-04-22 11:40:05 #general-test @࿌Razvan.AnoNIM㈽#4745: Oh
+2018-04-22 11:40:11 #general-test @࿌Razvan.AnoNIM㈽#4745: alright then
+2018-04-22 11:40:18 #general-test @Mr. Robot#0007: two different things
+2018-04-22 11:40:21 #general-test @Mr. Robot#0007: !pingt
+2018-04-22 11:40:21 #general-test @Synapse#0692: ping: 136ms
+2018-04-22 11:40:25 #general-test @Mr. Robot#0007: .ping
+2018-04-22 11:40:25 #general-test @Synapse#0692: 🏓
+2018-04-22 11:40:26 #general-test @Synapse#0692 deleted message from 2018-04-22 11:40:25 (🏓)
+2018-04-22 11:40:26 #general-test @࿌R.AnoNIM㈽#0060: But a normal Bot? @Mr. Robot
+2018-04-22 11:40:26 #general-test @Synapse#0692: 
+2018-04-22 11:40:26 #general-test @Synapse#0692 edited message from 2018-04-22 11:40:26 () to read: 
+2018-04-22 11:40:30 #general-test @Mr. Robot#0007: .ping
+2018-04-22 11:40:30 #general-test @Synapse#0692: 🏓
+2018-04-22 11:40:30 #general-test @Synapse#0692 deleted message from 2018-04-22 11:40:30 (🏓)
+2018-04-22 11:40:30 #general-test @Synapse#0692: 
+2018-04-22 11:40:30 #general-test @Synapse#0692 edited message from 2018-04-22 11:40:30 () to read: 
+2018-04-22 11:40:34 #general-test @Mr. Robot#0007: .ping
+2018-04-22 11:40:34 #general-test @Synapse#0692: 🏓
+2018-04-22 11:40:34 #general-test @Synapse#0692 deleted message from 2018-04-22 11:40:34 (🏓)
+2018-04-22 11:40:34 #general-test @Synapse#0692: 
+2018-04-22 11:40:34 #general-test @Synapse#0692 edited message from 2018-04-22 11:40:34 () to read: 
+2018-04-22 11:40:35 #general-test @࿌Razvan.AnoNIM㈽#4745: Oh
+2018-04-22 11:40:38 #general-test @Mr. Robot#0007: !pingt
+2018-04-22 11:40:38 #general-test @Synapse#0692: ping: 140ms
+2018-04-22 11:40:40 #general-test @Mr. Robot#0007: so
+2018-04-22 11:41:13 #general-test @࿌Razvan.AnoNIM㈽#4745: How did u create this bot?
+2018-04-22 11:41:29 #general-test @Mr. Robot#0007: what kinda question is that
+2018-04-22 11:41:31 #general-test @Mr. Robot#0007: lol
+2018-04-22 11:41:49 #general-test @࿌Razvan.AnoNIM㈽#4745: I want to know how to create a bot like that
+2018-04-22 11:42:01 #general-test @࿌Razvan.AnoNIM㈽#4745: I mean it's cool
+2018-04-22 11:42:05 #general-test @࿌R.AnoNIM㈽#0060: Me too
+2018-04-22 11:42:06 #general-test @࿌R.AnoNIM㈽#0060: :))
+2018-04-22 11:42:10 #general-test @࿌Razvan.AnoNIM㈽#4745: I wnana be cool :(
+2018-04-22 11:42:16 #general-test @࿌Razvan.AnoNIM㈽#4745: Wanna*
+2018-04-22 11:42:20 #general-test @Mr. Robot#0007: u can just use my bot
+2018-04-22 11:42:20 #general-test @࿌R.AnoNIM㈽#0060: I m cool nigga @࿌Razvan.AnoNIM㈽
+2018-04-22 11:42:22 #general-test @࿌R.AnoNIM㈽#0060: 💕
+2018-04-22 11:42:30 #general-test @࿌Razvan.AnoNIM㈽#4745: Right
+2018-04-22 11:42:35 #general-test @࿌Razvan.AnoNIM㈽#4745: @࿌R.AnoNIM㈽ no me
+2018-04-22 11:42:56 #general-test @Mr. Robot#0007: !google image no u
+2018-04-22 11:42:57 #general-test @Synapse#0692: http://i0.kym-cdn.com/entries/icons/original/000/000/266/no_u_for_knowyourmeme.jpg
+2018-04-22 11:42:57 #general-test @Synapse#0692 edited message from 2018-04-22 11:42:57 (http://i0.kym-cdn.com/entries/icons/original/000/000/266/no_u_for_knowyourmeme.jpg) to read: http://i0.kym-cdn.com/entries/icons/original/000/000/266/no_u_for_knowyourmeme.jpg
+2018-04-22 11:43:05 #general-test @࿌Razvan.AnoNIM㈽#4745: Yes mw
+2018-04-22 11:43:06 #general-test @࿌Razvan.AnoNIM㈽#4745: Me
+2018-04-22 11:43:18 #general-test @Mr. Robot#0007: !google image no me
+2018-04-22 11:43:19 #general-test @Synapse#0692: http://www.nome.nu/images/LogoBox.svg
+2018-04-22 11:43:24 #general-test @Mr. Robot#0007: oops
+2018-04-22 11:43:25 #general-test @࿌R.AnoNIM㈽#0060: U wanna see some nudes?  MR.Robot?
+2018-04-22 11:43:27 #general-test @࿌R.AnoNIM㈽#0060: 😂
+2018-04-22 11:43:32 #general-test @࿌Razvan.AnoNIM㈽#4745: Lmao
+2018-04-22 11:43:32 #general-test @Mr. Robot#0007: .boobs
+2018-04-22 11:43:35 #general-test @Mr. Robot#0007: lol
+2018-04-22 11:43:39 #general-test @࿌Razvan.AnoNIM㈽#4745: L
+2018-04-22 11:43:42 #general-test @Mr. Robot#0007: !hentai
+2018-04-22 11:43:47 #general-test @࿌Razvan.AnoNIM㈽#4745: Rip
+2018-04-22 11:43:48 #general-test @Mr. Robot#0007: !hentaibomb
+2018-04-22 11:43:52 #general-test @Mr. Robot#0007: forgot
+2018-04-22 11:43:57 #general-test @Mr. Robot#0007: !boobs
+2018-04-22 11:43:57 #general-test @Synapse#0692: http://media.oboobs.ru/boobs_preview/00706.jpg
+2018-04-22 11:43:57 #general-test @Synapse#0692 edited message from 2018-04-22 11:43:57 (http://media.oboobs.ru/boobs_preview/00706.jpg) to read: http://media.oboobs.ru/boobs_preview/00706.jpg
+2018-04-22 11:44:06 #general-test @Mr. Robot#0007: .prune 1
+2018-04-22 11:44:13 #general-test @࿌R.AnoNIM㈽#0060: I have bboobs bot on my sv
+2018-04-22 11:44:31 #general-test @Mr. Robot#0007: !ass
+2018-04-22 11:44:31 #general-test @Synapse#0692: http://media.obutts.ru/butts_preview/00360.jpg
+2018-04-22 11:44:32 #general-test @Synapse#0692 edited message from 2018-04-22 11:44:31 (http://media.obutts.ru/butts_preview/00360.jpg) to read: http://media.obutts.ru/butts_preview/00360.jpg
+2018-04-22 11:44:41 #general-test @࿌R.AnoNIM㈽#0060: !gif
+2018-04-22 11:44:46 #general-test @Mr. Robot#0007: .modules
+2018-04-22 11:44:46 #general-test @Synapse#0692: 
+2018-04-22 11:44:46 #general-test @Synapse#0692 edited message from 2018-04-22 11:44:46 () to read: 
+2018-04-22 11:44:46 #general-test @࿌Razvan.AnoNIM㈽#4745: L
+2018-04-22 11:44:52 #general-test @Mr. Robot#0007: .cmds nsfw
+2018-04-22 11:44:52 #general-test @Synapse#0692: 
+2018-04-22 11:44:52 #general-test @Synapse#0692 edited message from 2018-04-22 11:44:52 () to read: 
+2018-04-22 11:44:54 #general-test @࿌Razvan.AnoNIM㈽#4745: Gambling?
+2018-04-22 11:44:58 #general-test @࿌Razvan.AnoNIM㈽#4745: .daily
+2018-04-22 11:45:01 #general-test @࿌Razvan.AnoNIM㈽#4745: !daily
+2018-04-22 11:45:04 #general-test @࿌Razvan.AnoNIM㈽#4745: Frick
+2018-04-22 11:45:07 #general-test @࿌Razvan.AnoNIM㈽#4745: How do I gmble
+2018-04-22 11:45:07 #general-test @࿌R.AnoNIM㈽#0060: .autoboobs
+2018-04-22 11:45:15 #general-test @Mr. Robot#0007: .h autoboobs
+2018-04-22 11:45:15 #general-test @Synapse#0692: 
+2018-04-22 11:45:15 #general-test @Synapse#0692 edited message from 2018-04-22 11:45:15 () to read: 
+2018-04-22 11:45:22 #general-test @࿌R.AnoNIM㈽#0060: !duel @࿌Razvan.AnoNIM㈽
+2018-04-22 11:45:22 #general-test @Synapse#0692: ࿌R.AnoNIM㈽ challenges ࿌Razvan.AnoNIM㈽ to a duel!\n\nBy a coin toss, ࿌Razvan.AnoNIM㈽ will go first.
+2018-04-22 11:45:22 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ nails ࿌R.AnoNIM㈽ in the abdomen with their lance! Critical hit! It hits for 6 damage (14)
+2018-04-22 11:45:23 #general-test @Synapse#0692: ࿌R.AnoNIM㈽ swings their buzzsaw at ࿌Razvan.AnoNIM㈽! It deals 6 damage (14)
+2018-04-22 11:45:25 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ stabs their naginata at ࿌R.AnoNIM㈽! It hits for 5 damage (9)
+2018-04-22 11:45:26 #general-test @Synapse#0692: ࿌R.AnoNIM㈽ calls a timeout and smokes medicinal incense. It recovers 2 HP (11)
+2018-04-22 11:45:28 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ tosses a grenade into ࿌R.AnoNIM㈽'s spleen! It hits for 5 damage (6)
+2018-04-22 11:45:29 #general-test @Synapse#0692: ࿌R.AnoNIM㈽ swings their chainsaw at ࿌Razvan.AnoNIM㈽, but has sweaty hands and loses their grip, hitting themself instead. It deals 4 damage (2)
+2018-04-22 11:45:30 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ hurls pocket sand at ࿌R.AnoNIM㈽!
+2018-04-22 11:45:30 #general-test @࿌Razvan.AnoNIM㈽#4745: Wut
+2018-04-22 11:45:31 #general-test @Synapse#0692: ࿌R.AnoNIM㈽ fires their cannon at ࿌Razvan.AnoNIM㈽! It hits for 3 damage (11)
+2018-04-22 11:45:33 #general-test @Synapse#0692: After 4 rounds, @࿌Razvan.AnoNIM㈽ wins with 11 HP!\nStats: ࿌Razvan.AnoNIM㈽ has 1 wins, 0 losses, 0 draws; ࿌R.AnoNIM㈽ has 0 wins, 1 losses, 0 draws.
+2018-04-22 11:45:40 #general-test @࿌Razvan.AnoNIM㈽#4745: Ez
+2018-04-22 11:45:51 #general-test @࿌Razvan.AnoNIM㈽#4745: !duel  @࿌R.AnoNIM㈽
+2018-04-22 11:45:51 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ challenges ࿌R.AnoNIM㈽ to a duel!\n\nBy a coin toss, ࿌R.AnoNIM㈽ will go first.
+2018-04-22 11:45:51 #general-test @Synapse#0692: ࿌R.AnoNIM㈽ hurls a heavy rock at ࿌Razvan.AnoNIM㈽! It deals 2 damage (18)
+2018-04-22 11:45:53 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ decides to munch on some dog food instead of attacking. It heals 4 HP (22)
+2018-04-22 11:45:54 #general-test @Synapse#0692: ࿌R.AnoNIM㈽ tosses a moltov cocktail at ࿌Razvan.AnoNIM㈽! It hits for 5 damage (17)
+2018-04-22 11:45:54 #general-test @Mr. Robot#0007: u can invite my bot to ur server by typing !invite
+2018-04-22 11:45:55 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ hurls a spear at ࿌R.AnoNIM㈽'s balls! It hits for 6 damage (14)
+2018-04-22 11:45:56 #general-test @࿌Razvan.AnoNIM㈽#4745: Fite me
+2018-04-22 11:45:57 #general-test @Synapse#0692: ࿌R.AnoNIM㈽ stabs their dagger into ࿌Razvan.AnoNIM㈽! It hits for 5 damage (12)
+2018-04-22 11:45:58 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ bitch-slaps ࿌R.AnoNIM㈽! It hits for 2 damage (12)
+2018-04-22 11:46:00 #general-test @Synapse#0692: ࿌R.AnoNIM㈽ tosses a moltov cocktail at ࿌Razvan.AnoNIM㈽! It hits for 2 damage (10)
+2018-04-22 11:46:01 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ fires their raygun at ࿌R.AnoNIM㈽! It deals 5 damage (7)
+2018-04-22 11:46:07 #general-test @Synapse#0692: After 4 rounds, @࿌Razvan.AnoNIM㈽ wins with 10 HP!\nStats: ࿌Razvan.AnoNIM㈽ has 2 wins, 0 losses, 0 draws; ࿌R.AnoNIM㈽ has 0 wins, 2 losses, 0 draws.
+2018-04-22 11:46:21 #general-test @Mr. Robot#0007: u can invite my bot to ur server by typing !invite
+2018-04-22 11:46:26 #general-test @࿌Razvan.AnoNIM㈽#4745: !duel
+2018-04-22 11:46:27 #general-test @Synapse#0692: ```\n!duel <user>\n\nDuel another player\n\n```
+2018-04-22 11:46:33 #general-test @࿌Razvan.AnoNIM㈽#4745: !duel  @Mr. Robot
+2018-04-22 11:46:33 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ challenges Mr. Robot to a duel!\n\nBy a coin toss, Mr. Robot will go first.
+2018-04-22 11:46:33 #general-test @Synapse#0692: Mr. Robot tosses a moltov cocktail into ࿌Razvan.AnoNIM㈽'s abdomen! It deals 4 damage (16)
+2018-04-22 11:46:34 #general-test @࿌R.AnoNIM㈽#0060: @Mr. Robot I m testing the bot now
+2018-04-22 11:46:35 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ stabs their lance at Mr. Robot! It hits for 5 damage (15)
+2018-04-22 11:46:36 #general-test @Synapse#0692: Mr. Robot swings their scimitar at ࿌Razvan.AnoNIM㈽! It hits for 4 damage (12)
+2018-04-22 11:46:37 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ fires their raygun at Mr. Robot! It hits for 5 damage (10)
+2018-04-22 11:46:39 #general-test @Synapse#0692: Mr. Robot decides to munch on some dog food instead of attacking. It gains 3 HP (13)
+2018-04-22 11:46:40 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ hurls pocket sand at Mr. Robot's shin!
+2018-04-22 11:46:41 #general-test @Synapse#0692: Mr. Robot headbutts ࿌Razvan.AnoNIM㈽! It hits for 3 damage (9)
+2018-04-22 11:46:43 #general-test @Mr. Robot#0007: @࿌R.AnoNIM㈽ alright
+2018-04-22 11:46:43 #general-test @Synapse#0692: ࿌Razvan.AnoNIM㈽ stabs their dagger into Mr. Robot! It deals 3 damage (10)
+2018-04-22 11:46:44 #general-test @Synapse#0692: After 4 rounds, @Mr. Robot wins with 10 HP!\nStats: Mr. Robot has 1 wins, 0 losses, 0 draws; ࿌Razvan.AnoNIM㈽ has 2 wins, 1 losses, 0 draws.
+2018-04-22 11:47:18 #general-test @࿌Razvan.AnoNIM㈽#4745: !cmds
+2018-04-22 11:47:18 #general-test @Synapse#0692: ```\n![commandsearch|cmds|coms] <search_string>\n\nSearch commands\n\n```
+2018-04-22 11:47:27 #general-test @࿌Razvan.AnoNIM㈽#4745: !cmds gambling
+2018-04-22 11:47:27 #general-test @Synapse#0692: 
+2018-04-22 11:47:28 #general-test @Synapse#0692 edited message from 2018-04-22 11:47:27 () to read: 
+2018-04-22 11:47:31 #general-test @࿌Razvan.AnoNIM㈽#4745: .cmds gambling
+2018-04-22 11:47:31 #general-test @Synapse#0692: 
+2018-04-22 11:47:31 #general-test @Synapse#0692 edited message from 2018-04-22 11:47:31 () to read: 
+2018-04-22 11:48:07 #general-test @࿌Razvan.AnoNIM㈽#4745: .flip 10
+2018-04-22 11:48:08 #general-test @Synapse#0692:  (attachment url(s): https://cdn.discordapp.com/attachments/437477314213838850/437580362927833108/10_coins.png)
+2018-04-22 11:48:13 #general-test @࿌Razvan.AnoNIM㈽#4745: O
+2018-04-22 11:48:38 #general-test @࿌Razvan.AnoNIM㈽#4745: .bj 100
+2018-04-22 11:48:39 #general-test @Synapse#0692: 
+2018-04-22 11:48:39 #general-test @Synapse#0692 edited message from 2018-04-22 11:48:39 () to read: 
+2018-04-22 11:48:44 #general-test @࿌Razvan.AnoNIM㈽#4745: .bj 1
+2018-04-22 11:48:44 #general-test @Synapse#0692: 
+2018-04-22 11:48:44 #general-test @Synapse#0692 edited message from 2018-04-22 11:48:44 () to read: 
+2018-04-22 11:48:55 #general-test @࿌Razvan.AnoNIM㈽#4745: How do I get credits @Mr. Robot
+2018-04-22 11:55:40 #general-test @Mr. Robot#0007: Lol
+2018-04-22 11:56:06 #general-test @Mr. Robot#0007 deleted message from 2018-04-22 11:55:40 (Lol)
+2018-04-22 11:56:32 #general-test @Mr. Robot#0007: .give
+2018-04-22 11:56:36 #general-test @Mr. Robot#0007: .h give
+2018-04-22 11:56:36 #general-test @Synapse#0692: 
+2018-04-22 11:56:36 #general-test @Synapse#0692 edited message from 2018-04-22 11:56:36 () to read: 
+2018-04-22 11:56:43 #general-test @Mr. Robot#0007 deleted message from 2018-04-22 11:56:32 (.give)
+2018-04-22 11:57:00 #general-test @Mr. Robot#0007: .h $
+2018-04-22 11:57:00 #general-test @Synapse#0692: 
+2018-04-22 11:57:00 #general-test @Synapse#0692 edited message from 2018-04-22 11:57:00 () to read: 
+2018-04-22 11:57:32 #general-test @Mr. Robot#0007: .h award
+2018-04-22 11:57:33 #general-test @Synapse#0692: 
+2018-04-22 11:57:33 #general-test @Synapse#0692 edited message from 2018-04-22 11:57:33 () to read: 
+2018-04-22 11:57:52 #general-test @Mr. Robot#0007: .award 1000000 @Mr. Robot
+2018-04-22 11:57:53 #general-test @Synapse#0692: 
+2018-04-22 11:57:53 #general-test @Synapse#0692 edited message from 2018-04-22 11:57:53 () to read: 
+2018-04-22 11:58:14 #general-test @Mr. Robot#0007: .give 10000  @࿌Razvan.AnoNIM㈽
+2018-04-22 11:58:15 #general-test @Synapse#0692: 
+2018-04-22 11:58:15 #general-test @Synapse#0692 edited message from 2018-04-22 11:58:15 () to read: 
+2018-04-22 11:58:39 #general-test @Mr. Robot#0007: !cleanup messages 12
+2018-04-22 11:58:40 #general-test @Synapse#0692 deleted message from 2018-04-22 11:48:44 ()
+2018-04-22 11:58:40 #general-test @࿌Razvan.AnoNIM㈽#4745 deleted message from 2018-04-22 11:48:55 (How do I get credits @Mr. Robot)
+2018-04-22 11:58:40 #general-test @Mr. Robot#0007 deleted message from 2018-04-22 11:56:36 (.h give)
+2018-04-22 11:58:40 #general-test @Synapse#0692 deleted message from 2018-04-22 11:56:36 ()
+2018-04-22 11:58:40 #general-test @Mr. Robot#0007 deleted message from 2018-04-22 11:57:00 (.h $)
+2018-04-22 11:58:40 #general-test @Synapse#0692 deleted message from 2018-04-22 11:57:00 ()
+2018-04-22 11:58:40 #general-test @Mr. Robot#0007 deleted message from 2018-04-22 11:57:32 (.h award)
+2018-04-22 11:58:40 #general-test @Synapse#0692 deleted message from 2018-04-22 11:57:33 ()
+2018-04-22 11:58:40 #general-test @Mr. Robot#0007 deleted message from 2018-04-22 11:57:52 (.award 1000000 @Mr. Robot)
+2018-04-22 11:58:40 #general-test @Synapse#0692 deleted message from 2018-04-22 11:57:53 ()
+2018-04-22 11:58:40 #general-test @Mr. Robot#0007 deleted message from 2018-04-22 11:58:14 (.give 10000  @࿌Razvan.AnoNIM㈽)
+2018-04-22 11:58:40 #general-test @Synapse#0692 deleted message from 2018-04-22 11:58:15 ()
+2018-04-22 11:58:40 #general-test @Mr. Robot#0007 deleted message from 2018-04-22 11:58:39 (!cleanup messages 12)
+2018-04-22 11:58:49 #general-test @Mr. Robot#0007: @࿌Razvan.AnoNIM㈽ check Ur balance
+2018-04-22 13:37:50 #general-test @࿌Razvan.AnoNIM㈽#4745: Alright
+2018-04-22 13:37:51 #general-test @࿌Razvan.AnoNIM㈽#4745: .bal
+2018-04-22 13:38:00 #general-test @࿌Razvan.AnoNIM㈽#4745: .gambling
+2018-04-22 13:38:07 #general-test @࿌Razvan.AnoNIM㈽#4745: .bj 10
+2018-04-22 13:38:07 #general-test @Synapse#0692: 
+2018-04-22 13:38:07 #general-test @Synapse#0692 edited message from 2018-04-22 13:38:07 () to read: 
+2018-04-22 13:38:08 #general-test @࿌Razvan.AnoNIM㈽#4745 deleted message from 2018-04-22 13:38:07 (.bj 10)
+2018-04-22 13:38:28 #general-test @Synapse#0692: 
+2018-04-22 13:38:28 #general-test @Synapse#0692 edited message from 2018-04-22 13:38:28 () to read: 
+2018-04-22 13:38:48 #general-test @Synapse#0692 deleted message from 2018-04-22 13:38:28 ()
+2018-04-22 13:38:48 #general-test @Synapse#0692: 
+2018-04-22 13:38:48 #general-test @Synapse#0692 edited message from 2018-04-22 13:38:48 () to read: 
+2018-04-22 13:38:50 #general-test @Synapse#0692 deleted message from 2018-04-22 13:38:48 ()
+2018-04-22 13:38:50 #general-test @Synapse#0692: 
+2018-04-22 13:38:50 #general-test @Synapse#0692 edited message from 2018-04-22 13:38:50 () to read: 
+2018-04-22 13:40:33 #general-test @࿌Razvan.AnoNIM㈽#4745: Hit
+2018-04-22 13:40:43 #general-test @࿌Razvan.AnoNIM㈽#4745: .hit
+2018-04-22 13:40:46 #general-test @࿌Razvan.AnoNIM㈽#4745: Oof
+2018-04-22 15:48:03 #general-test @࿌R.AnoNIM㈽#0060: *ping
+2018-04-22 16:10:42 #general-test @Mr. Robot#0007: .ping
+2018-04-22 16:10:43 #general-test @Synapse#0692: 🏓
+2018-04-22 16:10:43 #general-test @Synapse#0692: 
+2018-04-22 16:10:43 #general-test @Synapse#0692 deleted message from 2018-04-22 16:10:43 (🏓)
+2018-04-22 16:10:43 #general-test @Synapse#0692 edited message from 2018-04-22 16:10:43 () to read: 
+2018-04-23 10:46:50 #general-test @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`
+2018-04-23 12:17:50 #general-test @࿌ReD.AnoNIM㈽#0060: @Mr. Robot how are u dude
+2018-04-23 13:29:44 #general-test @Mr. Robot#0007: Good
+2018-04-25 12:49:27 #general-test @amybot#2576: 
+2018-04-25 12:49:27 #general-test @amybot#2576: Hi there! Thanks for adding me to your server!\n\nYou can configure me through the dashboard: <https://amy.chat/login>\nIf you need help, come join the support server: <https://amy.chat/support>\nJust type `amy!help` to get started!
+2018-04-25 12:49:56 #general-test @࿌ReD.AnoNIM㈽#0060: amy!hell
+2018-04-25 12:50:02 #general-test @࿌ReD.AnoNIM㈽#0060: amy!help
+2018-04-25 12:50:02 #general-test @amybot#2576: 
+2018-04-25 12:50:02 #general-test @amybot#2576 edited message from 2018-04-25 12:50:02 () to read: 
+2018-04-25 12:54:27 #general-test @jColour#2777: 
+2018-04-25 13:07:52 #general-test @࿌ReD.AnoNIM㈽#0060: j!help
+2018-04-25 13:07:52 #general-test @jColour#2777: **Available Commands**\n\n~~━━━━━━━━━━━━~~\n\n__Colour__\n\n**j!colour [colour/"pick"/"random"/"hex"/"none"]**: Gives you a list of colours (if no arguments) or gives you a colour.\n**j!disable-hex [delete: "yes"/"no"]**: Disables custom hex colours from the server. Can also delete the custom colours.\n**j!enable-hex [role/"everyone"]**: Enables custom hex colours for the server (can be limited to a role)\n**j!set-role [role/"everyone"]**: Restricts colours to a certain role (everyone for no limits)\n\n~~━━━━━━━━━━━━~~\n\n__Information__\n\n**j!help**: Displays a list of available commands, or detailed information for a specified command.\n**j!invite**: Gives the link to invite me \n**j!stats**: Fetches info related to the bot\n**j!support**: Gives the link to my support server.\n**j!tutorial**: Gives you the necessary info for using the bot.\n\n~~━━━━━━━━━━━━~~\n\n__Utility__\n\n**j!prefix [prefix/"default"/"none"]**: Shows or sets the command prefix.\n\n~~━━━━━━━━━━━━~~\n\nView the documentation: https://jcolour.jaqreven.com/docs
+2018-04-25 13:09:17 #general-test @࿌ReD.AnoNIM㈽#0060: j!colour hex
+2018-04-25 13:09:17 #general-test @jColour#2777: **Hex Colours: Setup**\n\nYou can allow users to make custom colour roles for themselves.\n*You need `manage roles` permissions for this!*\n\nBy typing `j!enable-hex` you will enable the custom colours.\nWhen you run the command, I will ask you if you want to limit custom hex colours to a certain role.\n\nCustom hex colours can be deleted later with `j!disable-hex`.\nWhen you run the command, I will ask if you want to delete the custom hex colour roles.\n\n**Hex Colours: Usage**\n\nThe hex colour needs to be in #xxxxxx format (ex. #ff00ff is pink).\nAfter you've got a hex colour, type `j!colour hex <hex colour>`\nYou can also use `j!colour hex pick/random`.
+2018-04-25 13:09:45 #general-test @࿌ReD.AnoNIM㈽#0060: j!enable hex
+2018-04-25 13:09:57 #general-test @࿌ReD.AnoNIM㈽#0060: j!enable-hex
+2018-04-25 13:09:57 #general-test @jColour#2777: @࿌ReD.AnoNIM㈽, What role should this be limited to? (Reply with 'everyone' for no limits)\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 30 seconds.
+2018-04-25 13:10:13 #general-test @࿌ReD.AnoNIM㈽#0060: everyone
+2018-04-25 13:10:13 #general-test @jColour#2777: Custom hex colours have been enabled. Use `j!colour hex <hex colour>` to get a custom hex colour. `Everyone` can get one. Please note that Discord has a hard limit on roles.
+2018-04-25 13:10:45 #general-test @࿌ReD.AnoNIM㈽#0060: j!colour hex
+2018-04-25 13:10:45 #general-test @jColour#2777: **Hex Colours: Setup**\n\nYou can allow users to make custom colour roles for themselves.\n*You need `manage roles` permissions for this!*\n\nBy typing `j!enable-hex` you will enable the custom colours.\nWhen you run the command, I will ask you if you want to limit custom hex colours to a certain role.\n\nCustom hex colours can be deleted later with `j!disable-hex`.\nWhen you run the command, I will ask if you want to delete the custom hex colour roles.\n\n**Hex Colours: Usage**\n\nThe hex colour needs to be in #xxxxxx format (ex. #ff00ff is pink).\nAfter you've got a hex colour, type `j!colour hex <hex colour>`\nYou can also use `j!colour hex pick/random`.
+2018-04-25 13:11:07 #general-test @࿌ReD.AnoNIM㈽#0060: j!colour hex
+2018-04-25 13:11:07 #general-test @jColour#2777: **Hex Colours: Setup**\n\nYou can allow users to make custom colour roles for themselves.\n*You need `manage roles` permissions for this!*\n\nBy typing `j!enable-hex` you will enable the custom colours.\nWhen you run the command, I will ask you if you want to limit custom hex colours to a certain role.\n\nCustom hex colours can be deleted later with `j!disable-hex`.\nWhen you run the command, I will ask if you want to delete the custom hex colour roles.\n\n**Hex Colours: Usage**\n\nThe hex colour needs to be in #xxxxxx format (ex. #ff00ff is pink).\nAfter you've got a hex colour, type `j!colour hex <hex colour>`\nYou can also use `j!colour hex pick/random`.
+2018-04-25 13:11:51 #general-test @࿌ReD.AnoNIM㈽#0060: j!colour hex
+2018-04-25 13:11:51 #general-test @jColour#2777: **Hex Colours: Setup**\n\nYou can allow users to make custom colour roles for themselves.\n*You need `manage roles` permissions for this!*\n\nBy typing `j!enable-hex` you will enable the custom colours.\nWhen you run the command, I will ask you if you want to limit custom hex colours to a certain role.\n\nCustom hex colours can be deleted later with `j!disable-hex`.\nWhen you run the command, I will ask if you want to delete the custom hex colour roles.\n\n**Hex Colours: Usage**\n\nThe hex colour needs to be in #xxxxxx format (ex. #ff00ff is pink).\nAfter you've got a hex colour, type `j!colour hex <hex colour>`\nYou can also use `j!colour hex pick/random`.
+2018-04-25 13:12:13 #general-test @࿌ReD.AnoNIM㈽#0060: j!colour hex random
+2018-04-25 13:12:13 #general-test @jColour#2777: Made a new role with the colour #f4e7dc - if you didnt get a colour, please run the command again.
+2018-04-25 13:34:14 #general-test @࿌ReD.AnoNIM㈽#0060: @࿌Razvan.AnoNIM㈽
+2018-04-25 13:35:10 #general-test @࿌ReD.AnoNIM㈽#0060: j!colour red
+2018-04-25 13:35:11 #general-test @jColour#2777: That colour doesn't exist!
+2018-04-25 13:35:21 #general-test @࿌ReD.AnoNIM㈽#0060: j!colour hex random
+2018-04-25 13:35:21 #general-test @jColour#2777: The colour of user role has been updated to (random) #b42083.
+2018-04-25 13:35:29 #general-test @࿌Razvan.AnoNIM㈽#4745: <:GWsetmyxPeepoPinged:405337566787928065>
+2018-04-25 13:35:38 #general-test @࿌ReD.AnoNIM㈽#0060: Baga tu culoare la tine
+2018-04-25 13:35:42 #general-test @࿌ReD.AnoNIM㈽#0060: Ia vezi merge,
+2018-04-25 13:37:06 #general-test @࿌ReD.AnoNIM㈽#0060: *rainbow
+2018-04-25 13:41:49 #general-test @࿌Razvan.AnoNIM㈽#4745: j!colour hex rainbow
+2018-04-25 13:41:49 #general-test @jColour#2777: That is not a hex colour! Please supply a colour in one of these formats:\n\nHex:\n  #ffffff (white)\n  #ff00ff (pink)\n  #000000 (black)\nX11 colours:\n  green\n  blue\n  ivory\n  \nMore X11 colours: http://cng.seas.rochester.edu/CNG/docs/x11color.html
+2018-04-25 13:42:16 #general-test @࿌Razvan.AnoNIM㈽#4745: j!colour hex random
+2018-04-25 13:42:16 #general-test @jColour#2777: Made a new role with the colour #388193 - if you didnt get a colour, please run the command again.
+2018-04-25 13:42:28 #general-test @࿌Razvan.AnoNIM㈽#4745: @࿌ReD.AnoNIM㈽ nole
+2018-04-25 13:42:30 #general-test @࿌Razvan.AnoNIM㈽#4745: Nope
+2018-04-26 16:33:25 #general-test @࿌ReD.AnoNIM㈽#0060: j!invite
+2018-04-26 16:33:25 #general-test @jColour#2777: Here's the link to invite me: <https://discordapp.com/oauth2/authorize?client_id=358968052500660226&scope=bot&permissions=268454912>
+2018-04-30 08:49:54 #general-test @Partner Bot#1001: 
+2018-04-30 08:50:39 #general-test @࿌WiZz.AnoNIM㈽#0060: pb!help
+2018-04-30 08:50:39 #general-test @Partner Bot#1001: 
+2018-04-30 08:50:39 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:50:39 () to read: 
+2018-04-30 08:50:47 #general-test @࿌WiZz.AnoNIM㈽#0060: pb!setup
+2018-04-30 08:50:47 #general-test @Partner Bot#1001: 
+2018-04-30 08:50:47 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:50:47 () to read: 
+2018-04-30 08:51:03 #general-test @࿌WiZz.AnoNIM㈽#0060: pb!help setup
+2018-04-30 08:51:03 #general-test @Partner Bot#1001: 
+2018-04-30 08:51:03 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:51:03 () to read: 
+2018-04-30 08:51:57 #general-test @࿌WiZz.AnoNIM㈽#0060: pb!setup
+2018-04-30 08:51:57 #general-test @Partner Bot#1001: 
+2018-04-30 08:51:57 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:51:57 () to read: 
+2018-04-30 08:52:11 #general-test @࿌WiZz.AnoNIM㈽#0060: pb!channel
+2018-04-30 08:52:11 #general-test @Partner Bot#1001: 
+2018-04-30 08:52:11 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:52:11 () to read: 
+2018-04-30 08:52:29 #general-test @࿌WiZz.AnoNIM㈽#0060: #partener
+2018-04-30 08:52:40 #general-test @࿌WiZz.AnoNIM㈽#0060: pb!setup
+2018-04-30 08:52:40 #general-test @Partner Bot#1001: 
+2018-04-30 08:52:41 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:52:40 () to read: 
+2018-04-30 08:52:56 #general-test @࿌WiZz.AnoNIM㈽#0060: setup!
+2018-04-30 08:53:19 #general-test @࿌Razvan.AnoNIM㈽#4745: Pb!help
+2018-04-30 08:53:23 #general-test @࿌WiZz.AnoNIM㈽#0060: pb!help
+2018-04-30 08:53:23 #general-test @Partner Bot#1001: 
+2018-04-30 08:53:23 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:53:23 () to read: 
+2018-04-30 08:53:31 #general-test @࿌Razvan.AnoNIM㈽#4745: pb!help invite
+2018-04-30 08:53:32 #general-test @Partner Bot#1001: 
+2018-04-30 08:53:32 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:53:32 () to read: 
+2018-04-30 08:53:43 #general-test @࿌Razvan.AnoNIM㈽#4745: pb!invite
+2018-04-30 08:53:43 #general-test @Partner Bot#1001: Invite the bot from here: https://discordapp.com/oauth2/authorize?client_id=398601531525562369&scope=bot&permissions=19457 \n\nJoin our official Discord here: https://discord.gg/UXJgfcU \nTo find Partner Bot info, type `?rank PartnerBot` in `#bot` once you join the official discord!
+2018-04-30 08:53:44 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:53:43 (Invite the bot from here: https://discordapp.com/oauth2/authorize?client_id=398601531525562369&scope=bot&permissions=19457 \n\nJoin our official Discord here: https://discord.gg/UXJgfcU \nTo find Partner Bot info, type `?rank PartnerBot` in `#bot` once you join the official discord!) to read: Invite the bot from here: https://discordapp.com/oauth2/authorize?client_id=398601531525562369&scope=bot&permissions=19457 \n\nJoin our official Discord here: https://discord.gg/UXJgfcU \nTo find Partner Bot info, type `?rank PartnerBot` in `#bot` once you join the official discord!
+2018-04-30 08:55:30 #general-test @࿌Razvan.AnoNIM㈽#4745: pb?setup help
+2018-04-30 08:55:39 #general-test @࿌Razvan.AnoNIM㈽#4745: pb!setup help
+2018-04-30 08:55:39 #general-test @Partner Bot#1001: 
+2018-04-30 08:55:39 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:55:39 () to read: 
+2018-04-30 08:55:53 #general-test @࿌Razvan.AnoNIM㈽#4745: pb!help setup
+2018-04-30 08:55:53 #general-test @Partner Bot#1001: 
+2018-04-30 08:55:53 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:55:53 () to read: 
+2018-04-30 08:56:32 #general-test @࿌WiZz.AnoNIM㈽#0060: pb!setup #partener "Salut👋 vreau sa te invit pe serverul meu cu aproape 500M<:GWfroggyJerry:398569911007576065> Avem memes,caterinca,gaming,seri horror,oameni caterinca si multe altele.
+2018-04-30 08:56:33 #general-test @Partner Bot#1001: `A test message has been sent to` #partener`. Make sure the message has sent properly and then you are good to go!`\n```Don't forget about the report commands to report bugs and to report guilds or users for breaking the TOS.\npb!report bug <description>\npb!report server <server ID> <reason>\npb!report user <user ID> <reason>```
+2018-04-30 08:56:35 #general-test @࿌Razvan.AnoNIM㈽#4745: pb!setup off-topic Buna,îți prezint comunitatea MysticTeam!Aceasta comunitate este o comunitate unită,cu câteva certuri și o tona de oameni de caterinca și multe fete:D!!!\nLink:https://discord.gg/NgkzZ5m
+2018-04-30 08:56:35 #general-test @Partner Bot#1001: 
+2018-04-30 08:56:35 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:56:35 () to read: 
+2018-04-30 08:57:44 #general-test @࿌Razvan.AnoNIM㈽#4745: pb!commands
+2018-04-30 08:57:45 #general-test @Partner Bot#1001: 
+2018-04-30 08:57:45 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:57:45 () to read: 
+2018-04-30 08:57:47 #general-test @࿌Razvan.AnoNIM㈽#4745: pb!help
+2018-04-30 08:57:47 #general-test @Partner Bot#1001: 
+2018-04-30 08:57:47 #general-test @Partner Bot#1001 edited message from 2018-04-30 08:57:47 () to read: 
+2018-04-30 08:57:52 #general-test @࿌Razvan.AnoNIM㈽#4745: pb!invite help
+2018-04-30 08:57:52 #general-test @Partner Bot#1001: Invite the bot from here: https://discordapp.com/oauth2/authorize?client_id=398601531525562369&scope=bot&permissions=19457 \n\nJoin our official Discord here: https://discord.gg/UXJgfcU \nTo find Partner Bot info, type `?rank PartnerBot` in `#bot` once you join the official discord!
+2018-04-30 08:58:18 #general-test @࿌Razvan.AnoNIM㈽#4745: pb!toggle help
+2018-04-30 08:58:18 #general-test @Partner Bot#1001: ```Partner Bot has been toggled off. Your server will not be partnered with other servers.\n\nUse pb!toggle to turn the bot back on!```
+2018-04-30 08:58:27 #general-test @࿌Razvan.AnoNIM㈽#4745: pb!toggle
+2018-04-30 08:58:27 #general-test @Partner Bot#1001: ```Partner Bot is back to advertising your server!```
+2018-04-30 09:34:42 #general-test @࿌WiZz.AnoNIM㈽#0060: *invitebot
+2018-04-30 09:41:51 #general-test @࿌Razvan.AnoNIM㈽#4745: *help
+2018-04-30 09:41:55 #general-test @Ghostplay R2#1298: Hey there, @࿌Razvan.AnoNIM㈽! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-04-30 09:41:57 #general-test @࿌WiZz.AnoNIM㈽#0060: *multicolor 0.01 Test
+2018-04-30 09:42:01 #general-test @Ghostplay R2#1298: 
+2018-04-30 09:42:01 #general-test @Ghostplay R2#1298 edited message from 2018-04-30 09:42:01 () to read: 
+2018-04-30 09:42:16 #general-test @Ghostplay R2#1298: I couldn't send the help message to you in DM. Either you blocked me or you disabled DMs in this server.
+2018-04-30 09:42:16 #general-test @࿌Razvan.AnoNIM㈽#4745: *multicolor help
+2018-04-30 09:42:20 #general-test @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-30 09:42:47 #general-test @࿌Razvan.AnoNIM㈽#4745: *multicolor 1 Test
+2018-04-30 09:42:51 #general-test @Ghostplay R2#1298: 
+2018-04-30 09:42:51 #general-test @Ghostplay R2#1298 edited message from 2018-04-30 09:42:51 () to read: 
+2018-04-30 09:43:22 #general-test @࿌Razvan.AnoNIM㈽#4745: *multicolour 1 TEST
+2018-04-30 09:48:11 #general-test @࿌Razvan.AnoNIM㈽#4745: *multicolour 1 morti pe cruce
+2018-04-30 09:52:40 #general-test @KlausAD#1542: 
+2018-05-02 19:40:46 #general-test @࿌Razvan.AnoNIM㈽#4745: WARNING! Carry on reading! Or you will die, even if you only looked at the word warning! Once there was a little girl called Clarissa, she was ten-years-old and she lived in a mental hospital, because she killed her mom and her dad. She got so bad she went to kill all the staff in the hospital so the More- government decided that best idea was to get rid of her so they set up a special room to kill her, as humane as possible but it went wrong the machine they were using went wrong. And she sat there in agony for hours until she died. Now every week on the day of her death she returns to the person that reads this letter, on a monday night at 12:00a.m. She creeps into your room and kills you slowly, by cutting you and watching you bleed to death. Now send this to ten other discords, and she will haunt someone else who doesn't. This isn't fake. apparently, if u copy and paste this to ten discords in the next ten minutes u will have the best day of ur life tomorrow. u will either get kissed or asked out, if u break this chain u will see a little dead girl in your room tonight. in 53 mins someone will say i love you or im sorry

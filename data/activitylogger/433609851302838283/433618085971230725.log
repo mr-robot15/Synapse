@@ -1,0 +1,78 @@
+2018-04-24 20:29:34 #general @TRAPCRAFT | RivalPVP#9489: .help
+2018-04-24 20:30:31 #general @TRAPCRAFT | RivalPVP#9489: .multicolor 3 owner
+2018-04-24 20:30:55 #general @TRAPCRAFT | RivalPVP#9489: .multicolor 1 owner
+2018-04-24 20:31:20 #general @TRAPCRAFT | RivalPVP#9489: .multicolor 3 Owner
+2018-04-24 20:37:41 #general @TRAPCRAFT | RivalPVP#9489: .commands
+2018-04-24 20:37:53 #general @TRAPCRAFT | RivalPVP#9489: .commands admin
+2018-04-24 20:37:53 #general @Synapse#0692: 
+2018-04-24 20:37:53 #general @Synapse#0692 edited message from 2018-04-24 20:37:53 () to read: 
+2018-04-24 20:38:22 #general @TRAPCRAFT | RivalPVP#9489: .setnick Rivel
+2018-04-24 20:38:23 #general @Synapse#0692: 
+2018-04-24 20:38:23 #general @Synapse#0692 edited message from 2018-04-24 20:38:23 () to read: 
+2018-04-24 20:38:49 #general @TRAPCRAFT | RivalPVP#9489: .setnick bot
+2018-04-24 20:38:49 #general @Synapse#0692: 
+2018-04-24 20:38:49 #general @Synapse#0692 edited message from 2018-04-24 20:38:49 () to read: 
+2018-04-24 20:39:48 #general @TRAPCRAFT | RivalPVP#9489: .ban @MEE6
+2018-04-24 20:39:49 #general @Synapse#0692: 
+2018-04-24 20:39:49 #general @Synapse#0692 edited message from 2018-04-24 20:39:49 () to read: 
+2018-04-24 20:40:07 #general @TRAPCRAFT | RivalPVP#9489: .unban <@159985870458322944>
+2018-04-24 20:40:08 #general @Synapse#0692: 
+2018-04-24 20:40:08 #general @Synapse#0692 edited message from 2018-04-24 20:40:08 () to read: 
+2018-04-24 20:40:23 #general @TRAPCRAFT | RivalPVP#9489: .unban mee6
+2018-04-24 20:40:24 #general @Synapse#0692: 
+2018-04-24 20:40:24 #general @Synapse#0692 edited message from 2018-04-24 20:40:24 () to read: 
+2018-04-24 20:40:50 #general @TRAPCRAFT | RivalPVP#9489: .slowmode 10
+2018-04-24 20:41:18 #general @TRAPCRAFT | RivalPVP#9489: .gvc #game
+2018-04-25 23:47:27 #general @Caleb#4635: @TRAPCRAFT | RivalPVP “bot” is skidded
+2018-04-26 06:39:08 #general @TRAPCRAFT | RivalPVP#9489: ? @Caleb
+2018-04-26 15:03:38 #general @TRAPCRAFT | RivalPVP#9489: +kick @bot
+2018-04-26 15:03:38 #general @KnightBot#5475: 
+2018-04-26 15:03:38 #general @KnightBot#5475 edited message from 2018-04-26 15:03:38 () to read: 
+2018-04-26 18:01:17 #general @TRAPCRAFT | RivalPVP#9489: @​here Coming Soon (attachment url(s): https://cdn.discordapp.com/attachments/433618085971230725/439123818699816970/2018-04-26_17.57.17.png)
+2018-04-26 21:04:13 #general @TRAPCRAFT | RivalPVP#9489: @​here sorry for the delay I waiting for the core
+2018-04-26 21:15:51 #general @TRAPCRAFT | RivalPVP#9489: +set
+2018-04-26 21:15:51 #general @KnightBot#5475: ```\n+set\n\nChanges KnightBot's core settings\n\nCommands:\n  adminrole        Sets the admin role for this server\n  modrole          Sets the mod role for this server\n  owner            Sets owner\n  serverprefix     Sets KnightBot's prefixes for this server\n\nType +set command for more info on a command.\nYou can also type +set category for more info on a category.\n```
+2018-04-26 21:15:51 #general @Tatsumaki#8792: 🆙  |  **TRAPCRAFT | RivalPVP leveled up!** (attachment url(s): https://cdn.discordapp.com/attachments/433618085971230725/439172787597344769/levelup.png)
+2018-04-26 21:16:22 #general @TRAPCRAFT | RivalPVP#9489: +set Owner Owner
+2018-04-26 21:16:22 #general @KnightBot#5475: ```\n+set\n\nChanges KnightBot's core settings\n\nCommands:\n  adminrole        Sets the admin role for this server\n  modrole          Sets the mod role for this server\n  owner            Sets owner\n  serverprefix     Sets KnightBot's prefixes for this server\n\nType +set command for more info on a command.\nYou can also type +set category for more info on a category.\n```
+2018-04-26 21:16:33 #general @TRAPCRAFT | RivalPVP#9489: +set owner
+2018-04-26 21:16:33 #general @KnightBot#5475: The owner is already set. Remember that setting the owner to someone else other than who hosts the bot has security repercussions and is *NOT recommended*. Proceed at your own risk.
+2018-04-26 21:16:36 #general @KnightBot#5475: :warning: I am awaiting confirmation of owner change via console...
+2018-04-26 21:16:47 #general @KnightBot#5475 deleted message from 2018-04-26 21:16:36 (:warning: I am awaiting confirmation of owner change via console...)
+2018-04-26 21:16:51 #general @KnightBot#5475 deleted message from 2018-04-26 21:16:33 (The owner is already set. Remember that setting the owner to someone else other than who hosts the bot has security repercussions and is *NOT recommended*. Proceed at your own risk.)
+2018-04-26 21:16:59 #general @TRAPCRAFT | RivalPVP#9489: /prune
+2018-04-26 21:17:08 #general @TRAPCRAFT | RivalPVP#9489 deleted message from 2018-04-26 21:16:59 (/prune)
+2018-04-26 21:17:13 #general @TRAPCRAFT | RivalPVP#9489 deleted message from 2018-04-26 21:16:33 (+set owner)
+2018-04-26 21:44:41 #general @Caleb#4635: @TRAPCRAFT | RivalPVP you ain’t the owner of the bot
+2018-04-26 21:44:49 #general @Caleb#4635: Set owner is something I have to authorize via console
+2018-04-26 21:44:52 #general @Caleb#4635: And I ain’t doin that
+2018-04-27 18:12:53 #general @TRAPCRAFT | RivalPVP#9489: /help
+2018-04-27 18:12:53 #general @AppBot#2871: 
+2018-04-27 18:12:56 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:02 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:02 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:05 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:05 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:12 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:12 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:13 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:13 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:14 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:14 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:16 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:16 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:17 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:17 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:18 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:18 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:19 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:19 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:19 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:19 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:21 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:21 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:23 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:13:23 #general @AppBot#2871 edited message from 2018-04-27 18:12:53 () to read: 
+2018-04-27 18:50:51 #general @TRAPCRAFT | RivalPVP#9489: @​everyone #soon
+2018-04-27 21:20:38 #general @TRAPCRAFT | RivalPVP#9489:  (attachment url(s): https://cdn.discordapp.com/attachments/433618085971230725/439536376862605326/image.jpg)
+2018-04-27 21:20:57 #general @TRAPCRAFT | RivalPVP#9489: Is anyone knows how to fix it pls pm me

@@ -1,0 +1,442 @@
+2018-04-21 15:41:33 this bot joined the server
+2018-04-21 15:41:33 Role created: 'Synapse' (id 437276715102896136)
+2018-04-21 15:41:33 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-04-21 15:42:12 Member role add: 'BOT' role was added to @Synapse#0692
+2018-04-21 15:42:36 Channel rename: musicbot renamed to botmuzyczny
+2018-04-21 15:43:06 Member role add: 'DJ' role was added to @Koktajl Bananowy#0581
+2018-04-21 15:53:08 Channel created: STEROWANIE BOTEM
+2018-04-21 15:53:18 Channel position: PC moved from 2 to 1
+2018-04-21 15:53:18 Channel position: STEROWANIE BOTEM moved from 5 to 2
+2018-04-21 15:53:18 Channel position: MODERACJA moved from 33 to 4
+2018-04-21 15:53:18 Channel position: ------------PUBG------------ moved from 4 to 5
+2018-04-21 15:53:18 Channel position: PUBG #1 moved from 5 to 6
+2018-04-21 15:53:18 Channel position: PUBG #2 moved from 6 to 7
+2018-04-21 15:53:18 Channel position: PUBG #3 moved from 7 to 8
+2018-04-21 15:53:18 Channel position: PUBG #4 moved from 8 to 9
+2018-04-21 15:53:18 Channel position: ------------CS:GO------------ moved from 9 to 10
+2018-04-21 15:53:18 Channel position: CS:GO #1 moved from 10 to 11
+2018-04-21 15:53:18 Channel position: CS:GO #2 moved from 11 to 12
+2018-04-21 15:53:18 Channel position: CS:GO #3 moved from 12 to 13
+2018-04-21 15:53:18 Channel position: CS:GO #4 moved from 13 to 14
+2018-04-21 15:53:18 Channel position: --------FORTNITE--------- moved from 14 to 15
+2018-04-21 15:53:18 Channel position: FORTNITE #1 moved from 15 to 16
+2018-04-21 15:53:18 Channel position: FORTNITE #2 moved from 16 to 17
+2018-04-21 15:53:18 Channel position: FORTNITE #3 moved from 17 to 18
+2018-04-21 15:53:18 Channel position: FORTNITE #4 moved from 18 to 19
+2018-04-21 15:53:18 Channel position: --------PAYDAY 2--------- moved from 19 to 20
+2018-04-21 15:53:18 Channel position: PAYDAY2 #1 moved from 20 to 21
+2018-04-21 15:53:18 Channel position: PAYDAY2 #2 moved from 21 to 22
+2018-04-21 15:53:18 Channel position: PAYDAY2 #3 moved from 22 to 23
+2018-04-21 15:53:18 Channel position: PAYDAY2 #4 moved from 23 to 24
+2018-04-21 15:53:18 Channel position: ------------GTA5------------ moved from 24 to 25
+2018-04-21 15:53:18 Channel position: GTA5 #1 moved from 25 to 26
+2018-04-21 15:53:18 Channel position: GTA5 #2 moved from 26 to 27
+2018-04-21 15:53:18 Channel position: GTA5 #3 moved from 27 to 28
+2018-04-21 15:53:18 Channel position: ------------FIFA18------------- moved from 28 to 29
+2018-04-21 15:53:18 Channel position: FIFA18 #1 moved from 29 to 30
+2018-04-21 15:53:18 Channel position: FIFA18 #2 moved from 30 to 31
+2018-04-21 15:53:18 Channel position: FIFA18 #3 moved from 31 to 32
+2018-04-21 15:53:18 Channel position: KEBIX moved from 32 to 33
+2018-04-21 15:53:31 Channel position: STEROWANIE BOTEM moved from 2 to 0
+2018-04-21 15:53:31 Channel position: UKRYTE moved from 0 to 1
+2018-04-21 15:53:31 Channel position: PC moved from 1 to 2
+2018-04-21 15:53:51 Channel overwrites: botmuzyczny (395179381225553922): role BOT (401819276044140547) removed (was 523329, 0)
+2018-04-21 15:53:51 Channel overwrites: botmuzyczny (395179381225553922): role Dyno (437251946198466560) added with values 1049600, 0
+2018-04-21 15:53:51 Channel overwrites: botmuzyczny (395179381225553922): role Moderator (402476988046245888) added with values 1049600, 0
+2018-04-21 15:53:51 Channel overwrites: botmuzyczny (395179381225553922): role Synapse (437276715102896136) added with values 1049600, 0
+2018-04-21 15:53:51 Channel overwrites: botmuzyczny (395179381225553922): role DJ (437255107634266124) updated to values 1049600, 0 (was 19456, 0)
+2018-04-21 15:53:51 Channel overwrites: botmuzyczny (395179381225553922): role ADMIN (401820596104593441) updated to values 1049600, 0 (was 805829713, 0)
+2018-04-21 15:53:51 Channel overwrites: botmuzyczny (395179381225553922): role @everyone (312844985290457088) updated to values 0, 1049600 (was 0, 805829713)
+2018-04-21 15:54:01 Channel overwrites: STEROWANIE BOTEM (437279631347810336): role BOT (401819276044140547) added with values 0, 0
+2018-04-21 15:54:01 Channel overwrites: botmuzyczny (395179381225553922): role BOT (401819276044140547) added with values 0, 0
+2018-04-21 16:26:36 Channel created: bot
+2018-04-21 16:30:32 Role created: 'new role' (id 437289045090107442)
+2018-04-21 16:30:33 Role renamed: 'new role' to 'nadeko-mute'
+2018-04-21 16:30:33 Role permissions: 'new role' changed from 104324161 to 0
+2018-04-21 16:30:33 Channel overwrites: botmuzyczny (395179381225553922): role nadeko-mute (437289045090107442) added with values 0, 34880
+2018-04-21 16:30:34 Channel overwrites: regulamin (437258761371910154): role nadeko-mute (437289045090107442) added with values 0, 34880
+2018-04-21 16:30:34 Channel overwrites: general (429214635368120320): role nadeko-mute (437289045090107442) added with values 0, 34880
+2018-04-21 16:30:34 Channel overwrites: bot (437288054034530314): role nadeko-mute (437289045090107442) added with values 0, 34880
+2018-04-21 16:30:35 Channel overwrites: powiadomienia (402876930497576964): role nadeko-mute (437289045090107442) added with values 0, 34880
+2018-04-21 16:43:22 Channel overwrites: bot (437288054034530314): role DJ (437255107634266124) updated to values 1049600, 805308433 (was 1049600, 0)
+2018-04-21 16:52:14 Channel overwrites: bot (437288054034530314): role @everyone (312844985290457088) updated to values 0, 806878289 (was 0, 1049600)
+2018-04-21 17:05:09 Member ban: @MATI#4425 (id 402514659707453451)
+2018-04-21 17:05:09 Channel overwrites: KEBIX (402527043696328724): member MATI (402514659707453451) removed (was 36701201, 834666496)
+2018-04-21 17:05:09 Member leave: @MATI#4425 (id 402514659707453451)
+2018-04-21 17:06:25 Channel overwrites: powiadomienia (402876930497576964): role @everyone (312844985290457088) updated to values 0, 805764177 (was 0, 805763153)
+2018-04-21 17:07:02 Member join: @cienka faja#2245 (id 437298178828664842)
+2018-04-21 17:07:35 Channel deleted: PS4
+2018-04-21 17:07:35 Channel deleted: KANAŁY PRYWATNE
+2018-04-21 17:07:48 Channel rename: PC renamed to Kanały Głosowe
+2018-04-21 17:08:06 Member role add: 'nadeko-mute' role was added to @cienka faja#2245
+2018-04-21 17:08:25 Member role remove: The 'nadeko-mute' role was removed from @cienka faja#2245
+2018-04-21 17:08:30 Member role add: 'PC' role was added to @cienka faja#2245
+2018-04-21 17:08:33 Member role remove: The 'PC' role was removed from @cienka faja#2245
+2018-04-21 17:10:06 Role position: 'Synapse' changed from 1 to 2
+2018-04-21 17:10:06 Role position: 'DJ' changed from 1 to 3
+2018-04-21 17:10:06 Role position: 'Dyno' changed from 2 to 4
+2018-04-21 17:10:06 Role position: 'PS4' changed from 3 to 5
+2018-04-21 17:10:06 Role position: 'PC' changed from 4 to 6
+2018-04-21 17:10:06 Role position: 'BOT' changed from 5 to 7
+2018-04-21 17:10:06 Role position: 'Moderator' changed from 6 to 8
+2018-04-21 17:10:06 Role position: 'ADMIN' changed from 7 to 9
+2018-04-21 17:10:06 Role permissions: '@everyone' changed from 104324161 to 67624001
+2018-04-21 17:10:44 Role permissions: '@everyone' changed from 67624001 to 67443713
+2018-04-21 17:11:07 Channel deleted: ------------GTA5------------
+2018-04-21 17:11:15 Channel deleted: ------------FIFA18-------------
+2018-04-21 17:11:17 Channel deleted: GTA5 #3
+2018-04-21 17:11:20 Channel deleted: KEBIX
+2018-04-21 17:11:22 Channel deleted: FIFA18 #3
+2018-04-21 17:11:25 Channel deleted: FIFA18 #2
+2018-04-21 17:11:27 Channel deleted: FIFA18 #1
+2018-04-21 17:11:31 Channel deleted: GTA5 #2
+2018-04-21 17:11:35 Channel deleted: GTA5 #1
+2018-04-21 17:11:38 Channel deleted: PROZBA O KANAŁ
+2018-04-21 17:14:23 Channel overwrites: Kanały Głosowe (401489515853774849): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: PUBG #1 (401495968597409792): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: FORTNITE #1 (410511212078694400): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: PUBG #2 (401495994925187082): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: FORTNITE #3 (410511309067649025): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: PUBG #3 (401496842568728593): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: CS:GO #1 (402523516458762260): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: PAYDAY2 #3 (429668945042079744): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: CS:GO #2 (402523553976811521): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: PAYDAY2 #1 (429668739118661663): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: CS:GO #3 (402523576688705546): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: PAYDAY2 #4 (430376166306742272): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: PAYDAY2 #2 (429668883612434444): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: FORTNITE #4 (436915083059265538): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: FORTNITE #2 (410511291975860225): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: PUBG #4 (430376093262807041): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:23 Channel overwrites: CS:GO #4 (430376013537607681): role PC (401818500659937281) updated to values 0, 0 (was 36703232, 0)
+2018-04-21 17:14:54 Channel overwrites: Kanały Głosowe (401489515853774849): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: PUBG #1 (401495968597409792): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: PUBG #2 (401495994925187082): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: PUBG #3 (401496842568728593): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: CS:GO #1 (402523516458762260): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: CS:GO #3 (402523576688705546): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: CS:GO #2 (402523553976811521): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: FORTNITE #1 (410511212078694400): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: FORTNITE #2 (410511291975860225): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: PAYDAY2 #1 (429668739118661663): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: FORTNITE #3 (410511309067649025): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: PAYDAY2 #2 (429668883612434444): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: PAYDAY2 #3 (429668945042079744): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: CS:GO #4 (430376013537607681): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: PUBG #4 (430376093262807041): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: PAYDAY2 #4 (430376166306742272): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:14:54 Channel overwrites: FORTNITE #4 (436915083059265538): role PC (401818500659937281) removed (was 0, 0)
+2018-04-21 17:15:10 Channel overwrites: Kanały Głosowe (401489515853774849): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: PUBG #2 (401495994925187082): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: PUBG #1 (401495968597409792): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: PUBG #3 (401496842568728593): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: CS:GO #1 (402523516458762260): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: CS:GO #2 (402523553976811521): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: CS:GO #3 (402523576688705546): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: FORTNITE #1 (410511212078694400): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: FORTNITE #2 (410511291975860225): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: FORTNITE #3 (410511309067649025): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: PAYDAY2 #1 (429668739118661663): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: PAYDAY2 #2 (429668883612434444): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: PAYDAY2 #3 (429668945042079744): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: PUBG #4 (430376093262807041): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: CS:GO #4 (430376013537607681): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: PAYDAY2 #4 (430376166306742272): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:10 Channel overwrites: FORTNITE #4 (436915083059265538): role @everyone (312844985290457088) updated to values 0, 0 (was 0, 871890001)
+2018-04-21 17:15:33 Role created: 'new role' (id 437300370390122536)
+2018-04-21 17:16:08 Role renamed: 'new role' to 'ZWERYFIKOWANY'
+2018-04-21 17:16:08 Role color: 'new role' changed from #000000 to #2ecc71
+2018-04-21 17:16:33 Role permissions: '@everyone' changed from 67443713 to 67181569
+2018-04-21 17:16:57 Member leave: @cienka faja#2245 (id 437298178828664842)
+2018-04-21 17:17:05 Member join: @cienka faja#2245 (id 437298178828664842)
+2018-04-21 17:17:42 Member leave: @cienka faja#2245 (id 437298178828664842)
+2018-04-21 17:17:46 Member join: @cienka faja#2245 (id 437298178828664842)
+2018-04-21 17:19:10 Member role add: 'ZWERYFIKOWANY' role was added to @cienka faja#2245
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @JoneZ#4481
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @KAPRI0#6678
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @mati#5840
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @Koktajl Bananowy#0581
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @Na belgijskie wafle.™#8759
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @Dyzio#0516
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @MEKUTKO#7209
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @FILIPEX™#9812
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @TomekBujak123321#4260
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @WoyDan™#2841
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @yolo#1624
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @FilipiX#5163
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @Szczepan1904#3820
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @szturm18#6671
+2018-04-21 17:20:00 Member role remove: The 'PC' role was removed from @PiesCieJebał#7199
+2018-04-21 17:20:00 Role deleted: 'PC' (id 401818500659937281)
+2018-04-21 17:20:02 Member role remove: The 'PS4' role was removed from @TomekBujak123321#4260
+2018-04-21 17:20:02 Role deleted: 'PS4' (id 402476783422668810)
+2018-04-21 17:20:17 Channel overwrites: Kanały Głosowe (401489515853774849): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: PUBG #2 (401495994925187082): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: PUBG #1 (401495968597409792): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: PUBG #3 (401496842568728593): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: CS:GO #2 (402523553976811521): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: CS:GO #1 (402523516458762260): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: CS:GO #3 (402523576688705546): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: FORTNITE #1 (410511212078694400): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: FORTNITE #2 (410511291975860225): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: FORTNITE #3 (410511309067649025): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: PAYDAY2 #1 (429668739118661663): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: PAYDAY2 #2 (429668883612434444): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: PAYDAY2 #3 (429668945042079744): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: CS:GO #4 (430376013537607681): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: PUBG #4 (430376093262807041): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: PAYDAY2 #4 (430376166306742272): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:17 Channel overwrites: FORTNITE #4 (436915083059265538): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:20:46 Channel overwrites: Kanały Głosowe (401489515853774849): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: PUBG #2 (401495994925187082): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: PUBG #1 (401495968597409792): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: PUBG #3 (401496842568728593): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: CS:GO #1 (402523516458762260): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: CS:GO #2 (402523553976811521): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: CS:GO #3 (402523576688705546): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: FORTNITE #1 (410511212078694400): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: PAYDAY2 #1 (429668739118661663): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: FORTNITE #3 (410511309067649025): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: PAYDAY2 #2 (429668883612434444): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: FORTNITE #2 (410511291975860225): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: PAYDAY2 #3 (429668945042079744): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: CS:GO #4 (430376013537607681): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: PUBG #4 (430376093262807041): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: PAYDAY2 #4 (430376166306742272): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:20:46 Channel overwrites: FORTNITE #4 (436915083059265538): role ZWERYFIKOWANY (437300370390122536) updated to values 36700160, 0 (was 0, 0)
+2018-04-21 17:24:22 Channel rename: --------FORTNITE--------- renamed to :gun:--------FORTNITE---------
+2018-04-21 17:24:32 Channel rename: :gun:--------FORTNITE--------- renamed to --------FORTNITE---------
+2018-04-21 17:31:27 Member role add: 'ZWERYFIKOWANY' role was added to @Dyzio#0516
+2018-04-21 17:31:29 Member role add: 'ZWERYFIKOWANY' role was added to @FILIPEX™#9812
+2018-04-21 17:31:33 Member role add: 'ZWERYFIKOWANY' role was added to @TomekBujak123321#4260
+2018-04-21 17:31:42 Member role add: 'ZWERYFIKOWANY' role was added to @JoneZ#4481
+2018-04-21 17:31:44 Member role add: 'ZWERYFIKOWANY' role was added to @KAPRI0#6678
+2018-04-21 17:31:47 Member role add: 'ZWERYFIKOWANY' role was added to @Koktajl Bananowy#0581
+2018-04-21 17:31:50 Member role add: 'ZWERYFIKOWANY' role was added to @mati#5840
+2018-04-21 17:31:53 Member role add: 'ZWERYFIKOWANY' role was added to @MEKUTKO#7209
+2018-04-21 17:31:55 Member role add: 'ZWERYFIKOWANY' role was added to @Na belgijskie wafle.™#8759
+2018-04-21 17:31:57 Member role add: 'ZWERYFIKOWANY' role was added to @PiesCieJebał#7199
+2018-04-21 17:32:00 Member role add: 'ZWERYFIKOWANY' role was added to @Szczepan1904#3820
+2018-04-21 17:32:02 Member role add: 'ZWERYFIKOWANY' role was added to @szturm18#6671
+2018-04-21 17:32:06 Member role add: 'ZWERYFIKOWANY' role was added to @WoyDan™#2841
+2018-04-21 17:32:08 Member role add: 'ZWERYFIKOWANY' role was added to @yolo#1624
+2018-04-21 17:32:16 Channel deleted: MUZYKA
+2018-04-21 17:32:45 Channel rename: PROZBA O RANGE renamed to SPRAWA DO ZARZADU
+2018-04-21 17:36:07 Role position: 'nadeko-mute' changed from 2 to 1
+2018-04-21 17:36:07 Role position: 'Synapse' changed from 3 to 2
+2018-04-21 17:36:07 Role position: 'Dyno' changed from 5 to 3
+2018-04-21 17:36:07 Role position: 'ZWERYFIKOWANY' changed from 1 to 4
+2018-04-21 17:36:07 Role position: 'DJ' changed from 4 to 5
+2018-04-21 17:36:08 Role color: 'BOT' changed from #3498db to #9b59b6
+2018-04-21 17:36:34 Channel overwrites: regulamin (437258761371910154): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:36:36 Channel overwrites: regulamin (437258761371910154): role Moderator (402476988046245888) added with values 0, 0
+2018-04-21 17:36:54 Channel deleted: regulamin
+2018-04-21 17:37:13 Channel deleted: SPRAWA DO ZARZADU
+2018-04-21 17:37:19 Channel deleted: powiadomienia
+2018-04-21 17:38:10 Channel created: regulamin
+2018-04-21 17:38:24 Channel overwrites: regulamin (437306062731739137): role ZWERYFIKOWANY (437300370390122536) added with values 0, 0
+2018-04-21 17:38:30 Channel position: regulamin moved from 5 to 0
+2018-04-21 17:38:30 Channel position: general moved from 2 to 1
+2018-04-21 17:38:30 Channel position: botmuzyczny moved from 3 to 2
+2018-04-21 17:38:30 Channel position: bot moved from 4 to 3
+2018-04-21 17:38:39 Channel overwrites: regulamin (437306062731739137): role ZWERYFIKOWANY (437300370390122536) removed (was 0, 0)
+2018-04-21 17:39:16 Channel overwrites: regulamin (437306062731739137): role @everyone (312844985290457088) added with values 0, 268630032
+2018-04-21 17:44:32 Member role add: 'ZWERYFIKOWANY' role was added to @FilipiX#5163
+2018-04-21 17:46:49 Role mentionable: 'Moderator' is now mentionable
+2018-04-21 17:46:49 Role hoist: 'Moderator' is now shown seperately
+2018-04-21 17:47:46 Role hoist: 'ZWERYFIKOWANY' is now shown seperately
+2018-04-21 17:48:09 Role mentionable: 'ADMIN' is now mentionable
+2018-04-21 17:48:09 Role hoist: 'ADMIN' is now shown seperately
+2018-04-21 17:48:39 Role hoist: 'DJ' is now shown seperately
+2018-04-21 17:48:39 Role hoist: 'BOT' is now shown seperately
+2018-04-21 17:48:58 Role permissions: 'ADMIN' changed from 104324169 to 2142764287
+2018-04-21 17:57:22 Channel created: nowi_członkowie
+2018-04-21 17:57:25 Channel position: nowi_członkowie moved from 4 to 0
+2018-04-21 17:57:25 Channel position: regulamin moved from 0 to 1
+2018-04-21 17:57:25 Channel position: general moved from 1 to 2
+2018-04-21 17:57:25 Channel position: botmuzyczny moved from 2 to 3
+2018-04-21 17:57:26 Channel position: bot moved from 3 to 4
+2018-04-21 17:57:27 Channel position: regulamin moved from 1 to 0
+2018-04-21 17:57:27 Channel position: nowi_członkowie moved from 0 to 1
+2018-04-21 17:58:31 Channel overwrites: nowi_członkowie (437310896541401099): role @everyone (312844985290457088) added with values 65536, 805754961
+2018-04-21 17:58:52 Channel overwrites: nowi_członkowie (437310896541401099): role @everyone (312844985290457088) updated to values 65536, 805755985 (was 65536, 805754961)
+2018-04-21 17:59:13 Channel overwrites: nowi_członkowie (437310896541401099): role @everyone (312844985290457088) updated to values 66560, 805763153 (was 65536, 805755985)
+2018-04-21 17:59:20 Channel overwrites: nowi_członkowie (437310896541401099): role @everyone (312844985290457088) updated to values 66561, 805763152 (was 66560, 805763153)
+2018-04-21 18:13:17 Channel deleted: botmuzyczny
+2018-04-21 18:18:28 Channel position: bot moved from 4 to 3
+2018-04-21 18:18:28 Channel position: ADMIN moved from 3 to 0
+2018-04-21 18:18:28 Channel position: MODERACJA moved from 4 to 1
+2018-04-21 18:18:28 Channel position: ------------PUBG------------ moved from 5 to 2
+2018-04-21 18:18:28 Channel position: PUBG #1 moved from 6 to 3
+2018-04-21 18:18:28 Channel position: PUBG #2 moved from 7 to 4
+2018-04-21 18:18:28 Channel position: PUBG #3 moved from 8 to 5
+2018-04-21 18:18:28 Channel position: PUBG #4 moved from 9 to 6
+2018-04-21 18:18:28 Channel position: ------------CS:GO------------ moved from 10 to 7
+2018-04-21 18:18:28 Channel position: CS:GO #1 moved from 11 to 8
+2018-04-21 18:18:28 Channel position: CS:GO #2 moved from 12 to 9
+2018-04-21 18:18:28 Channel position: CS:GO #3 moved from 13 to 10
+2018-04-21 18:18:28 Channel position: CS:GO #4 moved from 14 to 11
+2018-04-21 18:18:28 Channel position: --------FORTNITE--------- moved from 15 to 12
+2018-04-21 18:18:28 Channel position: FORTNITE #1 moved from 16 to 13
+2018-04-21 18:18:28 Channel position: FORTNITE #2 moved from 17 to 14
+2018-04-21 18:18:28 Channel position: FORTNITE #3 moved from 18 to 15
+2018-04-21 18:18:28 Channel position: FORTNITE #4 moved from 19 to 16
+2018-04-21 18:18:28 Channel position: --------PAYDAY 2--------- moved from 20 to 17
+2018-04-21 18:18:28 Channel position: PAYDAY2 #1 moved from 21 to 18
+2018-04-21 18:18:28 Channel position: PAYDAY2 #2 moved from 22 to 19
+2018-04-21 18:18:28 Channel position: PAYDAY2 #3 moved from 23 to 20
+2018-04-21 18:18:28 Channel position: PAYDAY2 #4 moved from 24 to 21
+2018-04-21 18:21:28 Channel overwrites: regulamin (437306062731739137): role nadeko-mute (437289045090107442) added with values 0, 34880
+2018-04-21 18:21:29 Channel overwrites: nowi_członkowie (437310896541401099): role nadeko-mute (437289045090107442) added with values 0, 34880
+2018-04-21 18:21:29 Member role add: 'nadeko-mute' role was added to @FILIPEX™#9812
+2018-04-21 18:24:08 Channel overwrites: STEROWANIE BOTEM (437279631347810336): role DJ (437255107634266124) updated to values 1048576, 0 (was 1049600, 0)
+2018-04-21 18:24:12 Channel deleted: STEROWANIE BOTEM
+2018-04-21 18:24:28 Channel overwrites: bot (437288054034530314): role DJ (437255107634266124) updated to values 1049600, 0 (was 1049600, 805308433)
+2018-04-21 18:24:34 Channel overwrites: bot (437288054034530314): role Moderator (402476988046245888) updated to values 1048576, 0 (was 1049600, 0)
+2018-04-21 18:24:37 Channel overwrites: bot (437288054034530314): role DJ (437255107634266124) updated to values 1048576, 0 (was 1049600, 0)
+2018-04-21 18:24:42 Channel overwrites: bot (437288054034530314): role DJ (437255107634266124) updated to values 1050624, 0 (was 1048576, 0)
+2018-04-21 18:24:46 Channel overwrites: bot (437288054034530314): role DJ (437255107634266124) updated to values 1051648, 0 (was 1050624, 0)
+2018-04-21 18:26:23 Member role remove: The 'nadeko-mute' role was removed from @FILIPEX™#9812
+2018-04-21 18:29:04 Member role add: 'nadeko-mute' role was added to @FILIPEX™#9812
+2018-04-21 19:27:28 Member leave: @FILIPEX™#9812 (id 393494059899158538)
+2018-04-21 19:41:46 Role mentionable: 'ZWERYFIKOWANY' is now mentionable
+2018-04-21 19:42:17 Role hoist: 'DJ' is no longer shown seperately
+2018-04-21 19:43:27 Server icon changed from  to https://cdn.discordapp.com/icons/312844985290457088/53bc2d1989eb300d78197656b24decd5.jpg
+2018-04-21 19:53:18 Role position: 'Moderator' changed from 7 to 6
+2018-04-21 19:53:18 Role position: 'ADMIN' changed from 8 to 7
+2018-04-21 19:53:18 Role position: 'BOT' changed from 6 to 8
+2018-04-21 19:53:18 Role permissions: 'Moderator' changed from 125303875 to 393739331
+2018-04-21 19:53:24 Role permissions: 'Moderator' changed from 393739331 to 125303875
+2018-04-21 19:53:57 Role permissions: 'Moderator' changed from 125303875 to 133692483
+2018-04-21 19:54:08 Member role add: 'Moderator' role was added to @Koktajl Bananowy#0581
+2018-04-21 19:54:32 Member nickname: '@Koktajl Bananowy#0581' (id 329260130250129419) changed nickname from 'None' to '[MOD] Koktajl Bananowy'
+2018-04-21 19:54:49 Member nickname: '@Koktajl Bananowy#0581' (id 329260130250129419) changed nickname from '[MOD] Koktajl Bananowy' to 'None'
+2018-04-21 19:55:00 Member nickname: '@KebiX#5458' (id 305657335219486720) changed nickname from '[ADMIN] KEBIX' to 'None'
+2018-04-21 19:55:12 Member nickname: '@KebiX#5458' (id 305657335219486720) changed nickname from 'None' to '**KebiX**'
+2018-04-21 19:55:19 Member nickname: '@KebiX#5458' (id 305657335219486720) changed nickname from '**KebiX**' to 'None'
+2018-04-21 19:55:39 Role position: 'BOT' changed from 8 to 7
+2018-04-21 19:55:39 Role position: 'ADMIN' changed from 7 to 8
+2018-04-21 19:55:44 Role hoist: 'Moderator' is no longer shown seperately
+2018-04-21 19:55:47 Role hoist: 'Moderator' is now shown seperately
+2018-04-21 19:56:00 Member role add: 'Moderator' role was added to @TomekBujak123321#4260
+2018-04-21 19:56:26 Channel overwrites: MODERACJA (437276182501916674): role Moderator (402476988046245888) added with values 0, 0
+2018-04-21 19:56:56 Channel overwrites: MODERACJA (437276182501916674): role Moderator (402476988046245888) updated to values 32506880, 0 (was 0, 0)
+2018-04-21 19:57:40 Channel rename: UKRYTE renamed to KĄCIK ADMINÓW
+2018-04-21 19:58:24 Channel overwrites: KĄCIK ADMINÓW (402517361363648533): role @everyone (312844985290457088) added with values 0, 871890001
+2018-04-21 19:58:39 Channel created: ADMIN
+2018-04-21 19:58:44 Channel deleted: ADMIN
+2018-04-21 19:58:45 Channel position: ADMIN moved from 22 to 0
+2018-04-21 19:59:03 Channel overwrites: ADMIN (437341417862463489): role Moderator (402476988046245888) updated to values 31458304, 0 (was 32506880, 0)
+2018-04-21 19:59:08 Channel overwrites: ADMIN (437341417862463489): role Moderator (402476988046245888) updated to values 31458304, 1048576 (was 31458304, 0)
+2018-04-21 19:59:14 Channel overwrites: ADMIN (437341417862463489): role Moderator (402476988046245888) removed (was 31458304, 1048576)
+2018-04-21 19:59:35 Channel overwrites: KĄCIK ADMINÓW (402517361363648533): role @everyone (312844985290457088) updated to values 35651584, 836238417 (was 0, 871890001)
+2018-04-21 20:00:03 Channel overwrites: ADMIN (437341417862463489): role @everyone (312844985290457088) updated to values 35651584, 836238417 (was 0, 871366673)
+2018-04-21 20:00:15 Channel overwrites: MODERACJA (437276182501916674): role Moderator (402476988046245888) removed (was 32506880, 0)
+2018-04-21 20:00:15 Channel overwrites: MODERACJA (437276182501916674): role @everyone (312844985290457088) updated to values 35651584, 836238417 (was 0, 871366673)
+2018-04-21 20:00:17 Channel overwrites: MODERACJA (437276182501916674): role Moderator (402476988046245888) added with values 0, 0
+2018-04-21 20:00:30 Channel overwrites: MODERACJA (437276182501916674): role Moderator (402476988046245888) updated to values 66061312, 0 (was 0, 0)
+2018-04-21 20:00:36 Channel overwrites: MODERACJA (437276182501916674): role Moderator (402476988046245888) updated to values 66061313, 0 (was 66061312, 0)
+2018-04-21 20:01:04 Channel overwrites: ADMIN (437341417862463489): role @everyone (312844985290457088) updated to values 35652608, 836237393 (was 35651584, 836238417)
+2018-04-21 20:01:12 Channel overwrites: MODERACJA (437276182501916674): role @everyone (312844985290457088) updated to values 35652608, 836237393 (was 35651584, 836238417)
+2018-04-21 20:01:42 Channel created: Sprawa do Moda/Admina
+2018-04-21 20:01:48 Channel position: Sprawa do Moda/Admina moved from 22 to 2
+2018-04-21 20:01:48 Channel position: ------------PUBG------------ moved from 2 to 3
+2018-04-21 20:01:48 Channel position: PUBG #1 moved from 3 to 4
+2018-04-21 20:01:48 Channel position: PUBG #2 moved from 4 to 5
+2018-04-21 20:01:48 Channel position: PUBG #3 moved from 5 to 6
+2018-04-21 20:01:48 Channel position: PUBG #4 moved from 6 to 7
+2018-04-21 20:01:48 Channel position: ------------CS:GO------------ moved from 7 to 8
+2018-04-21 20:01:48 Channel position: CS:GO #1 moved from 8 to 9
+2018-04-21 20:01:48 Channel position: CS:GO #2 moved from 9 to 10
+2018-04-21 20:01:48 Channel position: CS:GO #3 moved from 10 to 11
+2018-04-21 20:01:48 Channel position: CS:GO #4 moved from 11 to 12
+2018-04-21 20:01:48 Channel position: --------FORTNITE--------- moved from 12 to 13
+2018-04-21 20:01:48 Channel position: FORTNITE #1 moved from 13 to 14
+2018-04-21 20:01:48 Channel position: FORTNITE #2 moved from 14 to 15
+2018-04-21 20:01:48 Channel position: FORTNITE #3 moved from 15 to 16
+2018-04-21 20:01:48 Channel position: FORTNITE #4 moved from 16 to 17
+2018-04-21 20:01:48 Channel position: --------PAYDAY 2--------- moved from 17 to 18
+2018-04-21 20:01:48 Channel position: PAYDAY2 #1 moved from 18 to 19
+2018-04-21 20:01:48 Channel position: PAYDAY2 #2 moved from 19 to 20
+2018-04-21 20:01:48 Channel position: PAYDAY2 #3 moved from 20 to 21
+2018-04-21 20:01:48 Channel position: PAYDAY2 #4 moved from 21 to 22
+2018-04-21 20:02:15 Channel rename: Sprawa do Moda/Admina renamed to problem
+2018-04-21 20:18:39 Channel overwrites: problem (437342187483824159): role @everyone (312844985290457088) added with values 1048576, 870319121
+2018-04-21 20:18:44 Channel overwrites: problem (437342187483824159): role @everyone (312844985290457088) updated to values 1049600, 870318097 (was 1048576, 870319121)
+2018-04-21 20:18:58 Member join: @TomoPLx#1492 (id 328620643614588928)
+2018-04-21 20:19:22 Member role add: 'ZWERYFIKOWANY' role was added to @TomoPLx#1492
+2018-04-21 20:19:23 Member role remove: The 'ZWERYFIKOWANY' role was removed from @TomoPLx#1492
+2018-04-21 20:19:31 Member role add: 'ZWERYFIKOWANY' role was added to @TomoPLx#1492
+2018-04-21 20:24:20 Channel created: kącik-adminów
+2018-04-21 20:27:37 Channel created: -------League of Legends--------
+2018-04-21 20:28:03 Channel rename: -------League of Legends-------- renamed to -----League of Legends-----
+2018-04-21 20:28:13 Channel created: PAYDAY2 #4
+2018-04-21 20:28:30 Channel rename: PAYDAY2 #4 renamed to League Of Legends #1
+2018-04-21 20:28:43 Channel created: League Of Legends #2
+2018-04-21 20:28:54 Channel rename: League Of Legends #2 renamed to LeagueOfLegends #2
+2018-04-21 20:29:02 Channel rename: LeagueOfLegends #2 renamed to LOL #2
+2018-04-21 20:29:16 Channel rename: League Of Legends #1 renamed to LOL #1
+2018-04-21 20:29:36 Channel created: LOL #3
+2018-04-21 20:30:11 Channel created: LOL #4
+2018-04-21 20:30:18 Channel rename: LOL #4 renamed to LOL #5
+2018-04-21 20:30:29 Channel rename: LOL #5 renamed to LOL #4
+2018-04-21 20:31:27 Channel created: LOL #5
+2018-04-21 20:36:18 Channel overwrites: kącik-adminów (437347882484498433): role Moderator (402476988046245888) added with values 0, 0
+2018-04-21 20:37:13 Channel overwrites: kącik-adminów (437347882484498433): role Moderator (402476988046245888) updated to values 523329, 0 (was 0, 0)
+2018-04-21 20:38:55 Channel created: ------------P------------
+2018-04-21 20:39:02 Channel position: ------------P------------ moved from 29 to 18
+2018-04-21 20:39:02 Channel position: --------PAYDAY 2--------- moved from 18 to 19
+2018-04-21 20:39:02 Channel position: PAYDAY2 #1 moved from 19 to 20
+2018-04-21 20:39:02 Channel position: PAYDAY2 #2 moved from 20 to 21
+2018-04-21 20:39:02 Channel position: PAYDAY2 #3 moved from 21 to 22
+2018-04-21 20:39:02 Channel position: PAYDAY2 #4 moved from 22 to 23
+2018-04-21 20:39:02 Channel position: -----League of Legends----- moved from 23 to 24
+2018-04-21 20:39:02 Channel position: LOL #1 moved from 24 to 25
+2018-04-21 20:39:02 Channel position: LOL #2 moved from 25 to 26
+2018-04-21 20:39:02 Channel position: LOL #3 moved from 26 to 27
+2018-04-21 20:39:02 Channel position: LOL #4 moved from 27 to 28
+2018-04-21 20:39:02 Channel position: LOL #5 moved from 28 to 29
+2018-04-21 20:39:10 Channel position: ------------P------------ moved from 18 to 11
+2018-04-21 20:39:10 Channel position: CS:GO #3 moved from 11 to 12
+2018-04-21 20:39:10 Channel position: CS:GO #4 moved from 12 to 13
+2018-04-21 20:39:10 Channel position: --------FORTNITE--------- moved from 13 to 14
+2018-04-21 20:39:10 Channel position: FORTNITE #1 moved from 14 to 15
+2018-04-21 20:39:10 Channel position: FORTNITE #2 moved from 15 to 16
+2018-04-21 20:39:10 Channel position: FORTNITE #3 moved from 16 to 17
+2018-04-21 20:39:10 Channel position: FORTNITE #4 moved from 17 to 18
+2018-04-21 20:39:12 Channel position: ------------P------------ moved from 11 to 5
+2018-04-21 20:39:12 Channel position: PUBG #2 moved from 5 to 6
+2018-04-21 20:39:12 Channel position: PUBG #3 moved from 6 to 7
+2018-04-21 20:39:12 Channel position: PUBG #4 moved from 7 to 8
+2018-04-21 20:39:12 Channel position: ------------CS:GO------------ moved from 8 to 9
+2018-04-21 20:39:12 Channel position: CS:GO #1 moved from 9 to 10
+2018-04-21 20:39:12 Channel position: CS:GO #2 moved from 10 to 11
+2018-04-21 20:39:14 Channel position: ------------P------------ moved from 5 to 3
+2018-04-21 20:39:14 Channel position: ------------PUBG------------ moved from 3 to 4
+2018-04-21 20:39:14 Channel position: PUBG #1 moved from 4 to 5
+2018-04-21 20:40:33 Member ban: @cienka faja#2245 (id 437298178828664842)
+2018-04-21 20:40:33 Member leave: @cienka faja#2245 (id 437298178828664842)
+2018-04-21 20:42:37 Role position: 'BOT' changed from 7 to 6
+2018-04-21 20:42:37 Role position: 'Moderator' changed from 6 to 7
+2018-04-21 20:45:40 Member unban: @cienka faja#2245 (id 437298178828664842)
+2018-04-21 20:45:42 Member unban: @MATI#4425 (id 402514659707453451)
+2018-04-21 20:45:55 Channel rename: nowi_członkowie renamed to powiadomienia
+2018-04-21 20:45:55 Channel topic: nowi_członkowie topic was set to ""
+2018-04-21 20:46:13 Channel position: general moved from 2 to 1
+2018-04-21 20:46:13 Channel position: powiadomienia moved from 1 to 2
+2018-04-21 20:46:14 Channel position: powiadomienia moved from 2 to 1
+2018-04-21 20:46:14 Channel position: general moved from 1 to 2
+2018-04-21 20:47:20 Channel created: informacje
+2018-04-21 20:47:23 Channel position: informacje moved from 5 to 1
+2018-04-21 20:47:23 Channel position: powiadomienia moved from 1 to 2
+2018-04-21 20:47:23 Channel position: general moved from 2 to 3
+2018-04-21 20:47:23 Channel position: bot moved from 3 to 4
+2018-04-21 20:47:23 Channel position: kącik-adminów moved from 4 to 5
+2018-04-21 20:47:45 Channel overwrites: informacje (437353668459888661): role Moderator (402476988046245888) added with values 0, 0
+2018-04-21 20:48:05 Channel overwrites: informacje (437353668459888661): role Moderator (402476988046245888) removed (was 0, 0)
+2018-04-21 20:48:11 Channel overwrites: informacje (437353668459888661): role Moderator (402476988046245888) added with values 523264, 0
+2018-04-21 20:48:13 Channel overwrites: informacje (437353668459888661): role Moderator (402476988046245888) removed (was 523264, 0)
+2018-04-21 20:48:18 Channel deleted: informacje
+2018-04-21 21:00:39 Role deleted: 'Synapse' (id 437276715102896136)
+2018-04-21 21:00:39 Member leave: @Synapse#0692 (id 435538622293344266)
+2018-04-21 21:00:39 this bot left the server

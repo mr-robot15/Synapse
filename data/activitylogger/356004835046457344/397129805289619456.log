@@ -1,0 +1,96 @@
+2018-04-22 13:28:51 #slots @soviet#2697: !slots
+2018-04-22 13:28:54 #slots @soviet#2697: !slot
+2018-04-22 13:28:54 #slots @Synapse#0692: ```\n!slot <bid>\n\nPlay the slot machine\n\n```
+2018-04-22 13:28:57 #slots @soviet#2697: !slot 50
+2018-04-22 13:28:57 #slots @Synapse#0692: @llama You need an account to use the slot machine. Type `!bank register` to open one.
+2018-04-22 13:28:59 #slots @soviet#2697: !bank register
+2018-04-22 13:29:00 #slots @Synapse#0692: @llama Account opened. Current balance: 0
+2018-04-22 13:29:11 #slots @soviet#2697: !economyset
+2018-04-22 13:29:11 #slots @Synapse#0692: ```\n!economyset\n\nChanges economy module settings\n\nCommands:\n  paydaycredits   Credits earned each payday\n  slottime        Seconds between each slots use\n  registercredits Credits given on registering an account\n  slotmin         Minimum slot machine bid\n  slotmax         Maximum slot machine bid\n  paydaytime      Seconds between each payday\n\nType !economyset command for more info on a command.\nYou can also type !economyset category for more info on a category.\n```
+2018-04-22 13:29:11 #slots @Synapse#0692: ```SLOT_MAX: 100\nPAYDAY_TIME: 300\nSLOT_TIME: 0\nREGISTER_CREDITS: 0\nSLOT_MIN: 5\nPAYDAY_CREDITS: 120\n```
+2018-04-22 13:29:21 #slots @soviet#2697: !economyset slotmax 2500000
+2018-04-22 13:29:21 #slots @Synapse#0692: Maximum bid is now 2500000 credits.
+2018-04-22 13:29:34 #slots @soviet#2697: !economyset paydaycredits 500
+2018-04-22 13:29:34 #slots @Synapse#0692: Every payday will now give 500 credits.
+2018-04-22 13:29:41 #slots @soviet#2697: !economyset paydaytime 3600
+2018-04-22 13:29:42 #slots @Synapse#0692: Value modified. At least 3600 seconds must pass between each payday.
+2018-04-22 13:29:51 #slots @soviet#2697: !economyset registercredits 200
+2018-04-22 13:29:51 #slots @Synapse#0692: Registering an account will now give 200 credits.
+2018-04-22 13:29:52 #slots @soviet#2697: !payday
+2018-04-22 13:29:53 #slots @Synapse#0692: @llama Here, take some credits. Enjoy! (+500 credits!)
+2018-04-22 13:29:54 #slots @soviet#2697: !payday
+2018-04-22 13:29:54 #slots @Synapse#0692: @llama Too soon. For your next payday you have to wait 59 minutes, 58 seconds.
+2018-04-22 13:29:56 #slots @soviet#2697: !bet 500 tails
+2018-04-22 13:29:57 #slots @Synapse#0692: *flips a coin and... HEADS!*
+2018-04-22 13:29:57 #slots @Synapse#0692: Oh no...llama.
+2018-04-22 13:29:57 #slots @Synapse#0692: You lost your bet. ):
+2018-04-22 13:30:02 #slots @soviet#2697: !help
+2018-04-22 13:30:04 #slots @soviet#2697 deleted message from 2018-04-22 13:30:02 (!help)
+2018-04-22 13:30:04 #slots @Synapse#0692: Check your DM, @llama! I have sent something for you :wink:
+2018-04-22 13:30:39 #slots @Synapse#0692 deleted message from 2018-04-22 13:30:04 (Check your DM, @llama! I have sent something for you :wink:)
+2018-04-22 13:30:42 #slots @soviet#2697: !leaderboar
+2018-04-22 13:30:43 #slots @soviet#2697: !leaderboard
+2018-04-22 13:30:44 #slots @Synapse#0692: ```py\n1 llama                 0\n\n```
+2018-04-22 13:30:48 #slots @soviet#2697: !set
+2018-04-22 13:30:48 #slots @Synapse#0692: ```\n!set\n\nChanges Synapse's's core settings\n\nCommands:\n  serverprefix     Sets Synapse's prefixes for this server\n  owner            Sets owner\n  modrole          Sets the mod role for this server\n  adminrole        Sets the admin role for this server\n\nType !set command for more info on a command.\nYou can also type !set category for more info on a category.\n```
+2018-04-22 13:30:54 #slots @soviet#2697: !bank set
+2018-04-22 13:30:54 #slots @Synapse#0692: ```\n!bank set <user> <credits>\n\nSets credits of user's bank account. See help for more operations\n\nPassing positive and negative values will add/remove credits instead\n\nExamples:\n    bank set @Twentysix 26 - Sets 26 credits\n    bank set @Twentysix +2 - Adds 2 credits\n    bank set @Twentysix -6 - Removes 6 credits\n\n```
+2018-04-22 13:30:59 #slots @soviet#2697: !bank set @llama 5
+2018-04-22 13:30:59 #slots @Synapse#0692: soviet's credits have been set to 5
+2018-05-02 12:49:18 #slots @Zombie Stephen#8186: !payday
+2018-05-02 12:49:18 #slots @Synapse#0692: @Zombie Stephen You need an account to receive credits. Type `!bank register` to open one.
+2018-05-02 12:49:28 #slots @Zombie Stephen#8186: Fook
+2018-05-02 12:49:36 #slots @Zombie Stephen#8186: !bank register
+2018-05-02 12:49:43 #slots @Synapse#0692: @Zombie Stephen Account opened. Current balance: 200
+2018-05-02 12:50:00 #slots @Zombie Stephen#8186: !bet 50 heads
+2018-05-02 12:50:00 #slots @Synapse#0692: *flips a coin and... HEADS!*
+2018-05-02 12:50:00 #slots @Synapse#0692: You won, Zombie Stephen!
+2018-05-02 12:50:00 #slots @Synapse#0692: You doubled your bet!
+2018-05-02 12:50:34 #slots @Zombie Stephen#8186: !leaderboard
+2018-05-02 12:50:35 #slots @Synapse#0692: ```py\n1 Zombie Stephen      250\n2 llama                 5\n\n```
+2018-05-02 12:51:01 #slots @Zombie Stephen#8186: !slot 50
+2018-05-02 12:51:01 #slots @Synapse#0692: ~~\n~~  🍀 🍀 🍄\n>🌀 🌀 ❤\n  🌻 🌻 ❄\n\n@Zombie Stephen Two consecutive symbols! Your bid has been multiplied * 2!\n\nYour bid: 50\n250 → 350!
+2018-05-02 12:51:21 #slots @Zombie Stephen#8186: !slot 50
+2018-05-02 12:51:22 #slots @Synapse#0692: ~~\n~~  🌀 🌀 ❤\n>🌻 🌻 ❄\n  6⃣ 6⃣ 🍒\n\n@Zombie Stephen Two consecutive symbols! Your bid has been multiplied * 2!\n\nYour bid: 50\n350 → 450!
+2018-05-02 12:51:37 #slots @Zombie Stephen#8186: !slot 100
+2018-05-02 12:51:37 #slots @Synapse#0692: ~~\n~~  ❤ ❄ 🌀\n>❄ 🍒 🌻\n  🍒 🍪 6⃣\n\n@Zombie Stephen Nothing!\nYour bid: 100\n450 → 350!
+2018-05-02 12:51:48 #slots @Zombie Stephen#8186: !slot 50
+2018-05-02 12:51:48 #slots @Synapse#0692: ~~\n~~  🍄 🍄 🍄\n>❤ ❤ ❤\n  ❄ ❄ ❄\n\n@Zombie Stephen Three symbols! +500!\n\nYour bid: 50\n350 → 850!
+2018-05-02 12:51:55 #slots @Zombie Stephen#8186: wee
+2018-05-02 12:52:06 #slots @Zombie Stephen#8186: !slot 100
+2018-05-02 12:52:07 #slots @Synapse#0692: ~~\n~~  🍪 2⃣ 🌀\n>2⃣ 🍀 🌻\n  🍀 🌀 6⃣\n\n@Zombie Stephen Nothing!\nYour bid: 100\n850 → 750!
+2018-05-02 12:53:22 #slots @Zombie Stephen#8186: !slot 125
+2018-05-02 12:53:23 #slots @Synapse#0692: ~~\n~~  ❄ ❤ 🍒\n>🍒 ❄ 🍪\n  🍪 🍒 2⃣\n\n@Zombie Stephen Nothing!\nYour bid: 125\n750 → 625!
+2018-05-02 12:53:40 #slots @Zombie Stephen#8186: !slot 375
+2018-05-02 12:53:41 #slots @Synapse#0692: ~~\n~~  🍀 🍒 🍀\n>🌀 🍪 🌀\n  🌻 2⃣ 🌻\n\n@Zombie Stephen Nothing!\nYour bid: 375\n625 → 250!
+2018-05-02 12:53:51 #slots @Zombie Stephen#8186: !slot 50
+2018-05-02 12:53:52 #slots @Synapse#0692: ~~\n~~  🌻 🍀 6⃣\n>6⃣ 🌀 🍄\n  🍄 🌻 ❤\n\n@Zombie Stephen Nothing!\nYour bid: 50\n250 → 200!
+2018-05-02 12:54:00 #slots @Zombie Stephen#8186: !slot 50
+2018-05-02 12:54:00 #slots @Synapse#0692: ~~\n~~  🍒 ❤ 🌻\n>🍪 ❄ 6⃣\n  2⃣ 🍒 🍄\n\n@Zombie Stephen Nothing!\nYour bid: 50\n200 → 150!
+2018-05-02 12:54:11 #slots @Zombie Stephen#8186: !slot 50
+2018-05-02 12:54:14 #slots @Synapse#0692: ~~\n~~  6⃣ 6⃣ 🍀\n>🍄 🍄 🌀\n  ❤ ❤ 🌻\n\n@Zombie Stephen Two consecutive symbols! Your bid has been multiplied * 2!\n\nYour bid: 50\n150 → 250!
+2018-05-02 12:54:24 #slots @Zombie Stephen#8186: !slot 50
+2018-05-02 12:54:24 #slots @Synapse#0692: ~~\n~~  🌀 🌀 🍪\n>🌻 🌻 2⃣\n  6⃣ 6⃣ 🍀\n\n@Zombie Stephen Two consecutive symbols! Your bid has been multiplied * 2!\n\nYour bid: 50\n250 → 350!
+2018-05-02 12:54:32 #slots @Zombie Stephen#8186: !slot 100
+2018-05-02 12:54:32 #slots @Synapse#0692: ~~\n~~  🍒 ❤ 2⃣\n>🍪 ❄ 🍀\n  2⃣ 🍒 🌀\n\n@Zombie Stephen Nothing!\nYour bid: 100\n350 → 250!
+2018-05-02 12:54:39 #slots @Zombie Stephen#8186: !slot 100
+2018-05-02 12:54:39 #slots @Synapse#0692: ~~\n~~  🍒 6⃣ 🍄\n>🍪 🍄 ❤\n  2⃣ ❤ ❄\n\n@Zombie Stephen Nothing!\nYour bid: 100\n250 → 150!
+2018-05-02 12:54:47 #slots @Zombie Stephen#8186: !slot 100
+2018-05-02 12:54:48 #slots @Synapse#0692: ~~\n~~  2⃣ 🍪 ❄\n>🍀 2⃣ 🍒\n  🌀 🍀 🍪\n\n@Zombie Stephen Nothing!\nYour bid: 100\n150 → 50!
+2018-05-02 13:08:41 #slots @soviet#2697: finally someone uses this
+2018-05-02 13:08:42 #slots @soviet#2697: xd
+2018-05-02 23:00:41 #slots @Minnerghoul#3179: !bank register
+2018-05-02 23:00:43 #slots @Synapse#0692: @Minnerghoul Account opened. Current balance: 200
+2018-05-02 23:00:57 #slots @Minnerghoul#3179: !slot 50
+2018-05-02 23:00:57 #slots @Synapse#0692: ~~\n~~  🍀 🍄 🌀\n>🌀 ❤ 🌻\n  🌻 ❄ 6⃣\n\n@Minnerghoul Nothing!\nYour bid: 50\n200 → 150!
+2018-05-02 23:01:09 #slots @Minnerghoul#3179: !slot 50
+2018-05-02 23:01:11 #slots @Synapse#0692: ~~\n~~  6⃣ 2⃣ 6⃣\n>🍄 🍀 🍄\n  ❤ 🌀 ❤\n\n@Minnerghoul Nothing!\nYour bid: 50\n150 → 100!
+2018-05-02 23:01:21 #slots @Minnerghoul#3179: !slot 50
+2018-05-02 23:01:21 #slots @Synapse#0692: ~~\n~~  🍪 6⃣ 2⃣\n>2⃣ 🍄 🍀\n  🍀 ❤ 🌀\n\n@Minnerghoul Nothing!\nYour bid: 50\n100 → 50!
+2018-05-02 23:01:27 #slots @Minnerghoul#3179: !slot 50
+2018-05-02 23:01:27 #slots @Synapse#0692: ~~\n~~  🌀 🍀 ❤\n>🌻 🌀 ❄\n  6⃣ 🌻 🍒\n\n@Minnerghoul Nothing!\nYour bid: 50\n50 → 0!
+2018-05-02 23:01:33 #slots @Minnerghoul#3179: !slot 1
+2018-05-02 23:01:35 #slots @Synapse#0692: Bid must be between 5 and 2500000.
+2018-05-02 23:01:43 #slots @Minnerghoul#3179: !slot 5
+2018-05-02 23:01:52 #slots @Synapse#0692: @Minnerghoul You need an account with enough funds to play the slot machine.
+2018-05-02 23:01:58 #slots @Minnerghoul#3179: dang it lmao

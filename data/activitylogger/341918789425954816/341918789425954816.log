@@ -1,0 +1,23 @@
+2018-04-30 16:20:52 #sohbet @Arda#3624: !help
+2018-04-30 16:20:53 #sohbet @Synapse#0692: Check your DM, @KüçükBirPainfulFX! I have sent something for you :wink:
+2018-04-30 16:21:44 #sohbet @Arda#3624: !game
+2018-04-30 16:21:44 #sohbet @Synapse#0692: ```\n!game <query>\n\nSearches for game information using IGDB\n\n```
+2018-04-30 16:21:48 #sohbet @Arda#3624: !game csgo
+2018-04-30 16:21:49 #sohbet @Synapse#0692: No games were found or there was an error in the process
+2018-04-30 16:21:52 #sohbet @Arda#3624: !game pubg
+2018-04-30 16:21:53 #sohbet @Synapse#0692: No games were found or there was an error in the process
+2018-04-30 16:21:56 #sohbet @Arda#3624: !gam mario
+2018-04-30 16:22:00 #sohbet @Arda#3624: !game mario
+2018-04-30 16:22:01 #sohbet @Synapse#0692: No games were found or there was an error in the process
+2018-04-30 16:22:03 #sohbet @Arda#3624: !gaşkğweakeğpkw qa
+2018-04-30 16:22:41 #sohbet @Arda#3624: !multicolor
+2018-04-30 16:23:41 #sohbet @Arda#3624: *multicolor 2 Kurucu
+2018-04-30 16:23:59 #sohbet @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`
+2018-04-30 16:24:24 #sohbet @Arda#3624: .multicolor 2 Kurucu
+2018-04-30 16:24:43 #sohbet @Arda#3624: !heist
+2018-04-30 16:24:43 #sohbet @Synapse#0692: ```\n!heist\n\nGeneral heist related commands\n\nCommands:\n  targets      Shows a list of targets\n  release      Removes you from jail or clears bail status if sentence served.\n  theme        Sets the theme for heist\n  themes       Lists available themes for heist.\n  info         Shows the Heist settings for this server.\n  remove       Remove a target from the heist list\n  version      Shows the version of heist you are running\n  reset        Resets heist in case it hangs\n  bailout      Specify who you want to pay for release. Defaults to you.\n  play         This begins a Heist\n  revive       Revive from the dead!\n  clear        Clears a member of jail and death statuses.\n  stats        Shows your Heist stats\n  edittarget   Edits a heist target\n  createtarget Add a target to heist\n\nType !heist command for more info on a command.\nYou can also type !heist category for more info on a category.\n```
+2018-04-30 16:25:00 #sohbet @Arda#3624: !play
+2018-04-30 16:25:00 #sohbet @Synapse#0692: ```\n!play <url_or_search_terms>\n\nPlays a link / searches and play\n\n```
+2018-04-30 17:13:02 #sohbet @Arda#3624: *multicolor 2 Kurucu
+2018-04-30 17:13:14 #sohbet @Ghostplay R2#1298: `Error in command 'multicolor'.If you keep seeing this message please contact the owner of the bot.`
+2018-04-30 17:13:26 #sohbet @Arda#3624: *invitebot

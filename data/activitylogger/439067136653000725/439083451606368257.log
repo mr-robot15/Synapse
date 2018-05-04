@@ -1,0 +1,94 @@
+2018-04-26 15:20:59 #casino @someone.#0257: !bank
+2018-04-26 15:21:01 #casino @Synapse#0692: ```\n!bank\n\nBank operations\n\nCommands:\n  balance  Shows balance of user.\n  transfer Transfer credits to other users\n  reset    Deletes all server's bank accounts\n  set      Sets credits of user's bank account. See help for more operations\n  register Registers an account at the Twentysix bank\n\nType !bank command for more info on a command.\nYou can also type !bank category for more info on a category.\n```
+2018-04-26 15:21:01 #casino @someone.#0257: !casion
+2018-04-26 15:21:05 #casino @someone.#0257: !clear 100
+2018-04-26 15:21:05 #casino @someone.#0257 deleted message from 2018-04-26 15:21:05 (!clear 100)
+2018-04-26 15:21:07 #casino @someone.#0257 deleted message from 2018-04-26 15:20:59 (!bank)
+2018-04-26 15:21:07 #casino @Synapse#0692 deleted message from 2018-04-26 15:21:01 (```\n!bank\n\nBank operations\n\nCommands:\n  balance  Shows balance of user.\n  transfer Transfer credits to other users\n  reset    Deletes all server's bank accounts\n  set      Sets credits of user's bank account. See help for more operations\n  register Registers an account at the Twentysix bank\n\nType !bank command for more info on a command.\nYou can also type !bank category for more info on a category.\n```)
+2018-04-26 15:21:07 #casino @someone.#0257 deleted message from 2018-04-26 15:21:01 (!casion)
+2018-04-26 15:21:06 #casino @MEE6#4876: I have deleted `3 messages` for ya! <:SMILE6:403540172433522689>
+2018-04-26 15:21:08 #casino @someone.#0257: !casino
+2018-04-26 15:21:08 #casino @Synapse#0692: ```\n!casino\n\nCasino Group Commands\n\nCommands:\n  transfer         Transfers chips to another player\n  balance          Shows your number of chips\n  info             Shows information about the server casino\n  removeuser       Remove a user from casino\n  leaderboard      Displays Casino Leaderboard\n  exchange         Exchange chips for credits and credits for chips\n  join             Grants you membership access to the casino\n  version          Shows current Casino version\n  cdreset          Resets all cooldowns on the server\n  memberships      Shows all memberships on the server.\n  approve          Approve a user's pending chips.\n  removemembership Remove a casino membership\n  stats            Shows your casino play stats\n  reset            Resets casino to default settings. Keeps user data\n  createmembership Add a casino membership to reward continued play\n  payday           Gives you some chips\n  toggle           Opens and closes the casino\n\nType !casino command for more info on a command.\nYou can also type !casino category for more info on a category.\n```
+2018-04-26 15:21:11 #casino @MEE6#4876 deleted message from 2018-04-26 15:21:06 (I have deleted `3 messages` for ya! <:SMILE6:403540172433522689>)
+2018-04-26 15:21:14 #casino @someone.#0257: !casino balance
+2018-04-26 15:21:16 #casino @Synapse#0692: You need to register to the Cryptosino Casino. To register type `!casino join`.
+2018-04-26 15:21:20 #casino @someone.#0257: !casino join
+2018-04-26 15:21:20 #casino @Synapse#0692: Your membership has been approved! Welcome to Cryptosino Casino!\nAs a first time member we have credited your account with 100 free chips.\nHave fun!
+2018-04-26 15:21:26 #casino @someone.#0257: !casinp
+2018-04-26 15:21:31 #casino @someone.#0257: !casinobalance
+2018-04-26 15:21:39 #casino @someone.#0257: !casino balance
+2018-04-26 15:21:39 #casino @Synapse#0692: ```Python\nYou have 100 BTC chips.```
+2018-04-26 15:21:57 #casino @someone.#0257: !casino exchange
+2018-04-26 15:21:57 #casino @Synapse#0692: ```\n!casino exchange <currency> <amount>\n\nExchange chips for credits and credits for chips\n\n```
+2018-04-26 15:22:14 #casino @someone.#0257: !casino exchange credits 100000
+2018-04-26 15:22:15 #casino @Synapse#0692: I have exchanged 100000 credits for 100000 BTC chips.\nEnjoy your time at Cryptosino Casino!
+2018-04-26 15:22:22 #casino @someone.#0257: !bank balance
+2018-04-26 15:22:22 #casino @Synapse#0692: @someone. Your balance is: 99999999999999999999999999999999999999999999900255
+2018-04-26 15:22:28 #casino @someone.#0257: !clear 100
+2018-04-26 15:22:28 #casino @someone.#0257 deleted message from 2018-04-26 15:22:28 (!clear 100)
+2018-04-26 15:22:29 #casino @someone.#0257 deleted message from 2018-04-26 15:21:08 (!casino)
+2018-04-26 15:22:29 #casino @Synapse#0692 deleted message from 2018-04-26 15:21:08 (```\n!casino\n\nCasino Group Commands\n\nCommands:\n  transfer         Transfers chips to another player\n  balance          Shows your number of chips\n  info             Shows information about the server casino\n  removeuser       Remove a user from casino\n  leaderboard      Displays Casino Leaderboard\n  exchange         Exchange chips for credits and credits for chips\n  join             Grants you membership access to the casino\n  version          Shows current Casino version\n  cdreset          Resets all cooldowns on the server\n  memberships      Shows all memberships on the server.\n  approve          Approve a user's pending chips.\n  removemembership Remove a casino membership\n  stats            Shows your casino play stats\n  reset            Resets casino to default settings. Keeps user data\n  createmembership Add a casino membership to reward continued play\n  payday           Gives you some chips\n  toggle           Opens and closes the casino\n\nType !casino command for more info on a command.\nYou can also type !casino category for more info on a category.\n```)
+2018-04-26 15:22:29 #casino @someone.#0257 deleted message from 2018-04-26 15:21:14 (!casino balance)
+2018-04-26 15:22:29 #casino @Synapse#0692 deleted message from 2018-04-26 15:21:16 (You need to register to the Cryptosino Casino. To register type `!casino join`.)
+2018-04-26 15:22:29 #casino @someone.#0257 deleted message from 2018-04-26 15:21:20 (!casino join)
+2018-04-26 15:22:29 #casino @Synapse#0692 deleted message from 2018-04-26 15:21:20 (Your membership has been approved! Welcome to Cryptosino Casino!\nAs a first time member we have credited your account with 100 free chips.\nHave fun!)
+2018-04-26 15:22:29 #casino @someone.#0257 deleted message from 2018-04-26 15:21:26 (!casinp)
+2018-04-26 15:22:29 #casino @someone.#0257 deleted message from 2018-04-26 15:21:31 (!casinobalance)
+2018-04-26 15:22:29 #casino @someone.#0257 deleted message from 2018-04-26 15:21:39 (!casino balance)
+2018-04-26 15:22:29 #casino @Synapse#0692 deleted message from 2018-04-26 15:21:39 (```Python\nYou have 100 BTC chips.```)
+2018-04-26 15:22:29 #casino @someone.#0257 deleted message from 2018-04-26 15:21:57 (!casino exchange)
+2018-04-26 15:22:29 #casino @Synapse#0692 deleted message from 2018-04-26 15:21:57 (```\n!casino exchange <currency> <amount>\n\nExchange chips for credits and credits for chips\n\n```)
+2018-04-26 15:22:29 #casino @someone.#0257 deleted message from 2018-04-26 15:22:14 (!casino exchange credits 100000)
+2018-04-26 15:22:29 #casino @Synapse#0692 deleted message from 2018-04-26 15:22:15 (I have exchanged 100000 credits for 100000 BTC chips.\nEnjoy your time at Cryptosino Casino!)
+2018-04-26 15:22:29 #casino @someone.#0257 deleted message from 2018-04-26 15:22:22 (!bank balance)
+2018-04-26 15:22:29 #casino @Synapse#0692 deleted message from 2018-04-26 15:22:22 (@someone. Your balance is: 99999999999999999999999999999999999999999999900255)
+2018-04-26 15:22:29 #casino @MEE6#4876: I have deleted `16 messages` for ya! <:SMILE6:403540172433522689>
+2018-04-26 15:22:32 #casino @MEE6#4876 deleted message from 2018-04-26 15:22:29 (I have deleted `16 messages` for ya! <:SMILE6:403540172433522689>)
+2018-04-26 15:22:32 #casino @someone.#0257: !casino balance
+2018-04-26 15:22:32 #casino @Synapse#0692: ```Python\nYou have 100100 BTC chips.```
+2018-04-26 15:22:36 #casino @someone.#0257: !casino
+2018-04-26 15:22:37 #casino @Synapse#0692: ```\n!casino\n\nCasino Group Commands\n\nCommands:\n  transfer         Transfers chips to another player\n  balance          Shows your number of chips\n  info             Shows information about the server casino\n  removeuser       Remove a user from casino\n  leaderboard      Displays Casino Leaderboard\n  exchange         Exchange chips for credits and credits for chips\n  join             Grants you membership access to the casino\n  version          Shows current Casino version\n  cdreset          Resets all cooldowns on the server\n  memberships      Shows all memberships on the server.\n  approve          Approve a user's pending chips.\n  removemembership Remove a casino membership\n  stats            Shows your casino play stats\n  reset            Resets casino to default settings. Keeps user data\n  createmembership Add a casino membership to reward continued play\n  payday           Gives you some chips\n  toggle           Opens and closes the casino\n\nType !casino command for more info on a command.\nYou can also type !casino category for more info on a category.\n```
+2018-04-26 15:23:14 #casino @someone.#0257: !clear 100
+2018-04-26 15:23:15 #casino @someone.#0257 deleted message from 2018-04-26 15:23:14 (!clear 100)
+2018-04-26 15:23:15 #casino @someone.#0257 deleted message from 2018-04-26 15:22:32 (!casino balance)
+2018-04-26 15:23:15 #casino @Synapse#0692 deleted message from 2018-04-26 15:22:32 (```Python\nYou have 100100 BTC chips.```)
+2018-04-26 15:23:15 #casino @someone.#0257 deleted message from 2018-04-26 15:22:36 (!casino)
+2018-04-26 15:23:15 #casino @Synapse#0692 deleted message from 2018-04-26 15:22:37 (```\n!casino\n\nCasino Group Commands\n\nCommands:\n  transfer         Transfers chips to another player\n  balance          Shows your number of chips\n  info             Shows information about the server casino\n  removeuser       Remove a user from casino\n  leaderboard      Displays Casino Leaderboard\n  exchange         Exchange chips for credits and credits for chips\n  join             Grants you membership access to the casino\n  version          Shows current Casino version\n  cdreset          Resets all cooldowns on the server\n  memberships      Shows all memberships on the server.\n  approve          Approve a user's pending chips.\n  removemembership Remove a casino membership\n  stats            Shows your casino play stats\n  reset            Resets casino to default settings. Keeps user data\n  createmembership Add a casino membership to reward continued play\n  payday           Gives you some chips\n  toggle           Opens and closes the casino\n\nType !casino command for more info on a command.\nYou can also type !casino category for more info on a category.\n```)
+2018-04-26 15:23:15 #casino @MEE6#4876: I have deleted `4 messages` for ya! <:SMILE6:403540172433522689>
+2018-04-26 15:23:18 #casino @MEE6#4876 deleted message from 2018-04-26 15:23:15 (I have deleted `4 messages` for ya! <:SMILE6:403540172433522689>)
+2018-04-26 15:23:21 #casino @someone.#0257: Casino\nallin~blackjack~casino~coin~cups~dice~hilo~setcasino~war
+2018-04-26 15:23:21 #casino @MEE6#4876: GG @someone., you just advanced to level 1!
+2018-04-26 15:23:36 #casino @someone.#0257 edited message from 2018-04-26 15:23:21 (Casino\nallin~blackjack~casino~coin~cups~dice~hilo~setcasino~war) to read: ''' Casino\nallin~blackjack~casino~coin~cups~dice~hilo~setcasino~war
+2018-04-26 15:24:29 #casino @someone.#0257 edited message from 2018-04-26 15:23:21 (''' Casino\nallin~blackjack~casino~coin~cups~dice~hilo~setcasino~war) to read: ```Markdown\nCasino\nallin~blackjack~casino~coin~cups~dice~hilo~setcasino~war\n```
+2018-04-26 15:24:43 #casino @MEE6#4876 deleted message from 2018-04-26 15:23:21 (GG @someone., you just advanced to level 1!)
+2018-04-26 15:24:29 #casino @someone.#0257 edited message from 2018-04-26 15:23:21 (```Markdown\nCasino\nallin~blackjack~casino~coin~cups~dice~hilo~setcasino~war\n```) to read: ```Markdown\nCasino\nallin~blackjack~casino~coin~cups~dice~hilo~setcasino~war\n```
+2018-04-26 15:24:47 #casino @someone.#0257: 
+2018-04-26 15:24:53 #casino @someone.#0257 deleted message from 2018-04-26 15:24:47 ()
+2018-04-26 15:24:57 #casino @someone.#0257: !casino allin
+2018-04-26 15:24:58 #casino @Synapse#0692: ```\n!casino\n\nCasino Group Commands\n\nCommands:\n  transfer         Transfers chips to another player\n  balance          Shows your number of chips\n  info             Shows information about the server casino\n  removeuser       Remove a user from casino\n  leaderboard      Displays Casino Leaderboard\n  exchange         Exchange chips for credits and credits for chips\n  join             Grants you membership access to the casino\n  version          Shows current Casino version\n  cdreset          Resets all cooldowns on the server\n  memberships      Shows all memberships on the server.\n  approve          Approve a user's pending chips.\n  removemembership Remove a casino membership\n  stats            Shows your casino play stats\n  reset            Resets casino to default settings. Keeps user data\n  createmembership Add a casino membership to reward continued play\n  payday           Gives you some chips\n  toggle           Opens and closes the casino\n\nType !casino command for more info on a command.\nYou can also type !casino category for more info on a category.\n```
+2018-04-26 15:25:06 #casino @someone.#0257: !blackjack
+2018-04-26 15:25:06 #casino @Synapse#0692: ```\n![blackjack|bj|21] <bet>\n\nModified Blackjack.\n\n```
+2018-04-26 15:25:15 #casino @someone.#0257 edited message from 2018-04-26 15:25:06 (!blackjack) to read: !bj 10
+2018-04-26 15:25:21 #casino @Synapse#0692 deleted message from 2018-04-26 15:24:58 (```\n!casino\n\nCasino Group Commands\n\nCommands:\n  transfer         Transfers chips to another player\n  balance          Shows your number of chips\n  info             Shows information about the server casino\n  removeuser       Remove a user from casino\n  leaderboard      Displays Casino Leaderboard\n  exchange         Exchange chips for credits and credits for chips\n  join             Grants you membership access to the casino\n  version          Shows current Casino version\n  cdreset          Resets all cooldowns on the server\n  memberships      Shows all memberships on the server.\n  approve          Approve a user's pending chips.\n  removemembership Remove a casino membership\n  stats            Shows your casino play stats\n  reset            Resets casino to default settings. Keeps user data\n  createmembership Add a casino membership to reward continued play\n  payday           Gives you some chips\n  toggle           Opens and closes the casino\n\nType !casino command for more info on a command.\nYou can also type !casino category for more info on a category.\n```)
+2018-04-26 15:25:24 #casino @Synapse#0692 deleted message from 2018-04-26 15:25:06 (```\n![blackjack|bj|21] <bet>\n\nModified Blackjack.\n\n```)
+2018-04-26 15:25:27 #casino @someone.#0257: !bj 100
+2018-04-26 15:25:28 #casino @Synapse#0692: @someone.\nYour cards: 6, 9\nYour score: 15\nThe dealer shows: Ace\nHit, stay, or double?
+2018-04-26 15:25:36 #casino @someone.#0257: hit
+2018-04-26 15:25:36 #casino @Synapse#0692: ======**someone.**======\nYour hand: 6, 9, 7\nYour score: 22\nDealer's hand: Ace, Queen\nDealer's score: 21\n======BUST!======
+2018-04-26 15:25:46 #casino @someone.#0257: !war
+2018-04-26 15:25:46 #casino @Synapse#0692: ```\n!war <bet>\n\nModified War Card Game.\n\n```
+2018-04-26 15:25:49 #casino @someone.#0257: !war 10
+2018-04-26 15:25:50 #casino @Synapse#0692: Your bet needs to be exactly 20.
+2018-04-26 15:25:55 #casino @someone.#0257 edited message from 2018-04-26 15:25:49 (!war 10) to read: !war 20
+2018-04-26 15:25:58 #casino @someone.#0257: !war 20
+2018-04-26 15:25:58 #casino @Synapse#0692: The dealer shuffles the deck and deals 1 card face down to the player and the dealer...
+2018-04-26 15:26:01 #casino @Synapse#0692: **FLIP!**
+2018-04-26 15:26:02 #casino @Synapse#0692: ======**someone.**======\nPlayer Card: Ace\nDealer Card: Queen\n**\*\*\*\*\*\*Winner!\*\*\*\*\*\***\n```Python\nYou just won 30 BTC chips.```
+2018-04-26 15:26:11 #casino @someone.#0257: !dice
+2018-04-26 15:26:12 #casino @Synapse#0692: ```\n!dice <bet>\n\nRoll 2, 7, 11 or 12 to win.\n\n```
+2018-04-26 15:26:16 #casino @someone.#0257: !dice 10
+2018-04-26 15:26:16 #casino @Synapse#0692: Your bet needs to be 50 or higher, but cannot exceed the maximum of 500 chips.
+2018-04-26 15:26:20 #casino @someone.#0257 edited message from 2018-04-26 15:26:16 (!dice 10) to read: !dice 50
+2018-04-26 15:26:25 #casino @someone.#0257: !dice 50
+2018-04-26 15:26:25 #casino @Synapse#0692: The dice strike the back of the table and begin to tumble into place...
+2018-04-26 15:26:28 #casino @Synapse#0692: The dice landed on 2 and 4 \nSorry! The result was 6.

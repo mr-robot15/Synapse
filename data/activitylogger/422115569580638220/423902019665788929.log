@@ -1,0 +1,10 @@
+2018-04-25 15:03:50 #kažnjavanja @TheMaic#2764: !ban
+2018-04-25 15:03:50 #kažnjavanja @Synapse#0692: ```\n!ban <user> [days] [reason]\n\nBans user and deletes last X days worth of messages.\n\nIf days is not a number, it's treated as the first word of the reason.\nMinimum 0 days, maximum 7. Defaults to 0.\n\n```
+2018-04-25 15:04:01 #kažnjavanja @TheMaic#2764: !mute
+2018-04-25 15:04:01 #kažnjavanja @Synapse#0692: ```\n!mute <user> [reason]\n\nMutes user in the channel/server\n\nDefaults to channel\n\nCommands:\n  channel Mutes user in the current channel\n  server  Mutes user in the server\n\nType !mute command for more info on a command.\nYou can also type !mute category for more info on a category.\n```
+2018-04-25 15:04:06 #kažnjavanja @TheMaic#2764: !tempmute
+2018-04-25 15:04:53 #kažnjavanja @TheMaic#2764: !mute @Pac pisanje komandi u krivi slot
+2018-04-25 15:04:53 #kažnjavanja @MEE6#4876: <:XMARK6:403540169992568833> Uhhhhh, you can't mute a moderator.
+2018-04-25 15:04:53 #kažnjavanja @Synapse#0692: User has been muted in this channel.
+2018-04-25 15:05:08 #kažnjavanja @TheMaic#2764: !unmute @Pac
+2018-04-25 15:05:09 #kažnjavanja @Synapse#0692: User has been unmuted in this channel.

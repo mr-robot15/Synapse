@@ -1,0 +1,6 @@
+{
+    "MAINPREFIX" : "!",
+    "MESSAGE" : "!help | .help | {1} servers",
+    "SECONDS2LIVE" : 15,
+    "TOGGLE" : true
+}

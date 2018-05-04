@@ -1,0 +1,20 @@
+2018-04-19 22:53:04 #general @Synapse#0692: 
+2018-04-19 22:53:20 #general @Xinim#9760: .help
+2018-04-19 22:53:40 #general @Xinim#9760: ;help
+2018-04-19 22:53:47 #general @Xinim#9760: !help
+2018-04-19 22:53:49 #general @Synapse#0692: Check your DM, @Xinim! I have sent something for you :wink:
+2018-04-19 22:54:22 #general @Xinim#9760: !customrole
+2018-04-19 22:54:22 #general @Synapse#0692: ```\n![customrole|role|cr]\n\nMods can add roles, users can apply or relieve roles. Roles created with this cog have no permissions, it only functions for fun.\n\nCommands:\n  list    List all available roles\n  relieve Relieve a role\n  add     Add a role\n  remove  Remove role\n  apply   Apply a role\n\nType !customrole command for more info on a command.\nYou can also type !customrole category for more info on a category.\n```
+2018-04-19 22:54:38 #general @Xinim#9760: !add meow
+2018-04-19 22:55:02 #general @Xinim#9760: !add meow
+2018-04-19 22:55:08 #general @Xinim#9760: !list
+2018-04-19 22:55:43 #general @Xinim#9760: !roles
+2018-04-19 22:55:43 #general @Synapse#0692: ```\n!roles\n\nRoles giving configuration\n\nCommands:\n  link     Link messages together to allow only one role from those messages ...\n  linklist Lists all reaction links in the current server\n  check    Goes through all reactions of a message and gives the roles accord...\n  unlink   Remove a link of messages by its name\n  remove   Remove a role from a message\n  add      Add a role on a message\n\nType !roles command for more info on a command.\nYou can also type !roles category for more info on a category.\n```
+2018-04-19 22:55:51 #general @Xinim#9760: !roles add meow
+2018-04-19 22:55:51 #general @Synapse#0692: ```\n!roles add <message_id> <channel> <emoji> <role>\n\nAdd a role on a message\n`message_id` must be found in `channel`\n`emoji` can either be a Unicode emoji or a server emote\n`role` must be found in the channel's server\n\n```
+2018-04-19 22:56:29 #general @Xinim#9760: !roles add oi general 😛 @Meow
+2018-04-19 22:56:30 #general @Synapse#0692: `Error in command 'roles add'. Check your console or logs for details.`
+2018-04-19 22:56:40 #general @Xinim#9760: !customrole
+2018-04-19 22:56:41 #general @Synapse#0692: ```\n![customrole|role|cr]\n\nMods can add roles, users can apply or relieve roles. Roles created with this cog have no permissions, it only functions for fun.\n\nCommands:\n  list    List all available roles\n  relieve Relieve a role\n  add     Add a role\n  remove  Remove role\n  apply   Apply a role\n\nType !customrole command for more info on a command.\nYou can also type !customrole category for more info on a category.\n```
+2018-04-19 22:56:45 #general @Xinim#9760: !roles list
+2018-04-19 22:56:45 #general @Synapse#0692: ```\n!roles\n\nRoles giving configuration\n\nCommands:\n  link     Link messages together to allow only one role from those messages ...\n  linklist Lists all reaction links in the current server\n  check    Goes through all reactions of a message and gives the roles accord...\n  unlink   Remove a link of messages by its name\n  remove   Remove a role from a message\n  add      Add a role on a message\n\nType !roles command for more info on a command.\nYou can also type !roles category for more info on a category.\n```

@@ -1,0 +1,9 @@
+{
+    "dsn" : null,
+    "environment" : null,
+    "ignore" : [],
+    "level" : "ERROR",
+    "name" : null,
+    "ssl" : true,
+    "tags" : {}
+}

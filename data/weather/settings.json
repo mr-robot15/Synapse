@@ -1,0 +1,5 @@
+{
+    "api_key" : "Get your API key from: www.wunderground.com/weather/api/",
+    "defCountry" : "uk",
+    "unit" : "C"
+}

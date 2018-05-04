@@ -1,0 +1,149 @@
+2018-04-18 23:12:54 this bot joined the server
+2018-04-18 23:12:54 Member role add: 'invité' role was added to @Synapse#0692
+2018-04-18 23:19:04 Member join: @Koya#1050 (id 276060004262477825)
+2018-04-18 23:19:04 Member role add: 'Koya' role was added to @Koya#1050
+2018-04-18 23:19:04 Role created: 'Koya' (id 436304689605115905)
+2018-04-18 23:19:04 Member role add: 'Koya' role was added to @Koya#1050
+2018-04-18 23:19:04 Member role add: 'invité' role was added to @Koya#1050
+2018-04-18 23:22:34 Role permissions: 'L'élite' changed from 104193089 to 104324161
+2018-04-18 23:22:34 Role position: 'L'élite' changed from 8 to 7
+2018-04-18 23:23:15 Channel overwrites: lélite (435913408806649859): role @everyone (430148010769383424) updated to values 0, 132096 (was 0, 1024)
+2018-04-18 23:23:28 Role permissions: 'L'élite' changed from 104324161 to 104193089
+2018-04-18 23:24:25 Role permissions: 'L'élite' changed from 104193089 to 104324161
+2018-04-18 23:25:40 Channel overwrites: lélite (435913408806649859): role L'élite (436259655669514251) added with values 0, 131072
+2018-04-18 23:26:16 Member role add: 'Adjoint' role was added to @Koya#1050
+2018-04-18 23:26:50 Channel topic: lélite topic was set to ""
+2018-04-18 23:38:13 Channel overwrites: lélite (435913408806649859): role L'élite (436259655669514251) updated to values 131072, 0 (was 0, 131072)
+2018-04-18 23:38:27 Role permissions: 'L'élite' changed from 104324161 to 104193089
+2018-04-18 23:38:43 Channel overwrites: lélite (435913408806649859): role L'élite (436259655669514251) updated to values 0, 131072 (was 131072, 0)
+2018-04-18 23:41:57 Member nickname: '@fukato78#2729' (id 286116044014092288) changed nickname from 'None' to 'noob'
+2018-04-18 23:43:08 Member nickname: '@fukato78#2729' (id 286116044014092288) changed nickname from 'noob' to 'None'
+2018-04-19 00:51:35 Member role add: 'Adjoint' role was added to @MickaSG#6236
+2018-04-19 08:40:51 Role permissions: 'Synapse' changed from 8 to 262216
+2018-04-19 08:40:51 Role position: 'Synapse' changed from 1 to 2
+2018-04-19 08:40:51 Role position: 'EnderBot' changed from 1 to 3
+2018-04-19 08:40:51 Role position: 'Rythm' changed from 2 to 4
+2018-04-19 08:40:51 Role position: 'MEE6' changed from 4 to 5
+2018-04-19 08:40:51 Role position: 'invité' changed from 3 to 6
+2018-04-19 08:40:51 Role position: 'Apprenti' changed from 5 to 7
+2018-04-19 08:40:51 Role position: 'Cadet' changed from 6 to 8
+2018-04-19 08:40:51 Role position: 'L'élite' changed from 7 to 9
+2018-04-19 08:40:51 Role position: 'Chef des crews' changed from 8 to 10
+2018-04-19 08:40:51 Role position: 'Adjoint' changed from 9 to 11
+2018-04-19 08:40:52 Role created: 'new role' (id 436446070730391552)
+2018-04-19 08:41:05 Role renamed: 'new role' to 'BOT BACKTRACK'
+2018-04-19 08:41:10 Role color: 'BOT BACKTRACK' changed from #000000 to #970045
+2018-04-19 08:41:42 Role position: 'BOT BACKTRACK' changed from 1 to 5
+2018-04-19 08:41:49 Role position: 'MEE6' changed from 6 to 5
+2018-04-19 08:41:49 Role position: 'BOT BACKTRACK' changed from 5 to 6
+2018-04-19 08:42:14 Member role add: 'BOT BACKTRACK' role was added to @EnderBot#3161
+2018-04-19 08:42:22 Member role remove: The 'invité' role was removed from @EnderBot#3161
+2018-04-19 08:42:42 Member role add: 'BOT BACKTRACK' role was added to @Synapse#0692
+2018-04-19 08:42:43 Member role remove: The 'BOT BACKTRACK' role was removed from @Synapse#0692
+2018-04-19 08:42:44 Member role add: 'BOT BACKTRACK' role was added to @Synapse#0692
+2018-04-19 08:42:44 Member role remove: The 'invité' role was removed from @Synapse#0692
+2018-04-19 08:44:46 Member role remove: The 'invité' role was removed from @antondu71#0915
+2018-04-19 08:44:48 Member role add: 'L'élite' role was added to @antondu71#0915
+2018-04-19 08:44:57 Member role add: 'BOT BACKTRACK' role was added to @MEE6#4876
+2018-04-19 08:45:07 Member role remove: The 'invité' role was removed from @Rythm#3722
+2018-04-19 08:45:08 Member role add: 'BOT BACKTRACK' role was added to @Rythm#3722
+2018-04-19 08:45:33 Role mentionable: 'BOT BACKTRACK' is now mentionable
+2018-04-19 08:45:35 Role mentionable: 'BOT BACKTRACK' is no longer mentionable
+2018-04-19 08:45:35 Role hoist: 'BOT BACKTRACK' is now shown seperately
+2018-04-19 09:50:40 Channel overwrites: privé (430159653184339968): role invité (436263290776190986) added with values 383041, 805446672
+2018-04-19 09:51:07 Channel overwrites: privé (430159653184339968): role @everyone (430148010769383424) updated to values 383041, 805446672 (was 0, 1024)
+2018-04-19 09:51:22 Channel rename: privé renamed to discussion-invité
+2018-04-19 09:51:45 Channel deleted: discussion-invité
+2018-04-19 09:51:52 Channel deleted: lélite
+2018-04-19 09:52:48 Channel deleted: logos
+2018-04-19 09:53:12 Channel deleted: vHackVocal
+2018-04-19 09:53:20 Channel deleted: Privé
+2018-04-19 09:53:29 Channel deleted: Salon Privé
+2018-04-19 09:53:54 Channel created: discussion-invité
+2018-04-19 09:58:57 Channel overwrites: discussion-invité (436464450346942465): role @everyone (430148010769383424) added with values 383041, 805446672
+2018-04-19 09:59:19 Channel overwrites: discussion-invité (436464450346942465): role L'élite (436259655669514251) added with values 383041, 805446672
+2018-04-19 09:59:42 Channel overwrites: discussion-invité (436464450346942465): role Cadet (436259928374771732) added with values 120897, 805446672
+2018-04-19 09:59:43 Channel overwrites: discussion-invité (436464450346942465): role Cadet (436259928374771732) updated to values 383041, 805446672 (was 120897, 805446672)
+2018-04-19 10:54:08 Channel created: Administration
+2018-04-19 10:54:17 Channel position: Salons vocaux moved from 7 to 2
+2018-04-19 10:54:17 Channel position: Administration moved from 8 to 3
+2018-04-19 10:54:17 Channel position: Accueil moved from 2 to 1
+2018-04-19 10:54:21 Channel position: Administration moved from 3 to 1
+2018-04-19 10:54:21 Channel position: Salons vocaux moved from 2 to 3
+2018-04-19 10:54:21 Channel position: Accueil moved from 1 to 2
+2018-04-19 10:55:23 Channel position: Salons vocaux moved from 3 to 6
+2018-04-19 10:55:23 Channel position: discussion-invité moved from 2 to 5
+2018-04-19 10:55:23 Channel position: bienvenue moved from 1 to 4
+2018-04-19 10:55:23 Channel position: modération moved from 0 to 2
+2018-04-19 10:55:23 Channel position: Accueil moved from 2 to 3
+2018-04-19 10:56:09 Channel overwrites: discussion-invité (436464450346942465): role Apprenti (436260089523994645) added with values 378945, 805450768
+2018-04-19 10:56:31 Channel overwrites: discussion-invité (436464450346942465): role invité (436263290776190986) added with values 378945, 805450768
+2018-04-19 10:56:50 Channel overwrites: discussion-invité (436464450346942465): role Adjoint (436258018544451584) added with values 805829713, 0
+2018-04-19 10:57:04 Channel overwrites: discussion-invité (436464450346942465): role Chef des crews (436283021688176662) added with values 805829713, 0
+2018-04-19 10:57:53 Channel overwrites: discussion-invité (436464450346942465): role @everyone (430148010769383424) updated to values 384065, 805445648 (was 383041, 805446672)
+2018-04-19 10:57:58 Channel overwrites: discussion-invité (436464450346942465): role invité (436263290776190986) updated to values 379969, 805449744 (was 378945, 805450768)
+2018-04-19 10:58:01 Channel overwrites: discussion-invité (436464450346942465): role Apprenti (436260089523994645) updated to values 379969, 805449744 (was 378945, 805450768)
+2018-04-19 10:58:05 Channel overwrites: discussion-invité (436464450346942465): role Cadet (436259928374771732) updated to values 384065, 805445648 (was 383041, 805446672)
+2018-04-19 10:58:16 Channel overwrites: discussion-invité (436464450346942465): role L'élite (436259655669514251) updated to values 384065, 805445648 (was 383041, 805446672)
+2018-04-19 11:00:22 Channel overwrites: bienvenue (436277373382688783): role @everyone (430148010769383424) updated to values 66561, 805763152 (was 0, 2048)
+2018-04-19 11:07:58 Member leave: @Astralpha#6222 (id 271296923166703627)
+2018-04-19 11:12:19 Member join: @Astralpha#6222 (id 271296923166703627)
+2018-04-19 11:14:36 Member role add: 'invité' role was added to @Astralpha#6222
+2018-04-19 11:14:37 Member role remove: The 'invité' role was removed from @Astralpha#6222
+2018-04-19 11:14:38 Member role add: 'invité' role was added to @Astralpha#6222
+2018-04-19 11:19:00 Member role add: 'Chef des crews' role was added to @Astralpha#6222
+2018-04-19 11:19:53 Member role remove: The 'Chef des crews' role was removed from @Astralpha#6222
+2018-04-19 11:22:38 Member nickname: '@Astralpha#6222' (id 271296923166703627) changed nickname from 'None' to 'L'ermite des crews : Astral'
+2018-04-19 11:25:44 Member role add: 'Chef des crews' role was added to @antondu71#0915
+2018-04-19 11:26:04 Member role remove: The 'Chef des crews' role was removed from @MickaSG#6236
+2018-04-19 11:26:12 Member role add: 'Chef des crews' role was added to @MickaSG#6236
+2018-04-19 11:27:25 Member role add: 'Chef des crews' role was added to @Samuel#5931
+2018-04-19 11:27:50 Member role remove: The 'Chef des crews' role was removed from @Samuel#5931
+2018-04-19 11:28:35 Member role add: 'invité' role was added to @MadSugar#5018
+2018-04-19 11:28:35 Member role remove: The 'invité' role was removed from @MadSugar#5018
+2018-04-19 11:28:36 Member role add: 'invité' role was added to @MadSugar#5018
+2018-04-19 11:28:45 Member role remove: The 'Adjoint' role was removed from @Koya#1050
+2018-04-19 11:28:45 Member role add: 'invité' role was added to @LoReX [S6]#3024
+2018-04-19 11:28:51 Member role add: 'Apprenti' role was added to @Samuel#5931
+2018-04-19 11:28:52 Member role add: 'invité' role was added to @Samuel#5931
+2018-04-19 11:28:53 Member role remove: The 'Apprenti' role was removed from @Samuel#5931
+2018-04-19 11:28:54 Member ban: @Koya#1050 (id 276060004262477825)
+2018-04-19 11:28:54 Role deleted: 'Koya' (id 436304689605115905)
+2018-04-19 11:28:54 Member leave: @Koya#1050 (id 276060004262477825)
+2018-04-19 11:45:19 Channel created: Bot
+2018-04-19 11:45:36 Channel position: Bot moved from 7 to 4
+2018-04-19 11:45:36 Channel position: Salons vocaux moved from 6 to 3
+2018-04-19 11:45:36 Channel position: Accueil moved from 3 to 2
+2018-04-19 11:45:38 Channel position: Bot moved from 4 to 3
+2018-04-19 11:45:38 Channel position: Salons vocaux moved from 3 to 4
+2018-04-19 11:46:09 Channel created: commandes-bot
+2018-04-19 11:46:31 Channel created: spam
+2018-04-19 11:56:45 Channel created: règlement
+2018-04-19 11:57:18 Channel overwrites: règlement (436495369107406849): role @everyone (430148010769383424) added with values 66625, 805763088
+2018-04-19 11:58:05 Channel overwrites: commandes-bot (436492701391781909): role @everyone (430148010769383424) added with values 334913, 805494800
+2018-04-19 11:59:39 Channel overwrites: spam (436492794392215573): role @everyone (430148010769383424) added with values 384065, 805445648
+2018-04-19 11:59:59 Channel overwrites: commandes-bot (436492701391781909): role @everyone (430148010769383424) updated to values 384065, 805445648 (was 334913, 805494800)
+2018-04-19 12:41:46 Member join: @Pokécord#4503 (id 365975655608745985)
+2018-04-19 12:41:46 Member role add: 'Pokecord' role was added to @Pokécord#4503
+2018-04-19 12:41:46 Role created: 'Pokecord' (id 436506696559624202)
+2018-04-19 12:41:46 Member role add: 'Pokecord' role was added to @Pokécord#4503
+2018-04-19 13:55:41 Channel rename: spam renamed to jeu
+2018-04-19 13:55:44 Channel rename: jeu renamed to jeux
+2018-04-19 14:14:27 Channel created: all
+2018-04-19 14:19:43 Channel position: AFK moved from 2 to 0
+2018-04-19 14:19:43 Channel position: all moved from 3 to 1
+2018-04-19 14:22:18 Member role add: 'invité' role was added to @Cortland#2591
+2018-04-19 14:22:26 Member role add: 'invité' role was added to @Sympho#6827
+2018-04-19 14:22:33 Member role add: 'invité' role was added to @SaucissonFear33#2571
+2018-04-19 14:22:44 Member role add: 'invité' role was added to @sasoni0#0348
+2018-04-19 14:22:58 Member role add: 'invité' role was added to @Pixailz#7440
+2018-04-19 14:23:05 Member role add: 'invité' role was added to @naspik#6164
+2018-04-19 14:23:29 Member role add: 'invité' role was added to @Futur_Nuno#0786
+2018-04-19 14:23:58 Member role remove: The 'L'élite' role was removed from @kermite#5161
+2018-04-19 14:24:00 Member role add: 'invité' role was added to @kermite#5161
+2018-04-19 14:43:31 Member join: @Dyno#3861 (id 155149108183695360)
+2018-04-19 14:43:31 Role created: 'Dyno' (id 436537334792585226)
+2018-04-19 14:43:31 Member role add: 'Dyno' role was added to @Dyno#3861
+2018-04-19 14:43:59 Member role add: 'BOT BACKTRACK' role was added to @Dyno#3861
+2018-04-19 14:44:09 Member role add: 'BOT BACKTRACK' role was added to @Pokécord#4503
+2018-04-19 14:44:17 this bot left the server

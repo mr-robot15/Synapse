@@ -1,0 +1,16 @@
+2018-04-22 15:12:51 #general @Husly | Graphics Designer |#6367: *mulicolor 0 Owner
+2018-04-22 15:13:17 #general @Husly | Graphics Designer |#6367: *mulicolor 1 Owner
+2018-04-22 15:14:12 #general @Husly | Graphics Designer |#6367: *invitebot
+2018-04-22 15:19:02 #general @Husly | Graphics Designer |#6367: !help
+2018-04-22 15:19:04 #general @Synapse#0692: Check your DM, @Husly | Graphics Designer |! I have sent something for you :wink:
+2018-04-22 15:19:36 #general @Husly | Graphics Designer |#6367: !colorme
+2018-04-22 15:19:37 #general @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  change      Change the color of your name.\n  purge       Purge the server of roles that may have been created\n  clean       Clean colorme roles by removing all permissions.\n  unprotect   Remove a role from the list of protected roles.\n  protect     Add a role to the list of protected roles.\n  listprotect Lists roles that are protected from color changes.\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```
+2018-04-22 15:20:25 #general @Husly | Graphics Designer |#6367: !colorme listprotect
+2018-04-22 15:20:25 #general @Synapse#0692: Protected role(s):.
+2018-04-22 15:20:40 #general @Husly | Graphics Designer |#6367: !colorme change
+2018-04-22 15:20:40 #general @Synapse#0692: ```\n!colorme change <newcolor>\n\nChange the color of your name.\n\nNew color must be a valid hexidecimal color value.\n\n```
+2018-04-22 15:20:55 #general @Husly | Graphics Designer |#6367: !colorme change 1
+2018-04-22 15:20:55 #general @Synapse#0692: @Husly | Graphics Designer |, Your new color is set.
+2018-04-22 15:21:00 #general @Husly | Graphics Designer |#6367: a
+2018-04-22 15:21:36 #general @Husly | Graphics Designer |#6367: !colorme change #42f4e5
+2018-04-22 15:21:37 #general @Synapse#0692: @Husly | Graphics Designer |, Your new color is set.

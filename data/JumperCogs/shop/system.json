@@ -1,0 +1,110 @@
+{
+    "Servers" : {
+        "315421226942070784" : {
+            "Config" : {
+                "Inventory Output Method" : "Chat",
+                "Member Discount" : null,
+                "Pending Type" : "Manual",
+                "Shop Name" : "Jumpman's",
+                "Shop Notify" : false,
+                "Shop Open" : true,
+                "Shop Role" : null,
+                "Sort Method" : "Alphabet",
+                "Store Output Method" : "Chat",
+                "Trade Cooldown" : 30
+            },
+            "Pending" : {},
+            "Shop List" : {},
+            "Users" : {}
+        },
+        "427830207265767424" : {
+            "Config" : {
+                "Inventory Output Method" : "Chat",
+                "Member Discount" : null,
+                "Pending Type" : "Manual",
+                "Shop Name" : "Jumpman's",
+                "Shop Notify" : false,
+                "Shop Open" : true,
+                "Shop Role" : null,
+                "Sort Method" : "Alphabet",
+                "Store Output Method" : "Chat",
+                "Trade Cooldown" : 30
+            },
+            "Pending" : {},
+            "Shop List" : {
+                "Autistic Server Mascot" : {
+                    "Buy Msg" : [],
+                    "Discount" : 0,
+                    "Item Cost" : 50000,
+                    "Item Name" : "Autistic Server Mascot",
+                    "Members Only" : "No",
+                    "Quantity" : 1,
+                    "Role" : "436185302474817547"
+                }
+            },
+            "Users" : {
+                "426234414255570959" : {
+                    "Block Trades" : false,
+                    "Inventory" : {},
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                }
+            }
+        },
+        "431503585713586177" : {
+            "Config" : {
+                "Inventory Output Method" : "Chat",
+                "Member Discount" : null,
+                "Pending Type" : "Manual",
+                "Shop Name" : "Jumpman's",
+                "Shop Notify" : false,
+                "Shop Open" : true,
+                "Shop Role" : "Devil",
+                "Sort Method" : "Alphabet",
+                "Store Output Method" : "Chat",
+                "Trade Cooldown" : 30
+            },
+            "Pending" : {},
+            "Shop List" : {
+                "Devil" : {
+                    "Buy Msg" : [],
+                    "Discount" : 0,
+                    "Item Cost" : 5000,
+                    "Item Name" : "Devil",
+                    "Members Only" : "No",
+                    "Quantity" : "\u221e",
+                    "Role" : "431506533487214602"
+                },
+                "Erika" : {
+                    "Buy Msg" : [],
+                    "Discount" : 0,
+                    "Item Cost" : 10,
+                    "Item Name" : "Erika",
+                    "Members Only" : "No",
+                    "Quantity" : "\u221e"
+                }
+            },
+            "Users" : {
+                "149282113168867330" : {
+                    "Block Trades" : false,
+                    "Inventory" : {
+                        "Devil" : {
+                            "Item Name" : "Devil",
+                            "Item Quantity" : 100,
+                            "Role" : "431506533487214602"
+                        }
+                    },
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                },
+                "396895152771301406" : {
+                    "Block Trades" : false,
+                    "Inventory" : {},
+                    "Member" : false,
+                    "Trade Cooldown" : 0
+                }
+            }
+        }
+    },
+    "Version" : "2.2.10"
+}

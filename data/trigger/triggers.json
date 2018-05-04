@@ -1,0 +1,194 @@
+[
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "general",
+        "owner" : "291226226608308224",
+        "regex" : false,
+        "responses" : [
+            "Hello there"
+        ],
+        "server" : "435702373701255174",
+        "triggered" : 9,
+        "triggered_by" : "General Kenobi",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "hellothere",
+        "owner" : "291226226608308224",
+        "regex" : false,
+        "responses" : [
+            "General Kenobi"
+        ],
+        "server" : "435702373701255174",
+        "triggered" : 7,
+        "triggered_by" : "Hello there",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "gay",
+        "owner" : "291226226608308224",
+        "regex" : false,
+        "responses" : [
+            "We dump their bodies into the ocean"
+        ],
+        "server" : "435702373701255174",
+        "triggered" : 1,
+        "triggered_by" : "What do we do to faggots synapse?",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "leader",
+        "owner" : "291226226608308224",
+        "regex" : false,
+        "responses" : [
+            "Here you can find more about our supreme leader:\n\nhttps://en.m.wikipedia.org/wiki/Adolf_Hitler"
+        ],
+        "server" : "435702373701255174",
+        "triggered" : 5,
+        "triggered_by" : "Supreme leader",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "mistakes3",
+        "owner" : "291226226608308224",
+        "regex" : false,
+        "responses" : [
+            "None"
+        ],
+        "server" : "435702373701255174",
+        "triggered" : 4,
+        "triggered_by" : "hitlers mistakes",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "mistakes4",
+        "owner" : "291226226608308224",
+        "regex" : false,
+        "responses" : [
+            "None"
+        ],
+        "server" : "435702373701255174",
+        "triggered" : 0,
+        "triggered_by" : "Hitler\u2019s mistakes",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "mistakes",
+        "owner" : "291226226608308224",
+        "regex" : false,
+        "responses" : [
+            "None"
+        ],
+        "server" : "435702373701255174",
+        "triggered" : 1,
+        "triggered_by" : "How many mistakes did hitler make",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "no",
+        "owner" : "391606357788327954",
+        "regex" : false,
+        "responses" : [
+            "xd"
+        ],
+        "server" : "438379038994857985",
+        "triggered" : 0,
+        "triggered_by" : "u lmao no u",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "supreme",
+        "owner" : "291226226608308224",
+        "regex" : false,
+        "responses" : [
+            "Here you can find more about our supreme leader:\n\nhttps://en.m.wikipedia.org/wiki/Adolf_Hitler"
+        ],
+        "server" : "245581810724110338",
+        "triggered" : 3,
+        "triggered_by" : "supreme",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "mistakes1",
+        "owner" : "291226226608308224",
+        "regex" : false,
+        "responses" : [
+            "Hitler Mistake Counter: 0"
+        ],
+        "server" : "245581810724110338",
+        "triggered" : 0,
+        "triggered_by" : "hitlers mistakes",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "mistakes2",
+        "owner" : "291226226608308224",
+        "regex" : false,
+        "responses" : [
+            "Hitler Mistake Counter: 0"
+        ],
+        "server" : "245581810724110338",
+        "triggered" : 1,
+        "triggered_by" : "hitler's mistakes",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "reis",
+        "owner" : "291226226608308224",
+        "regex" : false,
+        "responses" : [
+            "Here you can find more about our **REIS**:\n\nhttps://en.m.wikipedia.org/wiki/Adolf_Hitler"
+        ],
+        "server" : "245581810724110338",
+        "triggered" : 1,
+        "triggered_by" : "reis",
+        "type" : "all"
+    }
+]

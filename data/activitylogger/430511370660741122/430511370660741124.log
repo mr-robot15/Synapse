@@ -1,0 +1,54 @@
+2018-04-19 20:37:50 #general @zedrick#1221: %help
+2018-04-19 20:37:50 #general @Statistics Bot#4389: 
+2018-04-19 20:37:51 #general @Statistics Bot#4389 edited message from 2018-04-19 20:37:50 () to read: 
+2018-04-19 20:38:29 #general @zedrick#1221: %serverstatistics
+2018-04-19 20:38:30 #general @Statistics Bot#4389: 
+2018-04-19 20:38:30 #general @Statistics Bot#4389 edited message from 2018-04-19 20:38:30 () to read: 
+2018-04-19 20:38:58 #general @zedrick#1221: !help
+2018-04-19 20:38:58 #general @MatBot#9456: 
+2018-04-19 20:38:59 #general @MatBot#9456 edited message from 2018-04-19 20:38:58 () to read: 
+2018-04-19 20:38:58 #general @Ghostplay#4203: Hey there, @zedrick! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-04-19 20:38:59 #general @Synapse#0692: Check your DM, @zedrick! I have sent something for you :wink:
+2018-04-19 20:42:36 #general @zedrick#1221: @Blastermars @Caketify | 모모 ♥ kaya nyo ba to gawin? (attachment url(s): https://cdn.discordapp.com/attachments/430511370660741124/436627701865119754/unknown.png)
+2018-04-19 20:42:38 #general @zedrick#1221: !autorole
+2018-04-19 20:42:38 #general @Ghostplay#4203: ```\n!autorole\n\nChange settings for autorole\n\nRequires the manage roles permission\n\nCommands:\n  agreement         Set the channel and message that will be used for accepti...\n  agreement_example Shows the expamples and codes to setup the agreement\n  role              Set role for autorole to assign.\n  toggle            Enables/Disables autorole\n\nType !autorole command for more info on a command.\nYou can also type !autorole category for more info on a category.\n```
+2018-04-19 20:42:38 #general @Synapse#0692: ```\n!autorole\n\nChange settings for autorole\n\nRequires the manage roles permission\n\nCommands:\n  agreement Set the channel and message that will be used for accepting the r...\n  toggle    Enables/Disables autorole\n  role      Set role for autorole to assign.\n\nType !autorole command for more info on a command.\nYou can also type !autorole category for more info on a category.\n```
+2018-04-19 20:42:38 #general @Ghostplay#4203: Current autorole state: False
+2018-04-19 20:42:38 #general @Synapse#0692: ```Current autorole state: False```
+2018-04-19 20:43:02 #general @zedrick#1221: !prefix
+2018-04-19 20:43:02 #general @MatBot#9456: 
+2018-04-19 20:43:02 #general @MatBot#9456 edited message from 2018-04-19 20:43:02 () to read: 
+2018-04-19 20:43:06 #general @zedrick#1221: !setprefix
+2018-04-19 20:43:56 #general @zedrick#1221: bsta e **!autorole** nyo nlng
+2018-04-19 20:44:04 #general @zedrick#1221: antok na ako kakahanap ng ganyan e
+2018-04-19 20:44:05 #general @zedrick#1221: hhaha
+2018-04-19 22:04:45 #general @zedrick#1221: @Suggestions
+2018-04-19 22:04:49 #general @zedrick#1221: @Suggestions help
+2018-04-19 22:04:49 #general @Suggestions#3153: @zedrick, Sent you a DM with information.
+2018-04-19 22:05:16 #general @zedrick#1221: @Suggestions prefix ^
+2018-04-19 22:05:17 #general @Suggestions#3153: @zedrick, Set the command prefix to `^`. To run commands, use `^command` or `@Suggestions#3153 command`.
+2018-04-19 22:05:24 #general @zedrick#1221: ^command
+2018-04-19 22:05:58 #general @zedrick#1221: ^add
+2018-04-19 22:05:58 #general @Suggestions#3153: @zedrick, What is the title of your suggestion?\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 60 seconds.
+2018-04-19 22:06:04 #general @zedrick#1221: LOL
+2018-04-19 22:06:04 #general @Suggestions#3153: @zedrick, You provided an invalid title. Please try again.\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 60 seconds.
+2018-04-19 22:06:08 #general @zedrick#1221: Leage
+2018-04-19 22:06:08 #general @Suggestions#3153: @zedrick, Please provide a description of your suggestion.\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 300 seconds.
+2018-04-19 22:06:18 #general @zedrick#1221: Blablabla beas Blablabla
+2018-04-19 22:06:18 #general @Suggestions#3153: @zedrick, Sorry, we are not taking new suggestions for the moment.
+2018-04-19 22:06:32 #general @zedrick#1221: ^add
+2018-04-19 22:06:32 #general @Suggestions#3153: @zedrick, What is the title of your suggestion?\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 60 seconds.
+2018-04-19 22:06:38 #general @zedrick#1221: ^blablabla
+2018-04-19 22:06:38 #general @Suggestions#3153: @zedrick, Please provide a description of your suggestion.\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 300 seconds.
+2018-04-19 22:06:45 #general @zedrick#1221: blablabla
+2018-04-19 22:06:46 #general @Suggestions#3153: @zedrick, You provided an invalid description. Please try again.\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 300 seconds.
+2018-04-19 22:06:51 #general @zedrick#1221: asddqwdascasdas sdasdas
+2018-04-19 22:06:52 #general @Suggestions#3153: @zedrick, Sorry, we are not taking new suggestions for the moment.
+2018-04-19 22:06:56 #general @zedrick#1221: ^add
+2018-04-19 22:06:57 #general @Suggestions#3153: @zedrick, You may not use the `add` command again for another 1.3 seconds.
+2018-04-19 22:07:04 #general @zedrick#1221: ^add
+2018-04-19 22:07:04 #general @Suggestions#3153: @zedrick, What is the title of your suggestion?\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 60 seconds.
+2018-04-19 22:07:07 #general @zedrick#1221: again and again
+2018-04-19 22:07:08 #general @Suggestions#3153: @zedrick, Please provide a description of your suggestion.\nRespond with `cancel` to cancel the command. The command will automatically be cancelled in 300 seconds.
+2018-04-19 22:07:11 #general @zedrick#1221: please pleasep lease
+2018-04-19 22:07:11 #general @Suggestions#3153: @zedrick, Sorry, we are not taking new suggestions for the moment.

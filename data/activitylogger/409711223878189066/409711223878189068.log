@@ -1,0 +1,105 @@
+2018-04-21 12:46:25 #general @Synapse#0692: 
+2018-04-21 12:46:34 #general @Sorry#0579: !help
+2018-04-21 12:46:36 #general @Synapse#0692: Check your DM, @Sorry! I have sent something for you :wink:
+2018-04-21 12:47:03 #general @Sorry#0579: !penis
+2018-04-21 12:47:04 #general @Synapse#0692: ```\n!penis [users...]\n\nDetects user's penis length\n\nThis is 101% accurate.\nEnter multiple users for an accurate comparison!\n\n```
+2018-04-21 12:47:12 #general @Sorry#0579: !penis  @Sorry
+2018-04-21 12:47:12 #general @Synapse#0692: **Sorry's size:**\n8===================D
+2018-04-21 12:47:21 #general @Sorry#0579: !colorme
+2018-04-21 12:47:21 #general @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  listprotect Lists roles that are protected from color changes.\n  purge       Purge the server of roles that may have been created\n  clean       Clean colorme roles by removing all permissions.\n  change      Change the color of your name.\n  protect     Add a role to the list of protected roles.\n  unprotect   Remove a role from the list of protected roles.\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```
+2018-04-21 12:47:48 #general @Sorry#0579: !change
+2018-04-21 12:47:55 #general @Sorry#0579: !colorme change
+2018-04-21 12:47:55 #general @Synapse#0692: ```\n!colorme change <newcolor>\n\nChange the color of your name.\n\nNew color must be a valid hexidecimal color value.\n\n```
+2018-04-21 12:48:06 #general @Sorry#0579: !colorme change blue
+2018-04-21 12:48:06 #general @Synapse#0692: @Sorry, Your new color is set.
+2018-04-21 12:48:36 #general @Sorry#0579: !colorme change rainbow
+2018-04-21 12:48:36 #general @Synapse#0692: @Sorry, Color must be a valid hexidecimal value.
+2018-04-21 12:48:42 #general @Sorry#0579: !colorme change purple
+2018-04-21 12:48:42 #general @Synapse#0692: This command is on cooldown. Try again in 53.63s
+2018-04-21 12:49:18 #general @Sorry#0579: !Strawpoll
+2018-04-21 12:49:26 #general @Sorry#0579: !spotify
+2018-04-21 12:49:26 #general @Synapse#0692: ```\n!spotify <query>\n\nSearch for a song on Spotify\n\n```
+2018-04-21 12:49:38 #general @Sorry#0579: !spotify weak
+2018-04-21 12:49:38 #general @Synapse#0692: **You haven't set-up your api yet. Please visit https://developer.spotify.com/my-applications/ to get your api credentials. Then use `!spotifyapi` to set up this cog.**
+2018-04-21 12:49:39 #general @Synapse#0692 edited message from 2018-04-21 12:49:38 (**You haven't set-up your api yet. Please visit https://developer.spotify.com/my-applications/ to get your api credentials. Then use `!spotifyapi` to set up this cog.**) to read: **You haven't set-up your api yet. Please visit https://developer.spotify.com/my-applications/ to get your api credentials. Then use `!spotifyapi` to set up this cog.**
+2018-04-21 12:50:11 #general @Sorry#0579: !spotify https://open.spotify.com/track/7Ktv8bQUjZt0rr16qgB4h2?si=je_-Xl-ET6WGJbglLYMCKg
+2018-04-21 12:50:11 #general @Synapse#0692: **You haven't set-up your api yet. Please visit https://developer.spotify.com/my-applications/ to get your api credentials. Then use `!spotifyapi` to set up this cog.**
+2018-04-21 12:50:11 #general @Sorry#0579 edited message from 2018-04-21 12:50:11 (!spotify https://open.spotify.com/track/7Ktv8bQUjZt0rr16qgB4h2?si=je_-Xl-ET6WGJbglLYMCKg) to read: !spotify https://open.spotify.com/track/7Ktv8bQUjZt0rr16qgB4h2?si=je_-Xl-ET6WGJbglLYMCKg
+2018-04-21 12:50:50 #general @Sorry#0579: !spotify spotify:album:1VztFkixxU9hwzzoGxYV7i
+2018-04-21 12:50:51 #general @Synapse#0692: **You haven't set-up your api yet. Please visit https://developer.spotify.com/my-applications/ to get your api credentials. Then use `!spotifyapi` to set up this cog.**
+2018-04-21 12:51:44 #general @Sorry#0579: !radio
+2018-04-21 12:51:44 #general @Synapse#0692: Please unload the audio cog before using this cog.
+2018-04-21 12:51:57 #general @Sorry#0579: !radio 150
+2018-04-21 12:51:57 #general @Synapse#0692: Please unload the audio cog before using this cog.
+2018-04-21 12:52:53 #general @Sorry#0579: !emojireact rekt
+2018-04-21 12:52:53 #general @Synapse#0692: `Error in command 'emojireact'. Check your console or logs for details.`
+2018-04-21 12:52:58 #general @Sorry#0579: !rekt
+2018-04-21 12:52:59 #general @Sorry#0579 deleted message from 2018-04-21 12:52:58 (!rekt)
+2018-04-21 12:53:11 #general @Sorry#0579: !LUl
+2018-04-21 12:53:15 #general @Sorry#0579: !LUL
+2018-04-21 12:53:34 #general @Sorry#0579: !lmao
+2018-04-21 12:53:34 #general @Sorry#0579 deleted message from 2018-04-21 12:53:34 (!lmao)
+2018-04-21 12:54:05 #general @Sorry#0579: !race
+2018-04-21 12:54:06 #general @Synapse#0692: ```\n!race\n\nRace cog's group command\n\nCommands:\n  start   Start an animal race and enter yourself as participant\n  claim   Claim your prize from the animal race\n  version Displays the version of race\n  enter   Enter an animal race\n\nType !race command for more info on a command.\nYou can also type !race category for more info on a category.\n```
+2018-04-21 12:54:15 #general @Sorry#0579: !setrace
+2018-04-21 12:54:15 #general @Synapse#0692: ```\n!setrace\n\nRace cog's settings group command\n\nCommands:\n  prize Set the prize range\n  mode  Set the race mode\n  time  Set the time players have to enter a race\n\nType !setrace command for more info on a command.\nYou can also type !setrace category for more info on a category.\n```
+2018-04-21 12:54:26 #general @Sorry#0579: !setrace
+2018-04-21 12:54:26 #general @Synapse#0692: ```\n!setrace\n\nRace cog's settings group command\n\nCommands:\n  prize Set the prize range\n  mode  Set the race mode\n  time  Set the time players have to enter a race\n\nType !setrace command for more info on a command.\nYou can also type !setrace category for more info on a category.\n```
+2018-04-21 12:54:30 #general @Sorry#0579: !prize
+2018-04-21 12:54:38 #general @Sorry#0579: !raceprize
+2018-04-21 12:54:42 #general @Sorry#0579: !race time
+2018-04-21 12:54:42 #general @Synapse#0692: ```\n!race\n\nRace cog's group command\n\nCommands:\n  start   Start an animal race and enter yourself as participant\n  claim   Claim your prize from the animal race\n  version Displays the version of race\n  enter   Enter an animal race\n\nType !race command for more info on a command.\nYou can also type !race category for more info on a category.\n```
+2018-04-21 12:54:51 #general @Sorry#0579: !race
+2018-04-21 12:54:52 #general @Synapse#0692: ```\n!race\n\nRace cog's group command\n\nCommands:\n  start   Start an animal race and enter yourself as participant\n  claim   Claim your prize from the animal race\n  version Displays the version of race\n  enter   Enter an animal race\n\nType !race command for more info on a command.\nYou can also type !race category for more info on a category.\n```
+2018-04-21 12:54:58 #general @Sorry#0579: !race infp
+2018-04-21 12:54:58 #general @Synapse#0692: ```\n!race\n\nRace cog's group command\n\nCommands:\n  start   Start an animal race and enter yourself as participant\n  claim   Claim your prize from the animal race\n  version Displays the version of race\n  enter   Enter an animal race\n\nType !race command for more info on a command.\nYou can also type !race category for more info on a category.\n```
+2018-04-21 12:55:20 #general @Sorry#0579: !_pepe
+2018-04-21 12:55:20 #general @Synapse#0692: http://i.imgur.com/zDs0tRW.jpg
+2018-04-21 12:55:20 #general @Synapse#0692 edited message from 2018-04-21 12:55:20 (http://i.imgur.com/zDs0tRW.jpg) to read: http://i.imgur.com/zDs0tRW.jpg
+2018-04-21 12:55:44 #general @Sorry#0579: slap
+2018-04-21 12:55:46 #general @Sorry#0579: !slap
+2018-04-21 12:55:46 #general @Synapse#0692: Dont make me slap you instead Sorry
+2018-04-21 12:55:51 #general @Sorry#0579: slap
+2018-04-21 12:55:53 #general @Sorry#0579: !slap
+2018-04-21 12:55:53 #general @Synapse#0692: Dont make me slap you instead Sorry
+2018-04-21 12:56:22 #general @Sorry#0579: getrecords
+2018-04-21 12:56:26 #general @Sorry#0579: !getrecords
+2018-04-21 12:56:26 #general @Synapse#0692: `Error in command 'getrecords'. Check your console or logs for details.`
+2018-04-21 12:56:50 #general @Sorry#0579: !cgames
+2018-04-21 12:56:50 #general @Synapse#0692: Surprisingly, no one is playing anything.
+2018-04-21 12:57:11 #general @Sorry#0579: !wikipedia
+2018-04-21 12:57:11 #general @Synapse#0692: ```\n![wikipedia|wiki|w] <query>\n\nGet information from Wikipedia\n\n```
+2018-04-21 12:57:20 #general @Sorry#0579: !wikipedia jonava
+2018-04-21 12:57:21 #general @Synapse#0692: 
+2018-04-21 12:57:22 #general @Synapse#0692 edited message from 2018-04-21 12:57:21 () to read: 
+2018-04-21 12:57:44 #general @Sorry#0579: !wikipedia joniskis
+2018-04-21 12:57:49 #general @Synapse#0692: 
+2018-04-21 12:57:49 #general @Synapse#0692 edited message from 2018-04-21 12:57:49 () to read: 
+2018-04-21 12:58:21 #general @Sorry#0579: !uinfo
+2018-04-21 12:58:23 #general @Synapse#0692:  (attachment url(s): https://cdn.discordapp.com/attachments/409711223878189068/437235654381010953/userinfo.png)
+2018-04-21 12:58:56 #general @Sorry#0579: !seen
+2018-04-21 12:58:56 #general @Synapse#0692: ```\n!seen <username>\n\nseen <@username>\n\n```
+2018-04-21 12:59:03 #general @Sorry#0579: !seen @Sorry
+2018-04-21 12:59:03 #general @Synapse#0692: 
+2018-04-21 12:59:04 #general @Synapse#0692 edited message from 2018-04-21 12:59:03 () to read: 
+2018-04-21 12:59:41 #general @Sorry#0579: pingt
+2018-04-21 12:59:44 #general @Sorry#0579: !pingt
+2018-04-21 12:59:44 #general @Synapse#0692: ping: 189ms
+2018-04-21 13:00:41 #general @Sorry#0579: !getrecords
+2018-04-21 13:00:41 #general @Synapse#0692: `Error in command 'getrecords'. Check your console or logs for details.`
+2018-04-21 13:00:50 #general @Sorry#0579: !record
+2018-04-21 13:11:04 #general @BoxBot#7194: 
+2018-04-21 13:11:11 #general @Sorry#0579: !items
+2018-04-21 13:11:27 #general @Sorry#0579: b1
+2018-04-21 13:11:33 #general @Sorry#0579: b!
+2018-04-21 13:11:50 #general @Sorry#0579: b!unbox
+2018-04-21 13:11:50 #general @BoxBot#7194: @Sorry -> <:common_c:414196911499902991><:common_o:414196911768076289><:common_m:414196911336062976><:common_m:414196911336062976><:common_o:414196911768076289><:common_n:414196911105507359> **bottle** and <:exp:430736413156179988> **10 EXP** received! You may open another box in **1.0 hours**. (attachment url(s): https://cdn.discordapp.com/attachments/409711223878189068/437239040211681320/images_send_unboxed_bottle.png)
+2018-04-21 13:12:25 #general @Sorry#0579: b!trivia
+2018-04-21 13:12:25 #general @BoxBot#7194: @Sorry ->
+2018-04-21 13:12:25 #general @BoxBot#7194 edited message from 2018-04-21 13:12:25 (@Sorry ->) to read: @Sorry ->
+2018-04-21 13:12:39 #general @BoxBot#7194: @Sorry -> ❌ **European Peninsula** was the incorrect answer. **Iberian Peninsula** was the correct answer.
+2018-04-21 13:20:56 #general @Sorry#0579: shaftorthodox
+2018-04-21 13:20:57 #general @Sorry#0579: shaftorthodox
+2018-04-21 13:20:58 #general @Sorry#0579: shaftorthodox
+2018-04-21 13:20:59 #general @Sorry#0579: shaftorthodox
+2018-04-21 13:21:02 #general @Sorry#0579: shaftorthodox

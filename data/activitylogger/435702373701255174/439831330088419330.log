@@ -1,0 +1,29 @@
+2018-04-28 16:54:19 #status @Klaus Ze Flammenwerfer#9999: !riftopen 438389187419439135
+2018-04-28 16:54:32 #status @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-28 16:54:37 #status @Klaus Ze Flammenwerfer#9999: exit
+2018-04-28 16:54:37 #status @Synapse#0692: Rift closed.
+2018-04-28 16:54:40 #status @Klaus Ze Flammenwerfer#9999: !up 3
+2018-04-28 16:54:41 #status @Synapse#0692 deleted message from 2018-04-28 16:54:32 (A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.)
+2018-04-28 16:54:41 #status @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-28 16:54:37 (exit)
+2018-04-28 16:54:41 #status @Synapse#0692 deleted message from 2018-04-28 16:54:37 (Rift closed.)
+2018-04-28 16:54:41 #status @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-28 16:54:40 (!up 3)
+2018-04-28 16:54:57 #status @Klaus Ze Flammenwerfer#9999: !riftopen 438389187419439135
+2018-04-28 16:54:57 #status @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-28 16:55:46 #status @Klaus Ze Flammenwerfer#9999 deleted message from 2018-04-28 16:54:19 (!riftopen 438389187419439135)
+2018-04-28 16:58:34 #status @Klaus Ze Flammenwerfer#9999: exit
+2018-04-28 16:58:35 #status @Synapse#0692: `Error in command 'riftopen'. Check your console or logs for details.`
+2018-04-28 17:00:46 #status @Klaus Ze Flammenwerfer#9999: !riftopen statys
+2018-04-28 17:00:47 #status @Synapse#0692: No channels found. Remember to type just the channel name, no `#`.
+2018-04-28 17:00:49 #status @Klaus Ze Flammenwerfer#9999: !riftopen status
+2018-04-28 17:00:54 #status @Synapse#0692: Multiple results found.\nChoose a server:\n0 - Mods And Hugs (439831330088419330)\n1 - Elite Modders [PC] (438389349130960898)
+2018-04-28 17:00:58 #status @Klaus Ze Flammenwerfer#9999: 1
+2018-04-28 17:00:59 #status @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-28 17:15:36 #status @Klaus Ze Flammenwerfer#9999: .
+2018-04-30 09:45:29 #status @Klaus Ze Flammenwerfer#9999: exit
+2018-04-30 09:45:30 #status @Klaus Ze Flammenwerfer#9999: !riftopen 438389349130960898
+2018-04-30 09:45:31 #status @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-30 16:28:18 #status @Klaus Ze Flammenwerfer#9999: exit
+2018-04-30 16:28:18 #status @Synapse#0692: `Error in command 'riftopen'. Check your console or logs for details.`
+2018-04-30 16:28:20 #status @Klaus Ze Flammenwerfer#9999: exit
+2018-04-30 16:28:48 #status @Klaus Ze Flammenwerfer#9999: !riftopen 438389349130960898
+2018-04-30 16:28:48 #status @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.

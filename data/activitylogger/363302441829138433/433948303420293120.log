@@ -1,0 +1,110 @@
+2018-04-20 08:00:07 #commands @Fire#5422: !help
+2018-04-20 08:00:07 #commands @Referral Ranks#9132: List of commands available
+2018-04-20 08:00:08 #commands @Referral Ranks#9132 edited message from 2018-04-20 08:00:07 (List of commands available) to read: List of commands available
+2018-04-20 08:00:07 #commands @Rythm#3722: ✅ **Check <https://rythmbot.co/features#list> for a list of commands**
+2018-04-20 08:00:07 #commands @MEE6#4876: 
+2018-04-20 08:00:08 #commands @MEE6#4876 edited message from 2018-04-20 08:00:07 () to read: 
+2018-04-20 08:00:07 #commands @MEE6#4876: 
+2018-04-20 08:00:08 #commands @MEE6#4876 edited message from 2018-04-20 08:00:07 () to read: 
+2018-04-20 08:00:07 #commands @MEE6#4876: 
+2018-04-20 08:00:08 #commands @MEE6#4876 edited message from 2018-04-20 08:00:07 () to read: 
+2018-04-20 08:00:08 #commands @Synapse#0692: Check your DM, @#FIXCSGO Fire 🥔! I have sent something for you :wink:
+2018-04-20 08:00:32 #commands @Fire#5422: !colorme
+2018-04-20 08:00:32 #commands @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  listprotect Lists roles that are protected from color changes.\n  protect     Add a role to the list of protected roles.\n  change      Change the color of your name.\n  clean       Clean colorme roles by removing all permissions.\n  purge       Purge the server of roles that may have been created\n  unprotect   Remove a role from the list of protected roles.\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```
+2018-04-20 08:00:41 #commands @Fire#5422: !listprotect
+2018-04-20 08:00:53 #commands @Fire#5422: !colorme Rainbow
+2018-04-20 08:00:53 #commands @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  listprotect Lists roles that are protected from color changes.\n  protect     Add a role to the list of protected roles.\n  change      Change the color of your name.\n  clean       Clean colorme roles by removing all permissions.\n  purge       Purge the server of roles that may have been created\n  unprotect   Remove a role from the list of protected roles.\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```
+2018-04-20 08:01:04 #commands @Fire#5422: !colorme change Rainbow
+2018-04-20 08:01:04 #commands @Synapse#0692: @#FIXCSGO Fire 🥔, Color must be a valid hexidecimal value.
+2018-04-20 08:01:27 #commands @Fire#5422: !prefix
+2018-04-20 08:06:06 #commands @Fire#5422: .multicolor
+2018-04-20 08:07:36 #commands @Fire#5422: .multicolor
+2018-04-20 08:08:34 #commands @Fire#5422: *multicolor 0.01 #FIXCSGO/REALOWNER
+2018-04-20 08:08:35 #commands @Ghostplay R2#1298: 
+2018-04-20 08:08:35 #commands @Ghostplay R2#1298 edited message from 2018-04-20 08:08:35 () to read: 
+2018-04-20 08:09:15 #commands @Fire#5422: *multicolor 0.01 #FIXCSGO/REALOWNER
+2018-04-20 08:09:16 #commands @Ghostplay R2#1298: 
+2018-04-20 08:09:16 #commands @Ghostplay R2#1298 edited message from 2018-04-20 08:09:16 () to read: 
+2018-04-20 08:09:41 #commands @Fire#5422: *multicolor 0.01 REALOWNER
+2018-04-20 08:09:42 #commands @Ghostplay R2#1298: 
+2018-04-20 08:09:42 #commands @Ghostplay R2#1298 edited message from 2018-04-20 08:09:42 () to read: 
+2018-04-20 08:09:47 #commands @Fire#5422: *multicolor
+2018-04-20 08:09:48 #commands @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-20 08:10:18 #commands @Fire#5422: *multicolor rainbow 0.01 Real Owner
+2018-04-20 08:10:19 #commands @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-20 08:10:30 #commands @Fire#5422: *multicolor 0.01 Real Owner
+2018-04-20 08:10:48 #commands @Fire#5422: *multicolor 0.1 Real Owner
+2018-04-20 08:11:14 #commands @Fire#5422 edited message from 2018-04-20 08:10:48 (*multicolor 0.1 Real Owner) to read: *multicolor 0.1 BOT
+2018-04-20 08:11:22 #commands @Fire#5422: *multicolor 0.1 BOT
+2018-04-20 08:11:23 #commands @Ghostplay R2#1298: 
+2018-04-20 08:11:23 #commands @Ghostplay R2#1298 edited message from 2018-04-20 08:11:23 () to read: 
+2018-04-20 08:11:33 #commands @Fire#5422: *multicolor 0.1 bot
+2018-04-20 08:11:34 #commands @Ghostplay R2#1298: 
+2018-04-20 08:11:34 #commands @Ghostplay R2#1298 edited message from 2018-04-20 08:11:34 () to read: 
+2018-04-20 08:12:04 #commands @Fire#5422: *multicolor 0.1 BOT
+2018-04-20 08:12:05 #commands @Ghostplay R2#1298: 
+2018-04-20 08:12:06 #commands @Ghostplay R2#1298 edited message from 2018-04-20 08:12:05 () to read: 
+2018-04-20 08:12:21 #commands @Fire#5422: *multicolor 0.1  Bot
+2018-04-20 08:12:42 #commands @Fire#5422: *multicolor 0.1 TRUSTED DISCORD DEV/TESTER
+2018-04-20 08:12:43 #commands @Ghostplay R2#1298: 
+2018-04-20 08:12:44 #commands @Ghostplay R2#1298 edited message from 2018-04-20 08:12:43 () to read: 
+2018-04-20 08:13:05 #commands @Fire#5422 edited message from 2018-04-20 08:12:42 (*multicolor 0.1 TRUSTED DISCORD DEV/TESTER) to read: *multicolor 0.1 Trusted Discord DEV/Tester
+2018-04-20 08:13:12 #commands @Fire#5422: *multicolor 0.1 Trusted Discord DEV/Tester
+2018-04-20 08:13:17 #commands @Fire#5422: 😄
+2018-04-25 05:19:22 #commands @Fire#5422: -warn @Flasher/Spixer ikke reklamere! Du har 1 warn tilbage!
+2018-04-25 05:19:22 #commands @Dyno#3861: <:dynoSuccess:314691591484866560> ***Flasher#9910 has been warned***
+2018-04-25 05:21:34 #commands @Fire#5422: -warn @Flasher/Spixer Hvis du vil lave reklame her så spørg mig!
+2018-04-25 05:21:35 #commands @Dyno#3861: <:dynoSuccess:314691591484866560> ***Flasher#9910 has been warned***
+2018-04-27 17:36:29 #commands @Fire#5422: !p sad xxx
+2018-04-27 17:36:29 #commands @Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `sad xxx`
+2018-04-27 17:36:29 #commands @Rythm#3722: **Playing** 🎶 `XXXTENTACION - SAD!` - Now!
+2018-04-27 17:36:31 #commands @Synapse#0692: ```\n!p\n\nPermissions manager\n\nCommands:\n  channel Channel based permissions\n  info    Gives current info about permissions on your server\n  unlock  Globally unlocks a command from being used by anyone but owner\n  lock    Globally locks a command from being used by anyone but owner\n  reset   Resets ALL permissions on this server\n  role    Role based permissions\n\nType !p command for more info on a command.\nYou can also type !p category for more info on a category.\n```
+2018-04-27 17:36:41 #commands @Fire#5422: !p moonlight xxx
+2018-04-27 17:36:42 #commands @Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `moonlight xxx`
+2018-04-27 17:36:42 #commands @Rythm#3722: 
+2018-04-27 17:36:43 #commands @Rythm#3722 edited message from 2018-04-27 17:36:42 () to read: 
+2018-04-27 17:36:43 #commands @Synapse#0692: ```\n!p\n\nPermissions manager\n\nCommands:\n  channel Channel based permissions\n  info    Gives current info about permissions on your server\n  unlock  Globally unlocks a command from being used by anyone but owner\n  lock    Globally locks a command from being used by anyone but owner\n  reset   Resets ALL permissions on this server\n  role    Role based permissions\n\nType !p command for more info on a command.\nYou can also type !p category for more info on a category.\n```
+2018-04-27 17:36:51 #commands @Fire#5422: !p kill youreself part 3
+2018-04-27 17:36:51 #commands @Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `kill youreself part 3`
+2018-04-27 17:36:52 #commands @Synapse#0692: ```\n!p\n\nPermissions manager\n\nCommands:\n  channel Channel based permissions\n  info    Gives current info about permissions on your server\n  unlock  Globally unlocks a command from being used by anyone but owner\n  lock    Globally locks a command from being used by anyone but owner\n  reset   Resets ALL permissions on this server\n  role    Role based permissions\n\nType !p command for more info on a command.\nYou can also type !p category for more info on a category.\n```
+2018-04-27 17:36:52 #commands @Rythm#3722: 
+2018-04-27 17:36:52 #commands @Rythm#3722 edited message from 2018-04-27 17:36:52 () to read: 
+2018-04-27 17:37:02 #commands @Fire#5422: !p $uicideBoy$ A
+2018-04-27 17:37:02 #commands @Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `$uicideBoy$ A`
+2018-04-27 17:37:04 #commands @Synapse#0692: ```\n!p\n\nPermissions manager\n\nCommands:\n  channel Channel based permissions\n  info    Gives current info about permissions on your server\n  unlock  Globally unlocks a command from being used by anyone but owner\n  lock    Globally locks a command from being used by anyone but owner\n  reset   Resets ALL permissions on this server\n  role    Role based permissions\n\nType !p command for more info on a command.\nYou can also type !p category for more info on a category.\n```
+2018-04-27 17:37:05 #commands @Rythm#3722: 
+2018-04-27 17:37:05 #commands @Rythm#3722 edited message from 2018-04-27 17:37:05 () to read: 
+2018-04-27 17:44:51 #commands @Fire#5422: !loop
+2018-04-27 17:44:52 #commands @Rythm#3722: 🔂 **Enabled!**
+2018-04-27 17:51:19 #commands @Fire#5422: !p Brocoli
+2018-04-27 17:51:19 #commands @Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `Brocoli`
+2018-04-27 17:51:20 #commands @Synapse#0692: ```\n!p\n\nPermissions manager\n\nCommands:\n  channel Channel based permissions\n  info    Gives current info about permissions on your server\n  unlock  Globally unlocks a command from being used by anyone but owner\n  lock    Globally locks a command from being used by anyone but owner\n  reset   Resets ALL permissions on this server\n  role    Role based permissions\n\nType !p command for more info on a command.\nYou can also type !p category for more info on a category.\n```
+2018-04-27 17:51:20 #commands @Rythm#3722: 
+2018-04-27 17:51:20 #commands @Rythm#3722 edited message from 2018-04-27 17:51:20 () to read: 
+2018-04-27 17:51:24 #commands @Fire#5422: !loop
+2018-04-27 17:51:24 #commands @Rythm#3722: 🔂 **Disabled!**
+2018-04-27 17:55:49 #commands @Fire#5422: !p https://www.youtube.com/watch?v=251cxou3yR4
+2018-04-27 17:55:49 #commands @Rythm#3722: <:youtube:335112740957978625> **Searching** 🔎 `https://www.youtube.com/watch?v=251cxou3yR4`
+2018-04-27 17:55:49 #commands @Synapse#0692: ```\n!p\n\nPermissions manager\n\nCommands:\n  channel Channel based permissions\n  info    Gives current info about permissions on your server\n  unlock  Globally unlocks a command from being used by anyone but owner\n  lock    Globally locks a command from being used by anyone but owner\n  reset   Resets ALL permissions on this server\n  role    Role based permissions\n\nType !p command for more info on a command.\nYou can also type !p category for more info on a category.\n```
+2018-04-27 17:55:51 #commands @Fire#5422 edited message from 2018-04-27 17:55:49 (!p https://www.youtube.com/watch?v=251cxou3yR4) to read: !p https://www.youtube.com/watch?v=251cxou3yR4
+2018-04-27 17:55:50 #commands @Rythm#3722: 
+2018-04-27 17:55:51 #commands @Rythm#3722 edited message from 2018-04-27 17:55:50 () to read: 
+2018-04-30 08:37:26 #commands @vitusverden#3005: *multicolor 0.2 Trusted Discord Dev/Tester
+2018-04-30 08:37:29 #commands @Ghostplay R2#1298: 
+2018-04-30 08:37:29 #commands @Ghostplay R2#1298 edited message from 2018-04-30 08:37:29 () to read: 
+2018-04-30 08:37:34 #commands @vitusverden#3005: why
+2018-04-30 08:37:48 #commands @vitusverden#3005: *multicolor 0.2 Trusted Discord DEV/Tester
+2018-04-30 08:38:11 #commands @vitusverden#3005: *multicolor 0.005 Trusted Discord Dev/Tester
+2018-04-30 08:38:14 #commands @Ghostplay R2#1298: 
+2018-04-30 08:38:14 #commands @Ghostplay R2#1298 edited message from 2018-04-30 08:38:14 () to read: 
+2018-04-30 08:38:48 #commands @vitusverden#3005: *multicolor 0.005 Trusted Discord DEV/Tester
+2018-04-30 08:39:00 #commands @vitusverden#3005: *help
+2018-04-30 08:39:06 #commands @Ghostplay R2#1298: Hey there, @[DEV][BOT] Vitus! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-04-30 08:48:36 #commands @Fire#5422: Bare skriv det sådan der
+2018-04-30 08:48:45 #commands @Fire#5422: DK\nENG
+2018-04-30 08:50:19 #commands @vitusverden#3005: ok
+2018-04-30 08:50:33 #commands @Fire#5422: everyone\nDK\nENG
+2018-04-30 08:50:34 #commands @Fire#5422: 😃
+2018-05-02 06:51:29 #commands @Fire#5422: *multicolor
+2018-05-02 06:51:30 #commands @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-05-02 06:51:41 #commands @Fire#5422: *multicolor 0.1 Real Owner

@@ -1,0 +1,63 @@
+2018-05-02 15:33:03 this bot joined the server
+2018-05-02 15:33:03 Role created: 'Synapse' (id 441260844618219520)
+2018-05-02 15:33:03 Member role add: 'Synapse' role was added to @Synapse#0692
+2018-05-02 15:36:56 Role created: 'new role' (id 441261820142026762)
+2018-05-02 15:37:08 Role permissions: 'Synapse' changed from 8 to 262216
+2018-05-02 15:37:08 Role renamed: 'new role' to 'Owner'
+2018-05-02 15:37:33 Role created: 'new role' (id 441261976367136768)
+2018-05-02 15:37:45 Role renamed: 'new role' to 'S-bot'
+2018-05-02 15:38:03 Role mentionable: 'Owner' is now mentionable
+2018-05-02 15:38:03 Role hoist: 'Owner' is now shown seperately
+2018-05-02 15:38:03 Role permissions: 'Owner' changed from 104324161 to 2146958591
+2018-05-02 15:38:22 Role permissions: 'S-bot' changed from 104324161 to 2146958591
+2018-05-02 15:39:08 Member role add: 'Owner' role was added to @[Wug]RexT#3684
+2018-05-02 15:39:13 Member role add: 'S-bot' role was added to @Synapse#0692
+2018-05-02 15:42:12 Role color: 'Owner' changed from #000000 to #a84300
+2018-05-02 15:46:20 Member join: @PassiveBOT#2492 (id 430837105690673152)
+2018-05-02 15:46:20 Member role add: 'Passive' role was added to @PassiveBOT#2492
+2018-05-02 15:46:20 Role created: 'Passive' (id 441264185645727766)
+2018-05-02 15:46:20 Member role add: 'Passive' role was added to @PassiveBOT#2492
+2018-05-02 15:50:31 Role created: 'new role' (id 441265203196329994)
+2018-05-02 15:50:50 Role renamed: 'new role' to 'Passive'
+2018-05-02 15:50:50 Role permissions: 'new role' changed from 104324161 to 2146958591
+2018-05-02 15:53:51 Role position: 'Passive' changed from 2 to 1
+2018-05-02 15:53:51 Role position: 'S-bot' changed from 3 to 2
+2018-05-02 15:53:51 Role position: 'Owner' changed from 4 to 3
+2018-05-02 15:53:51 Role position: 'Synapse' changed from 5 to 4
+2018-05-02 15:53:51 Role position: 'Passive' changed from 1 to 5
+2018-05-02 15:53:55 Role position: 'S-bot' changed from 2 to 1
+2018-05-02 15:53:55 Role position: 'Owner' changed from 3 to 2
+2018-05-02 15:53:55 Role position: 'Synapse' changed from 4 to 3
+2018-05-02 15:53:55 Role position: 'Passive' changed from 5 to 4
+2018-05-02 15:53:55 Role position: 'Passive' changed from 1 to 5
+2018-05-02 15:53:58 Role deleted: 'Passive' (id 441265203196329994)
+2018-05-02 15:55:46 Member join: @Ghostplay R2#1298 (id 435829986772123658)
+2018-05-02 15:55:46 Member role add: 'Ghostplay R2' role was added to @Ghostplay R2#1298
+2018-05-02 15:55:46 Role created: 'Ghostplay R2' (id 441266562121334785)
+2018-05-02 15:55:46 Member role add: 'Ghostplay R2' role was added to @Ghostplay R2#1298
+2018-05-02 15:55:49 Role deleted: 'Ghostplay R2' (id 441266562121334785)
+2018-05-02 15:55:49 Member leave: @Ghostplay R2#1298 (id 435829986772123658)
+2018-05-02 15:56:21 Role created: 'new role' (id 441266701078757377)
+2018-05-02 15:56:29 Role renamed: 'new role' to 'GP-bot'
+2018-05-02 15:56:34 Role permissions: 'GP-bot' changed from 104324161 to 104324169
+2018-05-02 15:57:12 Member join: @Ghostplay R2#1298 (id 435829986772123658)
+2018-05-02 15:57:12 Role created: 'Ghostplay R2' (id 441266890690789397)
+2018-05-02 15:57:12 Member role add: 'Ghostplay R2' role was added to @Ghostplay R2#1298
+2018-05-02 15:57:12 Role deleted: 'Ghostplay R2' (id 441266890690789397)
+2018-05-02 15:57:12 Member leave: @Ghostplay R2#1298 (id 435829986772123658)
+2018-05-02 15:57:40 Role permissions: 'GP-bot' changed from 104324169 to 2146958591
+2018-05-02 15:58:20 Role deleted: 'Passive' (id 441264185645727766)
+2018-05-02 15:58:20 Member leave: @PassiveBOT#2492 (id 430837105690673152)
+2018-05-02 16:10:57 Member join: @Nadeko#6685 (id 116275390695079945)
+2018-05-02 16:10:57 Member role add: 'Nadeko' role was added to @Nadeko#6685
+2018-05-02 16:10:57 Role created: 'Nadeko' (id 441270383836921866)
+2018-05-02 16:10:57 Member role add: 'Nadeko' role was added to @Nadeko#6685
+2018-05-02 16:13:06 Member role add: 'Owner' role was added to @Nadeko#6685
+2018-05-02 16:20:47 Member join: @BoobBot™#5382 (id 285480424904327179)
+2018-05-02 16:21:30 Channel created: nsfw
+2018-05-02 16:21:47 Channel topic: nsfw topic was set to ""
+2018-05-02 16:22:39 Role created: 'new role' (id 441273325185138690)
+2018-05-02 16:23:00 Role permissions: 'Nadeko' changed from 66186303 to 66448511
+2018-05-02 16:23:01 Role renamed: 'new role' to 'BBboobs'
+2018-05-02 16:23:01 Role permissions: 'new role' changed from 104324161 to 2146958591
+2018-05-02 18:44:39 Member role add: 'BBboobs' role was added to @BoobBot™#5382

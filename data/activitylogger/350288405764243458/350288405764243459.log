@@ -1,0 +1,24 @@
+2018-04-24 14:06:28 #csgoteamcall @Synapse#0692: 
+2018-04-24 14:06:49 #csgoteamcall @Ghostplay R2#1298: 
+2018-04-24 14:10:58 #csgoteamcall @Mert/Logihx/14#6760: .multicolor 2  YÖNETİCİ
+2018-04-24 14:13:18 #csgoteamcall @Mert/Logihx/14#6760: .multicolor 2 YÖNETİCİ
+2018-04-24 14:13:45 #csgoteamcall @Mert/Logihx/14#6760: *help
+2018-04-24 14:13:50 #csgoteamcall @Ghostplay R2#1298: Hey there, @Mert/Logihx/14! I sent you the list of commands in a private message.\nCheck your direct messages
+2018-04-24 14:14:36 #csgoteamcall @Mert/Logihx/14#6760: *mutlicolor 2 Yönetici
+2018-04-24 14:14:45 #csgoteamcall @Mert/Logihx/14#6760 edited message from 2018-04-24 14:14:36 (*mutlicolor 2 Yönetici) to read: *mutlicolor 2 YÖNETİCİ
+2018-04-24 14:15:18 #csgoteamcall @Mert/Logihx/14#6760: *multicolor YÖNETİCİ
+2018-04-24 14:15:23 #csgoteamcall @Ghostplay R2#1298: ```\n*[multicolor|multicolour] <interval> <role>\n\nChanges the role color every x seconds\n\n```
+2018-04-24 14:15:55 #csgoteamcall @Mert/Logihx/14#6760: *multicolor 1 YÖNETİCİ
+2018-04-24 14:16:01 #csgoteamcall @Ghostplay R2#1298: 
+2018-04-24 14:16:01 #csgoteamcall @Ghostplay R2#1298 edited message from 2018-04-24 14:16:01 () to read: 
+2018-04-24 14:16:04 #csgoteamcall @Mert/Logihx/14#6760 edited message from 2018-04-24 14:15:55 (*multicolor 1 YÖNETİCİ) to read: *multicolour 1 YÖNETİCİ
+2018-04-24 14:16:22 #csgoteamcall @Mert/Logihx/14#6760: *multiclour 1 Yönetici
+2018-04-24 14:16:30 #csgoteamcall @Mert/Logihx/14#6760: !help
+2018-04-24 14:16:32 #csgoteamcall @Synapse#0692: Check your DM, @Mert/Logihx/14! I have sent something for you :wink:
+2018-04-24 14:17:26 #csgoteamcall @Mert/Logihx/14#6760: !colourme
+2018-04-24 14:17:30 #csgoteamcall @Mert/Logihx/14#6760: r6s
+2018-04-24 14:17:35 #csgoteamcall @Mert/Logihx/14#6760: !r6s
+2018-04-24 14:17:36 #csgoteamcall @Synapse#0692: @Mert/Logihx/14, 🚫 The owner needs to set credentials first.\nSee: `!r6sset`
+2018-04-24 14:17:46 #csgoteamcall @Mert/Logihx/14#6760: !colourme
+2018-04-24 14:17:55 #csgoteamcall @Mert/Logihx/14#6760: !colorme
+2018-04-24 14:17:55 #csgoteamcall @Synapse#0692: ```\n!colorme\n\nChange the color of your name via custom roles.\n\nCommands:\n  clean       Clean colorme roles by removing all permissions.\n  change      Change the color of your name.\n  listprotect Lists roles that are protected from color changes.\n  unprotect   Remove a role from the list of protected roles.\n  purge       Purge the server of roles that may have been created\n  protect     Add a role to the list of protected roles.\n\nType !colorme command for more info on a command.\nYou can also type !colorme category for more info on a category.\n```

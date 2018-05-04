@@ -1,0 +1,555 @@
+2018-04-19 18:26:00 #bot-config @Mr. Robot#0007: !autorole
+2018-04-19 18:26:01 #bot-config @Synapse#0692: ```\n!autorole\n\nChange settings for autorole\n\nRequires the manage roles permission\n\nCommands:\n  role      Set role for autorole to assign.\n  agreement Set the channel and message that will be used for accepting the r...\n  toggle    Enables/Disables autorole\n\nType !autorole command for more info on a command.\nYou can also type !autorole category for more info on a category.\n```
+2018-04-19 18:26:01 #bot-config @Synapse#0692: ```Current autorole state: False```
+2018-04-19 18:26:24 #bot-config @Mr. Robot#0007: !autorole role member
+2018-04-19 18:26:24 #bot-config @Synapse#0692: Autorole set to member
+2018-04-19 18:26:38 #bot-config @Mr. Robot#0007: !autorole toggle
+2018-04-19 18:26:38 #bot-config @Synapse#0692: Autorole is now enabled.
+2018-04-19 18:27:38 #bot-config @Mr. Robot#0007: !alias add cs !redportal search
+2018-04-19 18:27:38 #bot-config @Synapse#0692: Alias 'cs' added.
+2018-04-19 18:28:12 #bot-config @Mr. Robot#0007: !alias add up !cleanup messages
+2018-04-19 18:28:13 #bot-config @Synapse#0692: Alias 'up' added.
+2018-04-19 18:28:28 #bot-config @Mr. Robot#0007: !alias add upbot !cleanup bot
+2018-04-19 18:28:28 #bot-config @Synapse#0692: Alias 'upbot' added.
+2018-04-19 18:28:45 #bot-config @Mr. Robot#0007: !alias add upuser !cleanup user
+2018-04-19 18:28:45 #bot-config @Synapse#0692: Alias 'upuser' added.
+2018-04-19 18:29:07 #bot-config @Mr. Robot#0007: !alias add bal !bank balance
+2018-04-19 18:29:08 #bot-config @Synapse#0692: Alias 'bal' added.
+2018-04-19 18:29:22 #bot-config @Mr. Robot#0007: !alias add lb !leaderboard
+2018-04-19 18:29:22 #bot-config @Synapse#0692: Alias 'lb' added.
+2018-04-19 18:29:56 #bot-config @Mr. Robot#0007: !alias add pdeny !p role deny
+2018-04-19 18:29:56 #bot-config @Synapse#0692: Alias 'pdeny' added.
+2018-04-19 18:30:09 #bot-config @Mr. Robot#0007: !alias add pallow !p role allow
+2018-04-19 18:30:09 #bot-config @Synapse#0692: Alias 'pallow' added.
+2018-04-19 18:30:29 #bot-config @Mr. Robot#0007: !alias add plock !p lock
+2018-04-19 18:30:29 #bot-config @Synapse#0692: Alias 'plock' added.
+2018-04-19 18:30:51 #bot-config @Mr. Robot#0007: !alias add punlock !p unlock
+2018-04-19 18:30:51 #bot-config @Synapse#0692: Alias 'punlock' added.
+2018-04-19 18:31:00 #bot-config @Mr. Robot#0007: !upbot 10
+2018-04-19 18:31:06 #bot-config @Mr. Robot#0007: !upbot
+2018-04-19 18:31:07 #bot-config @Synapse#0692: ```\n!cleanup bot <number>\n\nCleans up command messages and messages from the bot\n\n```
+2018-04-19 18:31:17 #bot-config @Mr. Robot#0007: !upbot 100
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:26:00 (!autorole)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:26:01 (```\n!autorole\n\nChange settings for autorole\n\nRequires the manage roles permission\n\nCommands:\n  role      Set role for autorole to assign.\n  agreement Set the channel and message that will be used for accepting the r...\n  toggle    Enables/Disables autorole\n\nType !autorole command for more info on a command.\nYou can also type !autorole category for more info on a category.\n```)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:26:01 (```Current autorole state: False```)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:26:24 (!autorole role member)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:26:24 (Autorole set to member)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:26:38 (!autorole toggle)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:26:38 (Autorole is now enabled.)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:27:38 (!alias add cs !redportal search)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:27:38 (Alias 'cs' added.)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:28:12 (!alias add up !cleanup messages)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:28:13 (Alias 'up' added.)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:28:28 (!alias add upbot !cleanup bot)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:28:28 (Alias 'upbot' added.)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:28:45 (!alias add upuser !cleanup user)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:28:45 (Alias 'upuser' added.)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:29:07 (!alias add bal !bank balance)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:29:08 (Alias 'bal' added.)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:29:22 (!alias add lb !leaderboard)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:29:22 (Alias 'lb' added.)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:29:56 (!alias add pdeny !p role deny)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:29:56 (Alias 'pdeny' added.)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:30:09 (!alias add pallow !p role allow)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:30:09 (Alias 'pallow' added.)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:30:29 (!alias add plock !p lock)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:30:29 (Alias 'plock' added.)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:31:07 (```\n!cleanup bot <number>\n\nCleans up command messages and messages from the bot\n\n```)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:31:17 (!upbot 100)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:30:51 (!alias add punlock !p unlock)
+2018-04-19 18:31:18 #bot-config @Synapse#0692 deleted message from 2018-04-19 18:30:51 (Alias 'punlock' added.)
+2018-04-19 18:31:18 #bot-config @Mr. Robot#0007 deleted message from 2018-04-19 18:31:00 (!upbot 10)
+2018-04-19 18:31:37 #bot-config @Mr. Robot#0007: !modlogset
+2018-04-19 18:31:37 #bot-config @Synapse#0692: ```\n!modlogset\n\nChange modlog settings\n\nCommands:\n  channel Set the channel to send notifications too\n  embed   Enables or disables embed modlog.\n  disable disables the modlog\n\nType !modlogset command for more info on a command.\nYou can also type !modlogset category for more info on a category.\n```
+2018-04-19 18:40:16 #bot-config @Mr. Robot#0007: !reddit
+2018-04-19 18:40:16 #bot-config @Synapse#0692: ```\n!reddit\n\nMain Reddit command\n\nCommands:\n  user Commands for getting user info\n\nType !reddit command for more info on a command.\nYou can also type !reddit category for more info on a category.\n```
+2018-04-19 18:40:27 #bot-config @Mr. Robot#0007: !reddit user
+2018-04-19 18:40:27 #bot-config @Synapse#0692: ```\n!reddit user <username>\n\nCommands for getting user info\n\n```
+2018-04-19 18:40:38 #bot-config @Mr. Robot#0007: !reddit user ani1501
+2018-04-19 18:40:38 #bot-config @Synapse#0692: `Error in command 'reddit user'. Check your console or logs for details.`
+2018-04-19 19:51:45 #bot-config @Mr. Robot#0007: !ping
+2018-04-20 04:03:08 #bot-config @Mr. Robot#0007: !addroele Shankwolf member
+2018-04-20 04:03:23 #bot-config @Mr. Robot#0007: !addrole Shankwolf member
+2018-04-20 04:03:23 #bot-config @Synapse#0692: ```\n!addrole <rolename> [user]\n\nAdds a role to a user, defaults to author\n\nRole name must be in quotes if there are spaces.\n\n```
+2018-04-20 04:03:41 #bot-config @Mr. Robot#0007: !addrole member Shankwolf
+2018-04-20 04:03:41 #bot-config @Synapse#0692: Added role member to Shankwolf
+2018-04-21 04:29:52 #bot-config @Mr. Robot#0007: !partycrash
+2018-04-21 04:29:53 #bot-config @Synapse#0692: ```\n1: :3\n2: A Kittah Server\n3: Ayee Its iiSure Fan Group\n4: CS:GO\n5: CS:GO | Friends for the game\n6: CSGO/Minecraft\n7: Chinkboy2018\n8: CrableCraft\n9: Dark Productions\n10: Darkis\n11: Discord Bots\n12: Dusk eSports\n13: Dvärgen's Discord\n14: EKIPA LAILEN\n15: FAS XZ\n16: FREE FIRE Indonesia\n17: Game4everGoldy Literally"Fans"\n18: Gaming Nation\n19: Grayscale\n20: Guardian Wolves\n21: Here Come Dat Boi <3\n22: ImDeerling's House♡\n23: KaSTeTa's Official Server\n24: KÄÄÄÅÅTEEN\n25: L.C RolePlay\n26: Mods & Hugs\n27: Nexus Server Comunity\n28: Niggers are white (Christian server)\n29: Normie Cult\n30: PUBG\n31: PrinceMc. Community\n32: RERERERE\n33: Randomness\n34: Robo\n35: Skrill's House\n36: SpeckyYT's Server\n37: Synapse Support\n38: TMP [TIEMPO]😎\n39: Yaya\n40: ZibranArtz's Team  - Thx For Clicking The Link To Join :D\n41: [#*StyleSquad*#]\n42: buhamood_hideout\n43: chat room of doom!!!\n44: dhvcg\n45: films ß gratos\n46: ne\n47: private channel\n48: shadowgangFTW\n49: test\n50: yee haw\n51: ауц\n52: بروقيمر\n53: ♛ Art ♛ Craft ♛\n54: ♛ 𝒜𝓁𝓂𝒶𝓈 𝓅𝑒𝓇𝒹𝒾𝒹𝒶𝓈 ♛\n55: 〖 Ghost GAMES 〗\n56: Ａｒｃｈｉｔｅｃｔｕｒｅ\n57: 💚 SeezClan💚\n58: 💬 2wild4u NextgenForum\n\nTo post an invite for a server just type its number.\n```
+2018-04-21 04:30:09 #bot-config @Synapse#0692: Response timed out.
+2018-04-21 07:24:58 #bot-config @Mr. Robot#0007: !sudo Adir serverinfo
+2018-04-21 07:24:58 #bot-config @Synapse#0692: 
+2018-04-21 07:24:58 #bot-config @Synapse#0692 edited message from 2018-04-21 07:24:58 () to read: 
+2018-04-21 07:25:21 #bot-config @Mr. Robot#0007: !pdeny server serverinfo
+2018-04-21 07:25:30 #bot-config @Mr. Robot#0007: !pdeny
+2018-04-21 07:25:30 #bot-config @Synapse#0692: ```\n!p role deny <command> <role>\n\nExplicitly denies [command/cog] usage by [role] server wide\n\nThis OVERRIDES channel based permissions\n\n```
+2018-04-21 07:25:44 #bot-config @Mr. Robot#0007: !pdeny serverinfo member
+2018-04-21 07:25:44 #bot-config @Synapse#0692: Role member denied use of serverinfo.
+2018-04-21 07:25:54 #bot-config @Mr. Robot#0007: !sudo Adir serverinfo
+2018-04-21 07:27:50 #bot-config @Mr. Robot#0007: !hackban 391606357788327954 exo not allowed
+2018-04-21 07:27:51 #bot-config @Synapse#0692: Done. The user will not be able to join this server.
+2018-04-21 07:28:31 #bot-config @Mr. Robot#0007: !hackban 278056548369170438
+2018-04-21 07:28:32 #bot-config @Synapse#0692: Done. The user will not be able to join this server.
+2018-04-21 07:29:19 #bot-config @Mr. Robot#0007: !hackban 291226226608308224
+2018-04-21 07:29:19 #bot-config @Synapse#0692: Done. The user will not be able to join this server.
+2018-04-21 19:13:07 #bot-config @Mr. Robot#0007: !whisper 437196589707165702 you here for money drop or 1 billion recovery?
+2018-04-21 19:13:08 #bot-config @Synapse#0692: Succesfully sent message to 437196589707165702
+2018-04-21 19:20:22 #bot-config @Mr. Robot#0007: !riftopen 436584553235218432
+2018-04-21 19:20:22 #bot-config @Synapse#0692: A rift has been opened! Everything you say will be relayed to that channel.\nResponses will be relayed here.\nType `exit` to quit.
+2018-04-21 19:20:26 #bot-config @Mr. Robot#0007: Hi
+2018-04-21 19:20:59 #bot-config @Synapse#0692: Bozito!?!?!!#0368: HI
+2018-04-21 19:21:04 #bot-config @Synapse#0692: Bozito!?!?!!#0368: @Synapse
+2018-04-21 19:21:10 #bot-config @Synapse#0692: Bozito!?!?!!#0368: !help
+2018-04-21 19:21:34 #bot-config @Mr. Robot#0007: 😙
+2018-04-21 19:21:43 #bot-config @Synapse#0692: Bozito!?!?!!#0368: !emote
+2018-04-21 19:21:48 #bot-config @Synapse#0692: Bozito!?!?!!#0368: !emote BANANA
+2018-04-21 19:21:51 #bot-config @Synapse#0692: Bozito!?!?!!#0368: !emote davb
+2018-04-21 19:21:54 #bot-config @Synapse#0692: Bozito!?!?!!#0368: !emote
+2018-04-21 19:21:54 #bot-config @Mr. Robot#0007: What
+2018-04-21 19:22:13 #bot-config @Synapse#0692: Bozito!?!?!!#0368: !spotify
+2018-04-21 19:22:20 #bot-config @Synapse#0692: Bozito!?!?!!#0368: !spotify Rap god
+2018-04-21 19:22:23 #bot-config @Mr. Robot#0007: Exit
+2018-04-21 19:22:23 #bot-config @Synapse#0692: Rift closed.
+2018-04-21 19:24:47 #bot-config @Mr. Robot#0007: !cs lyrics
+2018-04-21 19:24:47 #bot-config @Synapse#0692: No cogs were found or there was an error in the process
+2018-04-22 07:18:15 #bot-config @Mr. Robot#0007: !servers
+2018-04-22 07:18:15 #bot-config @Synapse#0692: 0: 420\n1: :3\n2: ? ?\n3: [#*StyleSquad*#]\n4: A Kittah Server\n5: asd\n6: Ayee Its iiSure Fan Group\n7: Bass Night\n8: buhamood_hideout\n9: chat room of doom!!!\n10: CHBY錩者社群\n11: Chinkboy2018\n12: coba\n13: Collin's Christian Server\n14: Corentin server !\n15: CrableCraft\n16: CS:GO\n17: CS:GO | Friends for the game\n18: CSGO/Minecraft\n19: Dark Productions\n20: Darkis\n21: Derp Gamerek\n22: dhvcg\n23: Din mor\n24: Dis'Run ✔\n25: Discord Bots\n26: Don't forget to feed your neopets\n27: dragon Ball-z fan club\n28: DU tapai\n29: Dusk eSports\n30: Dvärgen's Discord\n31: Emote Servers\n32: FAS XZ\n33: films ß gratos\n34: Fortnite\n35: Fortnite\n36: FREE FIRE Indonesia\n37: GalacticPVP\n38: Game4everGoldy Literally"Fans"\n39: Gaming Nation\n40: Gaymers\n41: Grayscale\n42: Here Come Dat Boi <3\n43: Impossible Country\n44: KAMILOT\n45: KaSTeTa's Official Server\n46: KÄÄÄÅÅTEEN\n47: Les BFF\n48: mehhhhh\n49: MianBlox\n50: Modern RolePlay\n51: Mods & Hugs\n52: ne\n53: Nexus Server Comunity\n54: Niggers are white (Christian server)\n55: No Name\n56: Normie Cult\n57: OGLE winter megacollab\n58: Pepe's Playhouse\n59: PRINCE PALACE\n60: PrinceMc. Community\n61: private channel\n62: PUBG\n63: Randomness\n64: RERERERE\n65: Robo\n66: salemgaming\n67: Servidor Noob\n68: shadowgangFTW\n69: shigetora\n70: SpeckyYT's Server\n71: SpeedzArmy\n72: srtShyzo\n73: SS1\n74: Synapse Support\n75: test\n76: test\n77: TestingBot "MysticTeam"\n78: The Fluffy Gang\n79: TMP [TIEMPO]😎\n80: TreeZy___ #TzY___\n81: vip\n82: Viper's House\n83: why\n84: Xiomara\n85: Xxx_KingDoge_xxX FanClub\n86: Yaya\n87: yee haw\n88: ZibranArtz's Team  - Thx For Clicking The Link To Join :D\n89: ауц\n90: ღ Official ღ\n91: ⎣ ❄ Lucky 7 ❄ ⎦\n92: ☯Hangout Time☯\n93: ♛ Art ♛ Craft ♛\n94: ♛ 𝒜𝓁𝓂𝒶𝓈 𝓅𝑒𝓇𝒹𝒾𝒹𝒶𝓈 ♛\n95: ⚡LobbyPentHouse✨\n96: ✏Les p'tits dessinateurs\n97: ✯ 𝑺𝒖𝒏𝑹𝒊𝒔𝒆 ✯\n98: 〖 Ghost GAMES 〗\n99: Ａｒｃｈｉｔｅｃｔｕｒｅ\n100: 💚 SeezClan💚\n\nTo leave a server just type its number.
+2018-04-22 08:02:54 #bot-config @Mr. Robot#0007: !ptch
+2018-04-22 08:03:01 #bot-config @Mr. Robot#0007: !partycrash
+2018-04-22 08:03:01 #bot-config @Synapse#0692: ```\n1: 420\n2: :3\n3: ? ?\n4: A Kittah Server\n5: Ayee Its iiSure Fan Group\n6: Bass Night\n7: CHBY錩者社群\n8: CS:GO\n9: CS:GO | Friends for the game\n10: CSGO/Minecraft\n11: Chinkboy2018\n12: Collin's Christian Server\n13: Corentin server !\n14: CrableCraft\n15: DU tapai\n16: Dark Productions\n17: Darkis\n18: Derp Gamerek\n19: Din mor\n20: Dis'Run ✔\n21: Discord Bots\n22: Don't forget to feed your neopets\n23: Dusk eSports\n24: Dvärgen's Discord\n25: Emote Servers\n26: FAS XZ\n27: FREE FIRE Indonesia\n28: Fortnite\n29: Fortnite\n30: GalacticPVP\n31: Game4everGoldy Literally"Fans"\n32: Gaming Nation\n33: Gaymers\n34: Grayscale\n35: Here Come Dat Boi <3\n36: Impossible Country\n37: KAMILOT\n38: KaSTeTa's Official Server\n39: KÄÄÄÅÅTEEN\n40: Les BFF\n41: MianBlox\n42: Modern RolePlay\n43: Mods & Hugs\n44: Nexus Server Comunity\n45: Niggers are white (Christian server)\n46: No Name\n47: Normie Cult\n48: OGLE winter megacollab\n49: PUBG\n50: Pepe's Playhouse\n51: PrinceMc. Community\n52: RERERERE\n53: Randomness\n54: Robo\n55: SS1\n56: Servidor Noob\n57: SpeckyYT's Server\n58: SpeedzArmy\n59: Synapse Support\n60: TMP [TIEMPO]😎\n61: TestingBot "MysticTeam"\n62: The Fluffy Gang\n63: TreeZy___ #TzY___\n64: Vio's children\n65: Viper's House\n66: Xiomara\n67: Xxx_KingDoge_xxX FanClub\n68: Yaya\n69: ZibranArtz's Team  - Thx For Clicking The Link To Join :D\n70: [#*StyleSquad*#]\n71: asd\n72: buhamood_hideout\n73: chat room of doom!!!\n74: coba\n75: dhvcg\n76: dragon Ball-z fan club\n77: films ß gratos\n78: mehhhhh\n79: ne\n80: private channel\n81: salemgaming\n82: shadowgangFTW\n83: shigetora\n84: srtShyzo\n85: tesadfsertaw\n86: test\n87: test\n88: vip\n89: why\n90: yee haw\n91: ауц\n92: ღ Official ღ\n93: ⎣ ❄ Lucky 7 ❄ ⎦\n94: ☯Hangout Time☯\n95: ♛ Art ♛ Craft ♛\n96: ♛ 𝒜𝓁𝓂𝒶𝓈 𝓅𝑒𝓇𝒹𝒾𝒹𝒶𝓈 ♛\n97: ⚡LobbyPentHouse✨\n98: ✏Les p'tits dessinateurs\n99: ✯ 𝑺𝒖𝒏𝑹𝒊𝒔𝒆 ✯\n100: 〖 Ghost GAMES 〗\n101: Ａｒｃｈｉｔｅｃｔｕｒｅ\n102: 💚 SeezClan💚\n\nTo post an invite for a server just type its number.\n```
+2018-04-22 08:03:10 #bot-config @Mr. Robot#0007: 61
+2018-04-22 08:03:10 #bot-config @Synapse#0692: Are you sure you want to post an invite to TestingBot "MysticTeam" here? (yes/no)
+2018-04-22 08:03:13 #bot-config @Mr. Robot#0007: Yes
+2018-04-22 08:03:13 #bot-config @Synapse#0692: http://discord.gg/pVf4pGe
+2018-04-22 11:02:28 #bot-config @Mr. Robot#0007: !uptime
+2018-04-22 11:02:30 #bot-config @Mr. Robot#0007: .ping
+2018-04-22 11:02:30 #bot-config @Synapse#0692: 🏓
+2018-04-22 11:02:30 #bot-config @Synapse#0692: 
+2018-04-22 11:03:39 #bot-config @Synapse#0692 edited message from 2018-04-22 11:02:30 () to read: 
+2018-04-22 11:03:39 #bot-config @Synapse#0692 deleted message from 2018-04-22 11:02:30 (🏓)
+2018-04-22 11:02:35 #bot-config @Mr. Robot#0007: !ping
+2018-04-22 11:02:38 #bot-config @Mr. Robot#0007: !pingt
+2018-04-22 11:05:19 #bot-config @Mr. Robot#0007: !pingt
+2018-04-22 11:17:53 #bot-config @Mr. Robot#0007: !pingt
+2018-04-22 11:17:54 #bot-config @Synapse#0692: ping: 184ms
+2018-04-22 11:17:57 #bot-config @Mr. Robot#0007: !pingt
+2018-04-22 11:17:57 #bot-config @Synapse#0692: ping: 137ms
+2018-04-22 11:18:02 #bot-config @Mr. Robot#0007: !load admin
+2018-04-22 11:18:02 #bot-config @Synapse#0692: Cog was found and possibly loaded but something went wrong. Check your console or logs for more information.
+2018-04-22 11:18:06 #bot-config @Mr. Robot#0007: .ping
+2018-04-22 11:18:07 #bot-config @Synapse#0692: 🏓
+2018-04-22 11:18:08 #bot-config @Synapse#0692 deleted message from 2018-04-22 11:18:07 (🏓)
+2018-04-22 11:18:08 #bot-config @Synapse#0692: 
+2018-04-22 11:18:08 #bot-config @Synapse#0692 edited message from 2018-04-22 11:18:08 () to read: 
+2018-04-22 11:18:11 #bot-config @Mr. Robot#0007: .ping
+2018-04-22 11:18:11 #bot-config @Synapse#0692: 🏓
+2018-04-22 11:18:11 #bot-config @Synapse#0692: 
+2018-04-22 11:18:11 #bot-config @Synapse#0692 deleted message from 2018-04-22 11:18:11 (🏓)
+2018-04-22 11:18:11 #bot-config @Synapse#0692 edited message from 2018-04-22 11:18:11 () to read: 
+2018-04-22 11:18:15 #bot-config @Mr. Robot#0007: .ping
+2018-04-22 11:18:15 #bot-config @Synapse#0692: 🏓
+2018-04-22 11:18:15 #bot-config @Synapse#0692: 
+2018-04-22 11:18:15 #bot-config @Synapse#0692 edited message from 2018-04-22 11:18:15 () to read: 
+2018-04-22 11:18:15 #bot-config @Synapse#0692 deleted message from 2018-04-22 11:18:15 (🏓)
+2018-04-22 11:18:17 #bot-config @Mr. Robot#0007: !pingt
+2018-04-22 11:18:17 #bot-config @Synapse#0692: ping: 131ms
+2018-04-22 11:18:25 #bot-config @Mr. Robot#0007: .ping
+2018-04-22 11:18:25 #bot-config @Synapse#0692: 🏓
+2018-04-22 11:18:26 #bot-config @Synapse#0692: 
+2018-04-22 11:18:26 #bot-config @Synapse#0692 deleted message from 2018-04-22 11:18:25 (🏓)
+2018-04-22 11:18:26 #bot-config @Synapse#0692 edited message from 2018-04-22 11:18:26 () to read: 
+2018-04-22 11:18:31 #bot-config @Mr. Robot#0007: !uptime
+2018-04-22 11:18:31 #bot-config @Synapse#0692: Been up for: **0 hours, 2 minutes, and 59 seconds** (since 2018-04-22 11:15:31 UTC)
+2018-04-22 11:19:01 #bot-config @Mr. Robot#0007: !set game !help | .help
+2018-04-22 11:19:01 #bot-config @Synapse#0692: Done.
+2018-04-22 11:32:56 #bot-config @Mr. Robot#0007: .ping
+2018-04-22 11:32:56 #bot-config @Synapse#0692: 🏓
+2018-04-22 11:32:58 #bot-config @Synapse#0692 deleted message from 2018-04-22 11:32:56 (🏓)
+2018-04-22 11:32:57 #bot-config @Synapse#0692: 
+2018-04-22 11:32:58 #bot-config @Synapse#0692 edited message from 2018-04-22 11:32:57 () to read: 
+2018-04-22 11:33:02 #bot-config @Mr. Robot#0007: .ping
+2018-04-22 11:33:02 #bot-config @Synapse#0692: 🏓
+2018-04-22 11:33:02 #bot-config @Synapse#0692 deleted message from 2018-04-22 11:33:02 (🏓)
+2018-04-22 11:33:02 #bot-config @Synapse#0692: 
+2018-04-22 11:33:02 #bot-config @Synapse#0692 edited message from 2018-04-22 11:33:02 () to read: 
+2018-04-22 11:33:10 #bot-config @Mr. Robot#0007: .8ball
+2018-04-22 11:33:17 #bot-config @Mr. Robot#0007: .modules
+2018-04-22 11:33:17 #bot-config @Synapse#0692: 
+2018-04-22 11:33:18 #bot-config @Synapse#0692 edited message from 2018-04-22 11:33:17 () to read: 
+2018-04-22 11:33:39 #bot-config @Mr. Robot#0007: .cmds permissions
+2018-04-22 11:33:39 #bot-config @Synapse#0692: 
+2018-04-22 11:33:40 #bot-config @Synapse#0692 edited message from 2018-04-22 11:33:39 () to read: 
+2018-04-22 11:34:10 #bot-config @Mr. Robot#0007: .listperms @Dropper
+2018-04-22 11:34:22 #bot-config @Mr. Robot#0007: .lp @JoeyMoDZ
+2018-04-22 11:34:27 #bot-config @Mr. Robot#0007: .h lp
+2018-04-22 11:34:27 #bot-config @Synapse#0692: 
+2018-04-22 11:34:27 #bot-config @Synapse#0692 edited message from 2018-04-22 11:34:27 () to read: 
+2018-04-22 11:34:41 #bot-config @Mr. Robot#0007: .h listeperms
+2018-04-22 11:34:41 #bot-config @Synapse#0692: 
+2018-04-22 11:34:41 #bot-config @Synapse#0692 edited message from 2018-04-22 11:34:41 () to read: 
+2018-04-22 11:34:56 #bot-config @Mr. Robot#0007: .h permrole
+2018-04-22 11:34:56 #bot-config @Synapse#0692: 
+2018-04-22 11:34:56 #bot-config @Synapse#0692 edited message from 2018-04-22 11:34:56 () to read: 
+2018-04-22 11:35:43 #bot-config @Mr. Robot#0007: .cmds searches
+2018-04-22 11:35:43 #bot-config @Synapse#0692: 
+2018-04-22 11:35:43 #bot-config @Synapse#0692 edited message from 2018-04-22 11:35:43 () to read: 
+2018-04-22 11:35:53 #bot-config @Mr. Robot#0007: .g hey bitch
+2018-04-22 11:35:59 #bot-config @Mr. Robot#0007: .h google
+2018-04-22 11:35:59 #bot-config @Synapse#0692: 
+2018-04-22 11:35:59 #bot-config @Synapse#0692 edited message from 2018-04-22 11:35:59 () to read: 
+2018-04-22 11:36:13 #bot-config @Mr. Robot#0007: .g big shaq
+2018-04-22 11:36:21 #bot-config @Mr. Robot#0007: .google hey
+2018-04-22 11:36:36 #bot-config @Mr. Robot#0007: .g why
+2018-04-22 11:36:59 #bot-config @Mr. Robot#0007: .lolban
+2018-04-22 11:37:00 #bot-config @Synapse#0692: 
+2018-04-22 11:37:00 #bot-config @Synapse#0692 edited message from 2018-04-22 11:37:00 () to read: 
+2018-04-22 11:37:15 #bot-config @Mr. Robot#0007: .rip
+2018-04-22 11:37:21 #bot-config @Mr. Robot#0007: .rip @JoeyMoDZ
+2018-04-22 11:37:24 #bot-config @Synapse#0692: Rip **JoeyMoDZ#5298** \n	- *Mr. Robot#0007* (attachment url(s): https://cdn.discordapp.com/attachments/436592689916542986/437577663520178176/rip.png)
+2018-04-22 11:37:46 #bot-config @Mr. Robot#0007: .autotrans
+2018-04-22 11:37:46 #bot-config @Synapse#0692: 
+2018-04-22 11:37:46 #bot-config @Synapse#0692 edited message from 2018-04-22 11:37:46 () to read: 
+2018-04-22 11:37:57 #bot-config @Mr. Robot#0007: ich
+2018-04-22 11:38:15 #bot-config @Mr. Robot#0007: .autotranslang
+2018-04-22 11:38:26 #bot-config @Mr. Robot#0007: .h autotranslang
+2018-04-22 11:38:27 #bot-config @Synapse#0692: 
+2018-04-22 11:38:27 #bot-config @Synapse#0692 edited message from 2018-04-22 11:38:27 () to read: 
+2018-04-22 11:38:44 #bot-config @Mr. Robot#0007: .atl en
+2018-04-22 11:38:59 #bot-config @Mr. Robot#0007: .atl german>english
+2018-04-22 11:38:59 #bot-config @Synapse#0692: 
+2018-04-22 11:38:59 #bot-config @Synapse#0692 edited message from 2018-04-22 11:38:59 () to read: 
+2018-04-22 11:39:04 #bot-config @Mr. Robot#0007: ich
+2018-04-22 11:39:04 #bot-config @Synapse#0692: 
+2018-04-22 11:39:06 #bot-config @Synapse#0692 edited message from 2018-04-22 11:39:04 () to read: 
+2018-04-22 11:39:11 #bot-config @Mr. Robot#0007: ich bin
+2018-04-22 11:39:11 #bot-config @Synapse#0692: 
+2018-04-22 11:39:11 #bot-config @Synapse#0692 edited message from 2018-04-22 11:39:11 () to read: 
+2018-04-22 11:39:15 #bot-config @Mr. Robot#0007: madchen
+2018-04-22 11:39:15 #bot-config @Synapse#0692: 
+2018-04-22 11:39:15 #bot-config @Synapse#0692 edited message from 2018-04-22 11:39:15 () to read: 
+2018-04-22 11:39:24 #bot-config @Mr. Robot#0007: .at
+2018-04-22 11:39:24 #bot-config @Synapse#0692: 
+2018-04-22 11:39:24 #bot-config @Synapse#0692 edited message from 2018-04-22 11:39:24 () to read: 
+2018-04-22 11:39:24 #bot-config @Synapse#0692: 
+2018-04-22 11:39:25 #bot-config @Synapse#0692 edited message from 2018-04-22 11:39:24 () to read: 
+2018-04-22 16:30:54 #bot-config @Mr. Robot#0007: !alias add maal !boobs
+2018-04-22 16:30:54 #bot-config @Synapse#0692: Alias 'maal' added.
+2018-04-22 16:31:04 #bot-config @Mr. Robot#0007: !alias add maal !ass
+2018-04-22 16:31:04 #bot-config @Synapse#0692: Alias 'maal' added.
+2018-04-22 16:31:10 #bot-config @Mr. Robot#0007: !up 4
+2018-04-22 16:31:10 #bot-config @Mr. Robot#0007 deleted message from 2018-04-22 16:30:54 (!alias add maal !boobs)
+2018-04-22 16:31:10 #bot-config @Synapse#0692 deleted message from 2018-04-22 16:30:54 (Alias 'maal' added.)
+2018-04-22 16:31:10 #bot-config @Mr. Robot#0007 deleted message from 2018-04-22 16:31:04 (!alias add maal !ass)
+2018-04-22 16:31:10 #bot-config @Synapse#0692 deleted message from 2018-04-22 16:31:04 (Alias 'maal' added.)
+2018-04-22 16:31:10 #bot-config @Mr. Robot#0007 deleted message from 2018-04-22 16:31:10 (!up 4)
+2018-04-22 16:31:19 #bot-config @Mr. Robot#0007: !upbot 20
+2018-04-22 16:31:19 #bot-config @Mr. Robot#0007 deleted message from 2018-04-22 16:31:19 (!upbot 20)
+2018-04-22 16:31:33 #bot-config @Mr. Robot#0007: !maal
+2018-04-22 16:31:34 #bot-config @Synapse#0692: http://media.obutts.ru/butts_preview/05199.jpg
+2018-04-22 16:31:34 #bot-config @Synapse#0692 edited message from 2018-04-22 16:31:34 (http://media.obutts.ru/butts_preview/05199.jpg) to read: http://media.obutts.ru/butts_preview/05199.jpg
+2018-04-22 16:32:04 #bot-config @Mr. Robot#0007: !maal
+2018-04-22 16:32:04 #bot-config @Synapse#0692: http://media.obutts.ru/butts_preview/00427.jpg
+2018-04-22 16:32:04 #bot-config @Synapse#0692 edited message from 2018-04-22 16:32:04 (http://media.obutts.ru/butts_preview/00427.jpg) to read: http://media.obutts.ru/butts_preview/00427.jpg
+2018-04-22 16:32:25 #bot-config @Mr. Robot#0007: !up 7
+2018-04-22 16:32:25 #bot-config @Mr. Robot#0007 deleted message from 2018-04-22 16:31:33 (!maal)
+2018-04-22 16:32:25 #bot-config @Synapse#0692 deleted message from 2018-04-22 16:31:34 (http://media.obutts.ru/butts_preview/05199.jpg)
+2018-04-22 16:32:25 #bot-config @Mr. Robot#0007 deleted message from 2018-04-22 16:32:04 (!maal)
+2018-04-22 16:32:25 #bot-config @Synapse#0692 deleted message from 2018-04-22 16:32:04 (http://media.obutts.ru/butts_preview/00427.jpg)
+2018-04-22 16:32:25 #bot-config @Mr. Robot#0007 deleted message from 2018-04-22 16:32:25 (!up 7)
+2018-04-22 20:41:08 #bot-config @Mr. Robot#0007: !whisper 296084227777363979 Are you interested in $5 recovery including 1 billion and +500rp? [Yes/No]
+2018-04-22 20:41:10 #bot-config @Synapse#0692: Succesfully sent message to 296084227777363979
+2018-04-22 20:42:07 #bot-config @Mr. Robot#0007: !whisper 236670477781827605 Are you interested in $5 recovery including 1 billion and +500rp? [Yes/No]
+2018-04-22 20:42:07 #bot-config @Synapse#0692: Succesfully sent message to 236670477781827605
+2018-04-23 04:46:52 #bot-config @Mr. Robot#0007: !pingt
+2018-04-23 04:46:53 #bot-config @Synapse#0692: ping: 138ms
+2018-04-23 04:46:57 #bot-config @Mr. Robot#0007: .ping
+2018-04-23 04:46:57 #bot-config @Synapse#0692: 🏓
+2018-04-23 04:46:57 #bot-config @Synapse#0692: 
+2018-04-23 04:46:57 #bot-config @Synapse#0692 edited message from 2018-04-23 04:46:57 () to read: 
+2018-04-23 04:46:57 #bot-config @Synapse#0692 deleted message from 2018-04-23 04:46:57 (🏓)
+2018-04-23 04:47:10 #bot-config @Mr. Robot#0007: !sudo
+2018-04-23 04:47:11 #bot-config @Synapse#0692: ```\n!sudo <user> <command>\n\nRuns the [command] as if [user] had run it. DON'T ADD A PREFIX\n        \n\n```
+2018-04-23 04:47:34 #bot-config @Mr. Robot#0007: !set game !help | .help
+2018-04-23 04:47:35 #bot-config @Synapse#0692: Done.
+2018-04-23 05:18:07 #bot-config @Mr. Robot#0007: !embed
+2018-04-23 18:38:51 #bot-config @Mr. Robot#0007: !trigger
+2018-04-23 18:38:52 #bot-config @Synapse#0692: ```\n!trigger\n\nTrigger creation commands\n\nCommands:\n  list   Lists local / global triggers\n  add    Adds a response to a trigger\n  delete Deletes a trigger\n  show   Shows all responses of a trigger\n  search Returns triggers matching the search terms\n  remove Lets you choose a response to remove\n  create Creates a trigger\n  info   Shows a trigger's info\n\nType !trigger command for more info on a command.\nYou can also type !trigger category for more info on a category.\n```
+2018-04-23 18:39:16 #bot-config @Mr. Robot#0007: !trigger create embed
+2018-04-23 18:39:16 #bot-config @Synapse#0692: ```\n!trigger create <trigger_name> <triggered_by>\n\nCreates a trigger\n\n```
+2018-04-23 18:39:37 #bot-config @Mr. Robot#0007: !trigger create embed @​everyone
+2018-04-23 18:39:38 #bot-config @Synapse#0692: Trigger created. Entering interactive add mode...
+2018-04-23 18:39:38 #bot-config @Synapse#0692: Everything you type will be added as response to the trigger. Type 'exit' to quit.
+2018-04-23 18:39:55 #bot-config @Mr. Robot#0007: exit
+2018-04-23 18:39:56 #bot-config @Synapse#0692: Your changes have been saved.
+2018-04-23 18:40:05 #bot-config @Mr. Robot#0007: !trigger remove embed
+2018-04-23 18:40:06 #bot-config @Synapse#0692: That trigger has no responses to delete.
+2018-04-23 18:40:13 #bot-config @Mr. Robot#0007: !trigger list
+2018-04-23 18:40:13 #bot-config @Synapse#0692: ```\nembed\n```
+2018-04-23 18:40:35 #bot-config @Mr. Robot#0007: !trigger delete embed
+2018-04-23 18:40:35 #bot-config @Synapse#0692: Trigger deleted.
+2018-04-23 18:41:07 #bot-config @Mr. Robot#0007: !embedwiz
+2018-04-23 18:41:07 #bot-config @Synapse#0692: ```\n!embedwiz <specification>\n\nPosts an embed according to the given specification:\n\nTitle;color;footer text;footer_icon;image_url;thumbnail_url;body text\n\nAll values can be seperated by newlines, spaces, or other whitespace.\n\nColor can be a #HEXVAL, "random", or a name that discord.Color knows.\nOptions: https://discordpy.readthedocs.io/en/async/api.html#discord.Colour\n\nAll URLs (footer icon, image, thumbnail) can be empty or "none".\n\nBody text can be "prompt" to use your next message as the content.\n\nWARNING: embeds are hidden to anyone with the 'link previews' setting off.\n\nCommands:\n  delete  Posts an embed according to the spec after deleting the original me...\n  channel Posts an embed in another channel according to the spec.\n\nType !embedwiz command for more info on a command.\nYou can also type !embedwiz category for more info on a category.\n```
+2018-04-24 02:56:40 #bot-config @Mr. Robot#0007: !partycrash
+2018-04-24 02:56:41 #bot-config @Synapse#0692: ```\n1: -DruGo0= GT4 BR4L3R$ MUTTZ\n2: 420\n3: :3\n4: :: Lyon ::\n5: ? ?\n6: A Kittah Server\n7: Anonymous\n8: Art Shoppe\n9: Ayee Its iiSure Fan Group\n10: Bass Night\n11: BlackTigerOfficielServer\n12: Bops Corner\n13: Bot Testing Server\n14: BotTest\n15: CHBY錩者社群\n16: CLAN                M7\n17: CS:GO\n18: CS:GO | Friends for the game\n19: CSGO CLAN\n20: CSGO/Minecraft\n21: Carrefour- HCity | France\n22: Chinkboy2018\n23: Cola\n24: Collin's Christian Server\n25: Corentin server !\n26: CrableCraft\n27: DU tapai\n28: Daisuki\n29: Dark Productions\n30: Dark's Home\n31: Darkis\n32: DeadCorporation\n33: Derp Gamerek\n34: Din mor\n35: Dis'Run ✔\n36: Discord Bots\n37: Dusk eSports - Critical Ops\n38: Dvärgen's Discord\n39: EASY OFFICIAL CLAN\n40: Emote Servers\n41: FAS XZ\n42: FN\n43: FREE FIRE Indonesia\n44: FairPlay's Games\n45: FloppityPenguin Fans!\n46: For the bot\n47: Fortnite\n48: Fortnite\n49: Fortnite Squad\n50: FpsGang\n51: GOD IS FUCKING FAKE\n52: GalacticPVP\n53: Game of chance camp\n54: Game4everGoldy Literally"Fans"\n55: Games For Life\n56: Gaming Nation\n57: Gang Gamer\n58: Gaymers\n59: Girlies\n60: Grayscale\n61: Grupo Do Joker\n62: HYPECORD\n63: Hentai Land\n64: Here Come Dat Boi <3\n65: JUANCORO\n66: KAMILOT\n67: KaSTeTa's Official Server\n68: Kanalik\n69: KÄÄÄÅÅTEEN\n70: Les BFF\n71: MAMUTIN\n72: Marteh home\n73: MianBlox\n74: Modern RolePlay\n75: Mods & Hugs\n76: My Hero Academia (RP)\n77: Myne Chill Z0nE\n78: NCD\n79: NSFW\n80: Nexus Server Comunity\n81: Niggers are white (Christian server)\n82: Nightrexa's Discord Channel\n83: No Name\n84: Normie Cult\n85: OGLE winter megacollab\n86: Otakus&Gamers\n87: PUBG\n88: PanDa\n89: Pepe's Playhouse\n90: Planeta Pokemon\n91: Plexy\n92: Power Of Bots\n93: PrinceMc. Community\n94: Projekt X\n95: RERERERE\n96: ROBLLOX GUCCI CLAN CHAT\n97: RainbowColours\n98: Randomness\n99: Robo\n100: SAPD POLICE DEPARTMENT\n101: SD6\n102: SS1\n103: STEVEN UNIVERSE\n104: Serveur RP\n105: Servidor Noob\n106: Servidores dos locões\n107: SpeckyYT's Server\n108: SpeedzArmy\n109: Supreme\n110: Synapse Support\n111: T.E.A.R\n```
+2018-04-24 02:56:42 #bot-config @Synapse#0692: ```\n\n112: TMP [TIEMPO]😎\n113: Team Hore\n114: TestingBot "MysticTeam"\n115: The Flames\n116: The Fluffy Gang\n117: The Holy Church\n118: TheGoldenChampions\n119: TreeZy___ #TzY___\n120: Turkey’s House\n121: Vio's children\n122: Viper's House\n123: Xiomara\n124: Xxx_KingDoge_xxX FanClub\n125: Yaya\n126: Yet Another Gameserver\n127: ZibranArtz's Team  - Thx For Clicking The Link To Join :D\n128: ZoZ Fan Server\n129: [#*StyleSquad*#]\n130: asd\n131: buhamood_hideout\n132: chat room of doom!!!\n133: coba\n134: de hack boys\n135: deneme\n136: dhvcg\n137: dragon Ball-z fan club\n138: example\n139: films ß gratos\n140: idfk man go away yes\n141: idk xd\n142: kluci z našeho středního odborného učiliště\n143: mehhhhh\n144: memes\n145: music\n146: ne\n147: private channel\n148: salemgaming\n149: shadowgangFTW\n150: shigetora\n151: srtShyzo\n152: tesadfsertaw\n153: test\n154: uff ya\n155: vip\n156: wadawwww\n157: why\n158: wowo\n159: xZombie992's Public Server\n160: yee haw\n161: Посиделки\n162: ауц\n163: ღ Official ღ\n164: ⎣ ❄ Lucky 7 ❄ ⎦\n165: ☯Hangout Time☯\n166: ♛ Art ♛ Craft ♛\n167: ♛ 𝒜𝓁𝓂𝒶𝓈 𝓅𝑒𝓇𝒹𝒾𝒹𝒶𝓈 ♛\n168: ⚡LobbyPentHouse✨\n169: ✏Les p'tits dessinateurs\n170: ✔ M.B.L România.  ✔\n171: 〖 Ghost GAMES 〗\n172: Ａｒｃｈｉｔｅｃｔｕｒｅ\n173: 🌁│🅳🆈🆂🅺🅾🆁🅳│🌁\n174: 🍟 Potatoes Power 🍟\n175: 💚 SeezClan💚\n176: 😎Emoji Server😎\n\nTo post an invite for a server just type its number.\n```
+2018-04-24 02:56:59 #bot-config @Synapse#0692: Response timed out.
+2018-04-24 02:57:06 #bot-config @Synapse#0692 deleted message from 2018-04-24 02:56:41 (```\n1: -DruGo0= GT4 BR4L3R$ MUTTZ\n2: 420\n3: :3\n4: :: Lyon ::\n5: ? ?\n6: A Kittah Server\n7: Anonymous\n8: Art Shoppe\n9: Ayee Its iiSure Fan Group\n10: Bass Night\n11: BlackTigerOfficielServer\n12: Bops Corner\n13: Bot Testing Server\n14: BotTest\n15: CHBY錩者社群\n16: CLAN                M7\n17: CS:GO\n18: CS:GO | Friends for the game\n19: CSGO CLAN\n20: CSGO/Minecraft\n21: Carrefour- HCity | France\n22: Chinkboy2018\n23: Cola\n24: Collin's Christian Server\n25: Corentin server !\n26: CrableCraft\n27: DU tapai\n28: Daisuki\n29: Dark Productions\n30: Dark's Home\n31: Darkis\n32: DeadCorporation\n33: Derp Gamerek\n34: Din mor\n35: Dis'Run ✔\n36: Discord Bots\n37: Dusk eSports - Critical Ops\n38: Dvärgen's Discord\n39: EASY OFFICIAL CLAN\n40: Emote Servers\n41: FAS XZ\n42: FN\n43: FREE FIRE Indonesia\n44: FairPlay's Games\n45: FloppityPenguin Fans!\n46: For the bot\n47: Fortnite\n48: Fortnite\n49: Fortnite Squad\n50: FpsGang\n51: GOD IS FUCKING FAKE\n52: GalacticPVP\n53: Game of chance camp\n54: Game4everGoldy Literally"Fans"\n55: Games For Life\n56: Gaming Nation\n57: Gang Gamer\n58: Gaymers\n59: Girlies\n60: Grayscale\n61: Grupo Do Joker\n62: HYPECORD\n63: Hentai Land\n64: Here Come Dat Boi <3\n65: JUANCORO\n66: KAMILOT\n67: KaSTeTa's Official Server\n68: Kanalik\n69: KÄÄÄÅÅTEEN\n70: Les BFF\n71: MAMUTIN\n72: Marteh home\n73: MianBlox\n74: Modern RolePlay\n75: Mods & Hugs\n76: My Hero Academia (RP)\n77: Myne Chill Z0nE\n78: NCD\n79: NSFW\n80: Nexus Server Comunity\n81: Niggers are white (Christian server)\n82: Nightrexa's Discord Channel\n83: No Name\n84: Normie Cult\n85: OGLE winter megacollab\n86: Otakus&Gamers\n87: PUBG\n88: PanDa\n89: Pepe's Playhouse\n90: Planeta Pokemon\n91: Plexy\n92: Power Of Bots\n93: PrinceMc. Community\n94: Projekt X\n95: RERERERE\n96: ROBLLOX GUCCI CLAN CHAT\n97: RainbowColours\n98: Randomness\n99: Robo\n100: SAPD POLICE DEPARTMENT\n101: SD6\n102: SS1\n103: STEVEN UNIVERSE\n104: Serveur RP\n105: Servidor Noob\n106: Servidores dos locões\n107: SpeckyYT's Server\n108: SpeedzArmy\n109: Supreme\n110: Synapse Support\n111: T.E.A.R\n```)
+2018-04-24 02:57:10 #bot-config @Synapse#0692 deleted message from 2018-04-24 02:56:42 (```\n\n112: TMP [TIEMPO]😎\n113: Team Hore\n114: TestingBot "MysticTeam"\n115: The Flames\n116: The Fluffy Gang\n117: The Holy Church\n118: TheGoldenChampions\n119: TreeZy___ #TzY___\n120: Turkey’s House\n121: Vio's children\n122: Viper's House\n123: Xiomara\n124: Xxx_KingDoge_xxX FanClub\n125: Yaya\n126: Yet Another Gameserver\n127: ZibranArtz's Team  - Thx For Clicking The Link To Join :D\n128: ZoZ Fan Server\n129: [#*StyleSquad*#]\n130: asd\n131: buhamood_hideout\n132: chat room of doom!!!\n133: coba\n134: de hack boys\n135: deneme\n136: dhvcg\n137: dragon Ball-z fan club\n138: example\n139: films ß gratos\n140: idfk man go away yes\n141: idk xd\n142: kluci z našeho středního odborného učiliště\n143: mehhhhh\n144: memes\n145: music\n146: ne\n147: private channel\n148: salemgaming\n149: shadowgangFTW\n150: shigetora\n151: srtShyzo\n152: tesadfsertaw\n153: test\n154: uff ya\n155: vip\n156: wadawwww\n157: why\n158: wowo\n159: xZombie992's Public Server\n160: yee haw\n161: Посиделки\n162: ауц\n163: ღ Official ღ\n164: ⎣ ❄ Lucky 7 ❄ ⎦\n165: ☯Hangout Time☯\n166: ♛ Art ♛ Craft ♛\n167: ♛ 𝒜𝓁𝓂𝒶𝓈 𝓅𝑒𝓇𝒹𝒾𝒹𝒶𝓈 ♛\n168: ⚡LobbyPentHouse✨\n169: ✏Les p'tits dessinateurs\n170: ✔ M.B.L România.  ✔\n171: 〖 Ghost GAMES 〗\n172: Ａｒｃｈｉｔｅｃｔｕｒｅ\n173: 🌁│🅳🆈🆂🅺🅾🆁🅳│🌁\n174: 🍟 Potatoes Power 🍟\n175: 💚 SeezClan💚\n176: 😎Emoji Server😎\n\nTo post an invite for a server just type its number.\n```)
+2018-04-24 02:57:14 #bot-config @Mr. Robot#0007 deleted message from 2018-04-24 02:56:40 (!partycrash)
+2018-04-24 02:57:38 #bot-config @Mr. Robot#0007: !serverinfo
+2018-04-24 02:57:38 #bot-config @Synapse#0692: 
+2018-04-24 02:57:38 #bot-config @Synapse#0692 edited message from 2018-04-24 02:57:38 () to read: 
+2018-04-24 02:57:49 #bot-config @Synapse#0692 deleted message from 2018-04-24 02:57:38 ()
+2018-04-24 18:35:06 #bot-config @Mr. Robot#0007: !logs
+2018-04-24 18:35:06 #bot-config @Synapse#0692: ```\n![logs|log]\n\nRetrieve logs, the slowpoke way.\n\nCommands:\n  username [mention] [channel] [number]\n  ignore   [channel]\n  roleplay [channel] [number]\n  all      [channel] [number]\n\nType !logs command for more info on a command.\nYou can also type !logs category for more info on a category.\n```
+2018-04-24 18:35:11 #bot-config @Mr. Robot#0007: !log
+2018-04-24 18:35:11 #bot-config @Synapse#0692: ```\n![logs|log]\n\nRetrieve logs, the slowpoke way.\n\nCommands:\n  username [mention] [channel] [number]\n  ignore   [channel]\n  roleplay [channel] [number]\n  all      [channel] [number]\n\nType !log command for more info on a command.\nYou can also type !log category for more info on a category.\n```
+2018-04-25 04:24:17 #bot-config @Mr. Robot#0007: !serverinfo
+2018-04-25 04:24:17 #bot-config @Synapse#0692: 
+2018-04-25 04:24:17 #bot-config @Synapse#0692 edited message from 2018-04-25 04:24:17 () to read: 
+2018-04-25 04:24:39 #bot-config @Mr. Robot#0007: @Krinen can u help me advertise it in reddit?
+2018-04-25 04:26:39 #bot-config @Krinen#7284: So much of my everything is named Krinen I'm hesitant to.  I'll make another account, I think, and then use that.
+2018-04-25 04:26:55 #bot-config @Krinen#7284: I don't really use reddit often so I don't have much of an idea where I could do so, did you have any plans?
+2018-04-25 04:27:52 #bot-config @Mr. Robot#0007: i know where u need to
+2018-04-25 04:27:57 #bot-config @Mr. Robot#0007: i can link u
+2018-04-25 04:28:15 #bot-config @Mr. Robot#0007: i can also tell u what to write in title and stuff
+2018-04-25 04:29:00 #bot-config @Mr. Robot#0007: **GTA V [PC][FREE 2.5K DROPS][$5=1 BILLION/+500RANK PAID] |VOUCHED|**\n\nThis is a only PC GTA 5 server dedicated to free money lobbies. We also provide recoveries which include any money and any RP for just $5.. YEAH THATS TRUE! everything including unlock all, 1$ to 10 billion$ and 1 RP to 8000 RP for just $5.. This is a fixed price. No less no more! WE BUILD TRUST BY TRUSTING OUR CUSTOMERS.\n\n\nWe are also looking for droppers, if you are a dropper, you can join and be a part of this community\n\n\nDiscord invite link: https://discord.gg/z3HTSyG\n\n\nENJOY YOUR STAY HERE!
+2018-04-25 04:29:06 #bot-config @Mr. Robot#0007 edited message from 2018-04-25 04:29:00 (**GTA V [PC][FREE 2.5K DROPS][$5=1 BILLION/+500RANK PAID] |VOUCHED|**\n\nThis is a only PC GTA 5 server dedicated to free money lobbies. We also provide recoveries which include any money and any RP for just $5.. YEAH THATS TRUE! everything including unlock all, 1$ to 10 billion$ and 1 RP to 8000 RP for just $5.. This is a fixed price. No less no more! WE BUILD TRUST BY TRUSTING OUR CUSTOMERS.\n\n\nWe are also looking for droppers, if you are a dropper, you can join and be a part of this community\n\n\nDiscord invite link: https://discord.gg/z3HTSyG\n\n\nENJOY YOUR STAY HERE!) to read: **GTA V [PC][FREE 2.5K DROPS][$5=1 BILLION/+500RANK PAID] |VOUCHED|**\n\nThis is a only PC GTA 5 server dedicated to free money lobbies. We also provide recoveries which include any money and any RP for just $5.. YEAH THATS TRUE! everything including unlock all, 1$ to 10 billion$ and 1 RP to 8000 RP for just $5.. This is a fixed price. No less no more! WE BUILD TRUST BY TRUSTING OUR CUSTOMERS.\n\n\nWe are also looking for droppers, if you are a dropper, you can join and be a part of this community\n\n\nDiscord invite link: https://discord.gg/z3HTSyG\n\n\nENJOY YOUR STAY HERE!
+2018-04-25 04:29:06 #bot-config @Mr. Robot#0007: 
+2018-04-25 04:29:23 #bot-config @Mr. Robot#0007: lemme give u subreddit link
+2018-04-25 04:29:35 #bot-config @Krinen#7284: Alright, I can do that.  I need to make a new e-mail n' everything so I'll get around to that as soon as I can.  Do you mind if I proofread that message?
+2018-04-25 04:30:11 #bot-config @Mr. Robot#0007: https://www.reddit.com/r/gtamoddedlobbies/
+2018-04-25 04:30:12 #bot-config @Mr. Robot#0007 edited message from 2018-04-25 04:30:11 (https://www.reddit.com/r/gtamoddedlobbies/) to read: https://www.reddit.com/r/gtamoddedlobbies/
+2018-04-25 04:30:16 #bot-config @Mr. Robot#0007 edited message from 2018-04-25 04:30:11 (https://www.reddit.com/r/gtamoddedlobbies/) to read: https://www.reddit.com/r/gtamoddedlobbies/
+2018-04-25 04:30:16 #bot-config @Mr. Robot#0007: 
+2018-04-25 04:30:23 #bot-config @Mr. Robot#0007: proofread??
+2018-04-25 04:30:26 #bot-config @Mr. Robot#0007: u mean?
+2018-04-25 04:30:51 #bot-config @Krinen#7284: Check the message for grammar and punctuation, so that it looks more professional.
+2018-04-25 04:31:06 #bot-config @Mr. Robot#0007: where?
+2018-04-25 04:31:19 #bot-config @Krinen#7284 edited message from 2018-04-25 04:30:51 (Check the message for grammar and punctuation, so that it looks more professional.) to read: Check the message for proper grammar and punctuation, so that it looks more professional.
+2018-04-25 04:31:40 #bot-config @Mr. Robot#0007: ohh
+2018-04-25 04:31:43 #bot-config @Krinen#7284: I'm not sure I understand the question.
+2018-04-25 04:31:58 #bot-config @Mr. Robot#0007: im not sure what are talking about
+2018-04-25 04:31:59 #bot-config @Mr. Robot#0007: lol
+2018-04-25 04:32:36 #bot-config @Krinen#7284: I can fix the grammar, spelling, and punctuation in the advertisement so that it resembles professional native English.
+2018-04-25 04:32:58 #bot-config @Mr. Robot#0007: This is a only PC GTA 5 server dedicated to free money lobbies. We also provide recoveries which include any money and any RP for just $5.. YEAH THATS TRUE! everything including unlock all, 1$ to 10 billion$ and 1 RP to 8000 RP for just $5.. This is a fixed price. No less no more! WE BUILD TRUST BY TRUSTING OUR CUSTOMERS.\n\n\nWe are also looking for droppers, if you are a dropper, you can join and be a part of this community
+2018-04-25 04:33:02 #bot-config @Mr. Robot#0007: this message?
+2018-04-25 04:33:08 #bot-config @Krinen#7284: Yessir
+2018-04-25 04:33:31 #bot-config @Mr. Robot#0007: okay then just do it lol
+2018-04-25 04:33:37 #bot-config @Mr. Robot#0007: <:mhm:424151760509206549>
+2018-04-25 04:33:45 #bot-config @Krinen#7284: 😁
+2018-04-25 04:33:58 #bot-config @Krinen#7284: I like to ask permission for things.  👌
+2018-04-25 04:34:10 #bot-config @Mr. Robot#0007: cool
+2018-04-25 04:34:27 #bot-config @Mr. Robot#0007: u seem to have a higher age than me
+2018-04-25 04:34:32 #bot-config @Mr. Robot#0007: whats ur age?
+2018-04-25 04:34:37 #bot-config @Krinen#7284: 25
+2018-04-25 04:34:40 #bot-config @Mr. Robot#0007: yeah
+2018-04-25 04:34:43 #bot-config @Mr. Robot#0007: higher
+2018-04-25 04:34:52 #bot-config @Krinen#7284: Entrepreneurial.  I like that.
+2018-04-25 04:34:59 #bot-config @Mr. Robot#0007: im 21
+2018-04-25 04:35:05 #bot-config @Krinen#7284: 👏
+2018-04-25 04:35:12 #bot-config @Mr. Robot#0007: !set game !help | .help
+2018-04-25 04:35:12 #bot-config @Synapse#0692: Done.
+2018-04-25 04:35:41 #bot-config @Mr. Robot#0007: i'd also appreciate if u advertise my bot
+2018-04-25 04:35:49 #bot-config @Mr. Robot#0007: thats not so important
+2018-04-25 04:35:53 #bot-config @Mr. Robot#0007: but maybe
+2018-04-25 04:36:16 #bot-config @Krinen#7284: I'll check their features and keep it in mind, for sure. :D
+2018-04-25 04:36:32 #bot-config @Mr. Robot#0007: type !help
+2018-04-25 04:36:39 #bot-config @Mr. Robot#0007: and also .help
+2018-04-25 04:36:52 #bot-config @Mr. Robot#0007: this is a unique bot that has two bots in one
+2018-04-25 04:37:08 #bot-config @Mr. Robot#0007: two different
+2018-04-25 04:37:18 #bot-config @Mr. Robot#0007: like see
+2018-04-25 04:37:20 #bot-config @Mr. Robot#0007: !pingt
+2018-04-25 04:37:20 #bot-config @Synapse#0692: ping: 134ms
+2018-04-25 04:37:24 #bot-config @Mr. Robot#0007: .ping
+2018-04-25 04:37:25 #bot-config @Synapse#0692: 🏓
+2018-04-25 04:37:25 #bot-config @Synapse#0692: 
+2018-04-25 04:37:25 #bot-config @Synapse#0692 edited message from 2018-04-25 04:37:25 () to read: 
+2018-04-25 04:37:25 #bot-config @Synapse#0692 deleted message from 2018-04-25 04:37:25 (🏓)
+2018-04-25 04:37:29 #bot-config @Krinen#7284: interesting
+2018-04-25 04:37:42 #bot-config @Mr. Robot#0007: so many many commands
+2018-04-25 04:37:45 #bot-config @Mr. Robot#0007: .modules
+2018-04-25 04:37:45 #bot-config @Synapse#0692: 
+2018-04-25 04:37:45 #bot-config @Synapse#0692 edited message from 2018-04-25 04:37:45 () to read: 
+2018-04-25 04:37:48 #bot-config @Mr. Robot#0007: check it out
+2018-04-25 08:19:34 #bot-config @Mr. Robot#0007: !reactionpoll
+2018-04-25 08:19:38 #bot-config @Mr. Robot#0007: !poll
+2018-04-25 08:19:39 #bot-config @Synapse#0692: poll question;option1;option2 (...)
+2018-04-25 08:19:46 #bot-config @Mr. Robot#0007: exit
+2018-04-25 08:19:54 #bot-config @Mr. Robot#0007: duh
+2018-04-25 08:20:01 #bot-config @Mr. Robot#0007: !rpoll
+2018-04-25 08:20:01 #bot-config @Synapse#0692: `[p]rpoll question;option1;option2...;t=60`
+2018-04-25 08:20:16 #bot-config @Mr. Robot#0007: !help rpoll
+2018-04-25 08:20:16 #bot-config @Synapse#0692: 
+2018-04-25 08:20:16 #bot-config @Synapse#0692 edited message from 2018-04-25 08:20:16 () to read: 
+2018-04-25 08:23:15 #bot-config @Mr. Robot#0007: !rpoll Guys you are here for? 1⃣ == ONLY drops  2⃣==$5 recovery 3⃣ == Drops but maybe recovery later; 1⃣ ; 2⃣ ; 3⃣
+2018-04-25 08:23:15 #bot-config @Synapse#0692: **POLL STARTED!**\n\nGuys you are here for? 1⃣ == ONLY drops 2⃣==$5 recovery 3⃣ == Drops but maybe recovery later\n\n1⃣ 1⃣\n2⃣ 2⃣\n3⃣ 3⃣\n\nSelect the number to vote!\nPoll closes in 60 seconds.
+2018-04-25 08:24:07 #bot-config @Mr. Robot#0007: !rpoll end
+2018-04-25 08:24:08 #bot-config @Synapse#0692: A reaction poll is already ongoing in this channel.
+2018-04-25 08:24:19 #bot-config @Synapse#0692: **POLL ENDED!**\n\nGuys you are here for? 1⃣ == ONLY drops 2⃣==$5 recovery 3⃣ == Drops but maybe recovery later\n\n*1⃣ 1⃣* - 0 votes\n*2⃣ 2⃣* - 0 votes\n*3⃣ 3⃣* - 0 votes
+2018-04-25 08:24:36 #bot-config @Mr. Robot#0007: !rpoll Guys you are here for? 1⃣ == ONLY drops  2⃣==$5 recovery 3⃣ == Drops but maybe recovery later
+2018-04-25 08:24:36 #bot-config @Synapse#0692: `[p]rpoll question;option1;option2...;t=60`
+2018-04-25 08:24:53 #bot-config @Mr. Robot#0007: !rpoll Guys you are here for? 1⃣ == ONLY drops  2⃣==$5 recovery 3⃣ == Drops but maybe recovery later; 1⃣ ; 2⃣ ; 3⃣ ;
+2018-04-25 08:24:53 #bot-config @Synapse#0692: **POLL STARTED!**\n\nGuys you are here for? 1⃣ == ONLY drops 2⃣==$5 recovery 3⃣ == Drops but maybe recovery later\n\n1⃣ 1⃣\n2⃣ 2⃣\n3⃣ 3⃣\n4⃣ \n\nSelect the number to vote!\nPoll closes in 60 seconds.
+2018-04-25 08:25:10 #bot-config @Mr. Robot#0007: !rpoll stop
+2018-04-25 08:25:10 #bot-config @Synapse#0692: **POLL ENDED!**\n\nGuys you are here for? 1⃣ == ONLY drops 2⃣==$5 recovery 3⃣ == Drops but maybe recovery later\n\n*1⃣ 1⃣* - 0 votes\n*2⃣ 2⃣* - 0 votes\n*3⃣ 3⃣* - 0 votes\n*4⃣ * - 0 votes
+2018-04-25 08:26:35 #bot-config @Mr. Robot#0007: !rpoll Guys you are here for?;ONLY drops;$5 recovery;drops but maybe recovery later
+2018-04-25 08:26:35 #bot-config @Synapse#0692: **POLL STARTED!**\n\nGuys you are here for?\n\n1⃣ ONLY drops\n2⃣ $5 recovery\n3⃣ drops but maybe recovery later\n\nSelect the number to vote!\nPoll closes in 60 seconds.
+2018-04-25 08:26:51 #bot-config @Mr. Robot#0007: !rpoll stop
+2018-04-25 08:26:52 #bot-config @Synapse#0692: **POLL ENDED!**\n\nGuys you are here for?\n\n*1⃣ ONLY drops* - 0 votes\n*2⃣ $5 recovery* - 0 votes\n*3⃣ drops but maybe recovery later* - 0 votes
+2018-04-25 08:27:01 #bot-config @Mr. Robot#0007: !upbot 20
+2018-04-25 08:27:01 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:19:39 (poll question;option1;option2 (...))
+2018-04-25 08:27:01 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:20:01 (!rpoll)
+2018-04-25 08:27:01 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:20:01 (`[p]rpoll question;option1;option2...;t=60`)
+2018-04-25 08:27:01 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:20:16 (!help rpoll)
+2018-04-25 08:27:01 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:20:16 ()
+2018-04-25 08:27:01 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:23:15 (!rpoll Guys you are here for? 1⃣ == ONLY drops  2⃣==$5 recovery 3⃣ == Drops but maybe recovery later; 1⃣ ; 2⃣ ; 3⃣)
+2018-04-25 08:27:01 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:23:15 (**POLL STARTED!**\n\nGuys you are here for? 1⃣ == ONLY drops 2⃣==$5 recovery 3⃣ == Drops but maybe recovery later\n\n1⃣ 1⃣\n2⃣ 2⃣\n3⃣ 3⃣\n\nSelect the number to vote!\nPoll closes in 60 seconds.)
+2018-04-25 08:27:01 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:24:07 (!rpoll end)
+2018-04-25 08:27:01 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:24:08 (A reaction poll is already ongoing in this channel.)
+2018-04-25 08:27:01 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:24:19 (**POLL ENDED!**\n\nGuys you are here for? 1⃣ == ONLY drops 2⃣==$5 recovery 3⃣ == Drops but maybe recovery later\n\n*1⃣ 1⃣* - 0 votes\n*2⃣ 2⃣* - 0 votes\n*3⃣ 3⃣* - 0 votes)
+2018-04-25 08:27:01 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:24:36 (!rpoll Guys you are here for? 1⃣ == ONLY drops  2⃣==$5 recovery 3⃣ == Drops but maybe recovery later)
+2018-04-25 08:27:01 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:24:36 (`[p]rpoll question;option1;option2...;t=60`)
+2018-04-25 08:27:01 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:24:53 (!rpoll Guys you are here for? 1⃣ == ONLY drops  2⃣==$5 recovery 3⃣ == Drops but maybe recovery later; 1⃣ ; 2⃣ ; 3⃣ ;)
+2018-04-25 08:27:01 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:24:53 (**POLL STARTED!**\n\nGuys you are here for? 1⃣ == ONLY drops 2⃣==$5 recovery 3⃣ == Drops but maybe recovery later\n\n1⃣ 1⃣\n2⃣ 2⃣\n3⃣ 3⃣\n4⃣ \n\nSelect the number to vote!\nPoll closes in 60 seconds.)
+2018-04-25 08:27:01 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:25:10 (!rpoll stop)
+2018-04-25 08:27:01 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:25:10 (**POLL ENDED!**\n\nGuys you are here for? 1⃣ == ONLY drops 2⃣==$5 recovery 3⃣ == Drops but maybe recovery later\n\n*1⃣ 1⃣* - 0 votes\n*2⃣ 2⃣* - 0 votes\n*3⃣ 3⃣* - 0 votes\n*4⃣ * - 0 votes)
+2018-04-25 08:27:01 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:26:35 (!rpoll Guys you are here for?;ONLY drops;$5 recovery;drops but maybe recovery later)
+2018-04-25 08:27:01 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:26:35 (**POLL STARTED!**\n\nGuys you are here for?\n\n1⃣ ONLY drops\n2⃣ $5 recovery\n3⃣ drops but maybe recovery later\n\nSelect the number to vote!\nPoll closes in 60 seconds.)
+2018-04-25 08:27:01 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:26:51 (!rpoll stop)
+2018-04-25 08:27:01 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:26:52 (**POLL ENDED!**\n\nGuys you are here for?\n\n*1⃣ ONLY drops* - 0 votes\n*2⃣ $5 recovery* - 0 votes\n*3⃣ drops but maybe recovery later* - 0 votes)
+2018-04-25 08:27:01 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:27:01 (!upbot 20)
+2018-04-25 08:27:07 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:19:54 (duh)
+2018-04-25 08:27:10 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:19:46 (exit)
+2018-04-25 08:27:13 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:19:38 (!poll)
+2018-04-25 08:27:16 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:19:34 (!reactionpoll)
+2018-04-25 08:30:56 #bot-config @Mr. Robot#0007: !rpoll @member guys you are here for?;ONLY drops;$5 recovery;drops but maybe recovery later;t=43200
+2018-04-25 08:30:56 #bot-config @Synapse#0692: **POLL STARTED!**\n\n@member guys you are here for?\n\n1⃣ ONLY drops\n2⃣ $5 recovery\n3⃣ drops but maybe recovery later\n\nSelect the number to vote!\nPoll closes in 43200 seconds.
+2018-04-25 08:31:05 #bot-config @Mr. Robot#0007: !rpoll stop
+2018-04-25 08:31:06 #bot-config @Synapse#0692: **POLL ENDED!**\n\n@member guys you are here for?\n\n*1⃣ ONLY drops* - 0 votes\n*2⃣ $5 recovery* - 0 votes\n*3⃣ drops but maybe recovery later* - 0 votes
+2018-04-25 08:31:10 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:31:06 (**POLL ENDED!**\n\n@member guys you are here for?\n\n*1⃣ ONLY drops* - 0 votes\n*2⃣ $5 recovery* - 0 votes\n*3⃣ drops but maybe recovery later* - 0 votes)
+2018-04-25 08:31:13 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:31:05 (!rpoll stop)
+2018-04-25 08:31:21 #bot-config @Mr. Robot#0007 deleted message from 2018-04-25 08:30:56 (!rpoll @member guys you are here for?;ONLY drops;$5 recovery;drops but maybe recovery later;t=43200)
+2018-04-25 08:31:24 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:30:56 (**POLL STARTED!**\n\n@member guys you are here for?\n\n1⃣ ONLY drops\n2⃣ $5 recovery\n3⃣ drops but maybe recovery later\n\nSelect the number to vote!\nPoll closes in 43200 seconds.)
+2018-04-25 08:32:20 #bot-config @Mr. Robot#0007: !unload rpoll
+2018-04-25 08:32:21 #bot-config @Synapse#0692: That cog file doesn't exist. I will not turn off autoloading at start just in case this isn't supposed to happen.
+2018-04-25 08:32:21 #bot-config @Synapse#0692: The cog has been unloaded.
+2018-04-25 08:32:26 #bot-config @Mr. Robot#0007: !rpoll
+2018-04-25 08:32:26 #bot-config @Synapse#0692: `[p]rpoll question;option1;option2...;t=60`
+2018-04-25 08:32:36 #bot-config @Mr. Robot#0007: !load rpoll
+2018-04-25 08:32:36 #bot-config @Synapse#0692: That cog could not be found.
+2018-04-25 08:32:47 #bot-config @Mr. Robot#0007: !cs reaction poll
+2018-04-25 08:32:47 #bot-config @Synapse#0692: No cogs were found or there was an error in the process
+2018-04-25 08:32:59 #bot-config @Mr. Robot#0007: !cs poll
+2018-04-25 08:32:59 #bot-config @Synapse#0692: 
+2018-04-25 08:32:59 #bot-config @Synapse#0692 edited message from 2018-04-25 08:32:59 () to read: 
+2018-04-25 08:33:05 #bot-config @Synapse#0692 edited message from 2018-04-25 08:32:59 () to read: 
+2018-04-25 08:33:11 #bot-config @Synapse#0692 edited message from 2018-04-25 08:32:59 () to read: 
+2018-04-25 08:33:11 #bot-config @Synapse#0692 edited message from 2018-04-25 08:32:59 () to read: 
+2018-04-25 08:33:11 #bot-config @Synapse#0692 edited message from 2018-04-25 08:32:59 () to read: 
+2018-04-25 08:33:19 #bot-config @Synapse#0692 edited message from 2018-04-25 08:32:59 () to read: 
+2018-04-25 08:33:19 #bot-config @Synapse#0692 edited message from 2018-04-25 08:32:59 () to read: 
+2018-04-25 08:33:30 #bot-config @Synapse#0692 edited message from 2018-04-25 08:32:59 () to read: 
+2018-04-25 08:33:30 #bot-config @Synapse#0692 edited message from 2018-04-25 08:32:59 () to read: 
+2018-04-25 08:33:33 #bot-config @Synapse#0692 edited message from 2018-04-25 08:32:59 () to read: 
+2018-04-25 08:33:33 #bot-config @Synapse#0692 edited message from 2018-04-25 08:32:59 () to read: 
+2018-04-25 08:33:38 #bot-config @Synapse#0692: You're about to add a 3rd party repository. The creator of Red and its community have no responsibility for any potential damage that the content of 3rd party repositories might cause.\nBy typing 'I agree' you declare to have read and understand the above message. This message won't be shown again until the next reboot.
+2018-04-25 08:33:41 #bot-config @Mr. Robot#0007: I agree
+2018-04-25 08:33:44 #bot-config @Synapse#0692: Repo 'YukirinCogs' added.
+2018-04-25 08:33:44 #bot-config @Synapse#0692: Thank you for installing my Pollplus module.
+2018-04-25 08:33:44 #bot-config @Synapse#0692: Installation completed. Load it now? (yes/no)
+2018-04-25 08:33:46 #bot-config @Mr. Robot#0007: yes
+2018-04-25 08:33:46 #bot-config @Synapse#0692: The cog has been loaded.
+2018-04-25 08:33:46 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:32:59 ()
+2018-04-25 08:33:52 #bot-config @Mr. Robot#0007: !poll+
+2018-04-25 08:33:56 #bot-config @Mr. Robot#0007: !help
+2018-04-25 08:33:58 #bot-config @Synapse#0692: Check your DM, @Mr. Robot! I have sent something for you :wink:
+2018-04-25 08:35:54 #bot-config @Mr. Robot#0007: !pollp
+2018-04-25 08:35:55 #bot-config @Synapse#0692: poll question;option1;option2 (...)
+2018-04-25 08:36:35 #bot-config @Mr. Robot#0007: !cs reactpoll
+2018-04-25 08:36:36 #bot-config @Synapse#0692: 
+2018-04-25 08:36:36 #bot-config @Synapse#0692 edited message from 2018-04-25 08:36:36 () to read: 
+2018-04-25 08:36:49 #bot-config @Mr. Robot#0007: !unload reactpoll
+2018-04-25 08:36:49 #bot-config @Synapse#0692: The cog has been unloaded.
+2018-04-25 08:36:52 #bot-config @Synapse#0692 deleted message from 2018-04-25 08:36:36 ()
+2018-04-25 08:36:56 #bot-config @Mr. Robot#0007: !rpoll
+2018-04-25 08:37:03 #bot-config @Mr. Robot#0007: !load reactpoll
+2018-04-25 08:37:03 #bot-config @Synapse#0692: The cog has been loaded.
+2018-04-25 09:49:17 #bot-config @Mr. Robot#0007: !set game !help | .help
+2018-04-25 09:49:17 #bot-config @Synapse#0692: Done.
+2018-04-25 09:49:22 #bot-config @Mr. Robot#0007: !load admin
+2018-04-25 09:49:22 #bot-config @Synapse#0692: Cog was found and possibly loaded but something went wrong. Check your console or logs for more information.
+2018-04-25 10:37:12 #bot-config @Mr. Robot#0007: !serverinfo
+2018-04-25 10:37:12 #bot-config @Synapse#0692: 
+2018-04-25 10:37:12 #bot-config @Synapse#0692 edited message from 2018-04-25 10:37:12 () to read: 
+2018-04-26 05:33:54 #bot-config @Mr. Robot#0007: !serverinfo
+2018-04-26 05:33:56 #bot-config @Synapse#0692: 
+2018-04-26 05:33:56 #bot-config @Synapse#0692 edited message from 2018-04-26 05:33:56 () to read: 
+2018-04-26 05:35:21 #bot-config @Mr. Robot#0007: !up 4
+2018-04-26 05:35:22 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 05:33:54 (!serverinfo)
+2018-04-26 05:35:22 #bot-config @Synapse#0692 deleted message from 2018-04-26 05:33:56 ()
+2018-04-26 05:35:22 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 05:35:21 (!up 4)
+2018-04-26 05:41:06 #bot-config @Mr. Robot#0007: .shardstats
+2018-04-26 05:41:06 #bot-config @Synapse#0692: 
+2018-04-26 05:41:07 #bot-config @Synapse#0692 edited message from 2018-04-26 05:41:06 () to read: 
+2018-04-26 05:41:15 #bot-config @Mr. Robot#0007: !up 2
+2018-04-26 05:41:16 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 05:41:06 (.shardstats)
+2018-04-26 05:41:16 #bot-config @Synapse#0692 deleted message from 2018-04-26 05:41:06 ()
+2018-04-26 05:41:16 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 05:41:15 (!up 2)
+2018-04-26 05:41:18 #bot-config @Mr. Robot#0007: !uptime
+2018-04-26 05:41:19 #bot-config @Synapse#0692: Been up for: **1 days, 14 hours, 4 minutes, and 40 seconds** (since 2018-04-24 15:36:38 UTC)
+2018-04-26 09:55:14 #bot-config @Mr. Robot#0007: !reddit
+2018-04-26 09:55:15 #bot-config @Synapse#0692: ```\n!reddit\n\nMain Reddit command\n\nCommands:\n  user Commands for getting user info\n\nType !reddit command for more info on a command.\nYou can also type !reddit category for more info on a category.\n```
+2018-04-26 09:55:24 #bot-config @Mr. Robot#0007: !cs reddit
+2018-04-26 09:55:37 #bot-config @Mr. Robot#0007: !redportal search reddit
+2018-04-26 09:55:48 #bot-config @Mr. Robot#0007: !load redportal
+2018-04-26 09:55:48 #bot-config @Synapse#0692: The cog has been loaded.
+2018-04-26 09:56:07 #bot-config @Mr. Robot#0007: !redportal search reddit
+2018-04-26 09:56:15 #bot-config @Mr. Robot#0007: !redportal
+2018-04-26 09:56:18 #bot-config @Synapse#0692: ```\n![redportal|redp]\n\nInteract with cogs.red through your bot\n\nCommands:\n  search Searches for a cog\n\nType !redportal command for more info on a command.\nYou can also type !redportal category for more info on a category.\n```
+2018-04-26 09:56:41 #bot-config @Mr. Robot#0007: !redp search reddit
+2018-04-26 09:59:40 #bot-config @Synapse#0692: 
+2018-04-26 09:59:41 #bot-config @Synapse#0692 edited message from 2018-04-26 09:59:40 () to read: 
+2018-04-26 09:59:53 #bot-config @Synapse#0692: 
+2018-04-26 09:59:53 #bot-config @Synapse#0692 edited message from 2018-04-26 09:59:53 () to read: 
+2018-04-26 10:00:18 #bot-config @Synapse#0692 edited message from 2018-04-26 09:59:53 () to read: 
+2018-04-26 10:00:18 #bot-config @Synapse#0692 edited message from 2018-04-26 09:59:53 () to read: 
+2018-04-26 10:00:22 #bot-config @Synapse#0692: 
+2018-04-26 10:00:23 #bot-config @Synapse#0692 edited message from 2018-04-26 10:00:22 () to read: 
+2018-04-26 10:00:44 #bot-config @Synapse#0692: A repository of various cogs by palmtree5. Enjoy them!
+2018-04-26 10:00:44 #bot-config @Synapse#0692: Repo 'palmtree5-cogs' added.
+2018-04-26 10:00:44 #bot-config @Synapse#0692: Thanks for installing Reddit, a cog for getting things from Reddit's API.\n[p]help Reddit to see commands. No additional dependencies needed.\nFor support: <http://support.palmtree5.com>\n\nIf you like my work and want to support me, please consider becoming a Patron over at <https://patreon.com/palmtree5>
+2018-04-26 10:00:44 #bot-config @Synapse#0692 deleted message from 2018-04-26 10:00:22 ()
+2018-04-26 10:00:45 #bot-config @Synapse#0692: Installation completed. Load it now? (yes/no)
+2018-04-26 10:00:49 #bot-config @Mr. Robot#0007: Yes
+2018-04-26 10:00:49 #bot-config @Synapse#0692: The cog has been loaded.
+2018-04-26 10:00:51 #bot-config @Synapse#0692 deleted message from 2018-04-26 09:59:53 ()
+2018-04-26 10:00:56 #bot-config @Synapse#0692: 
+2018-04-26 10:00:56 #bot-config @Synapse#0692 edited message from 2018-04-26 10:00:56 () to read: 
+2018-04-26 10:01:02 #bot-config @Synapse#0692 deleted message from 2018-04-26 10:00:56 ()
+2018-04-26 10:01:11 #bot-config @Mr. Robot#0007: !reddit
+2018-04-26 10:01:11 #bot-config @Synapse#0692: ```\n!reddit\n\nMain Reddit command\n\nCommands:\n  user Commands for getting user info\n\nType !reddit command for more info on a command.\nYou can also type !reddit category for more info on a category.\n```
+2018-04-26 10:01:19 #bot-config @Mr. Robot#0007: !reddit user
+2018-04-26 10:01:21 #bot-config @Synapse#0692: ```\n!reddit user <username>\n\nCommands for getting user info\n\n```
+2018-04-26 10:01:34 #bot-config @Mr. Robot#0007: !reddit user KlausAD
+2018-04-26 10:01:36 #bot-config @Synapse#0692: `Error in command 'reddit user'. Check your console or logs for details.`
+2018-04-26 10:01:54 #bot-config @Mr. Robot#0007: !upbot 10
+2018-04-26 10:01:55 #bot-config @Synapse#0692 deleted message from 2018-04-26 10:00:44 (Repo 'palmtree5-cogs' added.)
+2018-04-26 10:01:55 #bot-config @Synapse#0692 deleted message from 2018-04-26 10:00:44 (Thanks for installing Reddit, a cog for getting things from Reddit's API.\n[p]help Reddit to see commands. No additional dependencies needed.\nFor support: <http://support.palmtree5.com>\n\nIf you like my work and want to support me, please consider becoming a Patron over at <https://patreon.com/palmtree5>)
+2018-04-26 10:01:55 #bot-config @Synapse#0692 deleted message from 2018-04-26 10:00:45 (Installation completed. Load it now? (yes/no))
+2018-04-26 10:01:55 #bot-config @Synapse#0692 deleted message from 2018-04-26 10:00:49 (The cog has been loaded.)
+2018-04-26 10:01:55 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 10:01:11 (!reddit)
+2018-04-26 10:01:55 #bot-config @Synapse#0692 deleted message from 2018-04-26 10:01:11 (```\n!reddit\n\nMain Reddit command\n\nCommands:\n  user Commands for getting user info\n\nType !reddit command for more info on a command.\nYou can also type !reddit category for more info on a category.\n```)
+2018-04-26 10:01:55 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 10:01:19 (!reddit user)
+2018-04-26 10:01:55 #bot-config @Synapse#0692 deleted message from 2018-04-26 10:01:21 (```\n!reddit user <username>\n\nCommands for getting user info\n\n```)
+2018-04-26 10:01:55 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 10:01:34 (!reddit user KlausAD)
+2018-04-26 10:01:55 #bot-config @Synapse#0692 deleted message from 2018-04-26 10:01:36 (`Error in command 'reddit user'. Check your console or logs for details.`)
+2018-04-26 10:01:55 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 10:01:54 (!upbot 10)
+2018-04-26 10:04:35 #bot-config @Mr. Robot#0007: !up 7
+2018-04-26 10:04:39 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 09:56:07 (!redportal search reddit)
+2018-04-26 10:04:39 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 09:56:15 (!redportal)
+2018-04-26 10:04:39 #bot-config @Synapse#0692 deleted message from 2018-04-26 09:56:18 (```\n![redportal|redp]\n\nInteract with cogs.red through your bot\n\nCommands:\n  search Searches for a cog\n\nType !redportal command for more info on a command.\nYou can also type !redportal category for more info on a category.\n```)
+2018-04-26 10:04:39 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 09:56:41 (!redp search reddit)
+2018-04-26 10:04:39 #bot-config @Synapse#0692 deleted message from 2018-04-26 09:59:40 ()
+2018-04-26 10:04:39 #bot-config @Synapse#0692 deleted message from 2018-04-26 10:00:44 (A repository of various cogs by palmtree5. Enjoy them!)
+2018-04-26 10:04:39 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 10:00:49 (Yes)
+2018-04-26 10:04:39 #bot-config @Mr. Robot#0007 deleted message from 2018-04-26 10:04:35 (!up 7)

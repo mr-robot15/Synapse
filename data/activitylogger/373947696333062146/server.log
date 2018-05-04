@@ -1,0 +1,50 @@
+2018-04-24 00:09:25 this bot joined the server
+2018-04-24 00:09:32 Member role remove: The 'Administrative Manager' role was removed from @john_doerealman3#1932
+2018-04-24 00:09:35 Member role add: 'Moderator' role was added to @john_doerealman3#1932
+2018-04-24 00:11:38 Channel overwrites: test (409645983899844618): member Ghostplay R2 (435829986772123658) added with values 0, 0
+2018-04-24 00:11:45 Channel overwrites: test (409645983899844618): member Ghostplay R2 (435829986772123658) updated to values 3072, 0 (was 0, 0)
+2018-04-24 00:16:41 Member role add: 'Administrative Manager' role was added to @john_doerealman3#1932
+2018-04-24 00:16:55 Member join: @Ghostplay#4203 (id 422185708770557973)
+2018-04-24 00:16:55 Member role add: 'Ghostplay' role was added to @Ghostplay#4203
+2018-04-24 00:16:55 Role created: 'Ghostplay' (id 438131187614220310)
+2018-04-24 00:16:55 Member role add: 'Ghostplay' role was added to @Ghostplay#4203
+2018-04-24 00:16:59 Member join: @Ghostplay R3#0587 (id 435846920632664064)
+2018-04-24 00:16:59 Member role add: 'Ghostplay R3' role was added to @Ghostplay R3#0587
+2018-04-24 00:16:59 Role created: 'Ghostplay R3' (id 438131206173884445)
+2018-04-24 00:16:59 Member role add: 'Ghostplay R3' role was added to @Ghostplay R3#0587
+2018-04-24 00:17:05 Member role remove: The 'Administrative Manager' role was removed from @john_doerealman3#1932
+2018-04-24 00:17:24 Channel overwrites: test (409645983899844618): role Ghostplay (438131187614220310) added with values 0, 0
+2018-04-24 00:17:33 Channel overwrites: test (409645983899844618): role Ghostplay (438131187614220310) removed (was 0, 0)
+2018-04-24 00:17:38 Channel overwrites: test (409645983899844618): member Ghostplay R3 (435846920632664064) added with values 0, 0
+2018-04-24 00:17:41 Channel overwrites: test (409645983899844618): member Ghostplay (422185708770557973) added with values 0, 0
+2018-04-24 00:17:52 Channel overwrites: test (409645983899844618): member Ghostplay (422185708770557973) updated to values 3072, 0 (was 0, 0)
+2018-04-24 00:17:52 Channel overwrites: test (409645983899844618): member Ghostplay R3 (435846920632664064) updated to values 3072, 0 (was 0, 0)
+2018-04-24 05:53:14 Channel overwrites: test (409645983899844618): member Ghostplay R2 (435829986772123658) removed (was 3072, 0)
+2018-04-24 05:53:15 Role deleted: 'Ghostplay R2' (id 438128998871072768)
+2018-04-24 05:53:15 Member leave: @Ghostplay R2#1298 (id 435829986772123658)
+2018-04-24 05:53:19 Channel overwrites: test (409645983899844618): member Ghostplay R3 (435846920632664064) removed (was 3072, 0)
+2018-04-24 05:53:19 Role deleted: 'Ghostplay R3' (id 438131206173884445)
+2018-04-24 05:53:19 Member leave: @Ghostplay R3#0587 (id 435846920632664064)
+2018-04-24 05:53:25 Channel overwrites: test (409645983899844618): member Ghostplay (422185708770557973) removed (was 3072, 0)
+2018-04-24 05:53:25 Role deleted: 'Ghostplay' (id 438131187614220310)
+2018-04-24 05:53:25 Member leave: @Ghostplay#4203 (id 422185708770557973)
+2018-04-24 09:17:00 Member username: '@JustGhostly/Nathan#8143' (id 337933078871932929) changed username from 'JustGhostly/Nathan' to 'JustGhostly/GhostlyFX (Nathan)'
+2018-04-24 14:19:16 Member username: '@LoopGamerYT#6666' (id 399649646110310400) changed username from 'LoopGamerYT' to 'TooQuick4you2'
+2018-04-24 14:55:59 Member username: '@done with life#1222' (id 371694680112496640) changed username from 'done with life' to 'hEll0'
+2018-04-24 14:57:39 Member username: '@lana#9605' (id 275902372637573120) changed username from 'lana' to 'sad 💔'
+2018-04-24 15:41:52 Member role add: 'Role Manager' role was added to @TooQuick4you2#6666
+2018-04-24 15:41:53 Member role remove: The 'Role Manager' role was removed from @TooQuick4you2#6666
+2018-04-24 15:41:55 Member role remove: The 'Staff' role was removed from @TooQuick4you2#6666
+2018-04-24 15:41:57 Member role remove: The 'Helper' role was removed from @TooQuick4you2#6666
+2018-04-24 15:42:02 Member role add: 'Suspended (1 day)' role was added to @TooQuick4you2#6666
+2018-04-24 15:42:05 Member role remove: The 'Member' role was removed from @TooQuick4you2#6666
+2018-04-24 15:44:19 Member role add: 'Suspended (10 days)' role was added to @TooQuick4you2#6666
+2018-04-24 15:44:20 Member role remove: The 'Suspended (1 day)' role was removed from @TooQuick4you2#6666
+2018-04-24 15:44:35 Member ban: @TooQuick4you2#6666 (id 399649646110310400)
+2018-04-24 15:44:35 Member leave: @TooQuick4you2#6666 (id 399649646110310400)
+2018-04-24 17:10:48 Member join: @PandasAlwaysRule2#6713 (id 430308155851800576)
+2018-04-24 17:10:48 Member role add: 'Pending Role' role was added to @PandasAlwaysRule2#6713
+2018-04-24 18:48:04 Member role add: 'Member' role was added to @PandasAlwaysRule2#6713
+2018-04-24 18:48:24 Member role remove: The 'Pending Role' role was removed from @PandasAlwaysRule2#6713
+2018-04-24 19:05:30 Member leave: @Synapse#0692 (id 435538622293344266)
+2018-04-24 19:05:30 this bot left the server
