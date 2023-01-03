@@ -1,6 +1,4 @@
-![intro](http://i.imgur.com/RgGlNpQ.jpg)
-
-# Red - A fully customizable Discord bot
+# Synapse - A fully customizable Discord bot
 #### *Music, admin, trivia, fun commands and much more!*
 [<img src="https://img.shields.io/badge/Support-Red!-orange.svg">](https://www.patreon.com/Red_Devs)  [<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield">](https://discord.gg/red) [![Build Status](https://api.travis-ci.org/Cog-Creators/Red-DiscordBot.svg?branch=develop)](https://travis-ci.org/Cog-Creators/Red-DiscordBot) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -26,29 +24,3 @@ Additionally, other modules (cogs) can be easily found and added from our growin
 * Leveler (increase levels for server participation)
 * Sound effects
 * And much, much more!
-
-Feel free to take a [peek](https://cogs.red/)!
-
-# Installation
-
-The installation process is straightforward; all major platforms are supported: 
-* [Windows](https://twentysix26.github.io/Red-Docs/red_install_windows/)
-* [Linux](https://twentysix26.github.io/Red-Docs/red_install_linux/)
-* [macOS](https://twentysix26.github.io/Red-Docs/red_install_mac/)
-
-Read the [getting started](https://twentysix26.github.io/Red-Docs/red_getting_started/) guide to quickly learn how to use Red.  
-
-If you have any other questions, feel free to explore the [Docs](https://twentysix26.github.io/Red-Docs/) for guidance.
-
-If [*after reading the guides*](https://twentysix26.github.io/Red-Docs/) you are still experiencing issues that are not listed on [this page](https://twentysix26.github.io/Red-Docs/red_guide_troubleshooting/) or in the [FAQs](https://twentysix26.github.io/Red-Docs/red_faq/), feel free to join the [official server](https://discord.gg/red) for help.  
-Have fun!
-
-# Join the community!
-
-Red is in continuous development, and it’s supported by an active community which produces new content (cogs/plugins) for everyone to enjoy. New features are constantly added. If you can’t [find](https://cogs.red/) what you’re looking for, we are open to suggestions! Stay tuned by [joining the official server](https://discord.gg/red)!
-
-# License
-
-Released under the [GNU GPL v3](LICENSE).
-
-*Red is named after the main character of "Transistor", a videogame by [Supergiant Games](https://www.supergiantgames.com/games/transistor/)*
